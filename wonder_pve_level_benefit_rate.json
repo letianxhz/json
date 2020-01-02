@@ -1,0 +1,64 @@
+{
+  "header" : {
+    "id" : "id",
+    "clear_level" : "clear_level@wonder_pve_main.id",
+    "player_num" : "player_num",
+    "benefit_rate" : "benefit_rate"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "clear_level" : "通关关卡id",
+    "player_num" : "通关人数",
+    "benefit_rate" : "属性系数"
+  }, {
+    "id" : "wonder_pve_monster_benefit_rate_1",
+    "clear_level" : "wonder_monster_group_1_1",
+    "player_num" : "100",
+    "benefit_rate" : "1.07"
+  }, {
+    "id" : "wonder_pve_monster_benefit_rate_2",
+    "clear_level" : "wonder_monster_group_2_1",
+    "player_num" : "80",
+    "benefit_rate" : "1.16"
+  }, {
+    "id" : "wonder_pve_monster_benefit_rate_3",
+    "clear_level" : "wonder_monster_group_2_6",
+    "player_num" : "50",
+    "benefit_rate" : "1.27"
+  }, {
+    "id" : "wonder_pve_monster_benefit_rate_4",
+    "clear_level" : "wonder_monster_group_3_3",
+    "player_num" : "20",
+    "benefit_rate" : "1.38"
+  }, {
+    "id" : "wonder_pve_monster_benefit_rate_5",
+    "clear_level" : "wonder_monster_group_3_8",
+    "player_num" : "10",
+    "benefit_rate" : "1.5"
+  }, {
+    "id" : "wonder_pve_monster_benefit_rate_6",
+    "clear_level" : "wonder_monster_group_4_1",
+    "player_num" : "5",
+    "benefit_rate" : "1.725"
+  }, {
+    "id" : "wonder_pve_monster_benefit_rate_7",
+    "clear_level" : "wonder_monster_group_4_6",
+    "player_num" : "5",
+    "benefit_rate" : "1.875"
+  }, {
+    "id" : "wonder_pve_monster_benefit_rate_8",
+    "clear_level" : "wonder_monster_group_4_7",
+    "player_num" : "5",
+    "benefit_rate" : "2.535"
+  }, {
+    "id" : "wonder_pve_monster_benefit_rate_9",
+    "clear_level" : "wonder_monster_group_4_10",
+    "player_num" : "3",
+    "benefit_rate" : "3.525"
+  }, {
+    "id" : "wonder_pve_monster_benefit_rate_10",
+    "clear_level" : "wonder_monster_group_4_14",
+    "player_num" : "2",
+    "benefit_rate" : "3.9"
+  } ]
+}

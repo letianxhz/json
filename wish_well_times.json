@@ -1,0 +1,132 @@
+{
+  "header" : {
+    "id" : "id",
+    "price" : "price",
+    "boost" : "boost"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "price" : "价格",
+    "boost" : "增益"
+  }, {
+    "id" : "wish_well_times_1",
+    "price" : "2",
+    "boost" : "0.02"
+  }, {
+    "id" : "wish_well_times_2",
+    "price" : "4",
+    "boost" : "0.04"
+  }, {
+    "id" : "wish_well_times_3",
+    "price" : "6",
+    "boost" : "0.06"
+  }, {
+    "id" : "wish_well_times_4",
+    "price" : "8",
+    "boost" : "0.08"
+  }, {
+    "id" : "wish_well_times_5",
+    "price" : "10",
+    "boost" : "0.1"
+  }, {
+    "id" : "wish_well_times_6",
+    "price" : "12",
+    "boost" : "0.12"
+  }, {
+    "id" : "wish_well_times_7",
+    "price" : "14",
+    "boost" : "0.14"
+  }, {
+    "id" : "wish_well_times_8",
+    "price" : "16",
+    "boost" : "0.16"
+  }, {
+    "id" : "wish_well_times_9",
+    "price" : "18",
+    "boost" : "0.18"
+  }, {
+    "id" : "wish_well_times_10",
+    "price" : "20",
+    "boost" : "0.2"
+  }, {
+    "id" : "wish_well_times_11",
+    "price" : "22",
+    "boost" : "0.22"
+  }, {
+    "id" : "wish_well_times_12",
+    "price" : "24",
+    "boost" : "0.24"
+  }, {
+    "id" : "wish_well_times_13",
+    "price" : "26",
+    "boost" : "0.26"
+  }, {
+    "id" : "wish_well_times_14",
+    "price" : "28",
+    "boost" : "0.28"
+  }, {
+    "id" : "wish_well_times_15",
+    "price" : "30",
+    "boost" : "0.3"
+  }, {
+    "id" : "wish_well_times_16",
+    "price" : "32",
+    "boost" : "0.32"
+  }, {
+    "id" : "wish_well_times_17",
+    "price" : "34",
+    "boost" : "0.34"
+  }, {
+    "id" : "wish_well_times_18",
+    "price" : "36",
+    "boost" : "0.36"
+  }, {
+    "id" : "wish_well_times_19",
+    "price" : "38",
+    "boost" : "0.38"
+  }, {
+    "id" : "wish_well_times_20",
+    "price" : "40",
+    "boost" : "0.4"
+  }, {
+    "id" : "wish_well_times_21",
+    "price" : "42",
+    "boost" : "0.42"
+  }, {
+    "id" : "wish_well_times_22",
+    "price" : "44",
+    "boost" : "0.44"
+  }, {
+    "id" : "wish_well_times_23",
+    "price" : "46",
+    "boost" : "0.46"
+  }, {
+    "id" : "wish_well_times_24",
+    "price" : "48",
+    "boost" : "0.48"
+  }, {
+    "id" : "wish_well_times_25",
+    "price" : "50",
+    "boost" : "0.5"
+  }, {
+    "id" : "wish_well_times_26",
+    "price" : "52",
+    "boost" : "0.52"
+  }, {
+    "id" : "wish_well_times_27",
+    "price" : "54",
+    "boost" : "0.54"
+  }, {
+    "id" : "wish_well_times_28",
+    "price" : "56",
+    "boost" : "0.56"
+  }, {
+    "id" : "wish_well_times_29",
+    "price" : "58",
+    "boost" : "0.58"
+  }, {
+    "id" : "wish_well_times_30",
+    "price" : "60",
+    "boost" : "0.6"
+  } ]
+}
