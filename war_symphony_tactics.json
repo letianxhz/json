@@ -52,7 +52,8 @@
     "description1" : "enemy_damage_decrease_all",
     "description2" : "enemy_damage_decrease_all_1",
     "description3" : "enemy_damage_decrease_all_2",
-    "description4" : "march_config"
+    "description4" : "march_config",
+    "description5" : ""
   }, {
     "id" : "2",
     "unlock_misson_pass" : "12",
@@ -69,7 +70,8 @@
     "description1" : "self_damage_increase_all",
     "description2" : "enemy_be_damaged_increase_all_1",
     "description3" : "enemy_be_damaged_increase_all_2",
-    "description4" : "march_config"
+    "description4" : "march_config",
+    "description5" : ""
   }, {
     "id" : "3",
     "unlock_misson_pass" : "16",
@@ -86,7 +88,8 @@
     "description1" : "enemy_be_damaged_increase_infantry",
     "description2" : "enemy_be_damaged_increase_infantry_1",
     "description3" : "enemy_be_damaged_increase_infantry_2",
-    "description4" : "march_config"
+    "description4" : "march_config",
+    "description5" : ""
   }, {
     "id" : "4",
     "unlock_misson_pass" : "20",
@@ -103,7 +106,8 @@
     "description1" : "enemy_damage_decrease_cavalry",
     "description2" : "enemy_damage_decrease_cavalry_1",
     "description3" : "enemy_damage_decrease_cavalry_2",
-    "description4" : "march_config"
+    "description4" : "march_config",
+    "description5" : ""
   }, {
     "id" : "5",
     "unlock_misson_pass" : "24",
@@ -120,7 +124,8 @@
     "description1" : "enemy_damage_decrease_ranged",
     "description2" : "enemy_damage_decrease_ranged_1",
     "description3" : "enemy_damage_decrease_ranged_2",
-    "description4" : "march_config"
+    "description4" : "march_config",
+    "description5" : ""
   }, {
     "id" : "6",
     "unlock_misson_pass" : "28",
@@ -129,13 +134,16 @@
     "effect_param" : "0.15",
     "operative" : "march",
     "operative_param_1" : "nearby",
+    "operative_param_2" : "",
+    "operative_param_3" : "",
     "connect_effect" : "head_up",
     "icon" : "march",
     "special_effect" : "fx_warsence_heji",
     "description1" : "march",
     "description2" : "march_1",
     "description3" : "march_2",
-    "description4" : "march_config"
+    "description4" : "march_config",
+    "description5" : ""
   }, {
     "id" : "7",
     "unlock_misson_pass" : "32",
@@ -152,7 +160,8 @@
     "description1" : "self_be_damaged_decrease_all",
     "description2" : "self_be_damaged_decrease_all_1",
     "description3" : "self_be_damaged_decrease_all_2",
-    "description4" : "march_config"
+    "description4" : "march_config",
+    "description5" : ""
   }, {
     "id" : "8",
     "unlock_misson_pass" : "36",
@@ -169,7 +178,8 @@
     "description1" : "enemy_be_damaged_increase_all",
     "description2" : "self_damage_increase_all_1",
     "description3" : "self_damage_increase_all_2",
-    "description4" : "march_config"
+    "description4" : "march_config",
+    "description5" : ""
   }, {
     "id" : "9",
     "unlock_misson_pass" : "40",
@@ -186,7 +196,8 @@
     "description1" : "self_be_damaged_decrease_infantry",
     "description2" : "self_be_damaged_decrease_infantry_1",
     "description3" : "self_be_damaged_decrease_infantry_2",
-    "description4" : "march_config"
+    "description4" : "march_config",
+    "description5" : ""
   }, {
     "id" : "10",
     "unlock_misson_pass" : "45",
@@ -203,7 +214,8 @@
     "description1" : "self_damage_increase_cavalry",
     "description2" : "self_damage_increase_cavalry_1",
     "description3" : "self_damage_increase_cavalry_2",
-    "description4" : "march_config"
+    "description4" : "march_config",
+    "description5" : ""
   }, {
     "id" : "11",
     "unlock_misson_pass" : "50",
@@ -220,6 +232,7 @@
     "description1" : "self_damage_increase_ranged",
     "description2" : "self_damage_increase_ranged_1",
     "description3" : "self_damage_increase_ranged_2",
-    "description4" : "march_config"
+    "description4" : "march_config",
+    "description5" : ""
   } ]
 }
