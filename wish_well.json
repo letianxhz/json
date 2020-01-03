@@ -47,7 +47,7 @@
     "free_gem" : "5",
     "critical_2" : "0.2",
     "critical_5" : "0.1",
-    "critical_10" : "0.05"
+    "critical_10" : "1.05"
   }, {
     "id" : "wish_well_3",
     "level" : "3",
@@ -59,7 +59,7 @@
     "free_gem" : "5",
     "critical_2" : "0.2",
     "critical_5" : "0.1",
-    "critical_10" : "0.05"
+    "critical_10" : "2.05"
   }, {
     "id" : "wish_well_4",
     "level" : "4",
@@ -71,7 +71,7 @@
     "free_gem" : "5",
     "critical_2" : "0.2",
     "critical_5" : "0.1",
-    "critical_10" : "0.05"
+    "critical_10" : "3.05"
   }, {
     "id" : "wish_well_5",
     "level" : "5",
@@ -83,7 +83,7 @@
     "free_gem" : "5",
     "critical_2" : "0.2",
     "critical_5" : "0.1",
-    "critical_10" : "0.05"
+    "critical_10" : "4.05"
   }, {
     "id" : "wish_well_6",
     "level" : "6",
@@ -95,7 +95,7 @@
     "free_gem" : "6",
     "critical_2" : "0.2",
     "critical_5" : "0.1",
-    "critical_10" : "0.05"
+    "critical_10" : "5.05"
   }, {
     "id" : "wish_well_7",
     "level" : "7",
@@ -107,7 +107,7 @@
     "free_gem" : "6",
     "critical_2" : "0.2",
     "critical_5" : "0.1",
-    "critical_10" : "0.05"
+    "critical_10" : "6.05"
   }, {
     "id" : "wish_well_8",
     "level" : "8",
@@ -119,7 +119,7 @@
     "free_gem" : "6",
     "critical_2" : "0.2",
     "critical_5" : "0.1",
-    "critical_10" : "0.05"
+    "critical_10" : "7.05"
   }, {
     "id" : "wish_well_9",
     "level" : "9",
@@ -131,7 +131,7 @@
     "free_gem" : "6",
     "critical_2" : "0.2",
     "critical_5" : "0.1",
-    "critical_10" : "0.05"
+    "critical_10" : "8.05"
   }, {
     "id" : "wish_well_10",
     "level" : "10",
@@ -143,7 +143,7 @@
     "free_gem" : "6",
     "critical_2" : "0.2",
     "critical_5" : "0.1",
-    "critical_10" : "0.05"
+    "critical_10" : "9.05"
   }, {
     "id" : "wish_well_11",
     "level" : "11",
@@ -155,7 +155,7 @@
     "free_gem" : "7",
     "critical_2" : "0.2",
     "critical_5" : "0.1",
-    "critical_10" : "0.05"
+    "critical_10" : "10.05"
   }, {
     "id" : "wish_well_12",
     "level" : "12",
@@ -167,7 +167,7 @@
     "free_gem" : "7",
     "critical_2" : "0.2",
     "critical_5" : "0.1",
-    "critical_10" : "0.05"
+    "critical_10" : "11.05"
   }, {
     "id" : "wish_well_13",
     "level" : "13",
@@ -179,7 +179,7 @@
     "free_gem" : "7",
     "critical_2" : "0.2",
     "critical_5" : "0.1",
-    "critical_10" : "0.05"
+    "critical_10" : "12.05"
   }, {
     "id" : "wish_well_14",
     "level" : "14",
@@ -191,7 +191,7 @@
     "free_gem" : "7",
     "critical_2" : "0.2",
     "critical_5" : "0.1",
-    "critical_10" : "0.05"
+    "critical_10" : "13.05"
   }, {
     "id" : "wish_well_15",
     "level" : "15",
@@ -203,7 +203,7 @@
     "free_gem" : "7",
     "critical_2" : "0.2",
     "critical_5" : "0.1",
-    "critical_10" : "0.05"
+    "critical_10" : "14.05"
   }, {
     "id" : "wish_well_16",
     "level" : "16",
@@ -215,7 +215,7 @@
     "free_gem" : "8",
     "critical_2" : "0.2",
     "critical_5" : "0.1",
-    "critical_10" : "0.05"
+    "critical_10" : "15.05"
   }, {
     "id" : "wish_well_17",
     "level" : "17",
@@ -227,7 +227,7 @@
     "free_gem" : "8",
     "critical_2" : "0.2",
     "critical_5" : "0.1",
-    "critical_10" : "0.05"
+    "critical_10" : "16.05"
   }, {
     "id" : "wish_well_18",
     "level" : "18",
@@ -239,7 +239,7 @@
     "free_gem" : "8",
     "critical_2" : "0.2",
     "critical_5" : "0.1",
-    "critical_10" : "0.05"
+    "critical_10" : "17.05"
   }, {
     "id" : "wish_well_19",
     "level" : "19",
@@ -251,7 +251,7 @@
     "free_gem" : "8",
     "critical_2" : "0.2",
     "critical_5" : "0.1",
-    "critical_10" : "0.05"
+    "critical_10" : "18.05"
   }, {
     "id" : "wish_well_20",
     "level" : "20",
@@ -263,7 +263,7 @@
     "free_gem" : "8",
     "critical_2" : "0.2",
     "critical_5" : "0.1",
-    "critical_10" : "0.05"
+    "critical_10" : "19.05"
   }, {
     "id" : "wish_well_21",
     "level" : "21",
@@ -275,7 +275,7 @@
     "free_gem" : "9",
     "critical_2" : "0.2",
     "critical_5" : "0.1",
-    "critical_10" : "0.05"
+    "critical_10" : "20.05"
   }, {
     "id" : "wish_well_22",
     "level" : "22",
@@ -287,7 +287,7 @@
     "free_gem" : "9",
     "critical_2" : "0.2",
     "critical_5" : "0.1",
-    "critical_10" : "0.05"
+    "critical_10" : "21.05"
   }, {
     "id" : "wish_well_23",
     "level" : "23",
@@ -299,7 +299,7 @@
     "free_gem" : "9",
     "critical_2" : "0.2",
     "critical_5" : "0.1",
-    "critical_10" : "0.05"
+    "critical_10" : "22.05"
   }, {
     "id" : "wish_well_24",
     "level" : "24",
@@ -311,7 +311,7 @@
     "free_gem" : "9",
     "critical_2" : "0.2",
     "critical_5" : "0.1",
-    "critical_10" : "0.05"
+    "critical_10" : "23.05"
   }, {
     "id" : "wish_well_25",
     "level" : "25",
@@ -323,7 +323,7 @@
     "free_gem" : "9",
     "critical_2" : "0.2",
     "critical_5" : "0.1",
-    "critical_10" : "0.05"
+    "critical_10" : "24.05"
   }, {
     "id" : "wish_well_26",
     "level" : "26",
@@ -335,7 +335,7 @@
     "free_gem" : "10",
     "critical_2" : "0.2",
     "critical_5" : "0.1",
-    "critical_10" : "0.05"
+    "critical_10" : "25.05"
   }, {
     "id" : "wish_well_27",
     "level" : "27",
@@ -347,7 +347,7 @@
     "free_gem" : "10",
     "critical_2" : "0.2",
     "critical_5" : "0.1",
-    "critical_10" : "0.05"
+    "critical_10" : "26.05"
   }, {
     "id" : "wish_well_28",
     "level" : "28",
@@ -359,7 +359,7 @@
     "free_gem" : "10",
     "critical_2" : "0.2",
     "critical_5" : "0.1",
-    "critical_10" : "0.05"
+    "critical_10" : "27.05"
   }, {
     "id" : "wish_well_29",
     "level" : "29",
@@ -371,7 +371,7 @@
     "free_gem" : "10",
     "critical_2" : "0.2",
     "critical_5" : "0.1",
-    "critical_10" : "0.05"
+    "critical_10" : "28.05"
   }, {
     "id" : "wish_well_30",
     "level" : "30",
@@ -383,7 +383,7 @@
     "free_gem" : "10",
     "critical_2" : "0.2",
     "critical_5" : "0.1",
-    "critical_10" : "0.05"
+    "critical_10" : "29.05"
   }, {
     "id" : "wish_well_31",
     "level" : "31",
@@ -395,7 +395,7 @@
     "free_gem" : "11",
     "critical_2" : "0.2",
     "critical_5" : "0.1",
-    "critical_10" : "0.05"
+    "critical_10" : "30.05"
   }, {
     "id" : "wish_well_32",
     "level" : "32",
@@ -407,7 +407,7 @@
     "free_gem" : "11",
     "critical_2" : "0.2",
     "critical_5" : "0.1",
-    "critical_10" : "0.05"
+    "critical_10" : "31.05"
   }, {
     "id" : "wish_well_33",
     "level" : "33",
@@ -419,7 +419,7 @@
     "free_gem" : "11",
     "critical_2" : "0.2",
     "critical_5" : "0.1",
-    "critical_10" : "0.05"
+    "critical_10" : "32.05"
   }, {
     "id" : "wish_well_34",
     "level" : "34",
@@ -431,7 +431,7 @@
     "free_gem" : "11",
     "critical_2" : "0.2",
     "critical_5" : "0.1",
-    "critical_10" : "0.05"
+    "critical_10" : "33.05"
   }, {
     "id" : "wish_well_35",
     "level" : "35",
@@ -443,7 +443,7 @@
     "free_gem" : "11",
     "critical_2" : "0.2",
     "critical_5" : "0.1",
-    "critical_10" : "0.05"
+    "critical_10" : "34.05"
   }, {
     "id" : "wish_well_36",
     "level" : "36",
@@ -455,7 +455,7 @@
     "free_gem" : "11",
     "critical_2" : "0.2",
     "critical_5" : "0.1",
-    "critical_10" : "0.05"
+    "critical_10" : "35.05"
   }, {
     "id" : "wish_well_37",
     "level" : "37",
@@ -467,7 +467,7 @@
     "free_gem" : "11",
     "critical_2" : "0.2",
     "critical_5" : "0.1",
-    "critical_10" : "0.05"
+    "critical_10" : "36.05"
   }, {
     "id" : "wish_well_38",
     "level" : "38",
@@ -479,7 +479,7 @@
     "free_gem" : "11",
     "critical_2" : "0.2",
     "critical_5" : "0.1",
-    "critical_10" : "0.05"
+    "critical_10" : "37.05"
   }, {
     "id" : "wish_well_39",
     "level" : "39",
@@ -491,7 +491,7 @@
     "free_gem" : "11",
     "critical_2" : "0.2",
     "critical_5" : "0.1",
-    "critical_10" : "0.05"
+    "critical_10" : "38.05"
   }, {
     "id" : "wish_well_40",
     "level" : "40",
@@ -503,6 +503,6 @@
     "free_gem" : "11",
     "critical_2" : "0.2",
     "critical_5" : "0.1",
-    "critical_10" : "0.05"
+    "critical_10" : "39.05"
   } ]
 }
