@@ -22,126 +22,144 @@
     "priority" : "-1",
     "name" : "announcement_1",
     "prefab" : "OperationCommonAnnouncementView",
-    "is_display" : "1"
+    "is_display" : "1",
+    "description" : ""
   }, {
     "id" : "2",
     "type" : "iap_recommend",
     "priority" : "301",
     "name" : "iap_recommend_1",
     "prefab" : "OperationCommonIapRecommend",
-    "is_display" : "1"
+    "is_display" : "1",
+    "description" : ""
   }, {
     "id" : "3",
     "type" : "daily_rebate",
     "priority" : "102",
     "name" : "event_daily_rebate_title",
     "prefab" : "RechargeRebateNewView",
-    "is_display" : "1"
+    "is_display" : "1",
+    "description" : ""
   }, {
     "id" : "4",
     "type" : "lord_limit_title",
     "priority" : "303",
     "name" : "lord_limit_title_1",
     "prefab" : "OperationActivitiesTitlePackageView",
-    "is_display" : "1"
+    "is_display" : "1",
+    "description" : ""
   }, {
     "id" : "5",
     "type" : "growth_fund",
     "priority" : "305",
     "name" : "event_growth_fund_title",
     "prefab" : "GrowthFundView",
-    "is_display" : "1"
+    "is_display" : "1",
+    "description" : ""
   }, {
     "id" : "6",
     "type" : "month_type_card",
     "priority" : "304",
     "name" : "daily_delivery_1",
     "prefab" : "MonthCardView",
-    "is_display" : "1"
+    "is_display" : "1",
+    "description" : ""
   }, {
     "id" : "7",
     "type" : "charge_rebate",
     "priority" : "101",
     "name" : "event_topup_rewards_title",
     "prefab" : "RebateByRechargeView",
-    "is_display" : "1"
+    "is_display" : "1",
+    "description" : ""
   }, {
     "id" : "8",
     "type" : "iap_daily_recharge",
     "priority" : "302",
     "name" : "iap_daily_gift_pack_name",
     "prefab" : "IAPDailyRechargeView",
-    "is_display" : "1"
+    "is_display" : "1",
+    "description" : ""
   }, {
     "id" : "9",
     "type" : "charge_rebate_chest",
     "priority" : "104",
     "name" : "charge_rebate_chest_1",
     "prefab" : "AccumulatedChestView",
-    "is_display" : "1"
+    "is_display" : "1",
+    "description" : ""
   }, {
     "id" : "10",
     "type" : "combine_exchange",
     "priority" : "201",
     "name" : "event_destroy_enemies_title",
     "prefab" : "MemorialDayView",
-    "is_display" : "1"
+    "is_display" : "1",
+    "description" : ""
   }, {
     "id" : "11",
     "type" : "tesla_tower",
     "priority" : "202",
     "name" : "tesla_tower_1",
     "prefab" : "OperationActivitiesTeslaTowerView",
-    "is_display" : "1"
+    "is_display" : "1",
+    "description" : ""
   }, {
     "id" : "12",
     "type" : "commander_expedition",
     "priority" : "203",
     "name" : "event_merlin_trials_title",
     "prefab" : "CommanderExpeditionView",
-    "is_display" : "1"
+    "is_display" : "1",
+    "description" : ""
   }, {
     "id" : "13",
     "type" : "roguelike_rank_and_store",
     "priority" : "204",
     "name" : "event_explore_title",
     "prefab" : "OperationActivitiesRogueLikeView",
-    "is_display" : "1"
+    "is_display" : "1",
+    "description" : ""
   }, {
     "id" : "14",
     "type" : "activity_alliance_limit",
     "priority" : "205",
     "name" : "event_timed_alliance_title",
     "prefab" : "AllianceTimelimitActivityView",
-    "is_display" : "1"
+    "is_display" : "1",
+    "description" : ""
   }, {
     "id" : "15",
     "type" : "activity_alliance_limit",
     "priority" : "206",
     "name" : "event_timed_alliance_title",
     "prefab" : "AllianceTimelimitActivityView",
-    "is_display" : "1"
+    "is_display" : "1",
+    "description" : ""
   }, {
     "id" : "16",
     "type" : "activity_alliance_limit",
     "priority" : "207",
     "name" : "event_timed_alliance_title",
     "prefab" : "AllianceTimelimitActivityView",
-    "is_display" : "1"
+    "is_display" : "1",
+    "description" : ""
   }, {
     "id" : "17",
     "type" : "piggy_bank",
     "priority" : "401",
     "name" : "war_bonds_name",
     "prefab" : "PiggyBankView",
-    "is_display" : "1"
+    "is_display" : "1",
+    "description" : ""
   }, {
     "id" : "18",
     "type" : "easter_event",
     "priority" : "106",
     "name" : "event_happy_halloween_title",
     "prefab" : "OperationEasterEventView",
-    "is_display" : "1"
+    "is_display" : "1",
+    "description" : ""
   }, {
     "id" : "19",
     "type" : "single_recharge",
@@ -156,20 +174,23 @@
     "priority" : "107",
     "name" : "event_kill_monsters_title",
     "prefab" : "WorldBossPhaseOneView",
-    "is_display" : "1"
+    "is_display" : "1",
+    "description" : ""
   }, {
     "id" : "21",
     "type" : "pve_boss",
     "priority" : "108",
     "name" : "event_kill_boss_title",
     "prefab" : "WorldBossPhaseTwoView",
-    "is_display" : "1"
+    "is_display" : "1",
+    "description" : ""
   }, {
     "id" : "22",
     "type" : "crazy_supermarket",
     "priority" : "11115",
     "name" : "event_crazy_market_title",
     "prefab" : "CrazySupermarketView",
-    "is_display" : "1"
+    "is_display" : "1",
+    "description" : ""
   } ]
 }

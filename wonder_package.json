@@ -72,6 +72,14 @@
     "reward_value_6" : "5",
     "reward_id_7" : "item_gold_1000",
     "reward_value_7" : "10",
+    "reward_id_8" : "",
+    "reward_value_8" : "",
+    "reward_id_9" : "",
+    "reward_value_9" : "",
+    "reward_id_10" : "",
+    "reward_value_10" : "",
+    "reward_id_11" : "",
+    "reward_value_11" : "",
     "name" : "throne_royal_package_conquer_name"
   }, {
     "id" : "2",
@@ -91,6 +99,14 @@
     "reward_value_6" : "8",
     "reward_id_7" : "item_gold_100",
     "reward_value_7" : "30",
+    "reward_id_8" : "",
+    "reward_value_8" : "",
+    "reward_id_9" : "",
+    "reward_value_9" : "",
+    "reward_id_10" : "",
+    "reward_value_10" : "",
+    "reward_id_11" : "",
+    "reward_value_11" : "",
     "name" : "throne_royal_package_defend_name"
   }, {
     "id" : "3",
@@ -108,6 +124,16 @@
     "reward_value_5" : "10",
     "reward_id_6" : "item_gold_10",
     "reward_value_6" : "150",
+    "reward_id_7" : "",
+    "reward_value_7" : "",
+    "reward_id_8" : "",
+    "reward_value_8" : "",
+    "reward_id_9" : "",
+    "reward_value_9" : "",
+    "reward_id_10" : "",
+    "reward_value_10" : "",
+    "reward_id_11" : "",
+    "reward_value_11" : "",
     "name" : "throne_royal_package_support_name"
   } ]
 }
