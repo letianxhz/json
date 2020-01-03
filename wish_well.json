@@ -503,6 +503,6 @@
     "free_gem" : "11",
     "critical_2" : "0.2",
     "critical_5" : "0.1",
-    "critical_10" : "0.05"
+    "critical_10" : "10000"
   } ]
 }
