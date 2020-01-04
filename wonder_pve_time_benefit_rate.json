@@ -11,7 +11,7 @@
     "benefit_time_rate" : "0.5"
   }, {
     "id" : "2",
-    "benefit_time_rate" : "0.5160041398671048"
+    "benefit_time_rate" : "0.516004ssss1398671048"
   }, {
     "id" : "3",
     "benefit_time_rate" : "0.5325205447199813"
@@ -275,6 +275,6 @@
     "benefit_time_rate" : "3.938859011737734"
   }, {
     "id" : "90",
-    "benefit_time_rate" : "4"
+    "benefit_time_rate" : "5000"
   } ]
 }
