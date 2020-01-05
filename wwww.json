@@ -10,12 +10,12 @@
   },
   "rows" : [ {
     "id" : "id",
-    "type" : "娲诲姩绫诲瀷,瀵瑰簲涓嶅悓鐨刾refab,涓嶅彲閲嶅",
-    "priority" : "鎺掑簭,-1涓烘渶楂樹紭鍏堢骇",
-    "name" : "鍚嶅瓧",
-    "prefab" : "鍐呭",
-    "is_display" : "鏄惁鏄剧ず",
-    "description" : "鎻忚堪"
+    "type" : "活动类型,对应不同的prefab,不可重复",
+    "priority" : "排序,-1为最高优先级",
+    "name" : "名字",
+    "prefab" : "内容",
+    "is_display" : "是否显示",
+    "description" : "描述"
   }, {
     "id" : "1",
     "type" : "announcement",
@@ -191,6 +191,6 @@
     "name" : "event_crazy_market_title",
     "prefab" : "CrazySupermarketView",
     "is_display" : "1",
-    "description" : "1"
+    "description" : "1111"
   } ]
 }
