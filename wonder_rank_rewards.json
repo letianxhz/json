@@ -299,5 +299,18 @@
     "reward_value_3" : "",
     "reward_id_4" : "",
     "reward_value_4" : "111111"
-  } ]
+  },{
+    "id" : "",
+    "type" : "",
+    "rank_min" : "",
+    "rank_max" : "",
+    "reward_id_1" : "",
+    "reward_value_1" : "",
+    "reward_id_2" : "",
+    "reward_value_2" : "",
+    "reward_id_3" : "",
+    "reward_value_3" : "",
+    "reward_id_4" : "",
+    "reward_value_4" : "111111"
+  }]
 }
