@@ -505,7 +505,44 @@
     "critical_5" : "0.1",
     "critical_10" : "0.05"
   }, {
-    "id" : "wish_well_40",
+    "id" : "wish_well_41",
+    "level" : "41",
+    "wood" : "15300",
+    "food" : "15300",
+    "ore" : "3060",
+    "silver" : "765",
+    "steel" : "80",
+    "free_gem" : "11",
+    "critical_2" : "0.2",
+    "critical_5" : "0.1",
+    "critical_10" : "0.05"
+  }
+  , {
+    "id" : "wish_well_42",
+    "level" : "39",
+    "wood" : "15100",
+    "food" : "15100",
+    "ore" : "3020",
+    "silver" : "755",
+    "steel" : "80",
+    "free_gem" : "11",
+    "critical_2" : "0.2",
+    "critical_5" : "0.1",
+    "critical_10" : "0.05"
+  }, {
+    "id" : "wish_well_43",
+    "level" : "40",
+    "wood" : "15300",
+    "food" : "15300",
+    "ore" : "3060",
+    "silver" : "765",
+    "steel" : "80",
+    "free_gem" : "11",
+    "critical_2" : "0.2",
+    "critical_5" : "0.1",
+    "critical_10" : "0.05"
+  }, {
+    "id" : "wish_well_44",
     "level" : "41",
     "wood" : "15300",
     "food" : "15300",
@@ -517,6 +554,4 @@
     "critical_5" : "0.1",
     "critical_10" : "0.05"
   }]
- 
-  ]
 }
