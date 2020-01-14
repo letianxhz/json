@@ -504,5 +504,19 @@
     "critical_2" : "0.2",
     "critical_5" : "0.1",
     "critical_10" : "0.05"
-  } ]
+  }, {
+    "id" : "wish_well_40",
+    "level" : "41",
+    "wood" : "15300",
+    "food" : "15300",
+    "ore" : "3060",
+    "silver" : "765",
+    "steel" : "80",
+    "free_gem" : "11",
+    "critical_2" : "0.2",
+    "critical_5" : "0.1",
+    "critical_10" : "0.05"
+  }]
+ 
+  ]
 }
