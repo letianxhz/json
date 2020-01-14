@@ -217,7 +217,7 @@
     "reward_value_1" : "20",
     "reward_id_2" : "item_building_statue_essence",
     "reward_value_2" : "150",
-    "reward_id_3" : "",
+    "reward_id_3" : "dsdsdsd",
     "reward_value_3" : "",
     "reward_id_4" : "",
     "reward_value_4" : ""
@@ -298,6 +298,6 @@
     "reward_id_3" : "",
     "reward_value_3" : "",
     "reward_id_4" : "",
-    "reward_value_4" : ""
+    "reward_value_4" : "111111"
   } ]
 }
