@@ -1,0 +1,154 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "tree" : "tree@explore_talent_tree.id",
+    "prepose" : "prepose@explore_talent_group.id",
+    "tier" : "tier@int",
+    "row" : "row@int",
+    "name" : "name@string",
+    "image" : "image@string",
+    "description" : "description@string"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "tree" : "所属天赋树",
+    "prepose" : "前置id",
+    "tier" : "列数",
+    "row" : "行数",
+    "name" : "名字",
+    "image" : "图片",
+    "description" : "描述"
+  }, {
+    "id" : "explore_1_1",
+    "tree" : "explore",
+    "tier" : "1",
+    "row" : "1",
+    "name" : "talent_explore_1_1_name",
+    "image" : "explore_1_1",
+    "description" : "talent_explore_1_1_description"
+  }, {
+    "id" : "explore_2_1",
+    "tree" : "explore",
+    "prepose" : "explore_1_1",
+    "tier" : "2",
+    "row" : "1",
+    "name" : "talent_explore_2_1_name",
+    "image" : "explore_2_1",
+    "description" : "talent_explore_2_1_description"
+  }, {
+    "id" : "explore_3_1",
+    "tree" : "explore",
+    "prepose" : "explore_2_1",
+    "tier" : "3",
+    "row" : "1",
+    "name" : "talent_explore_3_1_name",
+    "image" : "explore_3_1",
+    "description" : "talent_explore_3_1_description"
+  }, {
+    "id" : "explore_4_1",
+    "tree" : "explore",
+    "prepose" : "explore_3_1",
+    "tier" : "4",
+    "row" : "1",
+    "name" : "talent_explore_4_1_name",
+    "image" : "explore_4_1",
+    "description" : "talent_explore_4_1_description"
+  }, {
+    "id" : "explore_5_1",
+    "tree" : "explore",
+    "prepose" : "explore_4_1",
+    "tier" : "5",
+    "row" : "1",
+    "name" : "talent_explore_5_1_name",
+    "image" : "explore_5_1",
+    "description" : "talent_explore_5_1_description"
+  }, {
+    "id" : "attack_1_1",
+    "tree" : "attack",
+    "tier" : "1",
+    "row" : "1",
+    "name" : "talent_attack_1_1_name",
+    "image" : "attack_1_1",
+    "description" : "talent_attack_1_1_description"
+  }, {
+    "id" : "attack_2_1",
+    "tree" : "attack",
+    "prepose" : "attack_1_1",
+    "tier" : "2",
+    "row" : "1",
+    "name" : "talent_attack_2_1_name",
+    "image" : "attack_2_1",
+    "description" : "talent_attack_2_1_description"
+  }, {
+    "id" : "attack_3_1",
+    "tree" : "attack",
+    "prepose" : "attack_2_1",
+    "tier" : "3",
+    "row" : "1",
+    "name" : "talent_attack_3_1_name",
+    "image" : "attack_3_1",
+    "description" : "talent_attack_3_1_description"
+  }, {
+    "id" : "attack_4_1",
+    "tree" : "attack",
+    "prepose" : "attack_3_1",
+    "tier" : "4",
+    "row" : "1",
+    "name" : "talent_attack_4_1_name",
+    "image" : "attack_4_1",
+    "description" : "talent_attack_4_1_description"
+  }, {
+    "id" : "attack_5_1",
+    "tree" : "attack",
+    "prepose" : "attack_4_1",
+    "tier" : "5",
+    "row" : "1",
+    "name" : "talent_attack_5_1_name",
+    "image" : "attack_5_1",
+    "description" : "talent_attack_5_1_description"
+  }, {
+    "id" : "hp_1_1",
+    "tree" : "hp",
+    "tier" : "1",
+    "row" : "1",
+    "name" : "talent_hp_1_1_name",
+    "image" : "hp_1_1",
+    "description" : "talent_hp_1_1_description"
+  }, {
+    "id" : "hp_2_1",
+    "tree" : "hp",
+    "prepose" : "hp_1_1",
+    "tier" : "2",
+    "row" : "1",
+    "name" : "talent_hp_2_1_name",
+    "image" : "hp_2_1",
+    "description" : "talent_hp_2_1_description"
+  }, {
+    "id" : "hp_3_1",
+    "tree" : "hp",
+    "prepose" : "hp_2_1",
+    "tier" : "3",
+    "row" : "1",
+    "name" : "talent_hp_3_1_name",
+    "image" : "hp_3_1",
+    "description" : "talent_hp_3_1_description"
+  }, {
+    "id" : "hp_4_1",
+    "tree" : "hp",
+    "prepose" : "hp_3_1",
+    "tier" : "4",
+    "row" : "1",
+    "name" : "talent_hp_4_1_name",
+    "image" : "hp_4_1",
+    "description" : "talent_hp_4_1_description"
+  }, {
+    "id" : "hp_5_1",
+    "tree" : "hp",
+    "prepose" : "hp_4_1",
+    "tier" : "5",
+    "row" : "1",
+    "name" : "talent_hp_5_1_name",
+    "image" : "hp_5_1",
+    "description" : "talent_hp_5_1_description"
+  } ]
+}

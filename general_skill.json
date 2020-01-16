@@ -1,0 +1,247 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "slg_skill_id" : "slg_skill_id@general_slg_skill.id",
+    "explore_skill" : "explore_skill@string",
+    "name" : "name@string",
+    "icon" : "icon@string",
+    "" : ""
+  },
+  "rows" : [ {
+    "id" : "id",
+    "slg_skill_id" : "slg技能id",
+    "explore_skill" : "roguelike技能id",
+    "name" : "名字",
+    "icon" : "图标"
+  }, {
+    "id" : "general_skill_500601",
+    "slg_skill_id" : "general_slg_skill_500601"
+  }, {
+    "id" : "general_skill_500602",
+    "slg_skill_id" : "general_slg_skill_500602"
+  }, {
+    "id" : "general_skill_500603",
+    "slg_skill_id" : "general_slg_skill_500603"
+  }, {
+    "id" : "general_skill_500604",
+    "slg_skill_id" : "general_slg_skill_500604"
+  }, {
+    "id" : "general_skill_500605",
+    "slg_skill_id" : "general_slg_skill_500605"
+  }, {
+    "id" : "general_skill_500101",
+    "slg_skill_id" : "general_slg_skill_500101",
+    "name" : "general_skill_500101_name",
+    "icon" : "icon_general_skill_500101"
+  }, {
+    "id" : "general_skill_500102",
+    "slg_skill_id" : "general_slg_skill_500102",
+    "name" : "general_skill_500102_name",
+    "icon" : "icon_general_skill_500102"
+  }, {
+    "id" : "general_skill_500103",
+    "slg_skill_id" : "general_slg_skill_500103",
+    "name" : "general_skill_500103_name",
+    "icon" : "icon_general_skill_500103"
+  }, {
+    "id" : "general_skill_500104",
+    "slg_skill_id" : "general_slg_skill_500104",
+    "name" : "general_skill_500104_name",
+    "icon" : "icon_general_skill_500104"
+  }, {
+    "id" : "general_skill_500105",
+    "slg_skill_id" : "general_slg_skill_500105",
+    "name" : "general_skill_500105_name",
+    "icon" : "icon_general_skill_500105"
+  }, {
+    "id" : "general_skill_500201",
+    "slg_skill_id" : "general_slg_skill_500201",
+    "name" : "general_skill_500201_name",
+    "icon" : "icon_general_skill_500201"
+  }, {
+    "id" : "general_skill_500202",
+    "slg_skill_id" : "general_slg_skill_500202",
+    "name" : "general_skill_500202_name",
+    "icon" : "icon_general_skill_500202"
+  }, {
+    "id" : "general_skill_500203",
+    "slg_skill_id" : "general_slg_skill_500203",
+    "name" : "general_skill_500203_name",
+    "icon" : "icon_general_skill_500203"
+  }, {
+    "id" : "general_skill_500204",
+    "slg_skill_id" : "general_slg_skill_500204",
+    "name" : "general_skill_500204_name",
+    "icon" : "icon_general_skill_500204"
+  }, {
+    "id" : "general_skill_500205",
+    "slg_skill_id" : "general_slg_skill_500205",
+    "name" : "general_skill_500205_name",
+    "icon" : "icon_general_skill_500205"
+  }, {
+    "id" : "general_skill_500501",
+    "slg_skill_id" : "general_slg_skill_500501",
+    "name" : "general_skill_500501_name",
+    "icon" : "icon_general_skill_500501"
+  }, {
+    "id" : "general_skill_500502",
+    "slg_skill_id" : "general_slg_skill_500502",
+    "name" : "general_skill_500502_name",
+    "icon" : "icon_general_skill_500502"
+  }, {
+    "id" : "general_skill_500503",
+    "slg_skill_id" : "general_slg_skill_500503",
+    "name" : "general_skill_500503_name",
+    "icon" : "icon_general_skill_500503"
+  }, {
+    "id" : "general_skill_500504",
+    "slg_skill_id" : "general_slg_skill_500504",
+    "name" : "general_skill_500504_name",
+    "icon" : "icon_general_skill_500504"
+  }, {
+    "id" : "general_skill_500505",
+    "slg_skill_id" : "general_slg_skill_500505",
+    "name" : "general_skill_500505_name",
+    "icon" : "icon_general_skill_500505"
+  }, {
+    "id" : "general_skill_500801",
+    "slg_skill_id" : "general_slg_skill_500801",
+    "name" : "general_skill_500801_name",
+    "icon" : "icon_general_skill_500801"
+  }, {
+    "id" : "general_skill_500802",
+    "slg_skill_id" : "general_slg_skill_500802",
+    "name" : "general_skill_500802_name",
+    "icon" : "icon_general_skill_500802"
+  }, {
+    "id" : "general_skill_500803",
+    "slg_skill_id" : "general_slg_skill_500803",
+    "name" : "general_skill_500803_name",
+    "icon" : "icon_general_skill_500803"
+  }, {
+    "id" : "general_skill_500804",
+    "slg_skill_id" : "general_slg_skill_500804",
+    "name" : "general_skill_500804_name",
+    "icon" : "icon_general_skill_500804"
+  }, {
+    "id" : "general_skill_500805",
+    "slg_skill_id" : "general_slg_skill_500805",
+    "name" : "general_skill_500805_name",
+    "icon" : "icon_general_skill_500805"
+  }, {
+    "id" : "general_skill_400301",
+    "slg_skill_id" : "general_slg_skill_400301",
+    "name" : "general_skill_400301_name",
+    "icon" : "icon_general_skill_400301"
+  }, {
+    "id" : "general_skill_400302",
+    "slg_skill_id" : "general_slg_skill_400302",
+    "name" : "general_skill_400302_name",
+    "icon" : "icon_general_skill_400302"
+  }, {
+    "id" : "general_skill_400303",
+    "slg_skill_id" : "general_slg_skill_400303",
+    "name" : "general_skill_400303_name",
+    "icon" : "icon_general_skill_400303"
+  }, {
+    "id" : "general_skill_400304",
+    "slg_skill_id" : "general_slg_skill_400304",
+    "name" : "general_skill_400304_name",
+    "icon" : "icon_general_skill_400304"
+  }, {
+    "id" : "general_skill_400305",
+    "slg_skill_id" : "general_slg_skill_400305",
+    "name" : "general_skill_400305_name",
+    "icon" : "icon_general_skill_400305"
+  }, {
+    "id" : "general_skill_400501",
+    "slg_skill_id" : "general_slg_skill_400501",
+    "name" : "general_skill_400501_name",
+    "icon" : "icon_general_skill_400501"
+  }, {
+    "id" : "general_skill_400502",
+    "slg_skill_id" : "general_slg_skill_400502",
+    "name" : "general_skill_400502_name",
+    "icon" : "icon_general_skill_400502"
+  }, {
+    "id" : "general_skill_400503",
+    "slg_skill_id" : "general_slg_skill_400503",
+    "name" : "general_skill_400503_name",
+    "icon" : "icon_general_skill_400503"
+  }, {
+    "id" : "general_skill_400504",
+    "slg_skill_id" : "general_slg_skill_400504",
+    "name" : "general_skill_400504_name",
+    "icon" : "icon_general_skill_400504"
+  }, {
+    "id" : "general_skill_400505",
+    "slg_skill_id" : "general_slg_skill_400505",
+    "name" : "general_skill_400505_name",
+    "icon" : "icon_general_skill_400505"
+  }, {
+    "id" : "general_skill_400701",
+    "slg_skill_id" : "general_slg_skill_400701",
+    "name" : "general_skill_400701_name",
+    "icon" : "icon_general_skill_400701"
+  }, {
+    "id" : "general_skill_400702",
+    "slg_skill_id" : "general_slg_skill_400702",
+    "name" : "general_skill_400702_name",
+    "icon" : "icon_general_skill_400702"
+  }, {
+    "id" : "general_skill_400703",
+    "slg_skill_id" : "general_slg_skill_400703",
+    "name" : "general_skill_400703_name",
+    "icon" : "icon_general_skill_400703"
+  }, {
+    "id" : "general_skill_400704",
+    "slg_skill_id" : "general_slg_skill_400704",
+    "name" : "general_skill_400704_name",
+    "icon" : "icon_general_skill_400704"
+  }, {
+    "id" : "general_skill_400705",
+    "slg_skill_id" : "general_slg_skill_400705",
+    "name" : "general_skill_400705_name",
+    "icon" : "icon_general_skill_400705"
+  }, {
+    "id" : "general_skill_300301",
+    "slg_skill_id" : "general_slg_skill_300301",
+    "name" : "general_skill_300301_name",
+    "icon" : "icon_general_skill_300301"
+  }, {
+    "id" : "general_skill_300302",
+    "slg_skill_id" : "general_slg_skill_300302",
+    "name" : "general_skill_300302_name",
+    "icon" : "icon_general_skill_300302"
+  }, {
+    "id" : "general_skill_300303",
+    "slg_skill_id" : "general_slg_skill_300303",
+    "name" : "general_skill_300303_name",
+    "icon" : "icon_general_skill_300303"
+  }, {
+    "id" : "general_skill_300304",
+    "slg_skill_id" : "general_slg_skill_300304",
+    "name" : "general_skill_300304_name",
+    "icon" : "icon_general_skill_300304"
+  }, {
+    "id" : "general_skill_200101",
+    "slg_skill_id" : "general_slg_skill_200101",
+    "name" : "general_skill_200101_name",
+    "icon" : "icon_general_skill_200101"
+  }, {
+    "id" : "general_skill_200102",
+    "slg_skill_id" : "general_slg_skill_200102",
+    "name" : "general_skill_200102_name",
+    "icon" : "icon_general_skill_200102"
+  }, {
+    "id" : "general_skill_200103",
+    "slg_skill_id" : "general_slg_skill_200103",
+    "name" : "general_skill_200103_name",
+    "icon" : "icon_general_skill_200103"
+  }, {
+    "id" : "general_skill_200104",
+    "slg_skill_id" : "general_slg_skill_200104",
+    "name" : "general_skill_200104_name",
+    "icon" : "icon_general_skill_200104"
+  } ]
+}

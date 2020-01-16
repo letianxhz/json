@@ -1,0 +1,246 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "resource_drop_group" : "resource_drop_group@string",
+    "resource_tile_id" : "resource_tile_id@tile_stats.id",
+    "reward_id_1" : "reward_id_1@itemlist.id",
+    "reward_value_1" : "reward_value_1@int",
+    "chance" : "chance@float",
+    "drop_group_id_1" : "drop_group_id_1@drop_group.id",
+    "drop_group_chance_1" : "drop_group_chance_1@float"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "resource_drop_group" : "掉落组",
+    "resource_tile_id" : "资源矿id",
+    "reward_id_1" : "奖励道具id_1",
+    "reward_value_1" : "奖励道具数量_1",
+    "chance" : "几率",
+    "drop_group_id_1" : "掉落组1",
+    "drop_group_chance_1" : "概率"
+  }, {
+    "id" : "shoot_lottery_drop_1",
+    "resource_drop_group" : "shoot_lottery_drop",
+    "resource_tile_id" : "estate_kingdom_1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "8.1E-4"
+  }, {
+    "id" : "shoot_lottery_drop_2",
+    "resource_drop_group" : "shoot_lottery_drop",
+    "resource_tile_id" : "estate_kingdom_2",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "8.1E-4"
+  }, {
+    "id" : "shoot_lottery_drop_3",
+    "resource_drop_group" : "shoot_lottery_drop",
+    "resource_tile_id" : "estate_kingdom_3",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "8.1E-4"
+  }, {
+    "id" : "shoot_lottery_drop_4",
+    "resource_drop_group" : "shoot_lottery_drop",
+    "resource_tile_id" : "estate_kingdom_4",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "8.1E-4"
+  }, {
+    "id" : "shoot_lottery_drop_5",
+    "resource_drop_group" : "shoot_lottery_drop",
+    "resource_tile_id" : "estate_kingdom_5",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "8.1E-4"
+  }, {
+    "id" : "shoot_lottery_drop_6",
+    "resource_drop_group" : "shoot_lottery_drop",
+    "resource_tile_id" : "estate_kingdom_6",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "8.1E-4"
+  }, {
+    "id" : "shoot_lottery_drop_7",
+    "resource_drop_group" : "shoot_lottery_drop",
+    "resource_tile_id" : "estate_kingdom_7",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "8.1E-4"
+  }, {
+    "id" : "shoot_lottery_drop_8",
+    "resource_drop_group" : "shoot_lottery_drop",
+    "resource_tile_id" : "estate_kingdom_8",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "8.1E-4"
+  }, {
+    "id" : "shoot_lottery_drop_9",
+    "resource_drop_group" : "shoot_lottery_drop",
+    "resource_tile_id" : "farm_kingdom_1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "8.1E-4"
+  }, {
+    "id" : "shoot_lottery_drop_10",
+    "resource_drop_group" : "shoot_lottery_drop",
+    "resource_tile_id" : "farm_kingdom_2",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "8.1E-4"
+  }, {
+    "id" : "shoot_lottery_drop_11",
+    "resource_drop_group" : "shoot_lottery_drop",
+    "resource_tile_id" : "farm_kingdom_3",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "8.1E-4"
+  }, {
+    "id" : "shoot_lottery_drop_12",
+    "resource_drop_group" : "shoot_lottery_drop",
+    "resource_tile_id" : "farm_kingdom_4",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "8.1E-4"
+  }, {
+    "id" : "shoot_lottery_drop_13",
+    "resource_drop_group" : "shoot_lottery_drop",
+    "resource_tile_id" : "farm_kingdom_5",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "8.1E-4"
+  }, {
+    "id" : "shoot_lottery_drop_14",
+    "resource_drop_group" : "shoot_lottery_drop",
+    "resource_tile_id" : "farm_kingdom_6",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "8.1E-4"
+  }, {
+    "id" : "shoot_lottery_drop_15",
+    "resource_drop_group" : "shoot_lottery_drop",
+    "resource_tile_id" : "farm_kingdom_7",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "8.1E-4"
+  }, {
+    "id" : "shoot_lottery_drop_16",
+    "resource_drop_group" : "shoot_lottery_drop",
+    "resource_tile_id" : "farm_kingdom_8",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "8.1E-4"
+  }, {
+    "id" : "shoot_lottery_drop_17",
+    "resource_drop_group" : "shoot_lottery_drop",
+    "resource_tile_id" : "lumber_camp_kingdom_1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "8.1E-4"
+  }, {
+    "id" : "shoot_lottery_drop_18",
+    "resource_drop_group" : "shoot_lottery_drop",
+    "resource_tile_id" : "lumber_camp_kingdom_2",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "8.1E-4"
+  }, {
+    "id" : "shoot_lottery_drop_19",
+    "resource_drop_group" : "shoot_lottery_drop",
+    "resource_tile_id" : "lumber_camp_kingdom_3",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "8.1E-4"
+  }, {
+    "id" : "shoot_lottery_drop_20",
+    "resource_drop_group" : "shoot_lottery_drop",
+    "resource_tile_id" : "lumber_camp_kingdom_4",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "8.1E-4"
+  }, {
+    "id" : "shoot_lottery_drop_21",
+    "resource_drop_group" : "shoot_lottery_drop",
+    "resource_tile_id" : "lumber_camp_kingdom_5",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "8.1E-4"
+  }, {
+    "id" : "shoot_lottery_drop_22",
+    "resource_drop_group" : "shoot_lottery_drop",
+    "resource_tile_id" : "lumber_camp_kingdom_6",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "8.1E-4"
+  }, {
+    "id" : "shoot_lottery_drop_23",
+    "resource_drop_group" : "shoot_lottery_drop",
+    "resource_tile_id" : "lumber_camp_kingdom_7",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "8.1E-4"
+  }, {
+    "id" : "shoot_lottery_drop_24",
+    "resource_drop_group" : "shoot_lottery_drop",
+    "resource_tile_id" : "lumber_camp_kingdom_8",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "8.1E-4"
+  }, {
+    "id" : "shoot_lottery_drop_25",
+    "resource_drop_group" : "shoot_lottery_drop",
+    "resource_tile_id" : "mine_kingdom_1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "8.1E-4"
+  }, {
+    "id" : "shoot_lottery_drop_26",
+    "resource_drop_group" : "shoot_lottery_drop",
+    "resource_tile_id" : "mine_kingdom_2",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "8.1E-4"
+  }, {
+    "id" : "shoot_lottery_drop_27",
+    "resource_drop_group" : "shoot_lottery_drop",
+    "resource_tile_id" : "mine_kingdom_3",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "8.1E-4"
+  }, {
+    "id" : "shoot_lottery_drop_28",
+    "resource_drop_group" : "shoot_lottery_drop",
+    "resource_tile_id" : "mine_kingdom_4",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "8.1E-4"
+  }, {
+    "id" : "shoot_lottery_drop_29",
+    "resource_drop_group" : "shoot_lottery_drop",
+    "resource_tile_id" : "mine_kingdom_5",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "8.1E-4"
+  }, {
+    "id" : "shoot_lottery_drop_30",
+    "resource_drop_group" : "shoot_lottery_drop",
+    "resource_tile_id" : "mine_kingdom_6",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "8.1E-4"
+  }, {
+    "id" : "shoot_lottery_drop_31",
+    "resource_drop_group" : "shoot_lottery_drop",
+    "resource_tile_id" : "mine_kingdom_7",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "8.1E-4"
+  }, {
+    "id" : "shoot_lottery_drop_32",
+    "resource_drop_group" : "shoot_lottery_drop",
+    "resource_tile_id" : "mine_kingdom_8",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "8.1E-4"
+  } ]
+}

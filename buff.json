@@ -1,0 +1,209 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "loc_name_id" : "loc_name_id@string",
+    "loc_description_id" : "loc_description_id@string",
+    "type" : "type@string",
+    "priority" : "priority@int",
+    "benefit_id_1" : "benefit_id_1@benefits.id",
+    "benefit_value_1" : "benefit_value_1@float",
+    "visible" : "visible@int"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "loc_name_id" : "名称",
+    "loc_description_id" : "描述",
+    "type" : "类型",
+    "priority" : "优先级",
+    "benefit_id_1" : "benefit_id_1",
+    "benefit_value_1" : "benefit_值_1",
+    "visible" : "是否可见"
+  }, {
+    "id" : "boost_peace",
+    "loc_name_id" : "boost_peace_name",
+    "loc_description_id" : "boost_peace_info",
+    "type" : "peace",
+    "priority" : "1",
+    "benefit_id_1" : "prop_peace_protection_value",
+    "benefit_value_1" : "1",
+    "visible" : "1"
+  }, {
+    "id" : "boost_troopattack_super",
+    "loc_name_id" : "boost_troopattack_super_name",
+    "loc_description_id" : "boost_troopattack_super_info",
+    "type" : "troopcombat",
+    "priority" : "2",
+    "benefit_id_1" : "prop_army_attack_percent",
+    "benefit_value_1" : "0.25",
+    "visible" : "1"
+  }, {
+    "id" : "boost_troopattack_greater",
+    "loc_name_id" : "boost_troopattack_greater_name",
+    "loc_description_id" : "boost_troopattack_greater_info",
+    "type" : "troopcombat",
+    "priority" : "3",
+    "benefit_id_1" : "prop_army_attack_percent",
+    "benefit_value_1" : "0.2",
+    "visible" : "1"
+  }, {
+    "id" : "boost_troopattack_lesser",
+    "loc_name_id" : "boost_troopattack_lesser_name",
+    "loc_description_id" : "boost_troopattack_lesser_info",
+    "type" : "troopcombat",
+    "priority" : "4",
+    "benefit_id_1" : "prop_army_attack_percent",
+    "benefit_value_1" : "0.1",
+    "visible" : "1"
+  }, {
+    "id" : "boost_troopdefense_super",
+    "loc_name_id" : "boost_troopdefense_super_name",
+    "loc_description_id" : "boost_troopdefense_super_info",
+    "type" : "troopcombat",
+    "priority" : "5",
+    "benefit_id_1" : "prop_army_defense_percent",
+    "benefit_value_1" : "0.25",
+    "visible" : "1"
+  }, {
+    "id" : "boost_troopdefense_greater",
+    "loc_name_id" : "boost_troopdefense_greater_name",
+    "loc_description_id" : "boost_troopdefense_greater_info",
+    "type" : "troopcombat",
+    "priority" : "6",
+    "benefit_id_1" : "prop_army_defense_percent",
+    "benefit_value_1" : "0.2",
+    "visible" : "1"
+  }, {
+    "id" : "boost_troopdefense_lesser",
+    "loc_name_id" : "boost_troopdefense_lesser_name",
+    "loc_description_id" : "boost_troopdefense_lesser_info",
+    "type" : "troopcombat",
+    "priority" : "7",
+    "benefit_id_1" : "prop_army_defense_percent",
+    "benefit_value_1" : "0.1",
+    "visible" : "1"
+  }, {
+    "id" : "boost_troophealth",
+    "loc_name_id" : "boost_troophealth_name",
+    "loc_description_id" : "boost_troophealth_info",
+    "type" : "troophealth",
+    "priority" : "8",
+    "benefit_id_1" : "prop_army_health_percent",
+    "benefit_value_1" : "0.15",
+    "visible" : "1"
+  }, {
+    "id" : "boost_troopload",
+    "loc_name_id" : "boost_troopload_name",
+    "loc_description_id" : "boost_troopload_info",
+    "type" : "troopload",
+    "priority" : "9",
+    "benefit_id_1" : "prop_army_load_percent",
+    "benefit_value_1" : "0.25"
+  }, {
+    "id" : "boost_marchcapacity_greater",
+    "loc_name_id" : "boost_marchcapacity_greater_name",
+    "loc_description_id" : "boost_marchcapacity_greater_info",
+    "type" : "marchcapacity",
+    "priority" : "10",
+    "benefit_id_1" : "prop_march_capacity_percent",
+    "benefit_value_1" : "0.5",
+    "visible" : "1"
+  }, {
+    "id" : "boost_marchcapacity_lesser",
+    "loc_name_id" : "boost_marchcapacity_lesser_name",
+    "loc_description_id" : "boost_marchcapacity_lesser_info",
+    "type" : "marchcapacity",
+    "priority" : "11",
+    "benefit_id_1" : "prop_march_capacity_percent",
+    "benefit_value_1" : "0.25",
+    "visible" : "1"
+  }, {
+    "id" : "boost_gatherspeed",
+    "loc_name_id" : "boost_gatherspeed_name",
+    "loc_description_id" : "boost_gatherspeed_info",
+    "type" : "gatherspeed",
+    "priority" : "12",
+    "benefit_id_1" : "prop_resource_gather_percent",
+    "benefit_value_1" : "0.5",
+    "visible" : "1"
+  }, {
+    "id" : "boost_alert",
+    "loc_name_id" : "boost_alert_name",
+    "loc_description_id" : "boost_alert_name_info",
+    "type" : "alert",
+    "priority" : "13",
+    "benefit_id_1" : "prop_alert_protection_value",
+    "benefit_value_1" : "1",
+    "visible" : "1"
+  }, {
+    "id" : "boost_antiscout",
+    "loc_name_id" : "boost_antiscout_name",
+    "loc_description_id" : "boost_antiscout_info",
+    "type" : "antiscout",
+    "priority" : "14",
+    "benefit_id_1" : "prop_antiscout_protection_value",
+    "benefit_value_1" : "1",
+    "visible" : "1"
+  }, {
+    "id" : "boost_silver",
+    "loc_name_id" : "boost_silver_name",
+    "loc_description_id" : "boost_silver_info",
+    "type" : "silver",
+    "priority" : "15",
+    "benefit_id_1" : "prop_silver_generation_percent",
+    "benefit_value_1" : "0.25",
+    "visible" : "1"
+  }, {
+    "id" : "boost_wood",
+    "loc_name_id" : "boost_wood_name",
+    "loc_description_id" : "boost_wood_info",
+    "type" : "wood",
+    "priority" : "16",
+    "benefit_id_1" : "prop_wood_generation_percent",
+    "benefit_value_1" : "0.25",
+    "visible" : "1"
+  }, {
+    "id" : "boost_ore",
+    "loc_name_id" : "boost_ore_name",
+    "loc_description_id" : "boost_ore_info",
+    "type" : "ore",
+    "priority" : "17",
+    "benefit_id_1" : "prop_ore_generation_percent",
+    "benefit_value_1" : "0.25",
+    "visible" : "1"
+  }, {
+    "id" : "boost_food",
+    "loc_name_id" : "boost_food_name",
+    "loc_description_id" : "boost_food_info",
+    "type" : "food",
+    "priority" : "18",
+    "benefit_id_1" : "prop_food_generation_percent",
+    "benefit_value_1" : "0.25",
+    "visible" : "1"
+  }, {
+    "id" : "boost_upkeepreduction_greater",
+    "loc_name_id" : "boost_upkeepreduction_greater_name",
+    "loc_description_id" : "boost_upkeepreduction_greater_info",
+    "type" : "upkeepreduction",
+    "priority" : "19",
+    "benefit_id_1" : "prop_army_upkeep_percent",
+    "benefit_value_1" : "-0.5",
+    "visible" : "1"
+  }, {
+    "id" : "boost_upkeepreduction_lesser",
+    "loc_name_id" : "boost_upkeepreduction_lesser_name",
+    "loc_description_id" : "boost_upkeepreduction_lesser_info",
+    "type" : "upkeepreduction",
+    "priority" : "20",
+    "benefit_id_1" : "prop_army_upkeep_percent",
+    "benefit_value_1" : "-0.25",
+    "visible" : "1"
+  }, {
+    "id" : "boost_healing_army_cost",
+    "loc_name_id" : "prop_healing_army_cost_decrease_percent_name",
+    "type" : "healing",
+    "priority" : "21",
+    "benefit_id_1" : "prop_healing_army_cost_decrease_percent",
+    "benefit_value_1" : "-0.2",
+    "visible" : "1"
+  } ]
+}

@@ -1,0 +1,134 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "group" : "group@string",
+    "tactic" : "tactic@campaign_tactic.id",
+    "weight" : "weight@int"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "group" : "分组",
+    "tactic" : "战术配置",
+    "weight" : "权重"
+  }, {
+    "id" : "1",
+    "group" : "group_1",
+    "tactic" : "campaign_tactic_1",
+    "weight" : "1"
+  }, {
+    "id" : "2",
+    "group" : "group_1",
+    "tactic" : "campaign_tactic_2",
+    "weight" : "1"
+  }, {
+    "id" : "3",
+    "group" : "group_1",
+    "tactic" : "campaign_tactic_3",
+    "weight" : "1"
+  }, {
+    "id" : "4",
+    "group" : "group_2",
+    "tactic" : "campaign_tactic_4",
+    "weight" : "1"
+  }, {
+    "id" : "5",
+    "group" : "group_2",
+    "tactic" : "campaign_tactic_5",
+    "weight" : "1"
+  }, {
+    "id" : "6",
+    "group" : "group_2",
+    "tactic" : "campaign_tactic_6",
+    "weight" : "1"
+  }, {
+    "id" : "7",
+    "group" : "group_3",
+    "tactic" : "campaign_tactic_1",
+    "weight" : "1"
+  }, {
+    "id" : "8",
+    "group" : "group_3",
+    "tactic" : "campaign_tactic_2",
+    "weight" : "1"
+  }, {
+    "id" : "9",
+    "group" : "group_3",
+    "tactic" : "campaign_tactic_3",
+    "weight" : "1"
+  }, {
+    "id" : "10",
+    "group" : "group_4",
+    "tactic" : "campaign_tactic_4",
+    "weight" : "1"
+  }, {
+    "id" : "11",
+    "group" : "group_4",
+    "tactic" : "campaign_tactic_5",
+    "weight" : "1"
+  }, {
+    "id" : "12",
+    "group" : "group_4",
+    "tactic" : "campaign_tactic_6",
+    "weight" : "1"
+  }, {
+    "id" : "13",
+    "group" : "group_5",
+    "tactic" : "campaign_tactic_1",
+    "weight" : "1"
+  }, {
+    "id" : "14",
+    "group" : "group_5",
+    "tactic" : "campaign_tactic_2",
+    "weight" : "1"
+  }, {
+    "id" : "15",
+    "group" : "group_5",
+    "tactic" : "campaign_tactic_3",
+    "weight" : "1"
+  }, {
+    "id" : "16",
+    "group" : "group_6",
+    "tactic" : "campaign_tactic_4",
+    "weight" : "1"
+  }, {
+    "id" : "17",
+    "group" : "group_6",
+    "tactic" : "campaign_tactic_5",
+    "weight" : "1"
+  }, {
+    "id" : "18",
+    "group" : "group_6",
+    "tactic" : "campaign_tactic_6",
+    "weight" : "1"
+  }, {
+    "id" : "19",
+    "group" : "group_7",
+    "tactic" : "campaign_tactic_1",
+    "weight" : "1"
+  }, {
+    "id" : "20",
+    "group" : "group_7",
+    "tactic" : "campaign_tactic_2",
+    "weight" : "1"
+  }, {
+    "id" : "21",
+    "group" : "group_7",
+    "tactic" : "campaign_tactic_3",
+    "weight" : "1"
+  }, {
+    "id" : "22",
+    "group" : "group_8",
+    "tactic" : "campaign_tactic_4",
+    "weight" : "1"
+  }, {
+    "id" : "23",
+    "group" : "group_8",
+    "tactic" : "campaign_tactic_5",
+    "weight" : "1"
+  }, {
+    "id" : "24",
+    "group" : "group_8",
+    "tactic" : "campaign_tactic_6",
+    "weight" : "1"
+  } ]
+}

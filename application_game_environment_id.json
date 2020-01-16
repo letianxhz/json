@@ -1,0 +1,36 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "game_key" : "game_key@string",
+    "name" : "name@string^c",
+    "description" : "description@string^p",
+    "image" : "image@string^c",
+    "link" : "link@string"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "game_key" : "游戏key",
+    "name" : "名称",
+    "description" : "描述",
+    "image" : "图片",
+    "link" : "链接"
+  }, {
+    "id" : "2064",
+    "game_key" : "4c34c796b078c4aa85894a9ff5287f5a"
+  }, {
+    "id" : "2065",
+    "game_key" : "5b01a1532862593b3678e8e4061fa486"
+  }, {
+    "id" : "2067",
+    "game_key" : "be67add7186acc3d3b794226c6ae86c5"
+  }, {
+    "id" : "2068",
+    "game_key" : "0f89422a7b39f9d99bb03f8628c37a9a"
+  }, {
+    "id" : "2031",
+    "game_key" : "8632781872155bc53b54729c4bdb368c"
+  }, {
+    "id" : "2063",
+    "game_key" : "44a7202365889f7e37000e2acc58f225"
+  } ]
+}

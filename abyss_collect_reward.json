@@ -1,0 +1,60 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "num_req" : "num_req@int",
+    "reward_id_1" : "reward_id_1@itemlist.id",
+    "reward_value_1" : "reward_value_1@int",
+    "reward_id_2" : "reward_id_2@itemlist.id",
+    "reward_value_2" : "reward_value_2@int",
+    "reward_id_3" : "reward_id_3@itemlist.id",
+    "reward_value_3" : "reward_value_3@int",
+    "reward_id_4" : "reward_id_4@itemlist.id",
+    "reward_value_4" : "reward_value_4@int",
+    "reward_id_5" : "reward_id_5@itemlist.id",
+    "reward_value_5" : "reward_value_5@int"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "num_req" : "龙化石数量",
+    "reward_id_1" : "奖励道具id_1",
+    "reward_value_1" : "奖励道具数量_1",
+    "reward_id_2" : "奖励道具id_2",
+    "reward_value_2" : "奖励道具数量_2",
+    "reward_id_3" : "奖励道具id_3",
+    "reward_value_3" : "奖励道具数量_3",
+    "reward_id_4" : "奖励道具id_4",
+    "reward_value_4" : "奖励道具数量_4",
+    "reward_id_5" : "奖励道具id_5",
+    "reward_value_5" : "奖励道具数量_5"
+  }, {
+    "id" : "1",
+    "num_req" : "1000",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "2",
+    "num_req" : "2000",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "2"
+  }, {
+    "id" : "3",
+    "num_req" : "4000",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "3"
+  }, {
+    "id" : "4",
+    "num_req" : "8000",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "4"
+  }, {
+    "id" : "5",
+    "num_req" : "15000",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "5"
+  }, {
+    "id" : "6",
+    "num_req" : "30000",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "6"
+  } ]
+}

@@ -1,0 +1,755 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "activity_id" : "activity_id@activity_score_main.id",
+    "type" : "type@int",
+    "rank_min" : "rank_min@int",
+    "rank_max" : "rank_max@int",
+    "rank_reward_1" : "rank_reward_1@itemlist.id",
+    "rank_reward_value_1" : "rank_reward_value_1@int",
+    "rank_reward_2" : "rank_reward_2@itemlist.id",
+    "rank_reward_value_2" : "rank_reward_value_2@int",
+    "rank_reward_3" : "rank_reward_3@itemlist.id",
+    "rank_reward_value_3" : "rank_reward_value_3@int",
+    "rank_reward_4" : "rank_reward_4@itemlist.id",
+    "rank_reward_value_4" : "rank_reward_value_4@int",
+    "rank_reward_5" : "rank_reward_5@itemlist.id",
+    "rank_reward_value_5" : "rank_reward_value_5@int",
+    "rank_reward_6" : "rank_reward_6@itemlist.id",
+    "rank_reward_value_6" : "rank_reward_value_6@int"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "activity_id" : "活动id",
+    "type" : "类型",
+    "rank_min" : "最小排名",
+    "rank_max" : "最大排名",
+    "rank_reward_1" : "排名奖励道具id_1",
+    "rank_reward_value_1" : "排名奖励道具数量_1",
+    "rank_reward_2" : "排名奖励道具id_2",
+    "rank_reward_value_2" : "排名奖励道具数量_2",
+    "rank_reward_3" : "排名奖励道具id_3",
+    "rank_reward_value_3" : "排名奖励道具数量_3",
+    "rank_reward_4" : "排名奖励道具id_4",
+    "rank_reward_value_4" : "排名奖励道具数量_4",
+    "rank_reward_5" : "排名奖励道具id_5",
+    "rank_reward_value_5" : "排名奖励道具数量_5",
+    "rank_reward_6" : "排名奖励道具id_6",
+    "rank_reward_value_6" : "排名奖励道具数量_6"
+  }, {
+    "id" : "activity_rank_reward_1",
+    "type" : "0",
+    "rank_min" : "1",
+    "rank_max" : "1",
+    "rank_reward_1" : "item_gold_1",
+    "rank_reward_value_1" : "10000"
+  }, {
+    "id" : "activity_rank_reward_2",
+    "type" : "0",
+    "rank_min" : "2",
+    "rank_max" : "2",
+    "rank_reward_1" : "item_gold_1",
+    "rank_reward_value_1" : "8000"
+  }, {
+    "id" : "activity_rank_reward_3",
+    "type" : "0",
+    "rank_min" : "3",
+    "rank_max" : "3",
+    "rank_reward_1" : "item_gold_1",
+    "rank_reward_value_1" : "6000"
+  }, {
+    "id" : "activity_rank_reward_4",
+    "type" : "0",
+    "rank_min" : "4",
+    "rank_max" : "4",
+    "rank_reward_1" : "item_gold_1",
+    "rank_reward_value_1" : "4000"
+  }, {
+    "id" : "activity_rank_reward_5",
+    "type" : "0",
+    "rank_min" : "5",
+    "rank_max" : "5",
+    "rank_reward_1" : "item_gold_1",
+    "rank_reward_value_1" : "3000"
+  }, {
+    "id" : "activity_rank_reward_6",
+    "type" : "0",
+    "rank_min" : "6",
+    "rank_max" : "6",
+    "rank_reward_1" : "item_gold_1",
+    "rank_reward_value_1" : "2000"
+  }, {
+    "id" : "activity_rank_reward_7",
+    "type" : "0",
+    "rank_min" : "7",
+    "rank_max" : "7",
+    "rank_reward_1" : "item_gold_1",
+    "rank_reward_value_1" : "1500"
+  }, {
+    "id" : "activity_rank_reward_8",
+    "type" : "0",
+    "rank_min" : "8",
+    "rank_max" : "8",
+    "rank_reward_1" : "item_gold_1",
+    "rank_reward_value_1" : "1000"
+  }, {
+    "id" : "activity_rank_reward_9",
+    "type" : "0",
+    "rank_min" : "9",
+    "rank_max" : "9",
+    "rank_reward_1" : "item_gold_1",
+    "rank_reward_value_1" : "800"
+  }, {
+    "id" : "activity_rank_reward_10",
+    "type" : "0",
+    "rank_min" : "10",
+    "rank_max" : "10",
+    "rank_reward_1" : "item_gold_1",
+    "rank_reward_value_1" : "500"
+  }, {
+    "id" : "activity_rank_reward_11",
+    "type" : "0",
+    "rank_min" : "11",
+    "rank_max" : "30",
+    "rank_reward_1" : "item_gold_1",
+    "rank_reward_value_1" : "350"
+  }, {
+    "id" : "activity_rank_reward_12",
+    "type" : "0",
+    "rank_min" : "31",
+    "rank_max" : "50",
+    "rank_reward_1" : "item_gold_1",
+    "rank_reward_value_1" : "200"
+  }, {
+    "id" : "activity_rank_reward_13",
+    "type" : "0",
+    "rank_min" : "51",
+    "rank_max" : "100",
+    "rank_reward_1" : "item_gold_1",
+    "rank_reward_value_1" : "100"
+  }, {
+    "id" : "activity_rank_reward_14",
+    "activity_id" : "activity_score_main_1",
+    "type" : "1",
+    "rank_min" : "1",
+    "rank_max" : "1",
+    "rank_reward_1" : "item_gold_1",
+    "rank_reward_value_1" : "700"
+  }, {
+    "id" : "activity_rank_reward_15",
+    "activity_id" : "activity_score_main_1",
+    "type" : "1",
+    "rank_min" : "2",
+    "rank_max" : "2",
+    "rank_reward_1" : "item_gold_1",
+    "rank_reward_value_1" : "650"
+  }, {
+    "id" : "activity_rank_reward_16",
+    "activity_id" : "activity_score_main_1",
+    "type" : "1",
+    "rank_min" : "3",
+    "rank_max" : "3",
+    "rank_reward_1" : "item_gold_1",
+    "rank_reward_value_1" : "500"
+  }, {
+    "id" : "activity_rank_reward_17",
+    "activity_id" : "activity_score_main_1",
+    "type" : "1",
+    "rank_min" : "4",
+    "rank_max" : "4",
+    "rank_reward_1" : "item_gold_1",
+    "rank_reward_value_1" : "400"
+  }, {
+    "id" : "activity_rank_reward_18",
+    "activity_id" : "activity_score_main_1",
+    "type" : "1",
+    "rank_min" : "5",
+    "rank_max" : "5",
+    "rank_reward_1" : "item_gold_1",
+    "rank_reward_value_1" : "300"
+  }, {
+    "id" : "activity_rank_reward_19",
+    "activity_id" : "activity_score_main_1",
+    "type" : "1",
+    "rank_min" : "6",
+    "rank_max" : "6",
+    "rank_reward_1" : "item_gold_1",
+    "rank_reward_value_1" : "200"
+  }, {
+    "id" : "activity_rank_reward_20",
+    "activity_id" : "activity_score_main_1",
+    "type" : "1",
+    "rank_min" : "7",
+    "rank_max" : "7",
+    "rank_reward_1" : "item_gold_1",
+    "rank_reward_value_1" : "200"
+  }, {
+    "id" : "activity_rank_reward_21",
+    "activity_id" : "activity_score_main_1",
+    "type" : "1",
+    "rank_min" : "8",
+    "rank_max" : "8",
+    "rank_reward_1" : "item_gold_1",
+    "rank_reward_value_1" : "200"
+  }, {
+    "id" : "activity_rank_reward_22",
+    "activity_id" : "activity_score_main_1",
+    "type" : "1",
+    "rank_min" : "9",
+    "rank_max" : "9",
+    "rank_reward_1" : "item_gold_1",
+    "rank_reward_value_1" : "200"
+  }, {
+    "id" : "activity_rank_reward_23",
+    "activity_id" : "activity_score_main_1",
+    "type" : "1",
+    "rank_min" : "10",
+    "rank_max" : "10",
+    "rank_reward_1" : "item_gold_1",
+    "rank_reward_value_1" : "200"
+  }, {
+    "id" : "activity_rank_reward_24",
+    "activity_id" : "activity_score_main_1",
+    "type" : "1",
+    "rank_min" : "11",
+    "rank_max" : "30",
+    "rank_reward_1" : "item_gold_1",
+    "rank_reward_value_1" : "150"
+  }, {
+    "id" : "activity_rank_reward_25",
+    "activity_id" : "activity_score_main_1",
+    "type" : "1",
+    "rank_min" : "31",
+    "rank_max" : "50",
+    "rank_reward_1" : "item_gold_1",
+    "rank_reward_value_1" : "120"
+  }, {
+    "id" : "activity_rank_reward_26",
+    "activity_id" : "activity_score_main_1",
+    "type" : "1",
+    "rank_min" : "51",
+    "rank_max" : "100",
+    "rank_reward_1" : "item_gold_1",
+    "rank_reward_value_1" : "100"
+  }, {
+    "id" : "activity_rank_reward_27",
+    "activity_id" : "activity_score_main_2",
+    "type" : "1",
+    "rank_min" : "1",
+    "rank_max" : "1",
+    "rank_reward_1" : "item_gold_1",
+    "rank_reward_value_1" : "1000"
+  }, {
+    "id" : "activity_rank_reward_28",
+    "activity_id" : "activity_score_main_2",
+    "type" : "1",
+    "rank_min" : "2",
+    "rank_max" : "2",
+    "rank_reward_1" : "item_gold_1",
+    "rank_reward_value_1" : "800"
+  }, {
+    "id" : "activity_rank_reward_29",
+    "activity_id" : "activity_score_main_2",
+    "type" : "1",
+    "rank_min" : "3",
+    "rank_max" : "3",
+    "rank_reward_1" : "item_gold_1",
+    "rank_reward_value_1" : "600"
+  }, {
+    "id" : "activity_rank_reward_30",
+    "activity_id" : "activity_score_main_2",
+    "type" : "1",
+    "rank_min" : "4",
+    "rank_max" : "4",
+    "rank_reward_1" : "item_gold_1",
+    "rank_reward_value_1" : "500"
+  }, {
+    "id" : "activity_rank_reward_31",
+    "activity_id" : "activity_score_main_2",
+    "type" : "1",
+    "rank_min" : "5",
+    "rank_max" : "5",
+    "rank_reward_1" : "item_gold_1",
+    "rank_reward_value_1" : "450"
+  }, {
+    "id" : "activity_rank_reward_32",
+    "activity_id" : "activity_score_main_2",
+    "type" : "1",
+    "rank_min" : "6",
+    "rank_max" : "6",
+    "rank_reward_1" : "item_gold_1",
+    "rank_reward_value_1" : "400"
+  }, {
+    "id" : "activity_rank_reward_33",
+    "activity_id" : "activity_score_main_2",
+    "type" : "1",
+    "rank_min" : "7",
+    "rank_max" : "7",
+    "rank_reward_1" : "item_gold_1",
+    "rank_reward_value_1" : "350"
+  }, {
+    "id" : "activity_rank_reward_34",
+    "activity_id" : "activity_score_main_2",
+    "type" : "1",
+    "rank_min" : "8",
+    "rank_max" : "8",
+    "rank_reward_1" : "item_gold_1",
+    "rank_reward_value_1" : "300"
+  }, {
+    "id" : "activity_rank_reward_35",
+    "activity_id" : "activity_score_main_2",
+    "type" : "1",
+    "rank_min" : "9",
+    "rank_max" : "9",
+    "rank_reward_1" : "item_gold_1",
+    "rank_reward_value_1" : "250"
+  }, {
+    "id" : "activity_rank_reward_36",
+    "activity_id" : "activity_score_main_2",
+    "type" : "1",
+    "rank_min" : "10",
+    "rank_max" : "10",
+    "rank_reward_1" : "item_gold_1",
+    "rank_reward_value_1" : "200"
+  }, {
+    "id" : "activity_rank_reward_37",
+    "activity_id" : "activity_score_main_2",
+    "type" : "1",
+    "rank_min" : "11",
+    "rank_max" : "30",
+    "rank_reward_1" : "item_gold_1",
+    "rank_reward_value_1" : "150"
+  }, {
+    "id" : "activity_rank_reward_38",
+    "activity_id" : "activity_score_main_2",
+    "type" : "1",
+    "rank_min" : "31",
+    "rank_max" : "50",
+    "rank_reward_1" : "item_gold_1",
+    "rank_reward_value_1" : "120"
+  }, {
+    "id" : "activity_rank_reward_39",
+    "activity_id" : "activity_score_main_2",
+    "type" : "1",
+    "rank_min" : "51",
+    "rank_max" : "100",
+    "rank_reward_1" : "item_gold_1",
+    "rank_reward_value_1" : "100"
+  }, {
+    "id" : "activity_rank_reward_40",
+    "activity_id" : "activity_score_main_3",
+    "type" : "1",
+    "rank_min" : "1",
+    "rank_max" : "1",
+    "rank_reward_1" : "item_gold_1",
+    "rank_reward_value_1" : "700"
+  }, {
+    "id" : "activity_rank_reward_41",
+    "activity_id" : "activity_score_main_3",
+    "type" : "1",
+    "rank_min" : "2",
+    "rank_max" : "2",
+    "rank_reward_1" : "item_gold_1",
+    "rank_reward_value_1" : "650"
+  }, {
+    "id" : "activity_rank_reward_42",
+    "activity_id" : "activity_score_main_3",
+    "type" : "1",
+    "rank_min" : "3",
+    "rank_max" : "3",
+    "rank_reward_1" : "item_gold_1",
+    "rank_reward_value_1" : "500"
+  }, {
+    "id" : "activity_rank_reward_43",
+    "activity_id" : "activity_score_main_3",
+    "type" : "1",
+    "rank_min" : "4",
+    "rank_max" : "4",
+    "rank_reward_1" : "item_gold_1",
+    "rank_reward_value_1" : "400"
+  }, {
+    "id" : "activity_rank_reward_44",
+    "activity_id" : "activity_score_main_3",
+    "type" : "1",
+    "rank_min" : "5",
+    "rank_max" : "5",
+    "rank_reward_1" : "item_gold_1",
+    "rank_reward_value_1" : "300"
+  }, {
+    "id" : "activity_rank_reward_45",
+    "activity_id" : "activity_score_main_3",
+    "type" : "1",
+    "rank_min" : "6",
+    "rank_max" : "6",
+    "rank_reward_1" : "item_gold_1",
+    "rank_reward_value_1" : "200"
+  }, {
+    "id" : "activity_rank_reward_46",
+    "activity_id" : "activity_score_main_3",
+    "type" : "1",
+    "rank_min" : "7",
+    "rank_max" : "7",
+    "rank_reward_1" : "item_gold_1",
+    "rank_reward_value_1" : "200"
+  }, {
+    "id" : "activity_rank_reward_47",
+    "activity_id" : "activity_score_main_3",
+    "type" : "1",
+    "rank_min" : "8",
+    "rank_max" : "8",
+    "rank_reward_1" : "item_gold_1",
+    "rank_reward_value_1" : "200"
+  }, {
+    "id" : "activity_rank_reward_48",
+    "activity_id" : "activity_score_main_3",
+    "type" : "1",
+    "rank_min" : "9",
+    "rank_max" : "9",
+    "rank_reward_1" : "item_gold_1",
+    "rank_reward_value_1" : "200"
+  }, {
+    "id" : "activity_rank_reward_49",
+    "activity_id" : "activity_score_main_3",
+    "type" : "1",
+    "rank_min" : "10",
+    "rank_max" : "10",
+    "rank_reward_1" : "item_gold_1",
+    "rank_reward_value_1" : "200"
+  }, {
+    "id" : "activity_rank_reward_50",
+    "activity_id" : "activity_score_main_3",
+    "type" : "1",
+    "rank_min" : "11",
+    "rank_max" : "30",
+    "rank_reward_1" : "item_gold_1",
+    "rank_reward_value_1" : "150"
+  }, {
+    "id" : "activity_rank_reward_51",
+    "activity_id" : "activity_score_main_3",
+    "type" : "1",
+    "rank_min" : "31",
+    "rank_max" : "50",
+    "rank_reward_1" : "item_gold_1",
+    "rank_reward_value_1" : "120"
+  }, {
+    "id" : "activity_rank_reward_52",
+    "activity_id" : "activity_score_main_3",
+    "type" : "1",
+    "rank_min" : "51",
+    "rank_max" : "100",
+    "rank_reward_1" : "item_gold_1",
+    "rank_reward_value_1" : "100"
+  }, {
+    "id" : "activity_rank_reward_53",
+    "activity_id" : "activity_score_main_4",
+    "type" : "1",
+    "rank_min" : "1",
+    "rank_max" : "1",
+    "rank_reward_1" : "item_gold_1",
+    "rank_reward_value_1" : "1000"
+  }, {
+    "id" : "activity_rank_reward_54",
+    "activity_id" : "activity_score_main_4",
+    "type" : "1",
+    "rank_min" : "2",
+    "rank_max" : "2",
+    "rank_reward_1" : "item_gold_1",
+    "rank_reward_value_1" : "800"
+  }, {
+    "id" : "activity_rank_reward_55",
+    "activity_id" : "activity_score_main_4",
+    "type" : "1",
+    "rank_min" : "3",
+    "rank_max" : "3",
+    "rank_reward_1" : "item_gold_1",
+    "rank_reward_value_1" : "600"
+  }, {
+    "id" : "activity_rank_reward_56",
+    "activity_id" : "activity_score_main_4",
+    "type" : "1",
+    "rank_min" : "4",
+    "rank_max" : "4",
+    "rank_reward_1" : "item_gold_1",
+    "rank_reward_value_1" : "500"
+  }, {
+    "id" : "activity_rank_reward_57",
+    "activity_id" : "activity_score_main_4",
+    "type" : "1",
+    "rank_min" : "5",
+    "rank_max" : "5",
+    "rank_reward_1" : "item_gold_1",
+    "rank_reward_value_1" : "450"
+  }, {
+    "id" : "activity_rank_reward_58",
+    "activity_id" : "activity_score_main_4",
+    "type" : "1",
+    "rank_min" : "6",
+    "rank_max" : "6",
+    "rank_reward_1" : "item_gold_1",
+    "rank_reward_value_1" : "400"
+  }, {
+    "id" : "activity_rank_reward_59",
+    "activity_id" : "activity_score_main_4",
+    "type" : "1",
+    "rank_min" : "7",
+    "rank_max" : "7",
+    "rank_reward_1" : "item_gold_1",
+    "rank_reward_value_1" : "350"
+  }, {
+    "id" : "activity_rank_reward_60",
+    "activity_id" : "activity_score_main_4",
+    "type" : "1",
+    "rank_min" : "8",
+    "rank_max" : "8",
+    "rank_reward_1" : "item_gold_1",
+    "rank_reward_value_1" : "300"
+  }, {
+    "id" : "activity_rank_reward_61",
+    "activity_id" : "activity_score_main_4",
+    "type" : "1",
+    "rank_min" : "9",
+    "rank_max" : "9",
+    "rank_reward_1" : "item_gold_1",
+    "rank_reward_value_1" : "250"
+  }, {
+    "id" : "activity_rank_reward_62",
+    "activity_id" : "activity_score_main_4",
+    "type" : "1",
+    "rank_min" : "10",
+    "rank_max" : "10",
+    "rank_reward_1" : "item_gold_1",
+    "rank_reward_value_1" : "200"
+  }, {
+    "id" : "activity_rank_reward_63",
+    "activity_id" : "activity_score_main_4",
+    "type" : "1",
+    "rank_min" : "11",
+    "rank_max" : "30",
+    "rank_reward_1" : "item_gold_1",
+    "rank_reward_value_1" : "150"
+  }, {
+    "id" : "activity_rank_reward_64",
+    "activity_id" : "activity_score_main_4",
+    "type" : "1",
+    "rank_min" : "31",
+    "rank_max" : "50",
+    "rank_reward_1" : "item_gold_1",
+    "rank_reward_value_1" : "120"
+  }, {
+    "id" : "activity_rank_reward_65",
+    "activity_id" : "activity_score_main_4",
+    "type" : "1",
+    "rank_min" : "51",
+    "rank_max" : "100",
+    "rank_reward_1" : "item_gold_1",
+    "rank_reward_value_1" : "100"
+  }, {
+    "id" : "activity_rank_reward_66",
+    "activity_id" : "activity_score_main_5",
+    "type" : "1",
+    "rank_min" : "1",
+    "rank_max" : "1",
+    "rank_reward_1" : "item_gold_1",
+    "rank_reward_value_1" : "2000"
+  }, {
+    "id" : "activity_rank_reward_67",
+    "activity_id" : "activity_score_main_5",
+    "type" : "1",
+    "rank_min" : "2",
+    "rank_max" : "2",
+    "rank_reward_1" : "item_gold_1",
+    "rank_reward_value_1" : "1800"
+  }, {
+    "id" : "activity_rank_reward_68",
+    "activity_id" : "activity_score_main_5",
+    "type" : "1",
+    "rank_min" : "3",
+    "rank_max" : "3",
+    "rank_reward_1" : "item_gold_1",
+    "rank_reward_value_1" : "1600"
+  }, {
+    "id" : "activity_rank_reward_69",
+    "activity_id" : "activity_score_main_5",
+    "type" : "1",
+    "rank_min" : "4",
+    "rank_max" : "4",
+    "rank_reward_1" : "item_gold_1",
+    "rank_reward_value_1" : "1400"
+  }, {
+    "id" : "activity_rank_reward_70",
+    "activity_id" : "activity_score_main_5",
+    "type" : "1",
+    "rank_min" : "5",
+    "rank_max" : "5",
+    "rank_reward_1" : "item_gold_1",
+    "rank_reward_value_1" : "1200"
+  }, {
+    "id" : "activity_rank_reward_71",
+    "activity_id" : "activity_score_main_5",
+    "type" : "1",
+    "rank_min" : "6",
+    "rank_max" : "6",
+    "rank_reward_1" : "item_gold_1",
+    "rank_reward_value_1" : "1100"
+  }, {
+    "id" : "activity_rank_reward_72",
+    "activity_id" : "activity_score_main_5",
+    "type" : "1",
+    "rank_min" : "7",
+    "rank_max" : "7",
+    "rank_reward_1" : "item_gold_1",
+    "rank_reward_value_1" : "1000"
+  }, {
+    "id" : "activity_rank_reward_73",
+    "activity_id" : "activity_score_main_5",
+    "type" : "1",
+    "rank_min" : "8",
+    "rank_max" : "8",
+    "rank_reward_1" : "item_gold_1",
+    "rank_reward_value_1" : "900"
+  }, {
+    "id" : "activity_rank_reward_74",
+    "activity_id" : "activity_score_main_5",
+    "type" : "1",
+    "rank_min" : "9",
+    "rank_max" : "9",
+    "rank_reward_1" : "item_gold_1",
+    "rank_reward_value_1" : "800"
+  }, {
+    "id" : "activity_rank_reward_75",
+    "activity_id" : "activity_score_main_5",
+    "type" : "1",
+    "rank_min" : "10",
+    "rank_max" : "10",
+    "rank_reward_1" : "item_gold_1",
+    "rank_reward_value_1" : "700"
+  }, {
+    "id" : "activity_rank_reward_76",
+    "activity_id" : "activity_score_main_5",
+    "type" : "1",
+    "rank_min" : "11",
+    "rank_max" : "30",
+    "rank_reward_1" : "item_gold_1",
+    "rank_reward_value_1" : "500"
+  }, {
+    "id" : "activity_rank_reward_77",
+    "activity_id" : "activity_score_main_5",
+    "type" : "1",
+    "rank_min" : "31",
+    "rank_max" : "50",
+    "rank_reward_1" : "item_gold_1",
+    "rank_reward_value_1" : "300"
+  }, {
+    "id" : "activity_rank_reward_78",
+    "activity_id" : "activity_score_main_5",
+    "type" : "1",
+    "rank_min" : "51",
+    "rank_max" : "100",
+    "rank_reward_1" : "item_gold_1",
+    "rank_reward_value_1" : "200"
+  }, {
+    "id" : "activity_rank_reward_79",
+    "activity_id" : "activity_score_main_6",
+    "type" : "1",
+    "rank_min" : "1",
+    "rank_max" : "1",
+    "rank_reward_1" : "item_gold_1",
+    "rank_reward_value_1" : "700"
+  }, {
+    "id" : "activity_rank_reward_80",
+    "activity_id" : "activity_score_main_6",
+    "type" : "1",
+    "rank_min" : "2",
+    "rank_max" : "2",
+    "rank_reward_1" : "item_gold_1",
+    "rank_reward_value_1" : "650"
+  }, {
+    "id" : "activity_rank_reward_81",
+    "activity_id" : "activity_score_main_6",
+    "type" : "1",
+    "rank_min" : "3",
+    "rank_max" : "3",
+    "rank_reward_1" : "item_gold_1",
+    "rank_reward_value_1" : "500"
+  }, {
+    "id" : "activity_rank_reward_82",
+    "activity_id" : "activity_score_main_6",
+    "type" : "1",
+    "rank_min" : "4",
+    "rank_max" : "4",
+    "rank_reward_1" : "item_gold_1",
+    "rank_reward_value_1" : "400"
+  }, {
+    "id" : "activity_rank_reward_83",
+    "activity_id" : "activity_score_main_6",
+    "type" : "1",
+    "rank_min" : "5",
+    "rank_max" : "5",
+    "rank_reward_1" : "item_gold_1",
+    "rank_reward_value_1" : "300"
+  }, {
+    "id" : "activity_rank_reward_84",
+    "activity_id" : "activity_score_main_6",
+    "type" : "1",
+    "rank_min" : "6",
+    "rank_max" : "6",
+    "rank_reward_1" : "item_gold_1",
+    "rank_reward_value_1" : "200"
+  }, {
+    "id" : "activity_rank_reward_85",
+    "activity_id" : "activity_score_main_6",
+    "type" : "1",
+    "rank_min" : "7",
+    "rank_max" : "7",
+    "rank_reward_1" : "item_gold_1",
+    "rank_reward_value_1" : "200"
+  }, {
+    "id" : "activity_rank_reward_86",
+    "activity_id" : "activity_score_main_6",
+    "type" : "1",
+    "rank_min" : "8",
+    "rank_max" : "8",
+    "rank_reward_1" : "item_gold_1",
+    "rank_reward_value_1" : "200"
+  }, {
+    "id" : "activity_rank_reward_87",
+    "activity_id" : "activity_score_main_6",
+    "type" : "1",
+    "rank_min" : "9",
+    "rank_max" : "9",
+    "rank_reward_1" : "item_gold_1",
+    "rank_reward_value_1" : "200"
+  }, {
+    "id" : "activity_rank_reward_88",
+    "activity_id" : "activity_score_main_6",
+    "type" : "1",
+    "rank_min" : "10",
+    "rank_max" : "10",
+    "rank_reward_1" : "item_gold_1",
+    "rank_reward_value_1" : "200"
+  }, {
+    "id" : "activity_rank_reward_89",
+    "activity_id" : "activity_score_main_6",
+    "type" : "1",
+    "rank_min" : "11",
+    "rank_max" : "30",
+    "rank_reward_1" : "item_gold_1",
+    "rank_reward_value_1" : "150"
+  }, {
+    "id" : "activity_rank_reward_90",
+    "activity_id" : "activity_score_main_6",
+    "type" : "1",
+    "rank_min" : "31",
+    "rank_max" : "50",
+    "rank_reward_1" : "item_gold_1",
+    "rank_reward_value_1" : "120"
+  }, {
+    "id" : "activity_rank_reward_91",
+    "activity_id" : "activity_score_main_6",
+    "type" : "1",
+    "rank_min" : "51",
+    "rank_max" : "100",
+    "rank_reward_1" : "item_gold_1",
+    "rank_reward_value_1" : "100"
+  } ]
+}

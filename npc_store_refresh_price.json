@@ -1,0 +1,40 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "price" : "price@int"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "price" : "价格"
+  }, {
+    "id" : "npc_store_refresh_price_1",
+    "price" : "0"
+  }, {
+    "id" : "npc_store_refresh_price_2",
+    "price" : "0"
+  }, {
+    "id" : "npc_store_refresh_price_3",
+    "price" : "0"
+  }, {
+    "id" : "npc_store_refresh_price_4",
+    "price" : "5"
+  }, {
+    "id" : "npc_store_refresh_price_5",
+    "price" : "20"
+  }, {
+    "id" : "npc_store_refresh_price_6",
+    "price" : "20"
+  }, {
+    "id" : "npc_store_refresh_price_7",
+    "price" : "100"
+  }, {
+    "id" : "npc_store_refresh_price_8",
+    "price" : "100"
+  }, {
+    "id" : "npc_store_refresh_price_9",
+    "price" : "200"
+  }, {
+    "id" : "npc_store_refresh_price_10",
+    "price" : "500"
+  } ]
+}

@@ -1,0 +1,98 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "category" : "category@string",
+    "category2" : "category2@string",
+    "city_level_limit" : "city_level_limit@int"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "category" : "类别",
+    "category2" : "子类别",
+    "city_level_limit" : "主城等级要求"
+  }, {
+    "id" : "1",
+    "category" : "build",
+    "city_level_limit" : "1"
+  }, {
+    "id" : "2",
+    "category" : "train",
+    "category2" : "infantry",
+    "city_level_limit" : "3"
+  }, {
+    "id" : "3",
+    "category" : "train",
+    "category2" : "cavalry",
+    "city_level_limit" : "5"
+  }, {
+    "id" : "4",
+    "category" : "train",
+    "category2" : "siege",
+    "city_level_limit" : "1"
+  }, {
+    "id" : "5",
+    "category" : "train",
+    "category2" : "ranged",
+    "city_level_limit" : "4"
+  }, {
+    "id" : "6",
+    "category" : "alliance_tech",
+    "city_level_limit" : "4"
+  }, {
+    "id" : "7",
+    "category" : "alliance_help",
+    "city_level_limit" : "4"
+  }, {
+    "id" : "8",
+    "category" : "npc_store",
+    "city_level_limit" : "6"
+  }, {
+    "id" : "9",
+    "category" : "pve",
+    "city_level_limit" : "1"
+  }, {
+    "id" : "10",
+    "category" : "resource_collect",
+    "category2" : "food",
+    "city_level_limit" : "1"
+  }, {
+    "id" : "11",
+    "category" : "resource_collect",
+    "category2" : "wood",
+    "city_level_limit" : "1"
+  }, {
+    "id" : "12",
+    "category" : "resource_collect",
+    "category2" : "ore",
+    "city_level_limit" : "10"
+  }, {
+    "id" : "13",
+    "category" : "resource_collect",
+    "category2" : "silver",
+    "city_level_limit" : "15"
+  }, {
+    "id" : "14",
+    "category" : "account",
+    "city_level_limit" : "5"
+  }, {
+    "id" : "15",
+    "category" : "payment",
+    "city_level_limit" : "5"
+  }, {
+    "id" : "16",
+    "category" : "rename",
+    "city_level_limit" : "1"
+  }, {
+    "id" : "17",
+    "category" : "open_push",
+    "city_level_limit" : "5"
+  }, {
+    "id" : "18",
+    "category" : "gve",
+    "city_level_limit" : "5"
+  }, {
+    "id" : "19",
+    "category" : "symphony",
+    "city_level_limit" : "1"
+  } ]
+}

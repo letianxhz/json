@@ -1,0 +1,40 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "type" : "type@string"
+  },
+  "rows" : [ {
+    "id" : "任务组id",
+    "type" : "任务类型"
+  }, {
+    "id" : "lord_quest_group_equipment_1",
+    "type" : "equipment"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_1_2",
+    "type" : "dragon_emblem"
+  }, {
+    "id" : "lord_quest_group_parliament_hero_1_1",
+    "type" : "parliament_hero"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_1",
+    "type" : "gemstone"
+  }, {
+    "id" : "lord_quest_group_building_statue_1",
+    "type" : "building_statue"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_2",
+    "type" : "gemstone"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_2",
+    "type" : "dragon_emblem"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_3",
+    "type" : "gemstone"
+  }, {
+    "id" : "lord_quest_group_equipment_2",
+    "type" : "equipment"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_4",
+    "type" : "gemstone"
+  } ]
+}

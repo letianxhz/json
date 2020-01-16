@@ -1,0 +1,84 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "default_open" : "default_open@int",
+    "activity_type" : "activity_type@string",
+    "score_type" : "score_type@int",
+    "begin_time" : "begin_time@int",
+    "report_time" : "report_time@int",
+    "last_time" : "last_time@int",
+    "close_time" : "close_time@int",
+    "welfare_center_id" : "welfare_center_id@welfare_center.id"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "default_open" : "新服默认开启",
+    "activity_type" : "活动类型",
+    "score_type" : "积分类型\n0：联盟\n1：个人",
+    "begin_time" : "开服后预告时间（秒）",
+    "report_time" : "预告持续时间",
+    "last_time" : "正式活动时间",
+    "close_time" : "完全关闭时间",
+    "welfare_center_id" : "福利中心id"
+  }, {
+    "id" : "alliance_limit_1",
+    "default_open" : "1",
+    "activity_type" : "active_score",
+    "score_type" : "0",
+    "begin_time" : "86400",
+    "report_time" : "86400",
+    "last_time" : "172800",
+    "close_time" : "259200",
+    "welfare_center_id" : "14"
+  }, {
+    "id" : "alliance_limit_2",
+    "default_open" : "1",
+    "activity_type" : "cooperation_score",
+    "score_type" : "0",
+    "begin_time" : "259200",
+    "report_time" : "86400",
+    "last_time" : "345600",
+    "close_time" : "259200",
+    "welfare_center_id" : "15"
+  }, {
+    "id" : "alliance_limit_3",
+    "default_open" : "1",
+    "activity_type" : "verify_score",
+    "score_type" : "0",
+    "begin_time" : "604800",
+    "report_time" : "86400",
+    "last_time" : "604800",
+    "close_time" : "259200",
+    "welfare_center_id" : "16"
+  }, {
+    "id" : "alliance_limit_1_1",
+    "default_open" : "0",
+    "activity_type" : "active_score",
+    "score_type" : "0",
+    "begin_time" : "86400",
+    "report_time" : "86400",
+    "last_time" : "172800",
+    "close_time" : "259200",
+    "welfare_center_id" : "14"
+  }, {
+    "id" : "alliance_limit_1_2",
+    "default_open" : "0",
+    "activity_type" : "cooperation_score",
+    "score_type" : "0",
+    "begin_time" : "259200",
+    "report_time" : "86400",
+    "last_time" : "345600",
+    "close_time" : "259200",
+    "welfare_center_id" : "15"
+  }, {
+    "id" : "alliance_limit_1_3",
+    "default_open" : "0",
+    "activity_type" : "verify_score",
+    "score_type" : "0",
+    "begin_time" : "604800",
+    "report_time" : "86400",
+    "last_time" : "604800",
+    "close_time" : "259200",
+    "welfare_center_id" : "16"
+  } ]
+}

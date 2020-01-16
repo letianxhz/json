@@ -1,0 +1,67 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "type" : "type@int",
+    "day" : "day@int",
+    "trigger_land_id" : "trigger_land_id@int",
+    "value_1" : "value_1@int",
+    "value_2" : "value_2@int",
+    "value_3" : "value_3@war_symphony_cam_tactic_group.id",
+    "effect_land_id" : "effect_land_id@int",
+    "name" : "name@string",
+    "desc" : "desc@string",
+    "dialogue" : "dialogue@npc_dialogue.id",
+    "" : ""
+  },
+  "rows" : [ {
+    "id" : "id",
+    "type" : "事件类型",
+    "day" : "触发天数",
+    "trigger_land_id" : "触发地块",
+    "value_1" : "触发效果1",
+    "value_2" : "触发效果2",
+    "value_3" : "触发事件卡",
+    "effect_land_id" : "生效地块ID",
+    "name" : "效果名称",
+    "desc" : "效果描述",
+    "dialogue" : "引导对话"
+  }, {
+    "id" : "1",
+    "type" : "1",
+    "day" : "5",
+    "trigger_land_id" : "0",
+    "effect_land_id" : "1",
+    "name" : "[ffc63d]试炼目标[-]",
+    "desc" : "战场局势紧张，总部特意空投的[00FF00]补给物资[-]，物资是战争中最重要的物品，可以用来恢复在战争中丧失战斗力的部队，让他们重新投入战争，陷阵冲锋！",
+    "dialogue" : "campaign_dialog_3009"
+  }, {
+    "id" : "2",
+    "type" : "1",
+    "day" : "5",
+    "trigger_land_id" : "1",
+    "value_3" : "4",
+    "effect_land_id" : "2",
+    "name" : "[00FF00]+20物资[-]",
+    "desc" : "战场局势紧张，总部特意空投的[00FF00]补给物资[-]，物资是战争中最重要的物品，可以用来恢复在战争中丧失战斗力的部队，让他们重新投入战争，陷阵冲锋！",
+    "dialogue" : "campaign_dialog_3010"
+  }, {
+    "id" : "3",
+    "type" : "1",
+    "day" : "5",
+    "trigger_land_id" : "2",
+    "effect_land_id" : "3",
+    "name" : "[ffc63d]第一次选择[-]",
+    "desc" : "战场局势紧张，总部特意空投的[00FF00]补给物资[-]，物资是战争中最重要的物品，可以用来恢复在战争中丧失战斗力的部队，让他们重新投入战争，陷阵冲锋！",
+    "dialogue" : "campaign_dialog_3009"
+  }, {
+    "id" : "4",
+    "type" : "1",
+    "day" : "5",
+    "trigger_land_id" : "3",
+    "value_3" : "1",
+    "effect_land_id" : "4",
+    "name" : "[ffc63d]空中支援[-]",
+    "desc" : "总部派来的空中武装部队，可以为我们提供[ffc63d]空中火力支援[-]，将[FF0000]战役目标[-]政府大楼地区的地方兵力[FF0000]-40[-].",
+    "dialogue" : "campaign_dialog_3011"
+  } ]
+}

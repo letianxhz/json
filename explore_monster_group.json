@@ -1,0 +1,68 @@
+{
+  "header" : {
+    "id" : "id@string"
+  },
+  "rows" : [ {
+    "id" : "id"
+  }, {
+    "id" : "explore_monster_group_10001"
+  }, {
+    "id" : "explore_monster_group_10002"
+  }, {
+    "id" : "explore_monster_group_10003"
+  }, {
+    "id" : "explore_monster_group_10004"
+  }, {
+    "id" : "explore_monster_group_10005"
+  }, {
+    "id" : "explore_monster_group_1"
+  }, {
+    "id" : "explore_monster_group_2"
+  }, {
+    "id" : "explore_monster_group_3"
+  }, {
+    "id" : "explore_monster_group_4"
+  }, {
+    "id" : "explore_monster_group_5"
+  }, {
+    "id" : "explore_monster_group_6"
+  }, {
+    "id" : "explore_monster_group_7"
+  }, {
+    "id" : "explore_monster_group_8"
+  }, {
+    "id" : "explore_monster_group_9"
+  }, {
+    "id" : "explore_monster_group_10"
+  }, {
+    "id" : "explore_monster_group_11"
+  }, {
+    "id" : "explore_monster_group_12"
+  }, {
+    "id" : "explore_monster_group_13"
+  }, {
+    "id" : "explore_monster_group_14"
+  }, {
+    "id" : "explore_monster_group_15"
+  }, {
+    "id" : "explore_monster_group_16"
+  }, {
+    "id" : "explore_monster_group_17"
+  }, {
+    "id" : "activity_explore_1_monster_group_1"
+  }, {
+    "id" : "activity_explore_1_monster_group_2"
+  }, {
+    "id" : "activity_explore_1_monster_group_3"
+  }, {
+    "id" : "activity_explore_1_monster_group_4"
+  }, {
+    "id" : "activity_explore_1_monster_group_5"
+  }, {
+    "id" : "activity_explore_1_monster_group_6"
+  }, {
+    "id" : "activity_explore_1_monster_group_7"
+  }, {
+    "id" : "activity_explore_1_boss_monster_group_1"
+  } ]
+}

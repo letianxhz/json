@@ -1,0 +1,114 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "type" : "type@string",
+    "pay_id" : "pay_id@string",
+    "cm_env_pay_id" : "cm_env_pay_id@string",
+    "name" : "name@string",
+    "description" : "description@string^c",
+    "reward_id_1" : "reward_id_1@itemlist.id",
+    "reward_value_1" : "reward_value_1@int",
+    "analysis_group" : "analysis_group@string",
+    "analysis_category" : "analysis_category@string",
+    "priority" : "priority@int",
+    "icon" : "icon@string"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "type" : "类型",
+    "pay_id" : "支付id",
+    "cm_env_pay_id" : "根据环境取得支付id配置",
+    "name" : "名称",
+    "description" : "描述",
+    "reward_id_1" : "奖励道具id_1",
+    "reward_value_1" : "奖励道具数量_1",
+    "analysis_group" : "礼包分析分组",
+    "analysis_category" : "礼包分析类别",
+    "priority" : "礼包排序",
+    "icon" : "图标"
+  }, {
+    "id" : "iap_kingdom_hospital_healing",
+    "type" : "kingdom_hospital_healing",
+    "pay_id" : "com.funplus.koa.gold5",
+    "cm_env_pay_id" : "koa_global_default|com.funplus.koa.gold5,koa_37_default|com.funplus.koa.gold5,gog_global_default|com.diandian.gog.gold5,gog_cn_default|com.diandian.gog.gold5,gog_ly_default|com.diandian.gog.gold5,ww2_global_default|com.funplus.koa.gold5,ww2_cn_default|com.funplus.koa.gold5",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "analysis_group" : "国家医院"
+  }, {
+    "id" : "iap_dragon_phantom_1",
+    "type" : "dragon_phantom",
+    "pay_id" : "com.funplus.koa.gold3",
+    "cm_env_pay_id" : "koa_global_default|com.funplus.koa.gold3,koa_37_default|com.funplus.koa.gold3,gog_global_default|com.diandian.gog.gold3,gog_cn_default|com.diandian.gog.gold3,gog_ly_default|com.diandian.gog.gold3,ww2_global_default|com.funplus.koa.gold3,ww2_cn_default|com.funplus.koa.gold3",
+    "name" : "item_dragon_shadow_1d_name",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "analysis_group" : "飞艇租赁",
+    "analysis_category" : "1"
+  }, {
+    "id" : "iap_dragon_phantom_2",
+    "type" : "dragon_phantom",
+    "pay_id" : "com.funplus.koa.gold5",
+    "cm_env_pay_id" : "koa_global_default|com.funplus.koa.gold5,koa_37_default|com.funplus.koa.gold5,gog_global_default|com.diandian.gog.gold5,gog_cn_default|com.diandian.gog.gold5,gog_ly_default|com.diandian.gog.gold5,ww2_global_default|com.funplus.koa.gold5,ww2_cn_default|com.funplus.koa.gold5",
+    "name" : "item_dragon_shadow_7d_name",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "analysis_group" : "飞艇租赁",
+    "analysis_category" : "7"
+  }, {
+    "id" : "piggy_bank_payment",
+    "type" : "piggy_bank",
+    "pay_id" : "com.funplus.koa.gold2",
+    "cm_env_pay_id" : "koa_global_default|com.funplus.koa.gold2,koa_37_default|com.funplus.koa.gold2,gog_global_default|com.diandian.gog.gold2,gog_cn_default|com.diandian.gog.gold2,gog_ly_default|com.diandian.gog.gold2,ww2_global_default|com.funplus.koa.gold2,ww2_cn_default|com.funplus.koa.gold2",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "analysis_group" : "战争基金"
+  }, {
+    "id" : "fund_city_level",
+    "type" : "fund_city_level",
+    "pay_id" : "com.funplus.koa.gold1",
+    "cm_env_pay_id" : "koa_global_default|com.funplus.koa.gold1,koa_37_default|com.funplus.koa.gold1,gog_global_default|com.diandian.gog.gold1,gog_cn_default|com.diandian.gog.gold1,gog_ly_default|com.diandian.gog.gold1,ww2_global_default|com.funplus.koa.gold1,ww2_cn_default|com.funplus.koa.gold1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "analysis_group" : "成长基金",
+    "analysis_category" : "成长基金"
+  }, {
+    "id" : "iap_honor_pass_2",
+    "type" : "honor_pass",
+    "pay_id" : "com.funplus.koa.gold1",
+    "cm_env_pay_id" : "koa_global_default|com.funplus.koa.gold1,koa_37_default|com.funplus.koa.gold1,gog_global_default|com.diandian.gog.gold1,gog_cn_default|com.diandian.gog.gold1,gog_ly_default|com.diandian.gog.gold1,ww2_global_default|com.funplus.koa.gold1,ww2_cn_default|com.funplus.koa.gold1",
+    "name" : "iap_honor_pass_2_name",
+    "description" : "iap_honor_pass_2_description",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "analysis_group" : "季票",
+    "analysis_category" : "季票",
+    "priority" : "5001",
+    "icon" : "iap_honor_pass_2"
+  }, {
+    "id" : "iap_honor_pass_3",
+    "type" : "honor_pass",
+    "pay_id" : "com.funplus.koa.gold2",
+    "cm_env_pay_id" : "koa_global_default|com.funplus.koa.gold2,koa_37_default|com.funplus.koa.gold2,gog_global_default|com.diandian.gog.gold2,gog_cn_default|com.diandian.gog.gold2,gog_ly_default|com.diandian.gog.gold2,ww2_global_default|com.funplus.koa.gold2,ww2_cn_default|com.funplus.koa.gold2",
+    "name" : "iap_honor_pass_3_name",
+    "description" : "iap_honor_pass_3_description",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "analysis_group" : "季票",
+    "analysis_category" : "季票",
+    "priority" : "5002",
+    "icon" : "iap_honor_pass_3"
+  }, {
+    "id" : "iap_thanksg_pass_3",
+    "type" : "thanksg_pass",
+    "pay_id" : "com.funplus.koa.gold1",
+    "cm_env_pay_id" : "koa_global_default|com.funplus.koa.gold1,koa_37_default|com.funplus.koa.gold1,gog_global_default|com.diandian.gog.gold1,gog_cn_default|com.diandian.gog.gold1,gog_ly_default|com.diandian.gog.gold1,ww2_global_default|com.funplus.koa.gold1,ww2_cn_default|com.funplus.koa.gold1",
+    "name" : "event_thanksgiving_season_pass_advance_title",
+    "description" : "event_thanksgiving_season_pass_advance_glory_description",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "analysis_group" : "感恩节季票",
+    "analysis_category" : "感恩节季票",
+    "priority" : "5003",
+    "icon" : "thanksg_badge_1_2"
+  } ]
+}

@@ -1,0 +1,144 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "button_group" : "button_group@int",
+    "is_use" : "is_use@int",
+    "type" : "type@string",
+    "param" : "param@string",
+    "type2" : "type2@string",
+    "param2" : "param2@string"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "button_group" : "按钮组号\n礼包按钮为1，顺时针转",
+    "is_use" : "是否使用",
+    "type" : "条件类型\nquest_group:章节任务ID\ncity_level：主城等级\ntutorial：指引",
+    "param" : "参数1",
+    "type2" : "条件类型\nquest_group:章节任务ID\ncity_level：主城等级\ntutorial：指引",
+    "param2" : "参数2"
+  }, {
+    "id" : "1",
+    "button_group" : "1",
+    "is_use" : "1",
+    "type" : "quest_group",
+    "param" : "296"
+  }, {
+    "id" : "2",
+    "button_group" : "2",
+    "is_use" : "1",
+    "type" : "city_level",
+    "param" : "3",
+    "type2" : "quest_group",
+    "param2" : "297"
+  }, {
+    "id" : "3",
+    "button_group" : "3",
+    "is_use" : "1",
+    "type" : "quest_group",
+    "param" : "296"
+  }, {
+    "id" : "4",
+    "button_group" : "4",
+    "is_use" : "1",
+    "type" : "quest_group",
+    "param" : "301",
+    "type2" : "city_level",
+    "param2" : "6"
+  }, {
+    "id" : "5",
+    "button_group" : "5",
+    "is_use" : "1",
+    "type" : "quest_group",
+    "param" : "296"
+  }, {
+    "id" : "6",
+    "button_group" : "6",
+    "is_use" : "1",
+    "type" : "quest_group",
+    "param" : "297",
+    "type2" : "city_level",
+    "param2" : "3"
+  }, {
+    "id" : "7",
+    "button_group" : "7",
+    "is_use" : "1",
+    "type" : "quest_group",
+    "param" : "296"
+  }, {
+    "id" : "8",
+    "button_group" : "8",
+    "is_use" : "1",
+    "type" : "quest_group",
+    "param" : "297",
+    "type2" : "city_level",
+    "param2" : "3"
+  }, {
+    "id" : "9",
+    "button_group" : "9",
+    "is_use" : "1",
+    "type" : "quest_group",
+    "param" : "298",
+    "type2" : "city_level",
+    "param2" : "3"
+  }, {
+    "id" : "10",
+    "button_group" : "10",
+    "is_use" : "1",
+    "type" : "quest_group",
+    "param" : "297",
+    "type2" : "city_level",
+    "param2" : "4"
+  }, {
+    "id" : "11",
+    "button_group" : "11",
+    "is_use" : "1",
+    "type" : "quest_group",
+    "param" : "297",
+    "type2" : "city_level",
+    "param2" : "3"
+  }, {
+    "id" : "12",
+    "button_group" : "12",
+    "is_use" : "1",
+    "type" : "wall_level_begin",
+    "param" : "5"
+  }, {
+    "id" : "13",
+    "button_group" : "13",
+    "is_use" : "1",
+    "type" : "city_level",
+    "param" : "2"
+  }, {
+    "id" : "14",
+    "button_group" : "14",
+    "is_use" : "1",
+    "type" : "quest_group",
+    "param" : "296"
+  }, {
+    "id" : "15",
+    "button_group" : "15",
+    "is_use" : "1",
+    "type" : "city_level",
+    "param" : "6"
+  }, {
+    "id" : "16",
+    "button_group" : "16",
+    "is_use" : "1",
+    "type" : "city_level",
+    "param" : "5"
+  }, {
+    "id" : "17",
+    "button_group" : "10",
+    "is_use" : "0",
+    "type" : "wall_level_begin",
+    "param" : "5"
+  }, {
+    "id" : "18",
+    "button_group" : "17",
+    "is_use" : "1",
+    "type" : "city_level",
+    "param" : "5"
+  }, {
+    "type" : " "
+  } ]
+}

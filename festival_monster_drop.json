@@ -1,0 +1,827 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "monster_drop_group" : "monster_drop_group@string",
+    "monster_id" : "monster_id@world_encounter.id",
+    "reward_id_1" : "reward_id_1@itemlist.id",
+    "reward_value_1" : "reward_value_1@int",
+    "chance" : "chance@int",
+    "drop_group_id_1" : "drop_group_id_1@drop_group.id",
+    "drop_group_chance_1" : "drop_group_chance_1@float"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "monster_drop_group" : "掉落组",
+    "monster_id" : "怪物id",
+    "reward_id_1" : "奖励道具id_1",
+    "reward_value_1" : "奖励道具数量_1",
+    "chance" : "概率",
+    "drop_group_id_1" : "掉落组1",
+    "drop_group_chance_1" : "概率"
+  }, {
+    "id" : "1",
+    "monster_drop_group" : "shoot_lottery_drop",
+    "monster_id" : "monster_1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "0.7008"
+  }, {
+    "id" : "2",
+    "monster_drop_group" : "shoot_lottery_drop",
+    "monster_id" : "monster_2",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "0.7511"
+  }, {
+    "id" : "3",
+    "monster_drop_group" : "shoot_lottery_drop",
+    "monster_id" : "monster_3",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "0.7822"
+  }, {
+    "id" : "4",
+    "monster_drop_group" : "shoot_lottery_drop",
+    "monster_id" : "monster_4",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "0.805"
+  }, {
+    "id" : "5",
+    "monster_drop_group" : "shoot_lottery_drop",
+    "monster_id" : "monster_5",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "0.8232"
+  }, {
+    "id" : "6",
+    "monster_drop_group" : "shoot_lottery_drop",
+    "monster_id" : "monster_6",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "0.8383"
+  }, {
+    "id" : "7",
+    "monster_drop_group" : "shoot_lottery_drop",
+    "monster_id" : "monster_7",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "0.8513"
+  }, {
+    "id" : "8",
+    "monster_drop_group" : "shoot_lottery_drop",
+    "monster_id" : "monster_8",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "0.8628"
+  }, {
+    "id" : "9",
+    "monster_drop_group" : "shoot_lottery_drop",
+    "monster_id" : "monster_9",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "0.873"
+  }, {
+    "id" : "10",
+    "monster_drop_group" : "shoot_lottery_drop",
+    "monster_id" : "monster_10",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "0.8823"
+  }, {
+    "id" : "11",
+    "monster_drop_group" : "shoot_lottery_drop",
+    "monster_id" : "monster_11",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "0.8907"
+  }, {
+    "id" : "12",
+    "monster_drop_group" : "shoot_lottery_drop",
+    "monster_id" : "monster_12",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "0.8985"
+  }, {
+    "id" : "13",
+    "monster_drop_group" : "shoot_lottery_drop",
+    "monster_id" : "monster_13",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "0.9057"
+  }, {
+    "id" : "14",
+    "monster_drop_group" : "shoot_lottery_drop",
+    "monster_id" : "monster_14",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "0.9124"
+  }, {
+    "id" : "15",
+    "monster_drop_group" : "shoot_lottery_drop",
+    "monster_id" : "monster_15",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "0.9188"
+  }, {
+    "id" : "16",
+    "monster_drop_group" : "shoot_lottery_drop",
+    "monster_id" : "monster_16",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "0.9247"
+  }, {
+    "id" : "17",
+    "monster_drop_group" : "shoot_lottery_drop",
+    "monster_id" : "monster_17",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "0.9303"
+  }, {
+    "id" : "18",
+    "monster_drop_group" : "shoot_lottery_drop",
+    "monster_id" : "monster_18",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "0.9357"
+  }, {
+    "id" : "19",
+    "monster_drop_group" : "shoot_lottery_drop",
+    "monster_id" : "monster_19",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "0.9407"
+  }, {
+    "id" : "20",
+    "monster_drop_group" : "shoot_lottery_drop",
+    "monster_id" : "monster_20",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "0.9456"
+  }, {
+    "id" : "21",
+    "monster_drop_group" : "shoot_lottery_drop",
+    "monster_id" : "monster_21",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "0.9502"
+  }, {
+    "id" : "22",
+    "monster_drop_group" : "shoot_lottery_drop",
+    "monster_id" : "monster_22",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "0.9546"
+  }, {
+    "id" : "23",
+    "monster_drop_group" : "shoot_lottery_drop",
+    "monster_id" : "monster_23",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "0.9589"
+  }, {
+    "id" : "24",
+    "monster_drop_group" : "shoot_lottery_drop",
+    "monster_id" : "monster_24",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "0.963"
+  }, {
+    "id" : "25",
+    "monster_drop_group" : "shoot_lottery_drop",
+    "monster_id" : "monster_25",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "0.9669"
+  }, {
+    "id" : "26",
+    "monster_drop_group" : "shoot_lottery_drop",
+    "monster_id" : "monster_26",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "0.9707"
+  }, {
+    "id" : "27",
+    "monster_drop_group" : "shoot_lottery_drop",
+    "monster_id" : "monster_27",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "0.9744"
+  }, {
+    "id" : "28",
+    "monster_drop_group" : "shoot_lottery_drop",
+    "monster_id" : "monster_28",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "0.9779"
+  }, {
+    "id" : "29",
+    "monster_drop_group" : "shoot_lottery_drop",
+    "monster_id" : "monster_29",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "0.9814"
+  }, {
+    "id" : "30",
+    "monster_drop_group" : "shoot_lottery_drop",
+    "monster_id" : "monster_30",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "0.9847"
+  }, {
+    "id" : "31",
+    "monster_drop_group" : "shoot_lottery_drop",
+    "monster_id" : "monster_31",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "0.9879"
+  }, {
+    "id" : "32",
+    "monster_drop_group" : "shoot_lottery_drop",
+    "monster_id" : "monster_32",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "0.9911"
+  }, {
+    "id" : "33",
+    "monster_drop_group" : "shoot_lottery_drop",
+    "monster_id" : "monster_33",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "0.9941"
+  }, {
+    "id" : "34",
+    "monster_drop_group" : "shoot_lottery_drop",
+    "monster_id" : "monster_34",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "0.9971"
+  }, {
+    "id" : "35",
+    "monster_drop_group" : "shoot_lottery_drop",
+    "monster_id" : "monster_35",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "1"
+  }, {
+    "id" : "36",
+    "monster_drop_group" : "thanksg_2019_gift_drop",
+    "monster_id" : "monster_1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "0.5443",
+    "drop_group_id_1" : "drop_group_thanksg_2019_gift_1",
+    "drop_group_chance_1" : "1"
+  }, {
+    "id" : "37",
+    "monster_drop_group" : "thanksg_2019_gift_drop",
+    "monster_id" : "monster_2",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "0.6099",
+    "drop_group_id_1" : "drop_group_thanksg_2019_gift_1",
+    "drop_group_chance_1" : "1"
+  }, {
+    "id" : "38",
+    "monster_drop_group" : "thanksg_2019_gift_drop",
+    "monster_id" : "monster_3",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "0.6496",
+    "drop_group_id_1" : "drop_group_thanksg_2019_gift_1",
+    "drop_group_chance_1" : "1"
+  }, {
+    "id" : "39",
+    "monster_drop_group" : "thanksg_2019_gift_drop",
+    "monster_id" : "monster_4",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "0.6783",
+    "drop_group_id_1" : "drop_group_thanksg_2019_gift_1",
+    "drop_group_chance_1" : "1"
+  }, {
+    "id" : "40",
+    "monster_drop_group" : "thanksg_2019_gift_drop",
+    "monster_id" : "monster_5",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "0.7009",
+    "drop_group_id_1" : "drop_group_thanksg_2019_gift_1",
+    "drop_group_chance_1" : "1"
+  }, {
+    "id" : "41",
+    "monster_drop_group" : "thanksg_2019_gift_drop",
+    "monster_id" : "monster_6",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "0.7196",
+    "drop_group_id_1" : "drop_group_thanksg_2019_gift_1",
+    "drop_group_chance_1" : "1"
+  }, {
+    "id" : "42",
+    "monster_drop_group" : "thanksg_2019_gift_drop",
+    "monster_id" : "monster_7",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "0.7356",
+    "drop_group_id_1" : "drop_group_thanksg_2019_gift_1",
+    "drop_group_chance_1" : "1"
+  }, {
+    "id" : "43",
+    "monster_drop_group" : "thanksg_2019_gift_drop",
+    "monster_id" : "monster_8",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "0.7495",
+    "drop_group_id_1" : "drop_group_thanksg_2019_gift_1",
+    "drop_group_chance_1" : "1"
+  }, {
+    "id" : "44",
+    "monster_drop_group" : "thanksg_2019_gift_drop",
+    "monster_id" : "monster_9",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "0.7619",
+    "drop_group_id_1" : "drop_group_thanksg_2019_gift_1",
+    "drop_group_chance_1" : "1"
+  }, {
+    "id" : "45",
+    "monster_drop_group" : "thanksg_2019_gift_drop",
+    "monster_id" : "monster_10",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "0.7731",
+    "drop_group_id_1" : "drop_group_thanksg_2019_gift_2",
+    "drop_group_chance_1" : "1"
+  }, {
+    "id" : "46",
+    "monster_drop_group" : "thanksg_2019_gift_drop",
+    "monster_id" : "monster_11",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "0.7833",
+    "drop_group_id_1" : "drop_group_thanksg_2019_gift_2",
+    "drop_group_chance_1" : "1"
+  }, {
+    "id" : "47",
+    "monster_drop_group" : "thanksg_2019_gift_drop",
+    "monster_id" : "monster_12",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "0.7926",
+    "drop_group_id_1" : "drop_group_thanksg_2019_gift_2",
+    "drop_group_chance_1" : "1"
+  }, {
+    "id" : "48",
+    "monster_drop_group" : "thanksg_2019_gift_drop",
+    "monster_id" : "monster_13",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "0.8013",
+    "drop_group_id_1" : "drop_group_thanksg_2019_gift_2",
+    "drop_group_chance_1" : "1"
+  }, {
+    "id" : "49",
+    "monster_drop_group" : "thanksg_2019_gift_drop",
+    "monster_id" : "monster_14",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "0.8093",
+    "drop_group_id_1" : "drop_group_thanksg_2019_gift_2",
+    "drop_group_chance_1" : "1"
+  }, {
+    "id" : "50",
+    "monster_drop_group" : "thanksg_2019_gift_drop",
+    "monster_id" : "monster_15",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "0.8168",
+    "drop_group_id_1" : "drop_group_thanksg_2019_gift_3",
+    "drop_group_chance_1" : "1"
+  }, {
+    "id" : "51",
+    "monster_drop_group" : "thanksg_2019_gift_drop",
+    "monster_id" : "monster_16",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "0.8238",
+    "drop_group_id_1" : "drop_group_thanksg_2019_gift_3",
+    "drop_group_chance_1" : "1"
+  }, {
+    "id" : "52",
+    "monster_drop_group" : "thanksg_2019_gift_drop",
+    "monster_id" : "monster_17",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "0.8305",
+    "drop_group_id_1" : "drop_group_thanksg_2019_gift_3",
+    "drop_group_chance_1" : "1"
+  }, {
+    "id" : "53",
+    "monster_drop_group" : "thanksg_2019_gift_drop",
+    "monster_id" : "monster_18",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "0.8368",
+    "drop_group_id_1" : "drop_group_thanksg_2019_gift_3",
+    "drop_group_chance_1" : "1"
+  }, {
+    "id" : "54",
+    "monster_drop_group" : "thanksg_2019_gift_drop",
+    "monster_id" : "monster_19",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "0.8427",
+    "drop_group_id_1" : "drop_group_thanksg_2019_gift_3",
+    "drop_group_chance_1" : "1"
+  }, {
+    "id" : "55",
+    "monster_drop_group" : "thanksg_2019_gift_drop",
+    "monster_id" : "monster_20",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "0.8484",
+    "drop_group_id_1" : "drop_group_thanksg_2019_gift_4",
+    "drop_group_chance_1" : "1"
+  }, {
+    "id" : "56",
+    "monster_drop_group" : "thanksg_2019_gift_drop",
+    "monster_id" : "monster_21",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "0.8538",
+    "drop_group_id_1" : "drop_group_thanksg_2019_gift_4",
+    "drop_group_chance_1" : "1"
+  }, {
+    "id" : "57",
+    "monster_drop_group" : "thanksg_2019_gift_drop",
+    "monster_id" : "monster_22",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "0.859",
+    "drop_group_id_1" : "drop_group_thanksg_2019_gift_4",
+    "drop_group_chance_1" : "1"
+  }, {
+    "id" : "58",
+    "monster_drop_group" : "thanksg_2019_gift_drop",
+    "monster_id" : "monster_23",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "0.864",
+    "drop_group_id_1" : "drop_group_thanksg_2019_gift_4",
+    "drop_group_chance_1" : "1"
+  }, {
+    "id" : "59",
+    "monster_drop_group" : "thanksg_2019_gift_drop",
+    "monster_id" : "monster_24",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "0.8688",
+    "drop_group_id_1" : "drop_group_thanksg_2019_gift_4",
+    "drop_group_chance_1" : "1"
+  }, {
+    "id" : "60",
+    "monster_drop_group" : "thanksg_2019_gift_drop",
+    "monster_id" : "monster_25",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "0.8733",
+    "drop_group_id_1" : "drop_group_thanksg_2019_gift_4",
+    "drop_group_chance_1" : "1"
+  }, {
+    "id" : "61",
+    "monster_drop_group" : "thanksg_2019_gift_drop",
+    "monster_id" : "monster_26",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "0.8777",
+    "drop_group_id_1" : "drop_group_thanksg_2019_gift_4",
+    "drop_group_chance_1" : "1"
+  }, {
+    "id" : "62",
+    "monster_drop_group" : "thanksg_2019_gift_drop",
+    "monster_id" : "monster_27",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "0.882",
+    "drop_group_id_1" : "drop_group_thanksg_2019_gift_4",
+    "drop_group_chance_1" : "1"
+  }, {
+    "id" : "63",
+    "monster_drop_group" : "thanksg_2019_gift_drop",
+    "monster_id" : "monster_28",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "0.8861",
+    "drop_group_id_1" : "drop_group_thanksg_2019_gift_4",
+    "drop_group_chance_1" : "1"
+  }, {
+    "id" : "64",
+    "monster_drop_group" : "thanksg_2019_gift_drop",
+    "monster_id" : "monster_29",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "0.8901",
+    "drop_group_id_1" : "drop_group_thanksg_2019_gift_4",
+    "drop_group_chance_1" : "1"
+  }, {
+    "id" : "65",
+    "monster_drop_group" : "thanksg_2019_gift_drop",
+    "monster_id" : "monster_30",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "0.8939",
+    "drop_group_id_1" : "drop_group_thanksg_2019_gift_4",
+    "drop_group_chance_1" : "1"
+  }, {
+    "id" : "66",
+    "monster_drop_group" : "thanksg_2019_gift_drop",
+    "monster_id" : "monster_31",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "0.9002",
+    "drop_group_id_1" : "drop_group_thanksg_2019_gift_4",
+    "drop_group_chance_1" : "1"
+  }, {
+    "id" : "67",
+    "monster_drop_group" : "thanksg_2019_gift_drop",
+    "monster_id" : "monster_32",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "0.9062",
+    "drop_group_id_1" : "drop_group_thanksg_2019_gift_4",
+    "drop_group_chance_1" : "1"
+  }, {
+    "id" : "68",
+    "monster_drop_group" : "thanksg_2019_gift_drop",
+    "monster_id" : "monster_33",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "0.9121",
+    "drop_group_id_1" : "drop_group_thanksg_2019_gift_4",
+    "drop_group_chance_1" : "1"
+  }, {
+    "id" : "69",
+    "monster_drop_group" : "thanksg_2019_gift_drop",
+    "monster_id" : "monster_34",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "0.9178",
+    "drop_group_id_1" : "drop_group_thanksg_2019_gift_4",
+    "drop_group_chance_1" : "1"
+  }, {
+    "id" : "70",
+    "monster_drop_group" : "thanksg_2019_gift_drop",
+    "monster_id" : "monster_35",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "0.9234",
+    "drop_group_id_1" : "drop_group_thanksg_2019_gift_4",
+    "drop_group_chance_1" : "1"
+  }, {
+    "id" : "71",
+    "monster_drop_group" : "christmas_2019_gift_drop",
+    "monster_id" : "monster_1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "1"
+  }, {
+    "id" : "72",
+    "monster_drop_group" : "christmas_2019_gift_drop",
+    "monster_id" : "monster_2",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "1"
+  }, {
+    "id" : "73",
+    "monster_drop_group" : "christmas_2019_gift_drop",
+    "monster_id" : "monster_3",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "1"
+  }, {
+    "id" : "74",
+    "monster_drop_group" : "christmas_2019_gift_drop",
+    "monster_id" : "monster_4",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "1"
+  }, {
+    "id" : "75",
+    "monster_drop_group" : "christmas_2019_gift_drop",
+    "monster_id" : "monster_5",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "1"
+  }, {
+    "id" : "76",
+    "monster_drop_group" : "christmas_2019_gift_drop",
+    "monster_id" : "monster_6",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "1"
+  }, {
+    "id" : "77",
+    "monster_drop_group" : "christmas_2019_gift_drop",
+    "monster_id" : "monster_7",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "1"
+  }, {
+    "id" : "78",
+    "monster_drop_group" : "christmas_2019_gift_drop",
+    "monster_id" : "monster_8",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "1"
+  }, {
+    "id" : "79",
+    "monster_drop_group" : "christmas_2019_gift_drop",
+    "monster_id" : "monster_9",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "1"
+  }, {
+    "id" : "80",
+    "monster_drop_group" : "christmas_2019_gift_drop",
+    "monster_id" : "monster_10",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "1"
+  }, {
+    "id" : "81",
+    "monster_drop_group" : "christmas_2019_gift_drop",
+    "monster_id" : "monster_11",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "1"
+  }, {
+    "id" : "82",
+    "monster_drop_group" : "christmas_2019_gift_drop",
+    "monster_id" : "monster_12",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "1"
+  }, {
+    "id" : "83",
+    "monster_drop_group" : "christmas_2019_gift_drop",
+    "monster_id" : "monster_13",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "1"
+  }, {
+    "id" : "84",
+    "monster_drop_group" : "christmas_2019_gift_drop",
+    "monster_id" : "monster_14",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "1"
+  }, {
+    "id" : "85",
+    "monster_drop_group" : "christmas_2019_gift_drop",
+    "monster_id" : "monster_15",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "1"
+  }, {
+    "id" : "86",
+    "monster_drop_group" : "christmas_2019_gift_drop",
+    "monster_id" : "monster_16",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "1"
+  }, {
+    "id" : "87",
+    "monster_drop_group" : "christmas_2019_gift_drop",
+    "monster_id" : "monster_17",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "1"
+  }, {
+    "id" : "88",
+    "monster_drop_group" : "christmas_2019_gift_drop",
+    "monster_id" : "monster_18",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "1"
+  }, {
+    "id" : "89",
+    "monster_drop_group" : "christmas_2019_gift_drop",
+    "monster_id" : "monster_19",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "1"
+  }, {
+    "id" : "90",
+    "monster_drop_group" : "christmas_2019_gift_drop",
+    "monster_id" : "monster_20",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "1"
+  }, {
+    "id" : "91",
+    "monster_drop_group" : "christmas_2019_gift_drop",
+    "monster_id" : "monster_21",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "1"
+  }, {
+    "id" : "92",
+    "monster_drop_group" : "christmas_2019_gift_drop",
+    "monster_id" : "monster_22",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "1"
+  }, {
+    "id" : "93",
+    "monster_drop_group" : "christmas_2019_gift_drop",
+    "monster_id" : "monster_23",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "1"
+  }, {
+    "id" : "94",
+    "monster_drop_group" : "christmas_2019_gift_drop",
+    "monster_id" : "monster_24",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "1"
+  }, {
+    "id" : "95",
+    "monster_drop_group" : "christmas_2019_gift_drop",
+    "monster_id" : "monster_25",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "1"
+  }, {
+    "id" : "96",
+    "monster_drop_group" : "christmas_2019_gift_drop",
+    "monster_id" : "monster_26",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "1"
+  }, {
+    "id" : "97",
+    "monster_drop_group" : "christmas_2019_gift_drop",
+    "monster_id" : "monster_27",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "1"
+  }, {
+    "id" : "98",
+    "monster_drop_group" : "christmas_2019_gift_drop",
+    "monster_id" : "monster_28",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "1"
+  }, {
+    "id" : "99",
+    "monster_drop_group" : "christmas_2019_gift_drop",
+    "monster_id" : "monster_29",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "1"
+  }, {
+    "id" : "100",
+    "monster_drop_group" : "christmas_2019_gift_drop",
+    "monster_id" : "monster_30",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "1"
+  }, {
+    "id" : "101",
+    "monster_drop_group" : "christmas_2019_gift_drop",
+    "monster_id" : "monster_31",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "1"
+  }, {
+    "id" : "102",
+    "monster_drop_group" : "christmas_2019_gift_drop",
+    "monster_id" : "monster_32",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "1"
+  }, {
+    "id" : "103",
+    "monster_drop_group" : "christmas_2019_gift_drop",
+    "monster_id" : "monster_33",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "1"
+  }, {
+    "id" : "104",
+    "monster_drop_group" : "christmas_2019_gift_drop",
+    "monster_id" : "monster_34",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "1"
+  }, {
+    "id" : "105",
+    "monster_drop_group" : "christmas_2019_gift_drop",
+    "monster_id" : "monster_35",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "chance" : "1"
+  } ]
+}

@@ -1,0 +1,81 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "item_id" : "item_id@itemlist.id",
+    "general_id" : "general_id@general.id",
+    "initial_star" : "initial_star@int",
+    "initial_level" : "initial_level@int",
+    "disband_chips" : "disband_chips@int"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "item_id" : "英雄卡道具id",
+    "general_id" : "对应英雄id",
+    "initial_star" : "初始星级",
+    "initial_level" : "初始等级",
+    "disband_chips" : "整卡转碎片个数"
+  }, {
+    "id" : "1",
+    "item_id" : "item_general_card_5001_id",
+    "general_id" : "general_5001",
+    "initial_star" : "1",
+    "initial_level" : "1",
+    "disband_chips" : "10"
+  }, {
+    "id" : "2",
+    "item_id" : "item_general_card_5002_id",
+    "general_id" : "general_5002",
+    "initial_star" : "1",
+    "initial_level" : "1",
+    "disband_chips" : "10"
+  }, {
+    "id" : "3",
+    "item_id" : "item_general_card_5005_id",
+    "general_id" : "general_5005",
+    "initial_star" : "1",
+    "initial_level" : "1",
+    "disband_chips" : "10"
+  }, {
+    "id" : "4",
+    "item_id" : "item_general_card_5008_id",
+    "general_id" : "general_5008",
+    "initial_star" : "1",
+    "initial_level" : "1",
+    "disband_chips" : "10"
+  }, {
+    "id" : "5",
+    "item_id" : "item_general_card_4003_id",
+    "general_id" : "general_4003",
+    "initial_star" : "1",
+    "initial_level" : "1",
+    "disband_chips" : "10"
+  }, {
+    "id" : "6",
+    "item_id" : "item_general_card_4005_id",
+    "general_id" : "general_4005",
+    "initial_star" : "1",
+    "initial_level" : "1",
+    "disband_chips" : "10"
+  }, {
+    "id" : "7",
+    "item_id" : "item_general_card_4007_id",
+    "general_id" : "general_4007",
+    "initial_star" : "1",
+    "initial_level" : "1",
+    "disband_chips" : "10"
+  }, {
+    "id" : "8",
+    "item_id" : "item_general_card_3003_id",
+    "general_id" : "general_3003",
+    "initial_star" : "1",
+    "initial_level" : "1",
+    "disband_chips" : "10"
+  }, {
+    "id" : "9",
+    "item_id" : "item_general_card_2001_id",
+    "general_id" : "general_2001",
+    "initial_star" : "1",
+    "initial_level" : "1",
+    "disband_chips" : "10"
+  } ]
+}

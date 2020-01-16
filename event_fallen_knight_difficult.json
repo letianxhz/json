@@ -1,0 +1,119 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "require_score" : "require_score@int",
+    "difficult_rate" : "difficult_rate@float",
+    "score_rate" : "score_rate@float"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "require_score" : "需求积分",
+    "difficult_rate" : "难度系数",
+    "score_rate" : "积分系数"
+  }, {
+    "id" : "1",
+    "require_score" : "0",
+    "difficult_rate" : "1",
+    "score_rate" : "1"
+  }, {
+    "id" : "2",
+    "require_score" : "9039000",
+    "difficult_rate" : "1.1",
+    "score_rate" : "1.05"
+  }, {
+    "id" : "3",
+    "require_score" : "9490950",
+    "difficult_rate" : "1.2",
+    "score_rate" : "1.1"
+  }, {
+    "id" : "4",
+    "require_score" : "9942900",
+    "difficult_rate" : "1.3",
+    "score_rate" : "1.15"
+  }, {
+    "id" : "5",
+    "require_score" : "10394850",
+    "difficult_rate" : "1.4",
+    "score_rate" : "1.2"
+  }, {
+    "id" : "6",
+    "require_score" : "10846800",
+    "difficult_rate" : "1.5",
+    "score_rate" : "1.25"
+  }, {
+    "id" : "7",
+    "require_score" : "11298750",
+    "difficult_rate" : "1.6",
+    "score_rate" : "1.3"
+  }, {
+    "id" : "8",
+    "require_score" : "11750700",
+    "difficult_rate" : "1.7",
+    "score_rate" : "1.35"
+  }, {
+    "id" : "9",
+    "require_score" : "12202650",
+    "difficult_rate" : "1.8",
+    "score_rate" : "1.4"
+  }, {
+    "id" : "10",
+    "require_score" : "12654600",
+    "difficult_rate" : "1.9",
+    "score_rate" : "1.45"
+  }, {
+    "id" : "11",
+    "require_score" : "13106550",
+    "difficult_rate" : "2",
+    "score_rate" : "1.5"
+  }, {
+    "id" : "12",
+    "require_score" : "13558500",
+    "difficult_rate" : "2.1",
+    "score_rate" : "1.55"
+  }, {
+    "id" : "13",
+    "require_score" : "14010450",
+    "difficult_rate" : "2.2",
+    "score_rate" : "1.6"
+  }, {
+    "id" : "14",
+    "require_score" : "14462400",
+    "difficult_rate" : "2.3",
+    "score_rate" : "1.65"
+  }, {
+    "id" : "15",
+    "require_score" : "14914350",
+    "difficult_rate" : "2.4",
+    "score_rate" : "1.7"
+  }, {
+    "id" : "16",
+    "require_score" : "15366300",
+    "difficult_rate" : "2.5",
+    "score_rate" : "1.75"
+  }, {
+    "id" : "17",
+    "require_score" : "15818250",
+    "difficult_rate" : "2.6",
+    "score_rate" : "1.8"
+  }, {
+    "id" : "18",
+    "require_score" : "16270200",
+    "difficult_rate" : "2.7",
+    "score_rate" : "1.85"
+  }, {
+    "id" : "19",
+    "require_score" : "16722150",
+    "difficult_rate" : "2.8",
+    "score_rate" : "1.9"
+  }, {
+    "id" : "20",
+    "require_score" : "17174100",
+    "difficult_rate" : "2.9",
+    "score_rate" : "1.95"
+  }, {
+    "id" : "21",
+    "require_score" : "17626050",
+    "difficult_rate" : "3",
+    "score_rate" : "2"
+  } ]
+}

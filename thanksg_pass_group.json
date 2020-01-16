@@ -1,0 +1,42 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "season_id" : "season_id@thanksg_pass_season.id",
+    "next_id" : "next_id@self.id",
+    "iap_special_id" : "iap_special_id@iap_special.id",
+    "free_upgrade" : "free_upgrade@thanksg_pass_level.id",
+    "name" : "name@string^c",
+    "extra_exp_rate" : "extra_exp_rate@float",
+    "exp_reward" : "exp_reward@int"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "season_id" : "赛季id",
+    "next_id" : "下一级id",
+    "iap_special_id" : "礼包id",
+    "name" : "名称",
+    "extra_exp_rate" : "额外经验加成比例",
+    "exp_reward" : "直接经验奖励"
+  }, {
+    "id" : "thanksg_pass_group_1_0",
+    "season_id" : "thanksg_pass_group_1",
+    "next_id" : "thanksg_pass_group_1_1",
+    "name" : "thanksg_pass_group_1_0_name",
+    "extra_exp_rate" : "0"
+  }, {
+    "id" : "thanksg_pass_group_1_1",
+    "season_id" : "thanksg_pass_group_1",
+    "next_id" : "thanksg_pass_group_1_2",
+    "free_upgrade" : "thanksg_pass_level_group_1_5",
+    "name" : "thanksg_pass_group_1_1_name",
+    "extra_exp_rate" : "0.25",
+    "exp_reward" : "0"
+  }, {
+    "id" : "thanksg_pass_group_1_2",
+    "season_id" : "thanksg_pass_group_1",
+    "iap_special_id" : "iap_thanksg_pass_3",
+    "name" : "thanksg_pass_group_1_2_name",
+    "extra_exp_rate" : "0.35",
+    "exp_reward" : "0"
+  } ]
+}

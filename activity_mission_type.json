@@ -1,0 +1,72 @@
+{
+  "header" : {
+    "id" : "id@string"
+  },
+  "rows" : [ {
+    "id" : "任务类型"
+  }, {
+    "id" : "login"
+  }, {
+    "id" : "build"
+  }, {
+    "id" : "dungeon2"
+  }, {
+    "id" : "payment"
+  }, {
+    "id" : "train"
+  }, {
+    "id" : "pve"
+  }, {
+    "id" : "research"
+  }, {
+    "id" : "resource_collect"
+  }, {
+    "id" : "alliance_help"
+  }, {
+    "id" : "donate"
+  }, {
+    "id" : "gve"
+  }, {
+    "id" : "shoot_coin"
+  }, {
+    "id" : "power"
+  }, {
+    "id" : "timer_chest"
+  }, {
+    "id" : "equip_equipment"
+  }, {
+    "id" : "dragon_up"
+  }, {
+    "id" : "dragon_skill_up"
+  }, {
+    "id" : "dragon_skill"
+  }, {
+    "id" : "dragon_emblem"
+  }, {
+    "id" : "epic_mission_achievement"
+  }, {
+    "id" : "legend"
+  }, {
+    "id" : "big_timer_chest"
+  }, {
+    "id" : "use_speedup"
+  }, {
+    "id" : "rogue_like"
+  }, {
+    "id" : "pvp"
+  }, {
+    "id" : "general_recruit"
+  }, {
+    "id" : "general"
+  }, {
+    "id" : "resource_production"
+  }, {
+    "id" : "research_times"
+  }, {
+    "id" : "symphony"
+  }, {
+    "id" : "general_star_up"
+  }, {
+    "id" : "general_skill_up"
+  } ]
+}

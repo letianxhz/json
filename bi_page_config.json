@@ -1,0 +1,169 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "name" : "name@string"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "name" : "界面名称"
+  }, {
+    "id" : "1",
+    "name" : "VipBaseDlg(Clone)"
+  }, {
+    "id" : "2",
+    "name" : "GetMoreResDlg(Clone)"
+  }, {
+    "id" : "3",
+    "name" : "IAPStoreDialog(Clone)"
+  }, {
+    "id" : "4",
+    "name" : "IAPStoreMonthlyDisountDlg(Clone)"
+  }, {
+    "id" : "5",
+    "name" : "IAPRecommendedPackageDialog(Clone)"
+  }, {
+    "id" : "6",
+    "name" : "ActivityMainDlg(Clone)"
+  }, {
+    "id" : "7",
+    "name" : "MonthCardPopupB(Clone)"
+  }, {
+    "id" : "8",
+    "name" : "SubscibePopup(Clone)"
+  }, {
+    "id" : "9",
+    "name" : "SignPopup(Clone)"
+  }, {
+    "id" : "10",
+    "name" : "IAPDailyRechargePopup(Clone)"
+  }, {
+    "id" : "11",
+    "name" : "SecondAnniversarySignPopup(Clone)"
+  }, {
+    "id" : "12",
+    "name" : "ActivityCalendarDlg(Clone)"
+  }, {
+    "id" : "13",
+    "name" : "TimeLimitedGoalDlg(Clone)"
+  }, {
+    "id" : "14",
+    "name" : "MerlinMysteryStorePopup(Clone)"
+  }, {
+    "id" : "15",
+    "name" : "MonthCardPurchasePopup(Clone)"
+  }, {
+    "id" : "16",
+    "name" : "AttackEnemyNewDlg(Clone)"
+  }, {
+    "id" : "17",
+    "name" : "BonusForPayPopup(Clone)"
+  }, {
+    "id" : "18",
+    "name" : "TitlePackagePopup(Clone)"
+  }, {
+    "id" : "19",
+    "name" : "BuildingGloryUpgradeDlgV2(Clone)"
+  }, {
+    "id" : "20",
+    "name" : "ItemUseOrBuyBigPopup(Clone)"
+  }, {
+    "id" : "21",
+    "name" : "PersonalTargetActivityDlg(Clone)"
+  }, {
+    "id" : "22",
+    "name" : "RoadToKingDlg(Clone)"
+  }, {
+    "id" : "23",
+    "name" : "NewbieActivityDlg(Clone)"
+  }, {
+    "id" : "24",
+    "name" : "NewbieActivityDlgNew(Clone)"
+  }, {
+    "id" : "25",
+    "name" : "SpeedUpPopup(Clone)"
+  }, {
+    "id" : "26",
+    "name" : "BuildingSpeedUpGetMorePopup(Clone)"
+  }, {
+    "id" : "27",
+    "name" : "BuilderRecruitPopup(Clone)"
+  }, {
+    "id" : "28",
+    "name" : "DailyTaskPopup(Clone)"
+  }, {
+    "id" : "29",
+    "name" : "ActivityStartNotifyPopup(Clone)"
+  }, {
+    "id" : "30",
+    "name" : "AccumulatedChestLuckyDrawDlg(Clone)"
+  }, {
+    "id" : "31",
+    "name" : "ActivityRankPopup(Clone)"
+  }, {
+    "id" : "32",
+    "name" : "TimeLimitAllRewardPopup(Clone)"
+  }, {
+    "id" : "33",
+    "name" : "ActivityNotStartedPopup(Clone)"
+  }, {
+    "id" : "34",
+    "name" : "ActivityRewardsPopup(Clone)"
+  }, {
+    "id" : "35",
+    "name" : "AuctionRewardsPopup(Clone)"
+  }, {
+    "id" : "36",
+    "name" : "FresherRewardsPopup(Clone)"
+  }, {
+    "id" : "37",
+    "name" : "StartConfirmationPopup(Clone)"
+  }, {
+    "id" : "38",
+    "name" : "FallenKnightRewardsHelpPopup(Clone)"
+  }, {
+    "id" : "39",
+    "name" : "FallenKnightAllianceRankPopup(Clone)"
+  }, {
+    "id" : "40",
+    "name" : "FallenKnightIndividualRankPopup(Clone)"
+  }, {
+    "id" : "41",
+    "name" : "FallenKnightRewardsPopup(Clone)"
+  }, {
+    "id" : "42",
+    "name" : "AllianceEventParticipationPopup(Clone)"
+  }, {
+    "id" : "43",
+    "name" : "AllianceEventHowToPopup(Clone)"
+  }, {
+    "id" : "44",
+    "name" : "KingdomWarEventPopup(Clone)"
+  }, {
+    "id" : "45",
+    "name" : "CommanderExpeditionRankPopup(Clone)"
+  }, {
+    "id" : "46",
+    "name" : "DestinySealRewardStepPopup(Clone)"
+  }, {
+    "id" : "47",
+    "name" : "DestinySealGetMorePopup(Clone)"
+  }, {
+    "id" : "48",
+    "name" : "DestinySealEndPopup(Clone)"
+  }, {
+    "id" : "49",
+    "name" : "DestinySealAnnouncePopup(Clone)"
+  }, {
+    "id" : "50",
+    "name" : "DestinySealCardPopup(Clone)"
+  }, {
+    "id" : "51",
+    "name" : "ServerRelocationActivityPopup(Clone)"
+  }, {
+    "id" : "52",
+    "name" : "ServerRelocationConfirmPopup(Clone)"
+  }, {
+    "id" : "53",
+    "name" : "ServerRelocationRepentPopup(Clone)"
+  } ]
+}

@@ -1,0 +1,3721 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "group" : "group@diy_lottery_group.id",
+    "rank" : "rank@int",
+    "reward" : "reward@itemlist.id",
+    "number" : "number@int",
+    "weight" : "weight@int"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "group" : "diy组",
+    "rank" : "档位",
+    "reward" : "奖励道具id",
+    "number" : "奖励道具数量",
+    "weight" : "权重"
+  }, {
+    "id" : "1",
+    "group" : "diy_lottery_group_1",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "200000"
+  }, {
+    "id" : "2",
+    "group" : "diy_lottery_group_1",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "3",
+    "group" : "diy_lottery_group_1",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "200000"
+  }, {
+    "id" : "4",
+    "group" : "diy_lottery_group_1",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "5",
+    "group" : "diy_lottery_group_1",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "6",
+    "group" : "diy_lottery_group_1",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "20000"
+  }, {
+    "id" : "7",
+    "group" : "diy_lottery_group_1",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "8",
+    "group" : "diy_lottery_group_1",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "9",
+    "group" : "diy_lottery_group_1",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "10",
+    "group" : "diy_lottery_group_1",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "11",
+    "group" : "diy_lottery_group_1",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "12",
+    "group" : "diy_lottery_group_1",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "100"
+  }, {
+    "id" : "13",
+    "group" : "diy_lottery_group_1",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "100"
+  }, {
+    "id" : "14",
+    "group" : "diy_lottery_group_1",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "15",
+    "group" : "diy_lottery_group_1",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "16",
+    "group" : "diy_lottery_group_1",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "17",
+    "group" : "diy_lottery_group_1",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1"
+  }, {
+    "id" : "18",
+    "group" : "diy_lottery_group_1",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "19",
+    "group" : "diy_lottery_group_1",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "20",
+    "group" : "diy_lottery_group_2",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "21",
+    "group" : "diy_lottery_group_2",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "22",
+    "group" : "diy_lottery_group_2",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "23",
+    "group" : "diy_lottery_group_2",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "24",
+    "group" : "diy_lottery_group_2",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "25",
+    "group" : "diy_lottery_group_2",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "200000"
+  }, {
+    "id" : "26",
+    "group" : "diy_lottery_group_2",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "200000"
+  }, {
+    "id" : "27",
+    "group" : "diy_lottery_group_2",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "28",
+    "group" : "diy_lottery_group_2",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "29",
+    "group" : "diy_lottery_group_2",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "30",
+    "group" : "diy_lottery_group_2",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "20000"
+  }, {
+    "id" : "31",
+    "group" : "diy_lottery_group_2",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "32",
+    "group" : "diy_lottery_group_2",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "33",
+    "group" : "diy_lottery_group_2",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "34",
+    "group" : "diy_lottery_group_2",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "100"
+  }, {
+    "id" : "35",
+    "group" : "diy_lottery_group_2",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "36",
+    "group" : "diy_lottery_group_2",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "37",
+    "group" : "diy_lottery_group_2",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "38",
+    "group" : "diy_lottery_group_2",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "100"
+  }, {
+    "id" : "39",
+    "group" : "diy_lottery_group_2",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "40",
+    "group" : "diy_lottery_group_2",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "41",
+    "group" : "diy_lottery_group_2",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "42",
+    "group" : "diy_lottery_group_2",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "43",
+    "group" : "diy_lottery_group_2",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "44",
+    "group" : "diy_lottery_group_2",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "45",
+    "group" : "diy_lottery_group_2",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1"
+  }, {
+    "id" : "46",
+    "group" : "diy_lottery_group_2",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "47",
+    "group" : "diy_lottery_group_3",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "48",
+    "group" : "diy_lottery_group_3",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "49",
+    "group" : "diy_lottery_group_3",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "50",
+    "group" : "diy_lottery_group_3",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "51",
+    "group" : "diy_lottery_group_3",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "52",
+    "group" : "diy_lottery_group_3",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "53",
+    "group" : "diy_lottery_group_3",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "200000"
+  }, {
+    "id" : "54",
+    "group" : "diy_lottery_group_3",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "200000"
+  }, {
+    "id" : "55",
+    "group" : "diy_lottery_group_3",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "20000"
+  }, {
+    "id" : "56",
+    "group" : "diy_lottery_group_3",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "57",
+    "group" : "diy_lottery_group_3",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "58",
+    "group" : "diy_lottery_group_3",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "59",
+    "group" : "diy_lottery_group_3",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "60",
+    "group" : "diy_lottery_group_3",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "61",
+    "group" : "diy_lottery_group_3",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "62",
+    "group" : "diy_lottery_group_3",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "63",
+    "group" : "diy_lottery_group_3",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "100"
+  }, {
+    "id" : "64",
+    "group" : "diy_lottery_group_3",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "100"
+  }, {
+    "id" : "65",
+    "group" : "diy_lottery_group_3",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "66",
+    "group" : "diy_lottery_group_3",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "67",
+    "group" : "diy_lottery_group_3",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "68",
+    "group" : "diy_lottery_group_3",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "69",
+    "group" : "diy_lottery_group_3",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "70",
+    "group" : "diy_lottery_group_3",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "71",
+    "group" : "diy_lottery_group_3",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "72",
+    "group" : "diy_lottery_group_3",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "73",
+    "group" : "diy_lottery_group_3",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1"
+  }, {
+    "id" : "74",
+    "group" : "diy_lottery_group_4",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "75",
+    "group" : "diy_lottery_group_4",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "76",
+    "group" : "diy_lottery_group_4",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "77",
+    "group" : "diy_lottery_group_4",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "78",
+    "group" : "diy_lottery_group_4",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "200000"
+  }, {
+    "id" : "79",
+    "group" : "diy_lottery_group_4",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "200000"
+  }, {
+    "id" : "80",
+    "group" : "diy_lottery_group_4",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "20000"
+  }, {
+    "id" : "81",
+    "group" : "diy_lottery_group_4",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "82",
+    "group" : "diy_lottery_group_4",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "83",
+    "group" : "diy_lottery_group_4",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "84",
+    "group" : "diy_lottery_group_4",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "85",
+    "group" : "diy_lottery_group_4",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "86",
+    "group" : "diy_lottery_group_4",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "100"
+  }, {
+    "id" : "87",
+    "group" : "diy_lottery_group_4",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "100"
+  }, {
+    "id" : "88",
+    "group" : "diy_lottery_group_4",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "89",
+    "group" : "diy_lottery_group_4",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "90",
+    "group" : "diy_lottery_group_4",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "91",
+    "group" : "diy_lottery_group_4",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "92",
+    "group" : "diy_lottery_group_4",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "93",
+    "group" : "diy_lottery_group_4",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "94",
+    "group" : "diy_lottery_group_4",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "95",
+    "group" : "diy_lottery_group_4",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "96",
+    "group" : "diy_lottery_group_4",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1"
+  }, {
+    "id" : "97",
+    "group" : "diy_lottery_group_5",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "98",
+    "group" : "diy_lottery_group_5",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "99",
+    "group" : "diy_lottery_group_5",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "100",
+    "group" : "diy_lottery_group_5",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "101",
+    "group" : "diy_lottery_group_5",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "102",
+    "group" : "diy_lottery_group_5",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "103",
+    "group" : "diy_lottery_group_5",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "200000"
+  }, {
+    "id" : "104",
+    "group" : "diy_lottery_group_5",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "200000"
+  }, {
+    "id" : "105",
+    "group" : "diy_lottery_group_5",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "20000"
+  }, {
+    "id" : "106",
+    "group" : "diy_lottery_group_5",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "107",
+    "group" : "diy_lottery_group_5",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "108",
+    "group" : "diy_lottery_group_5",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "109",
+    "group" : "diy_lottery_group_5",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "110",
+    "group" : "diy_lottery_group_5",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "111",
+    "group" : "diy_lottery_group_5",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "112",
+    "group" : "diy_lottery_group_5",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "113",
+    "group" : "diy_lottery_group_5",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "100"
+  }, {
+    "id" : "114",
+    "group" : "diy_lottery_group_5",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "100"
+  }, {
+    "id" : "115",
+    "group" : "diy_lottery_group_5",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "116",
+    "group" : "diy_lottery_group_5",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "117",
+    "group" : "diy_lottery_group_5",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "118",
+    "group" : "diy_lottery_group_5",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "119",
+    "group" : "diy_lottery_group_5",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "120",
+    "group" : "diy_lottery_group_5",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "121",
+    "group" : "diy_lottery_group_5",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "122",
+    "group" : "diy_lottery_group_5",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "123",
+    "group" : "diy_lottery_group_5",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1"
+  }, {
+    "id" : "124",
+    "group" : "diy_lottery_group_6",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "125",
+    "group" : "diy_lottery_group_6",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "126",
+    "group" : "diy_lottery_group_6",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "127",
+    "group" : "diy_lottery_group_6",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "128",
+    "group" : "diy_lottery_group_6",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "129",
+    "group" : "diy_lottery_group_6",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "130",
+    "group" : "diy_lottery_group_6",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "200000"
+  }, {
+    "id" : "131",
+    "group" : "diy_lottery_group_6",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "200000"
+  }, {
+    "id" : "132",
+    "group" : "diy_lottery_group_6",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "20000"
+  }, {
+    "id" : "133",
+    "group" : "diy_lottery_group_6",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "134",
+    "group" : "diy_lottery_group_6",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "135",
+    "group" : "diy_lottery_group_6",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "136",
+    "group" : "diy_lottery_group_6",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "137",
+    "group" : "diy_lottery_group_6",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "138",
+    "group" : "diy_lottery_group_6",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "139",
+    "group" : "diy_lottery_group_6",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "100"
+  }, {
+    "id" : "140",
+    "group" : "diy_lottery_group_6",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "100"
+  }, {
+    "id" : "141",
+    "group" : "diy_lottery_group_6",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "142",
+    "group" : "diy_lottery_group_6",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "143",
+    "group" : "diy_lottery_group_6",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "144",
+    "group" : "diy_lottery_group_6",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "145",
+    "group" : "diy_lottery_group_6",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "146",
+    "group" : "diy_lottery_group_6",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "147",
+    "group" : "diy_lottery_group_6",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1"
+  }, {
+    "id" : "148",
+    "group" : "diy_lottery_group_7",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "149",
+    "group" : "diy_lottery_group_7",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "150",
+    "group" : "diy_lottery_group_7",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "151",
+    "group" : "diy_lottery_group_7",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "152",
+    "group" : "diy_lottery_group_7",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "200000"
+  }, {
+    "id" : "153",
+    "group" : "diy_lottery_group_7",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "200000"
+  }, {
+    "id" : "154",
+    "group" : "diy_lottery_group_7",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "20000"
+  }, {
+    "id" : "155",
+    "group" : "diy_lottery_group_7",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "156",
+    "group" : "diy_lottery_group_7",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "157",
+    "group" : "diy_lottery_group_7",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "158",
+    "group" : "diy_lottery_group_7",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "159",
+    "group" : "diy_lottery_group_7",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "160",
+    "group" : "diy_lottery_group_7",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "100"
+  }, {
+    "id" : "161",
+    "group" : "diy_lottery_group_7",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "100"
+  }, {
+    "id" : "162",
+    "group" : "diy_lottery_group_7",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "163",
+    "group" : "diy_lottery_group_7",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "164",
+    "group" : "diy_lottery_group_7",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "165",
+    "group" : "diy_lottery_group_7",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "166",
+    "group" : "diy_lottery_group_7",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "167",
+    "group" : "diy_lottery_group_7",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "168",
+    "group" : "diy_lottery_group_7",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "169",
+    "group" : "diy_lottery_group_7",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "170",
+    "group" : "diy_lottery_group_7",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1"
+  }, {
+    "id" : "171",
+    "group" : "diy_lottery_group_8",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "172",
+    "group" : "diy_lottery_group_8",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "173",
+    "group" : "diy_lottery_group_8",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "174",
+    "group" : "diy_lottery_group_8",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "175",
+    "group" : "diy_lottery_group_8",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "200000"
+  }, {
+    "id" : "176",
+    "group" : "diy_lottery_group_8",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "200000"
+  }, {
+    "id" : "177",
+    "group" : "diy_lottery_group_8",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "20000"
+  }, {
+    "id" : "178",
+    "group" : "diy_lottery_group_8",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "179",
+    "group" : "diy_lottery_group_8",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "180",
+    "group" : "diy_lottery_group_8",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "181",
+    "group" : "diy_lottery_group_8",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "182",
+    "group" : "diy_lottery_group_8",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "183",
+    "group" : "diy_lottery_group_8",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "100"
+  }, {
+    "id" : "184",
+    "group" : "diy_lottery_group_8",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "100"
+  }, {
+    "id" : "185",
+    "group" : "diy_lottery_group_8",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "186",
+    "group" : "diy_lottery_group_8",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "187",
+    "group" : "diy_lottery_group_8",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "188",
+    "group" : "diy_lottery_group_8",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "189",
+    "group" : "diy_lottery_group_8",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "190",
+    "group" : "diy_lottery_group_8",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "191",
+    "group" : "diy_lottery_group_8",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "192",
+    "group" : "diy_lottery_group_8",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "193",
+    "group" : "diy_lottery_group_8",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1"
+  }, {
+    "id" : "194",
+    "group" : "diy_lottery_group_9",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "195",
+    "group" : "diy_lottery_group_9",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "196",
+    "group" : "diy_lottery_group_9",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "197",
+    "group" : "diy_lottery_group_9",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "198",
+    "group" : "diy_lottery_group_9",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "200000"
+  }, {
+    "id" : "199",
+    "group" : "diy_lottery_group_9",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "200000"
+  }, {
+    "id" : "200",
+    "group" : "diy_lottery_group_9",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "20000"
+  }, {
+    "id" : "201",
+    "group" : "diy_lottery_group_9",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "202",
+    "group" : "diy_lottery_group_9",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "203",
+    "group" : "diy_lottery_group_9",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "204",
+    "group" : "diy_lottery_group_9",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "205",
+    "group" : "diy_lottery_group_9",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "206",
+    "group" : "diy_lottery_group_9",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "100"
+  }, {
+    "id" : "207",
+    "group" : "diy_lottery_group_9",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "100"
+  }, {
+    "id" : "208",
+    "group" : "diy_lottery_group_9",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "209",
+    "group" : "diy_lottery_group_9",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "210",
+    "group" : "diy_lottery_group_9",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "211",
+    "group" : "diy_lottery_group_9",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "212",
+    "group" : "diy_lottery_group_9",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "213",
+    "group" : "diy_lottery_group_9",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "214",
+    "group" : "diy_lottery_group_9",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "215",
+    "group" : "diy_lottery_group_9",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "216",
+    "group" : "diy_lottery_group_9",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1"
+  }, {
+    "id" : "217",
+    "group" : "diy_lottery_group_10",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "218",
+    "group" : "diy_lottery_group_10",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "219",
+    "group" : "diy_lottery_group_10",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "220",
+    "group" : "diy_lottery_group_10",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "221",
+    "group" : "diy_lottery_group_10",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "200000"
+  }, {
+    "id" : "222",
+    "group" : "diy_lottery_group_10",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "200000"
+  }, {
+    "id" : "223",
+    "group" : "diy_lottery_group_10",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "20000"
+  }, {
+    "id" : "224",
+    "group" : "diy_lottery_group_10",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "225",
+    "group" : "diy_lottery_group_10",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "226",
+    "group" : "diy_lottery_group_10",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "227",
+    "group" : "diy_lottery_group_10",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "228",
+    "group" : "diy_lottery_group_10",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "229",
+    "group" : "diy_lottery_group_10",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "100"
+  }, {
+    "id" : "230",
+    "group" : "diy_lottery_group_10",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "100"
+  }, {
+    "id" : "231",
+    "group" : "diy_lottery_group_10",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "232",
+    "group" : "diy_lottery_group_10",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "233",
+    "group" : "diy_lottery_group_10",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "234",
+    "group" : "diy_lottery_group_10",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "235",
+    "group" : "diy_lottery_group_10",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "236",
+    "group" : "diy_lottery_group_10",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "237",
+    "group" : "diy_lottery_group_10",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "238",
+    "group" : "diy_lottery_group_10",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "239",
+    "group" : "diy_lottery_group_10",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1"
+  }, {
+    "id" : "240",
+    "group" : "diy_lottery_group_11",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "241",
+    "group" : "diy_lottery_group_11",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "242",
+    "group" : "diy_lottery_group_11",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "243",
+    "group" : "diy_lottery_group_11",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "244",
+    "group" : "diy_lottery_group_11",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "200000"
+  }, {
+    "id" : "245",
+    "group" : "diy_lottery_group_11",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "200000"
+  }, {
+    "id" : "246",
+    "group" : "diy_lottery_group_11",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "20000"
+  }, {
+    "id" : "247",
+    "group" : "diy_lottery_group_11",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "248",
+    "group" : "diy_lottery_group_11",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "249",
+    "group" : "diy_lottery_group_11",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "250",
+    "group" : "diy_lottery_group_11",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "251",
+    "group" : "diy_lottery_group_11",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "252",
+    "group" : "diy_lottery_group_11",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "100"
+  }, {
+    "id" : "253",
+    "group" : "diy_lottery_group_11",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "100"
+  }, {
+    "id" : "254",
+    "group" : "diy_lottery_group_11",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "255",
+    "group" : "diy_lottery_group_11",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "256",
+    "group" : "diy_lottery_group_11",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "257",
+    "group" : "diy_lottery_group_11",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "258",
+    "group" : "diy_lottery_group_11",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "259",
+    "group" : "diy_lottery_group_11",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "260",
+    "group" : "diy_lottery_group_11",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "261",
+    "group" : "diy_lottery_group_11",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "262",
+    "group" : "diy_lottery_group_11",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1"
+  }, {
+    "id" : "263",
+    "group" : "diy_lottery_group_12",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "264",
+    "group" : "diy_lottery_group_12",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "265",
+    "group" : "diy_lottery_group_12",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "266",
+    "group" : "diy_lottery_group_12",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "267",
+    "group" : "diy_lottery_group_12",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "200000"
+  }, {
+    "id" : "268",
+    "group" : "diy_lottery_group_12",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "200000"
+  }, {
+    "id" : "269",
+    "group" : "diy_lottery_group_12",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "20000"
+  }, {
+    "id" : "270",
+    "group" : "diy_lottery_group_12",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "271",
+    "group" : "diy_lottery_group_12",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "272",
+    "group" : "diy_lottery_group_12",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "273",
+    "group" : "diy_lottery_group_12",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "274",
+    "group" : "diy_lottery_group_12",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "275",
+    "group" : "diy_lottery_group_12",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "100"
+  }, {
+    "id" : "276",
+    "group" : "diy_lottery_group_12",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "100"
+  }, {
+    "id" : "277",
+    "group" : "diy_lottery_group_12",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "278",
+    "group" : "diy_lottery_group_12",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "279",
+    "group" : "diy_lottery_group_12",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "280",
+    "group" : "diy_lottery_group_12",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "281",
+    "group" : "diy_lottery_group_12",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "282",
+    "group" : "diy_lottery_group_12",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "283",
+    "group" : "diy_lottery_group_12",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "284",
+    "group" : "diy_lottery_group_12",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "285",
+    "group" : "diy_lottery_group_12",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1"
+  }, {
+    "id" : "286",
+    "group" : "diy_lottery_group_1_1",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "287",
+    "group" : "diy_lottery_group_1_1",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "288",
+    "group" : "diy_lottery_group_1_1",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "289",
+    "group" : "diy_lottery_group_1_1",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "290",
+    "group" : "diy_lottery_group_1_1",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "200000"
+  }, {
+    "id" : "291",
+    "group" : "diy_lottery_group_1_1",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "200000"
+  }, {
+    "id" : "292",
+    "group" : "diy_lottery_group_1_1",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "20000"
+  }, {
+    "id" : "293",
+    "group" : "diy_lottery_group_1_1",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "294",
+    "group" : "diy_lottery_group_1_1",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "295",
+    "group" : "diy_lottery_group_1_1",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "296",
+    "group" : "diy_lottery_group_1_1",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "297",
+    "group" : "diy_lottery_group_1_1",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "298",
+    "group" : "diy_lottery_group_1_1",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "100"
+  }, {
+    "id" : "299",
+    "group" : "diy_lottery_group_1_1",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "100"
+  }, {
+    "id" : "300",
+    "group" : "diy_lottery_group_1_1",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "301",
+    "group" : "diy_lottery_group_1_1",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "302",
+    "group" : "diy_lottery_group_1_1",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "303",
+    "group" : "diy_lottery_group_1_1",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "304",
+    "group" : "diy_lottery_group_1_1",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "305",
+    "group" : "diy_lottery_group_1_1",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "306",
+    "group" : "diy_lottery_group_1_1",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "307",
+    "group" : "diy_lottery_group_1_1",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "308",
+    "group" : "diy_lottery_group_1_1",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1"
+  }, {
+    "id" : "309",
+    "group" : "diy_lottery_group_1_2",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "310",
+    "group" : "diy_lottery_group_1_2",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "311",
+    "group" : "diy_lottery_group_1_2",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "312",
+    "group" : "diy_lottery_group_1_2",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "313",
+    "group" : "diy_lottery_group_1_2",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "200000"
+  }, {
+    "id" : "314",
+    "group" : "diy_lottery_group_1_2",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "200000"
+  }, {
+    "id" : "315",
+    "group" : "diy_lottery_group_1_2",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "20000"
+  }, {
+    "id" : "316",
+    "group" : "diy_lottery_group_1_2",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "317",
+    "group" : "diy_lottery_group_1_2",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "318",
+    "group" : "diy_lottery_group_1_2",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "319",
+    "group" : "diy_lottery_group_1_2",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "320",
+    "group" : "diy_lottery_group_1_2",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "321",
+    "group" : "diy_lottery_group_1_2",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "100"
+  }, {
+    "id" : "322",
+    "group" : "diy_lottery_group_1_2",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "100"
+  }, {
+    "id" : "323",
+    "group" : "diy_lottery_group_1_2",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "324",
+    "group" : "diy_lottery_group_1_2",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "325",
+    "group" : "diy_lottery_group_1_2",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "326",
+    "group" : "diy_lottery_group_1_2",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "327",
+    "group" : "diy_lottery_group_1_2",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "328",
+    "group" : "diy_lottery_group_1_2",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "329",
+    "group" : "diy_lottery_group_1_2",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "330",
+    "group" : "diy_lottery_group_1_2",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "331",
+    "group" : "diy_lottery_group_1_2",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1"
+  }, {
+    "id" : "332",
+    "group" : "diy_lottery_group_1_3",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "333",
+    "group" : "diy_lottery_group_1_3",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "334",
+    "group" : "diy_lottery_group_1_3",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "335",
+    "group" : "diy_lottery_group_1_3",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "336",
+    "group" : "diy_lottery_group_1_3",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "337",
+    "group" : "diy_lottery_group_1_3",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "338",
+    "group" : "diy_lottery_group_1_3",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "200000"
+  }, {
+    "id" : "339",
+    "group" : "diy_lottery_group_1_3",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "200000"
+  }, {
+    "id" : "340",
+    "group" : "diy_lottery_group_1_3",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "20000"
+  }, {
+    "id" : "341",
+    "group" : "diy_lottery_group_1_3",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "342",
+    "group" : "diy_lottery_group_1_3",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "343",
+    "group" : "diy_lottery_group_1_3",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "344",
+    "group" : "diy_lottery_group_1_3",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "345",
+    "group" : "diy_lottery_group_1_3",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "346",
+    "group" : "diy_lottery_group_1_3",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "347",
+    "group" : "diy_lottery_group_1_3",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "348",
+    "group" : "diy_lottery_group_1_3",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "100"
+  }, {
+    "id" : "349",
+    "group" : "diy_lottery_group_1_3",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "100"
+  }, {
+    "id" : "350",
+    "group" : "diy_lottery_group_1_3",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "351",
+    "group" : "diy_lottery_group_1_3",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "352",
+    "group" : "diy_lottery_group_1_3",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "353",
+    "group" : "diy_lottery_group_1_3",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "354",
+    "group" : "diy_lottery_group_1_3",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "355",
+    "group" : "diy_lottery_group_1_3",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "356",
+    "group" : "diy_lottery_group_1_3",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "357",
+    "group" : "diy_lottery_group_1_3",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "358",
+    "group" : "diy_lottery_group_1_3",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1"
+  }, {
+    "id" : "359",
+    "group" : "diy_lottery_group_1_4",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "360",
+    "group" : "diy_lottery_group_1_4",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "361",
+    "group" : "diy_lottery_group_1_4",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "362",
+    "group" : "diy_lottery_group_1_4",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "363",
+    "group" : "diy_lottery_group_1_4",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "364",
+    "group" : "diy_lottery_group_1_4",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "365",
+    "group" : "diy_lottery_group_1_4",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "200000"
+  }, {
+    "id" : "366",
+    "group" : "diy_lottery_group_1_4",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "200000"
+  }, {
+    "id" : "367",
+    "group" : "diy_lottery_group_1_4",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "20000"
+  }, {
+    "id" : "368",
+    "group" : "diy_lottery_group_1_4",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "369",
+    "group" : "diy_lottery_group_1_4",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "370",
+    "group" : "diy_lottery_group_1_4",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "371",
+    "group" : "diy_lottery_group_1_4",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "372",
+    "group" : "diy_lottery_group_1_4",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "373",
+    "group" : "diy_lottery_group_1_4",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "374",
+    "group" : "diy_lottery_group_1_4",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "375",
+    "group" : "diy_lottery_group_1_4",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "100"
+  }, {
+    "id" : "376",
+    "group" : "diy_lottery_group_1_4",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "100"
+  }, {
+    "id" : "377",
+    "group" : "diy_lottery_group_1_4",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "378",
+    "group" : "diy_lottery_group_1_4",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "379",
+    "group" : "diy_lottery_group_1_4",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "380",
+    "group" : "diy_lottery_group_1_4",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "381",
+    "group" : "diy_lottery_group_1_4",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "382",
+    "group" : "diy_lottery_group_1_4",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "383",
+    "group" : "diy_lottery_group_1_4",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "384",
+    "group" : "diy_lottery_group_1_4",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "385",
+    "group" : "diy_lottery_group_1_4",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1"
+  }, {
+    "id" : "386",
+    "group" : "diy_lottery_group_1_5",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "387",
+    "group" : "diy_lottery_group_1_5",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "388",
+    "group" : "diy_lottery_group_1_5",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "389",
+    "group" : "diy_lottery_group_1_5",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "390",
+    "group" : "diy_lottery_group_1_5",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "391",
+    "group" : "diy_lottery_group_1_5",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "392",
+    "group" : "diy_lottery_group_1_5",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "200000"
+  }, {
+    "id" : "393",
+    "group" : "diy_lottery_group_1_5",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "200000"
+  }, {
+    "id" : "394",
+    "group" : "diy_lottery_group_1_5",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "20000"
+  }, {
+    "id" : "395",
+    "group" : "diy_lottery_group_1_5",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "396",
+    "group" : "diy_lottery_group_1_5",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "397",
+    "group" : "diy_lottery_group_1_5",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "398",
+    "group" : "diy_lottery_group_1_5",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "399",
+    "group" : "diy_lottery_group_1_5",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "400",
+    "group" : "diy_lottery_group_1_5",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "401",
+    "group" : "diy_lottery_group_1_5",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "402",
+    "group" : "diy_lottery_group_1_5",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "100"
+  }, {
+    "id" : "403",
+    "group" : "diy_lottery_group_1_5",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "100"
+  }, {
+    "id" : "404",
+    "group" : "diy_lottery_group_1_5",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "405",
+    "group" : "diy_lottery_group_1_5",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "406",
+    "group" : "diy_lottery_group_1_5",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "407",
+    "group" : "diy_lottery_group_1_5",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "408",
+    "group" : "diy_lottery_group_1_5",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "409",
+    "group" : "diy_lottery_group_1_5",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "410",
+    "group" : "diy_lottery_group_1_5",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "411",
+    "group" : "diy_lottery_group_1_5",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "412",
+    "group" : "diy_lottery_group_1_5",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1"
+  }, {
+    "id" : "413",
+    "group" : "diy_lottery_group_1_6",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "414",
+    "group" : "diy_lottery_group_1_6",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "415",
+    "group" : "diy_lottery_group_1_6",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "416",
+    "group" : "diy_lottery_group_1_6",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "200000"
+  }, {
+    "id" : "417",
+    "group" : "diy_lottery_group_1_6",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "200000"
+  }, {
+    "id" : "418",
+    "group" : "diy_lottery_group_1_6",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "20000"
+  }, {
+    "id" : "419",
+    "group" : "diy_lottery_group_1_6",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "420",
+    "group" : "diy_lottery_group_1_6",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "421",
+    "group" : "diy_lottery_group_1_6",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "422",
+    "group" : "diy_lottery_group_1_6",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "100"
+  }, {
+    "id" : "423",
+    "group" : "diy_lottery_group_1_6",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "100"
+  }, {
+    "id" : "424",
+    "group" : "diy_lottery_group_1_6",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "425",
+    "group" : "diy_lottery_group_1_6",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "426",
+    "group" : "diy_lottery_group_1_6",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "427",
+    "group" : "diy_lottery_group_1_6",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1"
+  }, {
+    "id" : "428",
+    "group" : "diy_lottery_group_1_7",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "429",
+    "group" : "diy_lottery_group_1_7",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "430",
+    "group" : "diy_lottery_group_1_7",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "431",
+    "group" : "diy_lottery_group_1_7",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "432",
+    "group" : "diy_lottery_group_1_7",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "433",
+    "group" : "diy_lottery_group_1_7",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "200000"
+  }, {
+    "id" : "434",
+    "group" : "diy_lottery_group_1_7",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "200000"
+  }, {
+    "id" : "435",
+    "group" : "diy_lottery_group_1_7",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "20000"
+  }, {
+    "id" : "436",
+    "group" : "diy_lottery_group_1_7",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "437",
+    "group" : "diy_lottery_group_1_7",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "438",
+    "group" : "diy_lottery_group_1_7",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "439",
+    "group" : "diy_lottery_group_1_7",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "440",
+    "group" : "diy_lottery_group_1_7",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "441",
+    "group" : "diy_lottery_group_1_7",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "442",
+    "group" : "diy_lottery_group_1_7",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "443",
+    "group" : "diy_lottery_group_1_7",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "100"
+  }, {
+    "id" : "444",
+    "group" : "diy_lottery_group_1_7",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "100"
+  }, {
+    "id" : "445",
+    "group" : "diy_lottery_group_1_7",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "446",
+    "group" : "diy_lottery_group_1_7",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "447",
+    "group" : "diy_lottery_group_1_7",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "448",
+    "group" : "diy_lottery_group_1_7",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1"
+  }, {
+    "id" : "449",
+    "group" : "diy_lottery_group_1_8",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "450",
+    "group" : "diy_lottery_group_1_8",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "451",
+    "group" : "diy_lottery_group_1_8",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "452",
+    "group" : "diy_lottery_group_1_8",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "453",
+    "group" : "diy_lottery_group_1_8",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "200000"
+  }, {
+    "id" : "454",
+    "group" : "diy_lottery_group_1_8",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "200000"
+  }, {
+    "id" : "455",
+    "group" : "diy_lottery_group_1_8",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "20000"
+  }, {
+    "id" : "456",
+    "group" : "diy_lottery_group_1_8",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "457",
+    "group" : "diy_lottery_group_1_8",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "458",
+    "group" : "diy_lottery_group_1_8",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "459",
+    "group" : "diy_lottery_group_1_8",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "460",
+    "group" : "diy_lottery_group_1_8",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "461",
+    "group" : "diy_lottery_group_1_8",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "100"
+  }, {
+    "id" : "462",
+    "group" : "diy_lottery_group_1_8",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "463",
+    "group" : "diy_lottery_group_1_8",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "464",
+    "group" : "diy_lottery_group_1_8",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "465",
+    "group" : "diy_lottery_group_1_8",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "466",
+    "group" : "diy_lottery_group_1_8",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1"
+  }, {
+    "id" : "467",
+    "group" : "diy_lottery_group_1_9",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "468",
+    "group" : "diy_lottery_group_1_9",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "469",
+    "group" : "diy_lottery_group_1_9",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "470",
+    "group" : "diy_lottery_group_1_9",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "471",
+    "group" : "diy_lottery_group_1_9",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "200000"
+  }, {
+    "id" : "472",
+    "group" : "diy_lottery_group_1_9",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "200000"
+  }, {
+    "id" : "473",
+    "group" : "diy_lottery_group_1_9",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "20000"
+  }, {
+    "id" : "474",
+    "group" : "diy_lottery_group_1_9",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "475",
+    "group" : "diy_lottery_group_1_9",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "476",
+    "group" : "diy_lottery_group_1_9",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "477",
+    "group" : "diy_lottery_group_1_9",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "478",
+    "group" : "diy_lottery_group_1_9",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "479",
+    "group" : "diy_lottery_group_1_9",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "480",
+    "group" : "diy_lottery_group_1_9",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "100"
+  }, {
+    "id" : "481",
+    "group" : "diy_lottery_group_1_9",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "100"
+  }, {
+    "id" : "482",
+    "group" : "diy_lottery_group_1_9",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "483",
+    "group" : "diy_lottery_group_1_9",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "484",
+    "group" : "diy_lottery_group_1_9",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "485",
+    "group" : "diy_lottery_group_1_9",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "486",
+    "group" : "diy_lottery_group_1_9",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "487",
+    "group" : "diy_lottery_group_1_9",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1"
+  }, {
+    "id" : "488",
+    "group" : "diy_lottery_group_1_10",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "489",
+    "group" : "diy_lottery_group_1_10",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "490",
+    "group" : "diy_lottery_group_1_10",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "491",
+    "group" : "diy_lottery_group_1_10",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "492",
+    "group" : "diy_lottery_group_1_10",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "493",
+    "group" : "diy_lottery_group_1_10",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "200000"
+  }, {
+    "id" : "494",
+    "group" : "diy_lottery_group_1_10",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "200000"
+  }, {
+    "id" : "495",
+    "group" : "diy_lottery_group_1_10",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "20000"
+  }, {
+    "id" : "496",
+    "group" : "diy_lottery_group_1_10",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "497",
+    "group" : "diy_lottery_group_1_10",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "498",
+    "group" : "diy_lottery_group_1_10",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "499",
+    "group" : "diy_lottery_group_1_10",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "500",
+    "group" : "diy_lottery_group_1_10",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "501",
+    "group" : "diy_lottery_group_1_10",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "100"
+  }, {
+    "id" : "502",
+    "group" : "diy_lottery_group_1_10",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "100"
+  }, {
+    "id" : "503",
+    "group" : "diy_lottery_group_1_10",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "504",
+    "group" : "diy_lottery_group_1_10",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "505",
+    "group" : "diy_lottery_group_1_10",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "506",
+    "group" : "diy_lottery_group_1_10",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "507",
+    "group" : "diy_lottery_group_1_10",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "508",
+    "group" : "diy_lottery_group_1_10",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "509",
+    "group" : "diy_lottery_group_1_10",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "510",
+    "group" : "diy_lottery_group_1_10",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "511",
+    "group" : "diy_lottery_group_1_10",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1"
+  }, {
+    "id" : "512",
+    "group" : "diy_lottery_group_1_11",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "513",
+    "group" : "diy_lottery_group_1_11",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "514",
+    "group" : "diy_lottery_group_1_11",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "515",
+    "group" : "diy_lottery_group_1_11",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "516",
+    "group" : "diy_lottery_group_1_11",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10000000"
+  }, {
+    "id" : "517",
+    "group" : "diy_lottery_group_1_11",
+    "rank" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "200000"
+  }, {
+    "id" : "518",
+    "group" : "diy_lottery_group_1_11",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "519",
+    "group" : "diy_lottery_group_1_11",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "520",
+    "group" : "diy_lottery_group_1_11",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "521",
+    "group" : "diy_lottery_group_1_11",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "522",
+    "group" : "diy_lottery_group_1_11",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "100"
+  }, {
+    "id" : "523",
+    "group" : "diy_lottery_group_1_11",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "100"
+  }, {
+    "id" : "524",
+    "group" : "diy_lottery_group_1_11",
+    "rank" : "2",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "100"
+  }, {
+    "id" : "525",
+    "group" : "diy_lottery_group_1_11",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "526",
+    "group" : "diy_lottery_group_1_11",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "527",
+    "group" : "diy_lottery_group_1_11",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "528",
+    "group" : "diy_lottery_group_1_11",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "529",
+    "group" : "diy_lottery_group_1_11",
+    "rank" : "3",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "weight" : "1"
+  } ]
+}

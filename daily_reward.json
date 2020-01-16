@@ -1,0 +1,45 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "req_score" : "req_score@int",
+    "level_rewards_group" : "level_rewards_group@level_rewards_group.id",
+    "coin_rate" : "coin_rate@int",
+    "daily_alliance_gift_reward" : "daily_alliance_gift_reward@alliance_gift_main.id"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "req_score" : "需求活跃积分",
+    "level_rewards_group" : "等级奖励组",
+    "coin_rate" : "古币数量",
+    "daily_alliance_gift_reward" : "奖励的联盟礼包"
+  }, {
+    "id" : "daily_reward_1",
+    "req_score" : "10",
+    "level_rewards_group" : "daily_reward_step_1",
+    "coin_rate" : "1",
+    "daily_alliance_gift_reward" : "alliance_gift_daily_reward"
+  }, {
+    "id" : "daily_reward_2",
+    "req_score" : "30",
+    "level_rewards_group" : "daily_reward_step_2",
+    "daily_alliance_gift_reward" : "alliance_gift_daily_reward"
+  }, {
+    "id" : "daily_reward_3",
+    "req_score" : "50",
+    "level_rewards_group" : "daily_reward_step_3",
+    "coin_rate" : "1",
+    "daily_alliance_gift_reward" : "alliance_gift_daily_reward"
+  }, {
+    "id" : "daily_reward_4",
+    "req_score" : "75",
+    "level_rewards_group" : "daily_reward_step_4",
+    "coin_rate" : "1",
+    "daily_alliance_gift_reward" : "alliance_gift_daily_reward"
+  }, {
+    "id" : "daily_reward_5",
+    "req_score" : "100",
+    "level_rewards_group" : "daily_reward_step_5",
+    "coin_rate" : "1",
+    "daily_alliance_gift_reward" : "alliance_gift_daily_reward"
+  } ]
+}

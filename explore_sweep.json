@@ -1,0 +1,76 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "chapter_id" : "chapter_id@explore_chapter.id",
+    "index" : "index@int",
+    "achievement_num" : "achievement_num@int",
+    "reward_floor" : "reward_floor@int",
+    "description" : "description@string",
+    "percent" : "percent@int",
+    "item_req" : "item_req@itemlist.id",
+    "item_req_value" : "item_req_value@int",
+    "filtration_item" : "filtration_item@itemlist.id"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "chapter_id" : "探索主题",
+    "index" : "序列",
+    "achievement_num" : "成就点数",
+    "reward_floor" : "对应奖励层数",
+    "description" : "描述",
+    "percent" : "多语言key参数",
+    "item_req" : "消耗道具id",
+    "item_req_value" : "消耗道具数量",
+    "filtration_item" : "扫荡无法获得道具id"
+  }, {
+    "id" : "explore_1_1",
+    "chapter_id" : "explore_1",
+    "index" : "1",
+    "achievement_num" : "20",
+    "reward_floor" : "20",
+    "description" : "explore_achievements_open_plunder_function",
+    "percent" : "20"
+  }, {
+    "id" : "explore_1_2",
+    "chapter_id" : "explore_1",
+    "index" : "2",
+    "achievement_num" : "40",
+    "reward_floor" : "40",
+    "description" : "explore_achievements_plunder_rewards",
+    "percent" : "40"
+  }, {
+    "id" : "explore_1_3",
+    "chapter_id" : "explore_1",
+    "index" : "3",
+    "achievement_num" : "60",
+    "reward_floor" : "50",
+    "description" : "explore_achievements_plunder_rewards",
+    "percent" : "50"
+  }, {
+    "id" : "explore_1_4",
+    "chapter_id" : "explore_1",
+    "index" : "4",
+    "achievement_num" : "80",
+    "reward_floor" : "60",
+    "description" : "explore_achievements_plunder_rewards",
+    "percent" : "60"
+  }, {
+    "id" : "explore_1_5",
+    "chapter_id" : "explore_1",
+    "index" : "5",
+    "achievement_num" : "100",
+    "reward_floor" : "80",
+    "description" : "explore_achievements_plunder_rewards",
+    "percent" : "80"
+  }, {
+    "id" : "activity_explore_1_1",
+    "chapter_id" : "activity_explore_1",
+    "index" : "1",
+    "reward_floor" : "-1",
+    "description" : "explore_achievements_open_plunder_function",
+    "percent" : "-1",
+    "item_req" : "item_activity_explore_midsummer_sweep_ticket",
+    "item_req_value" : "5",
+    "filtration_item" : "item_activity_explore_midsummer_sweep_ticket"
+  } ]
+}

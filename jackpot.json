@@ -1,0 +1,68 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "type" : "type@int",
+    "reward" : "reward@itemlist.id",
+    "weight" : "weight@int"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "type" : "类型",
+    "reward" : "奖励道具id",
+    "weight" : "权重"
+  }, {
+    "id" : "1",
+    "type" : "0",
+    "weight" : "200000"
+  }, {
+    "id" : "2",
+    "type" : "1",
+    "reward" : "item_food_small1",
+    "weight" : "112377"
+  }, {
+    "id" : "3",
+    "type" : "1",
+    "reward" : "item_wood_small1",
+    "weight" : "112377"
+  }, {
+    "id" : "4",
+    "type" : "1",
+    "reward" : "item_bookofwar",
+    "weight" : "112377"
+  }, {
+    "id" : "5",
+    "type" : "1",
+    "reward" : "item_gold_100",
+    "weight" : "56421"
+  }, {
+    "id" : "6",
+    "type" : "2",
+    "reward" : "item_food_small1",
+    "weight" : "27025"
+  }, {
+    "id" : "7",
+    "type" : "2",
+    "reward" : "item_wood_small1",
+    "weight" : "27025"
+  }, {
+    "id" : "8",
+    "type" : "2",
+    "reward" : "item_bookofwar",
+    "weight" : "27025"
+  }, {
+    "id" : "9",
+    "type" : "2",
+    "reward" : "item_gold_10",
+    "weight" : "16069"
+  }, {
+    "id" : "10",
+    "type" : "2",
+    "reward" : "item_gold_100",
+    "weight" : "2856"
+  }, {
+    "id" : "11",
+    "type" : "1",
+    "reward" : "item_jackpot_coin",
+    "weight" : "81694"
+  } ]
+}

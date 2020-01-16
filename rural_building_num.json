@@ -1,0 +1,340 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "stronghold_level" : "stronghold_level@int",
+    "farm_num" : "farm_num@int",
+    "lumber_mill_num" : "lumber_mill_num@int",
+    "mine_num" : "mine_num@int",
+    "house_num" : "house_num@int",
+    "hospital_num" : "hospital_num@int"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "stronghold_level" : "主城等级",
+    "farm_num" : "农场数量",
+    "lumber_mill_num" : "木材厂数量",
+    "mine_num" : "铁矿数量",
+    "house_num" : "银币矿数量",
+    "hospital_num" : "医院数量"
+  }, {
+    "id" : "rural_building_num_1",
+    "stronghold_level" : "1",
+    "farm_num" : "2",
+    "lumber_mill_num" : "2",
+    "mine_num" : "2",
+    "house_num" : "2",
+    "hospital_num" : "1"
+  }, {
+    "id" : "rural_building_num_2",
+    "stronghold_level" : "2",
+    "farm_num" : "2",
+    "lumber_mill_num" : "2",
+    "mine_num" : "2",
+    "house_num" : "2",
+    "hospital_num" : "1"
+  }, {
+    "id" : "rural_building_num_3",
+    "stronghold_level" : "3",
+    "farm_num" : "2",
+    "lumber_mill_num" : "2",
+    "mine_num" : "2",
+    "house_num" : "2",
+    "hospital_num" : "1"
+  }, {
+    "id" : "rural_building_num_4",
+    "stronghold_level" : "4",
+    "farm_num" : "2",
+    "lumber_mill_num" : "2",
+    "mine_num" : "2",
+    "house_num" : "2",
+    "hospital_num" : "1"
+  }, {
+    "id" : "rural_building_num_5",
+    "stronghold_level" : "5",
+    "farm_num" : "2",
+    "lumber_mill_num" : "2",
+    "mine_num" : "2",
+    "house_num" : "2",
+    "hospital_num" : "1"
+  }, {
+    "id" : "rural_building_num_6",
+    "stronghold_level" : "6",
+    "farm_num" : "2",
+    "lumber_mill_num" : "2",
+    "mine_num" : "2",
+    "house_num" : "2",
+    "hospital_num" : "1"
+  }, {
+    "id" : "rural_building_num_7",
+    "stronghold_level" : "7",
+    "farm_num" : "2",
+    "lumber_mill_num" : "2",
+    "mine_num" : "2",
+    "house_num" : "2",
+    "hospital_num" : "1"
+  }, {
+    "id" : "rural_building_num_8",
+    "stronghold_level" : "8",
+    "farm_num" : "2",
+    "lumber_mill_num" : "2",
+    "mine_num" : "2",
+    "house_num" : "2",
+    "hospital_num" : "1"
+  }, {
+    "id" : "rural_building_num_9",
+    "stronghold_level" : "9",
+    "farm_num" : "2",
+    "lumber_mill_num" : "2",
+    "mine_num" : "2",
+    "house_num" : "2",
+    "hospital_num" : "1"
+  }, {
+    "id" : "rural_building_num_10",
+    "stronghold_level" : "10",
+    "farm_num" : "2",
+    "lumber_mill_num" : "2",
+    "mine_num" : "2",
+    "house_num" : "2",
+    "hospital_num" : "1"
+  }, {
+    "id" : "rural_building_num_11",
+    "stronghold_level" : "11",
+    "farm_num" : "2",
+    "lumber_mill_num" : "2",
+    "mine_num" : "2",
+    "house_num" : "2",
+    "hospital_num" : "1"
+  }, {
+    "id" : "rural_building_num_12",
+    "stronghold_level" : "12",
+    "farm_num" : "2",
+    "lumber_mill_num" : "2",
+    "mine_num" : "2",
+    "house_num" : "2",
+    "hospital_num" : "1"
+  }, {
+    "id" : "rural_building_num_13",
+    "stronghold_level" : "13",
+    "farm_num" : "2",
+    "lumber_mill_num" : "2",
+    "mine_num" : "2",
+    "house_num" : "2",
+    "hospital_num" : "1"
+  }, {
+    "id" : "rural_building_num_14",
+    "stronghold_level" : "14",
+    "farm_num" : "2",
+    "lumber_mill_num" : "2",
+    "mine_num" : "2",
+    "house_num" : "2",
+    "hospital_num" : "1"
+  }, {
+    "id" : "rural_building_num_15",
+    "stronghold_level" : "15",
+    "farm_num" : "2",
+    "lumber_mill_num" : "2",
+    "mine_num" : "2",
+    "house_num" : "2",
+    "hospital_num" : "1"
+  }, {
+    "id" : "rural_building_num_16",
+    "stronghold_level" : "16",
+    "farm_num" : "2",
+    "lumber_mill_num" : "2",
+    "mine_num" : "2",
+    "house_num" : "2",
+    "hospital_num" : "1"
+  }, {
+    "id" : "rural_building_num_17",
+    "stronghold_level" : "17",
+    "farm_num" : "2",
+    "lumber_mill_num" : "2",
+    "mine_num" : "2",
+    "house_num" : "2",
+    "hospital_num" : "1"
+  }, {
+    "id" : "rural_building_num_18",
+    "stronghold_level" : "18",
+    "farm_num" : "2",
+    "lumber_mill_num" : "2",
+    "mine_num" : "2",
+    "house_num" : "2",
+    "hospital_num" : "1"
+  }, {
+    "id" : "rural_building_num_19",
+    "stronghold_level" : "19",
+    "farm_num" : "2",
+    "lumber_mill_num" : "2",
+    "mine_num" : "2",
+    "house_num" : "2",
+    "hospital_num" : "1"
+  }, {
+    "id" : "rural_building_num_20",
+    "stronghold_level" : "20",
+    "farm_num" : "2",
+    "lumber_mill_num" : "2",
+    "mine_num" : "2",
+    "house_num" : "2",
+    "hospital_num" : "1"
+  }, {
+    "id" : "rural_building_num_21",
+    "stronghold_level" : "21",
+    "farm_num" : "2",
+    "lumber_mill_num" : "2",
+    "mine_num" : "2",
+    "house_num" : "2",
+    "hospital_num" : "1"
+  }, {
+    "id" : "rural_building_num_22",
+    "stronghold_level" : "22",
+    "farm_num" : "2",
+    "lumber_mill_num" : "2",
+    "mine_num" : "2",
+    "house_num" : "2",
+    "hospital_num" : "1"
+  }, {
+    "id" : "rural_building_num_23",
+    "stronghold_level" : "23",
+    "farm_num" : "2",
+    "lumber_mill_num" : "2",
+    "mine_num" : "2",
+    "house_num" : "2",
+    "hospital_num" : "1"
+  }, {
+    "id" : "rural_building_num_24",
+    "stronghold_level" : "24",
+    "farm_num" : "2",
+    "lumber_mill_num" : "2",
+    "mine_num" : "2",
+    "house_num" : "2",
+    "hospital_num" : "1"
+  }, {
+    "id" : "rural_building_num_25",
+    "stronghold_level" : "25",
+    "farm_num" : "2",
+    "lumber_mill_num" : "2",
+    "mine_num" : "2",
+    "house_num" : "2",
+    "hospital_num" : "1"
+  }, {
+    "id" : "rural_building_num_26",
+    "stronghold_level" : "26",
+    "farm_num" : "2",
+    "lumber_mill_num" : "2",
+    "mine_num" : "2",
+    "house_num" : "2",
+    "hospital_num" : "1"
+  }, {
+    "id" : "rural_building_num_27",
+    "stronghold_level" : "27",
+    "farm_num" : "2",
+    "lumber_mill_num" : "2",
+    "mine_num" : "2",
+    "house_num" : "2",
+    "hospital_num" : "1"
+  }, {
+    "id" : "rural_building_num_28",
+    "stronghold_level" : "28",
+    "farm_num" : "2",
+    "lumber_mill_num" : "2",
+    "mine_num" : "2",
+    "house_num" : "2",
+    "hospital_num" : "1"
+  }, {
+    "id" : "rural_building_num_29",
+    "stronghold_level" : "29",
+    "farm_num" : "2",
+    "lumber_mill_num" : "2",
+    "mine_num" : "2",
+    "house_num" : "2",
+    "hospital_num" : "1"
+  }, {
+    "id" : "rural_building_num_30",
+    "stronghold_level" : "30",
+    "farm_num" : "2",
+    "lumber_mill_num" : "2",
+    "mine_num" : "2",
+    "house_num" : "2",
+    "hospital_num" : "1"
+  }, {
+    "id" : "rural_building_num_31",
+    "stronghold_level" : "31",
+    "farm_num" : "2",
+    "lumber_mill_num" : "2",
+    "mine_num" : "2",
+    "house_num" : "2",
+    "hospital_num" : "1"
+  }, {
+    "id" : "rural_building_num_32",
+    "stronghold_level" : "32",
+    "farm_num" : "2",
+    "lumber_mill_num" : "2",
+    "mine_num" : "2",
+    "house_num" : "2",
+    "hospital_num" : "1"
+  }, {
+    "id" : "rural_building_num_33",
+    "stronghold_level" : "33",
+    "farm_num" : "2",
+    "lumber_mill_num" : "2",
+    "mine_num" : "2",
+    "house_num" : "2",
+    "hospital_num" : "1"
+  }, {
+    "id" : "rural_building_num_34",
+    "stronghold_level" : "34",
+    "farm_num" : "2",
+    "lumber_mill_num" : "2",
+    "mine_num" : "2",
+    "house_num" : "2",
+    "hospital_num" : "1"
+  }, {
+    "id" : "rural_building_num_35",
+    "stronghold_level" : "35",
+    "farm_num" : "2",
+    "lumber_mill_num" : "2",
+    "mine_num" : "2",
+    "house_num" : "2",
+    "hospital_num" : "1"
+  }, {
+    "id" : "rural_building_num_36",
+    "stronghold_level" : "36",
+    "farm_num" : "2",
+    "lumber_mill_num" : "2",
+    "mine_num" : "2",
+    "house_num" : "2",
+    "hospital_num" : "1"
+  }, {
+    "id" : "rural_building_num_37",
+    "stronghold_level" : "37",
+    "farm_num" : "2",
+    "lumber_mill_num" : "2",
+    "mine_num" : "2",
+    "house_num" : "2",
+    "hospital_num" : "1"
+  }, {
+    "id" : "rural_building_num_38",
+    "stronghold_level" : "38",
+    "farm_num" : "2",
+    "lumber_mill_num" : "2",
+    "mine_num" : "2",
+    "house_num" : "2",
+    "hospital_num" : "1"
+  }, {
+    "id" : "rural_building_num_39",
+    "stronghold_level" : "39",
+    "farm_num" : "2",
+    "lumber_mill_num" : "2",
+    "mine_num" : "2",
+    "house_num" : "2",
+    "hospital_num" : "1"
+  }, {
+    "id" : "rural_building_num_40",
+    "stronghold_level" : "40",
+    "farm_num" : "2",
+    "lumber_mill_num" : "2",
+    "mine_num" : "2",
+    "house_num" : "2",
+    "hospital_num" : "1"
+  } ]
+}

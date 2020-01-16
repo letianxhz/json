@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "alliance_level_min" : "alliance_level_min@int",
+    "alliance_level_max" : "alliance_level_max@int",
+    "alliance_gift" : "alliance_gift@alliance_gift_main.id",
+    "honor_points_req" : "honor_points_req@int"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "alliance_level_min" : "联盟等级下限",
+    "alliance_level_max" : "联盟等级上限",
+    "alliance_gift" : "对应联盟礼物id",
+    "honor_points_req" : "所需荣耀值"
+  }, {
+    "id" : "alliance_honor_package_1",
+    "alliance_level_min" : "1",
+    "alliance_level_max" : "5",
+    "alliance_gift" : "alliance_honor_gift_1",
+    "honor_points_req" : "50000"
+  }, {
+    "id" : "alliance_honor_package_2",
+    "alliance_level_min" : "6",
+    "alliance_level_max" : "9",
+    "alliance_gift" : "alliance_honor_gift_2",
+    "honor_points_req" : "50000"
+  }, {
+    "id" : "alliance_honor_package_3",
+    "alliance_level_min" : "10",
+    "alliance_level_max" : "12",
+    "alliance_gift" : "alliance_honor_gift_3",
+    "honor_points_req" : "50000"
+  }, {
+    "id" : "alliance_honor_package_4",
+    "alliance_level_min" : "13",
+    "alliance_level_max" : "14",
+    "alliance_gift" : "alliance_honor_gift_4",
+    "honor_points_req" : "50000"
+  }, {
+    "id" : "alliance_honor_package_5",
+    "alliance_level_min" : "15",
+    "alliance_level_max" : "999",
+    "alliance_gift" : "alliance_honor_gift_5",
+    "honor_points_req" : "50000"
+  } ]
+}

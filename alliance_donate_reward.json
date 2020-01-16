@@ -1,0 +1,48 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "food" : "food@int",
+    "wood" : "wood@int",
+    "honor" : "honor@int",
+    "fund" : "fund@int",
+    "reward_id_1" : "reward_id_1@itemlist.id",
+    "reward_value_1" : "reward_value_1@int",
+    "reward_id_2" : "reward_id_2@itemlist.id",
+    "reward_value_2" : "reward_value_2@int"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "food" : "粮食",
+    "wood" : "木材",
+    "honor" : "联盟荣誉",
+    "fund" : "联盟信誉",
+    "reward_id_1" : "奖励道具id_1",
+    "reward_value_1" : "奖励道具数量_1",
+    "reward_id_2" : "奖励道具id_2",
+    "reward_value_2" : "奖励道具数量_2"
+  }, {
+    "id" : "alliance_reward_1",
+    "food" : "1000000",
+    "wood" : "1000000",
+    "honor" : "12000",
+    "fund" : "12000"
+  }, {
+    "id" : "alliance_reward_2",
+    "food" : "800000",
+    "wood" : "800000",
+    "honor" : "10000",
+    "fund" : "10000"
+  }, {
+    "id" : "alliance_reward_3",
+    "food" : "700000",
+    "wood" : "700000",
+    "honor" : "8000",
+    "fund" : "8000"
+  }, {
+    "id" : "alliance_reward_0",
+    "food" : "400000",
+    "wood" : "400000",
+    "honor" : "4000",
+    "fund" : "4000"
+  } ]
+}

@@ -1,0 +1,19 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "value" : "value@string"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "value" : "值"
+  }, {
+    "id" : "file",
+    "value" : "/system/lib/libdroid4x.so|system/bin/windroyed|/system/lib/libdroid4x.so|/system/bin/nox-prop|/system/bin/ttVM-prop|/data/.bluestacks.prop|/sdcard/windows/BstSharedFolder|/system/lib/egl/libEGL_tencent.so|/system/lib/egl/libGLES_bst.so|/mnt/shared/xxlog"
+  }, {
+    "id" : "android_os_build_model",
+    "value" : "MuMu|iToolsAVM_T0002271S|virtual machine|iToolsAVM_T0009872S|iToolsAVM_T0028269S"
+  }, {
+    "id" : "android_os_build_device",
+    "value" : "vbox86tp|iToolsAVM_T0002271S|vbox86p|iToolsAVM_T0009872S|iToolsAVM_T0028269S"
+  } ]
+}

@@ -1,0 +1,324 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "activity_id" : "activity_id@activity_alliance_limit_main.id",
+    "rank_gears_min" : "rank_gears_min@int",
+    "rank_gears_max" : "rank_gears_max@int",
+    "reward_id_1" : "reward_id_1@itemlist.id",
+    "reward_value_1" : "reward_value_1@int",
+    "reward_id_2" : "reward_id_2@itemlist.id",
+    "reward_value_2" : "reward_value_2@int",
+    "reward_id_3" : "reward_id_3@itemlist.id",
+    "reward_value_3" : "reward_value_3@int",
+    "reward_id_4" : "reward_id_4@itemlist.id",
+    "reward_value_4" : "reward_value_4@int"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "activity_id" : "活动id",
+    "rank_gears_min" : "排行榜档位下限",
+    "rank_gears_max" : "排行榜档位上限",
+    "reward_id_1" : "奖励道具1",
+    "reward_value_1" : "奖励数量1",
+    "reward_id_2" : "奖励道具2",
+    "reward_value_2" : "奖励数量2",
+    "reward_id_3" : "奖励道具3",
+    "reward_value_3" : "奖励数量3",
+    "reward_id_4" : "奖励道具4",
+    "reward_value_4" : "奖励数量4"
+  }, {
+    "id" : "1",
+    "activity_id" : "alliance_limit_1",
+    "rank_gears_min" : "1",
+    "rank_gears_max" : "1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "2",
+    "activity_id" : "alliance_limit_1",
+    "rank_gears_min" : "2",
+    "rank_gears_max" : "2",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "3",
+    "activity_id" : "alliance_limit_1",
+    "rank_gears_min" : "3",
+    "rank_gears_max" : "3",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "4",
+    "activity_id" : "alliance_limit_1",
+    "rank_gears_min" : "4",
+    "rank_gears_max" : "5",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "5",
+    "activity_id" : "alliance_limit_1",
+    "rank_gears_min" : "6",
+    "rank_gears_max" : "10",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "6",
+    "activity_id" : "alliance_limit_1",
+    "rank_gears_min" : "11",
+    "rank_gears_max" : "20",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "7",
+    "activity_id" : "alliance_limit_1",
+    "rank_gears_min" : "21",
+    "rank_gears_max" : "50",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "8",
+    "activity_id" : "alliance_limit_2",
+    "rank_gears_min" : "1",
+    "rank_gears_max" : "1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "9",
+    "activity_id" : "alliance_limit_2",
+    "rank_gears_min" : "2",
+    "rank_gears_max" : "2",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "10",
+    "activity_id" : "alliance_limit_2",
+    "rank_gears_min" : "3",
+    "rank_gears_max" : "3",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "11",
+    "activity_id" : "alliance_limit_2",
+    "rank_gears_min" : "4",
+    "rank_gears_max" : "5",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "12",
+    "activity_id" : "alliance_limit_2",
+    "rank_gears_min" : "6",
+    "rank_gears_max" : "10",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "13",
+    "activity_id" : "alliance_limit_2",
+    "rank_gears_min" : "11",
+    "rank_gears_max" : "20",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "14",
+    "activity_id" : "alliance_limit_2",
+    "rank_gears_min" : "21",
+    "rank_gears_max" : "50",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "15",
+    "activity_id" : "alliance_limit_3",
+    "rank_gears_min" : "1",
+    "rank_gears_max" : "1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "16",
+    "activity_id" : "alliance_limit_3",
+    "rank_gears_min" : "2",
+    "rank_gears_max" : "2",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "17",
+    "activity_id" : "alliance_limit_3",
+    "rank_gears_min" : "3",
+    "rank_gears_max" : "3",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "18",
+    "activity_id" : "alliance_limit_3",
+    "rank_gears_min" : "4",
+    "rank_gears_max" : "5",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "19",
+    "activity_id" : "alliance_limit_3",
+    "rank_gears_min" : "6",
+    "rank_gears_max" : "10",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "20",
+    "activity_id" : "alliance_limit_3",
+    "rank_gears_min" : "11",
+    "rank_gears_max" : "20",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "21",
+    "activity_id" : "alliance_limit_3",
+    "rank_gears_min" : "21",
+    "rank_gears_max" : "50",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "22",
+    "activity_id" : "alliance_limit_1_1",
+    "rank_gears_min" : "1",
+    "rank_gears_max" : "1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "23",
+    "activity_id" : "alliance_limit_1_1",
+    "rank_gears_min" : "2",
+    "rank_gears_max" : "2",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "24",
+    "activity_id" : "alliance_limit_1_1",
+    "rank_gears_min" : "3",
+    "rank_gears_max" : "3",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "25",
+    "activity_id" : "alliance_limit_1_1",
+    "rank_gears_min" : "4",
+    "rank_gears_max" : "5",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "26",
+    "activity_id" : "alliance_limit_1_1",
+    "rank_gears_min" : "6",
+    "rank_gears_max" : "10",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "27",
+    "activity_id" : "alliance_limit_1_1",
+    "rank_gears_min" : "11",
+    "rank_gears_max" : "20",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "28",
+    "activity_id" : "alliance_limit_1_1",
+    "rank_gears_min" : "21",
+    "rank_gears_max" : "50",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "29",
+    "activity_id" : "alliance_limit_1_2",
+    "rank_gears_min" : "1",
+    "rank_gears_max" : "1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "30",
+    "activity_id" : "alliance_limit_1_2",
+    "rank_gears_min" : "2",
+    "rank_gears_max" : "2",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "31",
+    "activity_id" : "alliance_limit_1_2",
+    "rank_gears_min" : "3",
+    "rank_gears_max" : "3",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "32",
+    "activity_id" : "alliance_limit_1_2",
+    "rank_gears_min" : "4",
+    "rank_gears_max" : "5",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "33",
+    "activity_id" : "alliance_limit_1_2",
+    "rank_gears_min" : "6",
+    "rank_gears_max" : "10",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "34",
+    "activity_id" : "alliance_limit_1_2",
+    "rank_gears_min" : "11",
+    "rank_gears_max" : "20",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "35",
+    "activity_id" : "alliance_limit_1_2",
+    "rank_gears_min" : "21",
+    "rank_gears_max" : "50",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "36",
+    "activity_id" : "alliance_limit_1_3",
+    "rank_gears_min" : "1",
+    "rank_gears_max" : "1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "37",
+    "activity_id" : "alliance_limit_1_3",
+    "rank_gears_min" : "2",
+    "rank_gears_max" : "2",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "38",
+    "activity_id" : "alliance_limit_1_3",
+    "rank_gears_min" : "3",
+    "rank_gears_max" : "3",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "39",
+    "activity_id" : "alliance_limit_1_3",
+    "rank_gears_min" : "4",
+    "rank_gears_max" : "5",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "40",
+    "activity_id" : "alliance_limit_1_3",
+    "rank_gears_min" : "6",
+    "rank_gears_max" : "10",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "41",
+    "activity_id" : "alliance_limit_1_3",
+    "rank_gears_min" : "11",
+    "rank_gears_max" : "20",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "42",
+    "activity_id" : "alliance_limit_1_3",
+    "rank_gears_min" : "21",
+    "rank_gears_max" : "50",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  } ]
+}

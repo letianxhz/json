@@ -1,0 +1,1358 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "value" : "value@string",
+    "cm_env_value" : "cm_env_value@string"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "value" : "值"
+  }, {
+    "id" : "alliance_help_payout",
+    "value" : "10"
+  }, {
+    "id" : "alliance_help_maxlimit",
+    "value" : "2000"
+  }, {
+    "id" : "alliance_help_xp",
+    "value" : "0"
+  }, {
+    "id" : "alliance_gift_duration",
+    "value" : "86400"
+  }, {
+    "id" : "alliance_quest_duration",
+    "value" : "21600"
+  }, {
+    "id" : "vip_quest_duration",
+    "value" : "21600"
+  }, {
+    "id" : "scout_march_speed",
+    "value" : "5"
+  }, {
+    "id" : "trade_march_speed",
+    "value" : "0.5"
+  }, {
+    "id" : "capture_hero_enable_stronghold_level",
+    "value" : "15"
+  }, {
+    "id" : "execute_hero_enable_stronghold_level",
+    "value" : "20"
+  }, {
+    "id" : "capture_hero_imprison_duration",
+    "value" : "259200"
+  }, {
+    "id" : "capture_hero_execute_duration",
+    "value" : "86400"
+  }, {
+    "id" : "kill_streak_loss_per_defeat_percent",
+    "value" : "0.1"
+  }, {
+    "id" : "vip_base_point_reward",
+    "value" : "40"
+  }, {
+    "id" : "vip_incremental_point_reward",
+    "value" : "20"
+  }, {
+    "id" : "vip_point_reward_max",
+    "value" : "200"
+  }, {
+    "id" : "default_free_speedup_time_value",
+    "value" : "0"
+  }, {
+    "id" : "scout_cost_silver_value",
+    "value" : "100"
+  }, {
+    "id" : "contact_friend_limit_value",
+    "value" : "100"
+  }, {
+    "id" : "contact_block_limit_value",
+    "value" : "500"
+  }, {
+    "id" : "contact_search_limit_value",
+    "value" : "100"
+  }, {
+    "id" : "scout_cost_silver_c1",
+    "value" : "30"
+  }, {
+    "id" : "scout_cost_silver_c2",
+    "value" : "1"
+  }, {
+    "id" : "scout_cost_silver_c3",
+    "value" : "50"
+  }, {
+    "id" : "scout_cost_food_c1",
+    "value" : "30"
+  }, {
+    "id" : "scout_cost_food_c2",
+    "value" : "1"
+  }, {
+    "id" : "scout_cost_food_c3",
+    "value" : "50"
+  }, {
+    "id" : "accessory_1_unlock_level",
+    "value" : "3"
+  }, {
+    "id" : "accessory_2_unlock_level",
+    "value" : "20"
+  }, {
+    "id" : "mail_storage_time",
+    "value" : "36000"
+  }, {
+    "id" : "rally_slot_free_count",
+    "value" : "4"
+  }, {
+    "id" : "rally_slot_1_unlock_gold",
+    "value" : "5"
+  }, {
+    "id" : "rally_slot_2_unlock_gold",
+    "value" : "10"
+  }, {
+    "id" : "rally_slot_3_unlock_gold",
+    "value" : "20"
+  }, {
+    "id" : "rally_slot_4_unlock_gold",
+    "value" : "50"
+  }, {
+    "id" : "mail_version",
+    "value" : "1"
+  }, {
+    "id" : "mail_init_sql",
+    "value" : "CREATE TABLE IF NOT EXISTS {0} (id INT, time INT, status INT, read INT, fav INT, type INT, fromUID STRING, toUID STRING, subject STRING, json STRING)"
+  }, {
+    "id" : "legend_skill_points_cost",
+    "value" : "1"
+  }, {
+    "id" : "legend_skill_points_max",
+    "value" : "100"
+  }, {
+    "id" : "legend_slot_number_init",
+    "value" : "5"
+  }, {
+    "id" : "legend_slot_number_max",
+    "value" : "200"
+  }, {
+    "id" : "timer_gift_start",
+    "value" : "1"
+  }, {
+    "id" : "npc_store_slot_number",
+    "value" : "6"
+  }, {
+    "id" : "burning_time",
+    "value" : "30"
+  }, {
+    "id" : "burning_speed",
+    "value" : "4"
+  }, {
+    "id" : "burning_gold",
+    "value" : "50"
+  }, {
+    "id" : "increase_city_defense_value",
+    "value" : "100"
+  }, {
+    "id" : "increase_city_defense_period",
+    "value" : "1800"
+  }, {
+    "id" : "burning_speed_percent",
+    "value" : "0.3"
+  }, {
+    "id" : "alliance_donate_cd_second_per_gold",
+    "value" : "36"
+  }, {
+    "id" : "alliance_donate_mark_boost",
+    "value" : "0.2"
+  }, {
+    "id" : "dragon_init_time",
+    "value" : "3600"
+  }, {
+    "id" : "dragon_init_name",
+    "value" : "dragon_init_name"
+  }, {
+    "id" : "dragon_reuires_stronghold_upgrading_level",
+    "value" : "3",
+    "cm_env_value" : "主城在生几级时可孵化巨龙"
+  }, {
+    "id" : "food_per_gold",
+    "value" : "250"
+  }, {
+    "id" : "wood_per_gold",
+    "value" : "500"
+  }, {
+    "id" : "ore_per_gold",
+    "value" : "50"
+  }, {
+    "id" : "silver_per_gold",
+    "value" : "13"
+  }, {
+    "id" : "time_per_gold",
+    "value" : "45"
+  }, {
+    "id" : "time_per_gold_kingdom_hospital",
+    "value" : "3"
+  }, {
+    "id" : "blessing_coin_per_gold",
+    "value" : "1"
+  }, {
+    "id" : "prop_spirit_recover_speed_base_value",
+    "value" : "36"
+  }, {
+    "id" : "spirit_max",
+    "value" : "1000"
+  }, {
+    "id" : "create_alliance_gold_price",
+    "value" : "200"
+  }, {
+    "id" : "join_alliance_reward_gold",
+    "value" : "200"
+  }, {
+    "id" : "free_create_alliance_level",
+    "value" : "5"
+  }, {
+    "id" : "stronghold_level_unlock_food",
+    "value" : "1"
+  }, {
+    "id" : "stronghold_level_unlock_wood",
+    "value" : "1"
+  }, {
+    "id" : "stronghold_level_unlock_ore",
+    "value" : "10"
+  }, {
+    "id" : "stronghold_level_unlock_silver",
+    "value" : "15"
+  }, {
+    "id" : "food_load",
+    "value" : "2"
+  }, {
+    "id" : "wood_load",
+    "value" : "1"
+  }, {
+    "id" : "ore_load",
+    "value" : "10"
+  }, {
+    "id" : "silver_load",
+    "value" : "40"
+  }, {
+    "id" : "abyss_load",
+    "value" : "1"
+  }, {
+    "id" : "alliance_help_time_base",
+    "value" : "10"
+  }, {
+    "id" : "alliance_help_max_times_base",
+    "value" : "2"
+  }, {
+    "id" : "no_alliance_be_rally_target_min_level",
+    "value" : "6"
+  }, {
+    "id" : "max_buy_number",
+    "value" : "999"
+  }, {
+    "id" : "max_gve_tile",
+    "value" : "3000"
+  }, {
+    "id" : "min_gve_slot",
+    "value" : "2"
+  }, {
+    "id" : "max_gve_slot",
+    "value" : "6"
+  }, {
+    "id" : "gve_boss_spirit_cost",
+    "value" : "200"
+  }, {
+    "id" : "alliance_rename_price_base",
+    "value" : "200"
+  }, {
+    "id" : "alliance_rename_price_addition",
+    "value" : "100"
+  }, {
+    "id" : "alliance_rename_price_max",
+    "value" : "2000"
+  }, {
+    "id" : "alliance_tag_rename_price_base",
+    "value" : "200"
+  }, {
+    "id" : "alliance_tag_rename_price_addition",
+    "value" : "100"
+  }, {
+    "id" : "alliance_tag_rename_price_max",
+    "value" : "2000"
+  }, {
+    "id" : "player_per_block",
+    "value" : "6"
+  }, {
+    "id" : "player_generate_block_level_min",
+    "value" : "1"
+  }, {
+    "id" : "player_generate_block_num",
+    "value" : "300"
+  }, {
+    "id" : "alliance_member_max",
+    "value" : "50"
+  }, {
+    "id" : "max_recommend_alliance_num",
+    "value" : "8"
+  }, {
+    "id" : "max_member_count_for_recommend",
+    "value" : "49"
+  }, {
+    "id" : "max_total_recommend_alliance_num",
+    "value" : "56"
+  }, {
+    "id" : "min_recommend_alliance_power_rate",
+    "value" : "0.5"
+  }, {
+    "id" : "max_recommend_alliance_power_rate",
+    "value" : "10"
+  }, {
+    "id" : "apply_for_highlord_gold",
+    "value" : "1000"
+  }, {
+    "id" : "megaphone_duration",
+    "value" : "60"
+  }, {
+    "id" : "casino_roulette_cost",
+    "value" : "4"
+  }, {
+    "id" : "building_move",
+    "value" : "200"
+  }, {
+    "id" : "festival_visit_speed",
+    "value" : "2"
+  }, {
+    "id" : "google_play_achievment_open",
+    "value" : "1"
+  }, {
+    "id" : "building_idle_max_times",
+    "value" : "40"
+  }, {
+    "id" : "building_idle_max_reward_times",
+    "value" : "5"
+  }, {
+    "id" : "building_idle_interval",
+    "value" : "300"
+  }, {
+    "id" : "building_idle_max_level",
+    "value" : "20"
+  }, {
+    "id" : "building_idle_min_level",
+    "value" : "6"
+  }, {
+    "id" : "building_idle_food_max",
+    "value" : "5215"
+  }, {
+    "id" : "building_idle_wood_max",
+    "value" : "5215"
+  }, {
+    "id" : "building_idle_food_min",
+    "value" : "1152"
+  }, {
+    "id" : "building_idle_wood_min",
+    "value" : "1152"
+  }, {
+    "id" : "honor_per_gold",
+    "value" : "20"
+  }, {
+    "id" : "alliance_boss_donate_energy_max",
+    "value" : "900"
+  }, {
+    "id" : "alliance_boss_donate_honor",
+    "value" : "1000"
+  }, {
+    "id" : "alliance_boss_donate_fund",
+    "value" : "1000"
+  }, {
+    "id" : "alliance_boss_open_cd",
+    "value" : "48"
+  }, {
+    "id" : "alliance_boss_duration",
+    "value" : "30"
+  }, {
+    "id" : "request_time_out",
+    "value" : "15"
+  }, {
+    "id" : "request_retry_time",
+    "value" : "15"
+  }, {
+    "id" : "notification_delay_time",
+    "value" : "10"
+  }, {
+    "id" : "alliance_temple_donation_repletion_max",
+    "value" : "100"
+  }, {
+    "id" : "alliance_temple_mana_donation_join_cd",
+    "value" : "48"
+  }, {
+    "id" : "alliance_temple_donation_repletion_reduce_time",
+    "value" : "15"
+  }, {
+    "id" : "jackpot_cost_gold",
+    "value" : "20"
+  }, {
+    "id" : "jackpot_super_reward_add_gold",
+    "value" : "0.2"
+  }, {
+    "id" : "jackpot_base_reward_id",
+    "value" : "item_wood_small1"
+  }, {
+    "id" : "jackpot_base_reward_value",
+    "value" : "1"
+  }, {
+    "id" : "jackpot_weight_min",
+    "value" : "0"
+  }, {
+    "id" : "jackpot_weight_max",
+    "value" : "10000"
+  }, {
+    "id" : "jackpot_init_gold",
+    "value" : "1000"
+  }, {
+    "id" : "jackpot_init_is_open",
+    "value" : "1"
+  }, {
+    "id" : "emoji_count",
+    "value" : "192"
+  }, {
+    "id" : "chat_room_max_number",
+    "value" : "200"
+  }, {
+    "id" : "comment_reward_item_id",
+    "value" : "item_comment_reward"
+  }, {
+    "id" : "wonder_tower_attack_cd",
+    "value" : "240"
+  }, {
+    "id" : "change_kingdom_name_cd",
+    "value" : "24"
+  }, {
+    "id" : "world_map_wonder_max",
+    "value" : "9"
+  }, {
+    "id" : "world_map_flag_max",
+    "value" : "10"
+  }, {
+    "id" : "mini_wonder_kill_rate",
+    "value" : "0.01"
+  }, {
+    "id" : "mini_wonder_kill_max_number",
+    "value" : "10000"
+  }, {
+    "id" : "wonder_tower_attack_cd_para",
+    "value" : "600"
+  }, {
+    "id" : "wonder_repel_invader_shield_duration_rate",
+    "value" : "0.5"
+  }, {
+    "id" : "wonder_repel_invader_shield_duration_max",
+    "value" : "3600"
+  }, {
+    "id" : "wonder_benefit_increase_rate_0",
+    "value" : "0"
+  }, {
+    "id" : "wonder_benefit_increase_rate_1",
+    "value" : "0"
+  }, {
+    "id" : "wonder_benefit_increase_rate_2",
+    "value" : "0.4000000000000001"
+  }, {
+    "id" : "wonder_benefit_increase_rate_3",
+    "value" : "0.7000000000000002"
+  }, {
+    "id" : "wonder_benefit_increase_rate_4",
+    "value" : "0.9000000000000001"
+  }, {
+    "id" : "wonder_benefit_increase_rate_5",
+    "value" : "1"
+  }, {
+    "id" : "wonder_defense_benefit_valuable_time",
+    "value" : "1200"
+  }, {
+    "id" : "wonder_scouted_visible_march_max",
+    "value" : "30"
+  }, {
+    "id" : "auction_normal_number_all_server",
+    "value" : "7"
+  }, {
+    "id" : "auction_normal_number_single_server",
+    "value" : "0"
+  }, {
+    "id" : "auction_hidden_number_all_server",
+    "value" : "7"
+  }, {
+    "id" : "auction_hidden_number_single_server",
+    "value" : "0"
+  }, {
+    "id" : "artifact_pve_rate_per_stamina",
+    "value" : "5.0E-6"
+  }, {
+    "id" : "artifact_pvp_city_lose_rate",
+    "value" : "0.3"
+  }, {
+    "id" : "artifact_pvp_out_lose_rate",
+    "value" : "0.05"
+  }, {
+    "id" : "break_shield_add_cd",
+    "value" : "1800"
+  }, {
+    "id" : "jackpot_min_level",
+    "value" : "6"
+  }, {
+    "id" : "alliance_donate_min_level",
+    "value" : "4"
+  }, {
+    "id" : "timer_chest_display_month_card_rate",
+    "value" : "0"
+  }, {
+    "id" : "timer_chest_display_iap_package_rate",
+    "value" : "0.4"
+  }, {
+    "id" : "timer_chest_display_artifact_limit_rate",
+    "value" : "0.05"
+  }, {
+    "id" : "timer_chest_display_subscription_rate",
+    "value" : "0.4"
+  }, {
+    "id" : "king_send_resource_max",
+    "value" : "10000000"
+  }, {
+    "id" : "kingdom_coin_max",
+    "value" : "350000"
+  }, {
+    "id" : "legend_excalibur_war_group_server",
+    "value" : "3"
+  }, {
+    "id" : "legend_excalibur_war_grouping_frequency",
+    "value" : "1"
+  }, {
+    "id" : "legend_excalibur_war_cd",
+    "value" : "1209600"
+  }, {
+    "id" : "legend_excalibur_war_king_duration",
+    "value" : "28800"
+  }, {
+    "id" : "legend_excalibur_war_king_change_cd",
+    "value" : "7200"
+  }, {
+    "id" : "legend_excalibur_war_join_require",
+    "value" : "2",
+    "cm_env_value" : "koa_global_default|2,koa_37_default|1,gog_global_default|2,gog_cn_default|2,ww2_global_default|2,ww2_cn_default|2"
+  }, {
+    "id" : "legend_excalibur_war_win_score",
+    "value" : "3"
+  }, {
+    "id" : "legend_excalibur_war_lose_score",
+    "value" : "-2"
+  }, {
+    "id" : "legend_excalibur_war_recent_score_ratio",
+    "value" : "2"
+  }, {
+    "id" : "legend_excalibur_war_power_rank_5",
+    "value" : "50"
+  }, {
+    "id" : "legend_excalibur_war_power_rank_20",
+    "value" : "10"
+  }, {
+    "id" : "legend_excalibur_war_power_rank_100",
+    "value" : "1"
+  }, {
+    "id" : "capture_resource_rate",
+    "value" : "0.01"
+  }, {
+    "id" : "capture_coin_rate",
+    "value" : "0.01"
+  }, {
+    "id" : "lucky_archer_free_refresh",
+    "value" : "999"
+  }, {
+    "id" : "lucky_archer_refresh_gold",
+    "value" : "50"
+  }, {
+    "id" : "max_gem_number",
+    "value" : "100"
+  }, {
+    "id" : "switch_phone_iap_cd",
+    "value" : "0"
+  }, {
+    "id" : "trap_combat_rate",
+    "value" : "0.3"
+  }, {
+    "id" : "alliance_building_recycle_fund",
+    "value" : "2000000"
+  }, {
+    "id" : "parliament_unlock_level",
+    "value" : "2"
+  }, {
+    "id" : "channel_kingdom_screen_duration",
+    "value" : "1"
+  }, {
+    "id" : "newbie_city_remove_resource_max",
+    "value" : "3"
+  }, {
+    "id" : "channel_kingdom_chat_stronghold_level_min",
+    "value" : "5"
+  }, {
+    "id" : "alliance_research_duration_speedup_credit_cost",
+    "value" : "20000"
+  }, {
+    "id" : "alliance_research_duration_speedup_time",
+    "value" : "30"
+  }, {
+    "id" : "dice_free_daily_number",
+    "value" : "0"
+  }, {
+    "id" : "dice_refresh_costgold",
+    "value" : "50"
+  }, {
+    "id" : "dice_refresh_free_daily_number",
+    "value" : "1"
+  }, {
+    "id" : "abyss_sign_up_cost",
+    "value" : "100"
+  }, {
+    "id" : "abyss_healing_speed_rate",
+    "value" : "0.005"
+  }, {
+    "id" : "abyss_players_num_max",
+    "value" : "2000"
+  }, {
+    "id" : "abyss_sign_up_level_min",
+    "value" : "19"
+  }, {
+    "id" : "abyss_backhome_free_times",
+    "value" : "3"
+  }, {
+    "id" : "abyss_backhome_cost_gold",
+    "value" : "50"
+  }, {
+    "id" : "abyss_city_teleport_max_times",
+    "value" : "999999"
+  }, {
+    "id" : "abyss_march_speedup_max_times",
+    "value" : "999999"
+  }, {
+    "id" : "abyss_march_speedup_percent",
+    "value" : "1"
+  }, {
+    "id" : "alliance_personal_chest_auto_send",
+    "value" : "86400"
+  }, {
+    "id" : "alliance_activity_chest_time_limit",
+    "value" : "86400"
+  }, {
+    "id" : "battle_benefit_scalage",
+    "value" : "1",
+    "cm_env_value" : "koa_global_default|1,koa_37_default|1,gog_global_default|1,gog_cn_default|1,ww2_global_default|1,ww2_cn_default|1"
+  }, {
+    "id" : "auction_normal_world_sever_group_num",
+    "value" : "30"
+  }, {
+    "id" : "auction_normal_world_protect_time",
+    "value" : "300"
+  }, {
+    "id" : "auction_normal_world_delay_time",
+    "value" : "300"
+  }, {
+    "id" : "player_power_rank_number",
+    "value" : "100"
+  }, {
+    "id" : "attack_worldboss_marchspeed",
+    "value" : "3"
+  }, {
+    "id" : "attack_worldboss_num_max",
+    "value" : "10"
+  }, {
+    "id" : "auction_reward_damege_min",
+    "value" : "5.0E-4"
+  }, {
+    "id" : "auction_reward_damege_rank",
+    "value" : "100"
+  }, {
+    "id" : "fire_land_queue_limit_fossil_level",
+    "value" : "3"
+  }, {
+    "id" : "fire_land_queue_limit_num",
+    "value" : "4"
+  }, {
+    "id" : "battle_base_damage_scale_min",
+    "value" : "0.01"
+  }, {
+    "id" : "battle_base_damage_scale_max",
+    "value" : "1"
+  }, {
+    "id" : "battle_troop_dmgratio_scale_min",
+    "value" : "0.01"
+  }, {
+    "id" : "battle_troop_dmgratio_scale_max",
+    "value" : "3"
+  }, {
+    "id" : "battle_troop_type_bonus_scale_min",
+    "value" : "0.01"
+  }, {
+    "id" : "battle_troop_type_bonus_scale_max",
+    "value" : "3"
+  }, {
+    "id" : "alliance_devote_reward_settlement_day",
+    "value" : "1"
+  }, {
+    "id" : "alliance_devote_reward_settlement_time",
+    "value" : "00:10:00"
+  }, {
+    "id" : "player_portrait_upload_cd",
+    "value" : "259200"
+  }, {
+    "id" : "alliance_warfare_base_score",
+    "value" : "1000"
+  }, {
+    "id" : "alliance_warfare_group_correct_value",
+    "value" : "50"
+  }, {
+    "id" : "alliance_warfare_match_score_count_times",
+    "value" : "4"
+  }, {
+    "id" : "alliance_warfare_stronghold_lvl_base_scale",
+    "value" : "1.085"
+  }, {
+    "id" : "alliance_warfare_stronghold_lvl_scale",
+    "value" : "1"
+  }, {
+    "id" : "alliance_warfare_member_troop_rate",
+    "value" : "1.3"
+  }, {
+    "id" : "alliance_warfare_member_troop_scale",
+    "value" : "100000000"
+  }, {
+    "id" : "alliance_warfare_member_troop_constant",
+    "value" : "1"
+  }, {
+    "id" : "alliance_warfare_payment_base_scale",
+    "value" : "30"
+  }, {
+    "id" : "alliance_warfare_payment_scale",
+    "value" : "1.3"
+  }, {
+    "id" : "alliance_warfare_payment_constant",
+    "value" : "2"
+  }, {
+    "id" : "alliance_warfare_sign_up_cd",
+    "value" : "60"
+  }, {
+    "id" : "alliance_warfare_sign_up_alliance_level_min",
+    "value" : "10"
+  }, {
+    "id" : "alliance_warfare_sign_up_alliance_power_min",
+    "value" : "50000000"
+  }, {
+    "id" : "alliance_warfare_sign_up_alliance_active_member_min",
+    "value" : "30"
+  }, {
+    "id" : "alliance_warfare_sign_up_alliance_rank_max",
+    "value" : "10"
+  }, {
+    "id" : "alliance_warfare_track_cost",
+    "value" : "1000"
+  }, {
+    "id" : "alliance_warfare_track_duration",
+    "value" : "3600"
+  }, {
+    "id" : "alliance_warfare_healing_speed_rate",
+    "value" : "0.005"
+  }, {
+    "id" : "alliance_warfare_group_member_min",
+    "value" : "3"
+  }, {
+    "id" : "alliance_warfare_group_member_max",
+    "value" : "7"
+  }, {
+    "id" : "alliance_warfare_group_member_power_difference_max",
+    "value" : "0.3"
+  }, {
+    "id" : "alliance_warfare_group_member_score_difference_max",
+    "value" : "0.3"
+  }, {
+    "id" : "alliance_warfare_service_day_min",
+    "value" : "60"
+  }, {
+    "id" : "alliance_warfare_stronghold_lvl_min",
+    "value" : "16"
+  }, {
+    "id" : "individual_reward_score_req_min",
+    "value" : "3000"
+  }, {
+    "id" : "alliance_reward_score_req_min",
+    "value" : "518400000"
+  }, {
+    "id" : "alliance_warfare_ore_robbing_frequency",
+    "value" : "60"
+  }, {
+    "id" : "alliance_warfare_ore_robbing_rate",
+    "value" : "0.01"
+  }, {
+    "id" : "alliance_warfare_ore_rate_min",
+    "value" : "0.3"
+  }, {
+    "id" : "alliance_warfare_score_per_ore",
+    "value" : "2.0E-4"
+  }, {
+    "id" : "alliance_warfare_defender_score_per_ore",
+    "value" : "0.003"
+  }, {
+    "id" : "alliance_warfare_score_settlement_frequency",
+    "value" : "60"
+  }, {
+    "id" : "alliance_warfare_attacker_benefit_k1",
+    "value" : "1.428571428571429"
+  }, {
+    "id" : "alliance_warfare_attacker_benefit_b1",
+    "value" : "-0.4285714285714286"
+  }, {
+    "id" : "alliance_warfare_attacker_benefit_k2",
+    "value" : "0.5"
+  }, {
+    "id" : "alliance_warfare_attacker_benefit_b2",
+    "value" : "0.5"
+  }, {
+    "id" : "alliance_warfare_defender_benefit_k1",
+    "value" : "-1.428571428571429"
+  }, {
+    "id" : "alliance_warfare_defender_benefit_b1",
+    "value" : "2.428571428571429"
+  }, {
+    "id" : "alliance_warfare_defender_benefit_k2",
+    "value" : "-0.5"
+  }, {
+    "id" : "alliance_warfare_defender_benefit_b2",
+    "value" : "1.5"
+  }, {
+    "id" : "benefit_rate_min",
+    "value" : "0"
+  }, {
+    "id" : "benefit_rate_max",
+    "value" : "2"
+  }, {
+    "id" : "world_boss_visible_march_max",
+    "value" : "30"
+  }, {
+    "id" : "gm_tools_mail_channel_chat_stronghold_level_min",
+    "value" : "5"
+  }, {
+    "id" : "gm_tools_alliance_activity_group_service_num",
+    "value" : "20"
+  }, {
+    "id" : "gm_tools_alliance_activity_group_temp_name",
+    "value" : "联盟活动默认分组配置"
+  }, {
+    "id" : "gm_tools_alliance_activity_group_temp_type",
+    "value" : "2"
+  }, {
+    "id" : "gm_tools_alliance_activity_group_temp_service_num",
+    "value" : "20"
+  }, {
+    "id" : "gm_tools_alliance_activity_group_temp_service_day_min",
+    "value" : "3"
+  }, {
+    "id" : "gm_tools_alliance_activity_group_temp_service_num_min",
+    "value" : "20"
+  }, {
+    "id" : "super_rally_gold_cost",
+    "value" : "2000"
+  }, {
+    "id" : "super_defense_gold_cost",
+    "value" : "2000"
+  }, {
+    "id" : "super_defense_duration",
+    "value" : "14400"
+  }, {
+    "id" : "super_defense_captain_change_gold_cost",
+    "value" : "2000"
+  }, {
+    "id" : "super_defense_captain_change_duration",
+    "value" : "14400"
+  }, {
+    "id" : "super_defense_add_gold_cost",
+    "value" : "2000"
+  }, {
+    "id" : "super_defense_add_duration",
+    "value" : "14400"
+  }, {
+    "id" : "super_defense_duration_max",
+    "value" : "14400"
+  }, {
+    "id" : "presets_mail_item_id",
+    "value" : "item_lvup_chest_lv1"
+  }, {
+    "id" : "presets_mail_item_value",
+    "value" : "1"
+  }, {
+    "id" : "boost_alert_unprotected_time",
+    "value" : "120"
+  }, {
+    "id" : "boost_alert_unprotected_time_max",
+    "value" : "1800"
+  }, {
+    "id" : "boost_alert_unrelocate_time",
+    "value" : "120"
+  }, {
+    "id" : "boost_alert_unrelocate_time_max",
+    "value" : "1800"
+  }, {
+    "id" : "break_alert_add_cd",
+    "value" : "1800"
+  }, {
+    "id" : "boost_alert_effective_delay_time",
+    "value" : "10"
+  }, {
+    "id" : "call_back_player_sh_lvl_min",
+    "value" : "10"
+  }, {
+    "id" : "call_back_player_login_days_max",
+    "value" : "30"
+  }, {
+    "id" : "return_player_sh_lvl_min",
+    "value" : "18"
+  }, {
+    "id" : "return_player_not_login_days_min",
+    "value" : "30"
+  }, {
+    "id" : "return_player_lord_title_reward_item_id",
+    "value" : "item_lord_title_returning_king"
+  }, {
+    "id" : "fate_seal_3_steps_announce_reward_id",
+    "value" : "item_fate_seal_energy_1_3"
+  }, {
+    "id" : "fate_seal_3_steps_announce_reward_value",
+    "value" : "20"
+  }, {
+    "id" : "parliament_hero_summon_announce_quality",
+    "value" : "4"
+  }, {
+    "id" : "parliament_hero_summon_announce_reward_id",
+    "value" : "item_parliament_hero_summon_coin"
+  }, {
+    "id" : "parliament_hero_summon_announce_reward_value",
+    "value" : "10"
+  }, {
+    "id" : "kingdom_hospital_healing_immediately_percent",
+    "value" : "0.3"
+  }, {
+    "id" : "marketplace_food_single_request_max",
+    "value" : "100000000"
+  }, {
+    "id" : "marketplace_wood_single_request_max",
+    "value" : "100000000"
+  }, {
+    "id" : "marketplace_ore_single_request_max",
+    "value" : "20000000"
+  }, {
+    "id" : "marketplace_silver_single_request_max",
+    "value" : "5000000"
+  }, {
+    "id" : "city_defense_troops_lose_rate_max",
+    "value" : "0.3"
+  }, {
+    "id" : "event_limits_broadcast_duration",
+    "value" : "86400"
+  }, {
+    "id" : "iap_package_extra_buy_times_per_week",
+    "value" : "3"
+  }, {
+    "id" : "iap_daily_package_extra_buy_times_per_week",
+    "value" : "3"
+  }, {
+    "id" : "bubble_stronghold_level_min",
+    "value" : "5"
+  }, {
+    "id" : "first_use_build_queue_key",
+    "value" : "building_queue_minute_free_button"
+  }, {
+    "id" : "first_use_build_queue_time",
+    "value" : "172800"
+  }, {
+    "id" : "mark_join_alliance_visible_stronghold_lvl_min",
+    "value" : "3"
+  }, {
+    "id" : "effect_stamina_full_visible_stronghold_lvl_min",
+    "value" : "2"
+  }, {
+    "id" : "mark_world_map_visible_stronghold_lvl_max",
+    "value" : "10"
+  }, {
+    "id" : "second_build_queue_enable_time",
+    "value" : "2017-7-8 00:00:00",
+    "cm_env_value" : "koa_global_default|2017-07-08 00:00:00,koa_37_default|2017-07-08 00:00:00,gog_global_default|2017-07-08 00:00:00,gog_cn_default|2017-07-08 00:00:00,gog_ly_default|2017-07-08 00:00:00,ww2_global_default|2017-07-08 00:00:00,ww2_cn_default|2017-07-08 00:00:00"
+  }, {
+    "id" : "trigger_condition_1",
+    "value" : "stage_1_3"
+  }, {
+    "id" : "trigger_condition_2",
+    "value" : "stage_2_2"
+  }, {
+    "id" : "main_quest_hide_by_quest_group_id",
+    "value" : "296"
+  }, {
+    "id" : "main_quest_appear_by_quest_group_id",
+    "value" : "298"
+  }, {
+    "id" : "quest_group_final_king_arthur_will_lineage_chest",
+    "value" : "item_king_arthur_will_lineage"
+  }, {
+    "id" : "iap_daily_recharge_unlock_level",
+    "value" : "6"
+  }, {
+    "id" : "action_param",
+    "value" : "0,0,100,-75,3,1,2,default"
+  }, {
+    "id" : "dk_tec_return_last_login",
+    "value" : "2018-10-12 00:00:00"
+  }, {
+    "id" : "alliance_gift_iap_group",
+    "value" : "iap_package_alliance"
+  }, {
+    "id" : "alliance_gift_enter_time_limit",
+    "value" : "86400"
+  }, {
+    "id" : "alliance_honor_time_limit",
+    "value" : "86400"
+  }, {
+    "id" : "lord_spirit_honor_exchange",
+    "value" : "1"
+  }, {
+    "id" : "end_background_image",
+    "value" : "quest_chapter_1_endimage"
+  }, {
+    "id" : "end_description",
+    "value" : "bomber_crash_description"
+  }, {
+    "id" : "trial_stronghold_develp_path_open_level",
+    "value" : "5"
+  }, {
+    "id" : "need_kill_monster_min_level",
+    "value" : "6"
+  }, {
+    "id" : "no_monster_distance_for_appear_new_monster",
+    "value" : "10"
+  }, {
+    "id" : "new_monster_appear_max_distance",
+    "value" : "4"
+  }, {
+    "id" : "new_monster_disappear_time",
+    "value" : "5"
+  }, {
+    "id" : "warrior_priority",
+    "value" : "1"
+  }, {
+    "id" : "knightr_priority",
+    "value" : "2"
+  }, {
+    "id" : "mager_priority",
+    "value" : "3"
+  }, {
+    "id" : "destroy_building_limit_stronghold_level",
+    "value" : "3"
+  }, {
+    "id" : "explore_equip_box_appear_on_monster_chance",
+    "value" : "0.5"
+  }, {
+    "id" : "explore_elements_material_appear_on_monster_chance",
+    "value" : "0.8"
+  }, {
+    "id" : "explore_max_monster_num_on_circle",
+    "value" : "2"
+  }, {
+    "id" : "explore_max_monster_num_on_floor",
+    "value" : "5"
+  }, {
+    "id" : "explore_flagstone_base_weight",
+    "value" : "100"
+  }, {
+    "id" : "explore_flagstone_change_weight",
+    "value" : "10"
+  }, {
+    "id" : "explore_parliament_hero_equip_reset_item_id",
+    "value" : "item_hero_equipment_reset"
+  }, {
+    "id" : "explore_parliament_hero_equip_reset_gold",
+    "value" : "1000"
+  }, {
+    "id" : "explore_resurgence_gold_cost_base",
+    "value" : "500"
+  }, {
+    "id" : "explore_resurgence_gold_cost_add",
+    "value" : "500"
+  }, {
+    "id" : "explore_resurgence_cd",
+    "value" : "5"
+  }, {
+    "id" : "explore_resurgence_times_max",
+    "value" : "3"
+  }, {
+    "id" : "explore_score_floor",
+    "value" : "100"
+  }, {
+    "id" : "explore_score_stone",
+    "value" : "4"
+  }, {
+    "id" : "explore_score_monster",
+    "value" : "20"
+  }, {
+    "id" : "explore_score_boss",
+    "value" : "1000"
+  }, {
+    "id" : "explore_score_prop_explore_attack_base_value",
+    "value" : "20"
+  }, {
+    "id" : "explore_score_prop_explore_hp_base_value",
+    "value" : "2"
+  }, {
+    "id" : "explore_stamina_max",
+    "value" : "100"
+  }, {
+    "id" : "explore_stamina_recover_speed",
+    "value" : "432"
+  }, {
+    "id" : "end_background_image_new",
+    "value" : "quest_chapter_1_endimage"
+  }, {
+    "id" : "end_description_new",
+    "value" : "Insertmap_rebuild_description"
+  }, {
+    "id" : "action_param_new",
+    "value" : "0,0,100,-75,3,1,2,default"
+  }, {
+    "id" : "explore_talent_cost_rate",
+    "value" : "2"
+  }, {
+    "id" : "explore_player_miss_max",
+    "value" : "0.5"
+  }, {
+    "id" : "explore_warning_hp_percent",
+    "value" : "0.5"
+  }, {
+    "id" : "new_player_sheild_disappear_level",
+    "value" : "8"
+  }, {
+    "id" : "activity_charge_rebate_alert",
+    "value" : "explore_explore_1_1_1_floor_3"
+  }, {
+    "id" : "nicole_return_1",
+    "value" : "2,1,1"
+  }, {
+    "id" : "nicole_return_2",
+    "value" : "5,8,16"
+  }, {
+    "id" : "nicole_return_3",
+    "value" : "8,12,48"
+  }, {
+    "id" : "nicole_return_4",
+    "value" : "21,48,720"
+  }, {
+    "id" : "focus_lamp_on_building_stronghold_level",
+    "value" : "10"
+  }, {
+    "id" : "please_come_back_1",
+    "value" : "40,168,168"
+  }, {
+    "id" : "please_come_back_2",
+    "value" : "40,360,360"
+  }, {
+    "id" : "please_come_back_3",
+    "value" : "40,720,720"
+  }, {
+    "id" : "guide_first_time_train_troops_time",
+    "value" : "3"
+  }, {
+    "id" : "guide_wounded_troops_id",
+    "value" : "soldier_t1"
+  }, {
+    "id" : "guide_wounded_troops_value",
+    "value" : "3"
+  }, {
+    "id" : "guide_wounded_troops_step",
+    "value" : "chapter2_battle_1"
+  }, {
+    "id" : "fire_effects_disappear_step",
+    "value" : "freshguide_6"
+  }, {
+    "id" : "time_chest_open_step",
+    "value" : "chapter2_battle_1"
+  }, {
+    "id" : "dragon_unlock_need_stronghold_level",
+    "value" : "2"
+  }, {
+    "id" : "no_explore_task_stronghold_level",
+    "value" : "5"
+  }, {
+    "id" : "first_time_train_time_of_unit_type",
+    "value" : "siege"
+  }, {
+    "id" : "opening_animation_auto_pass_time",
+    "value" : "999"
+  }, {
+    "id" : "talk_auto_pass_time",
+    "value" : "999"
+  }, {
+    "id" : "personal_activity_ratio_num_1",
+    "value" : "1"
+  }, {
+    "id" : "personal_activity_ratio_num_2",
+    "value" : "1.9"
+  }, {
+    "id" : "personal_activity_ratio_num_3",
+    "value" : "2.8"
+  }, {
+    "id" : "personal_activity_round_time",
+    "value" : "10800"
+  }, {
+    "id" : "personal_activity_prepare_time",
+    "value" : "300"
+  }, {
+    "id" : "personal_activity_bubble_auto_disappear",
+    "value" : "10"
+  }, {
+    "id" : "player_flag_update_time",
+    "value" : "600"
+  }, {
+    "id" : "daily_deed_bubble_show_stronghold_level",
+    "value" : "6"
+  }, {
+    "id" : "daily_deed_bubble_self_check_interval",
+    "value" : "300"
+  }, {
+    "id" : "activity_explore_legacy_boss_monster_torches_base",
+    "value" : "2",
+    "cm_env_value" : "击杀boss后，小怪可掉落火把数的基础值"
+  }, {
+    "id" : "activity_explore_legacy_boss_monster_torches_value",
+    "value" : "1",
+    "cm_env_value" : "击杀boss后，根据剩余小怪个数，小怪可掉落火把数的附加值"
+  }, {
+    "id" : "welfare_iap_num",
+    "value" : "8"
+  }, {
+    "id" : "alliance_recommend_param_1",
+    "value" : "10"
+  }, {
+    "id" : "alliance_recommend_param_2",
+    "value" : "10"
+  }, {
+    "id" : "alliance_recommend_param_3",
+    "value" : "3"
+  }, {
+    "id" : "pvp_support_food",
+    "value" : "item_food_small1"
+  }, {
+    "id" : "pvp_support_wood",
+    "value" : "item_wood_small1"
+  }, {
+    "id" : "pvp_support_ore",
+    "value" : "item_ore_small1"
+  }, {
+    "id" : "pvp_support_silver",
+    "value" : "item_silver_small1"
+  }, {
+    "id" : "pvp_support_speedup_heal",
+    "value" : "item_healing_speedup_5m"
+  }, {
+    "id" : "pvp_support_speedup_train",
+    "value" : "item_training_speedup_5m"
+  }, {
+    "id" : "battle_attack_show_rate_min_1",
+    "value" : "0.4"
+  }, {
+    "id" : "battle_attack_show_rate_max_1",
+    "value" : "0.6"
+  }, {
+    "id" : "battle_attack_show_rate_min_2",
+    "value" : "0.25"
+  }, {
+    "id" : "battle_attack_show_rate_max_2",
+    "value" : "0.35"
+  }, {
+    "id" : "war_symphony_king_chapter",
+    "value" : "war_symphony_chapter_8"
+  }, {
+    "id" : "war_symphony_alliance_num",
+    "value" : "10"
+  }, {
+    "id" : "war_symphony_invade_time",
+    "value" : "21600"
+  }, {
+    "id" : "war_symphony_king_report",
+    "value" : "war_symphony_chapter_5"
+  }, {
+    "id" : "stronghold_lvlup_show_limit",
+    "value" : "5"
+  }, {
+    "id" : "alliance_first_reward",
+    "value" : "item_alliancetele"
+  }, {
+    "id" : "battle_ratio_1",
+    "value" : "0.9951"
+  }, {
+    "id" : "battle_ratio_2",
+    "value" : "0.2825"
+  }, {
+    "id" : "battle_ratio_3",
+    "value" : "1"
+  }, {
+    "id" : "max_round",
+    "value" : "100"
+  }, {
+    "id" : "cure_troops_min_time",
+    "value" : "3"
+  }, {
+    "id" : "city_garrison_general_num",
+    "value" : "2"
+  }, {
+    "id" : "gve_open_time_1",
+    "value" : "0"
+  }, {
+    "id" : "gve_open_time_2",
+    "value" : "14"
+  }, {
+    "id" : "gve_open_time_3",
+    "value" : "28"
+  }, {
+    "id" : "gve_protect_time_1",
+    "value" : "0"
+  }, {
+    "id" : "gve_protect_time_2",
+    "value" : "2"
+  }, {
+    "id" : "gve_protect_time_3",
+    "value" : "2"
+  }, {
+    "id" : "gve_report_limit_city_level",
+    "value" : "7"
+  }, {
+    "id" : "gve_march_line_limit",
+    "value" : "15"
+  }, {
+    "id" : "timer_gift_limit",
+    "value" : "-1"
+  }, {
+    "id" : "siege_attack_duration",
+    "value" : "0.3"
+  }, {
+    "id" : "siege_attack_max",
+    "value" : "3"
+  }, {
+    "id" : "infantry_attack_duration",
+    "value" : "0.6"
+  }, {
+    "id" : "infantry_attack_max",
+    "value" : "1"
+  }, {
+    "id" : "ranged_attack_duration",
+    "value" : "1"
+  }, {
+    "id" : "ranged_attack_max",
+    "value" : "1"
+  }, {
+    "id" : "cavalry_attack_duration",
+    "value" : "1"
+  }, {
+    "id" : "cavalry_attack_max",
+    "value" : "1"
+  }, {
+    "id" : "monster_speed_ratio",
+    "value" : "1"
+  } ]
+}

@@ -1,0 +1,144 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "reward_id_1" : "reward_id_1@itemlist.id",
+    "reward_value_1" : "reward_value_1@int",
+    "reward_id_2" : "reward_id_2@itemlist.id",
+    "reward_value_2" : "reward_value_2@int",
+    "reward_id_3" : "reward_id_3@itemlist.id",
+    "reward_value_3" : "reward_value_3@int",
+    "reward_id_4" : "reward_id_4@itemlist.id",
+    "reward_value_4" : "reward_value_4@int",
+    "reward_id_5" : "reward_id_5@itemlist.id",
+    "reward_value_5" : "reward_value_5@int",
+    "reward_id_6" : "reward_id_6@itemlist.id",
+    "reward_value_6" : "reward_value_6@int"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "reward_id_1" : "奖励道具id_1",
+    "reward_value_1" : "奖励道具数量_1",
+    "reward_id_2" : "奖励道具id_2",
+    "reward_value_2" : "奖励道具数量_2",
+    "reward_id_3" : "奖励道具id_3",
+    "reward_value_3" : "奖励道具数量_3",
+    "reward_id_4" : "奖励道具id_4",
+    "reward_value_4" : "奖励道具数量_4",
+    "reward_id_5" : "奖励道具id_5",
+    "reward_value_5" : "奖励道具数量_5",
+    "reward_id_6" : "奖励道具id_6",
+    "reward_value_6" : "奖励道具数量_6"
+  }, {
+    "id" : "iap_daily_recharge_0_1_sub_reward",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "iap_daily_recharge_0_2_sub_reward",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "iap_daily_recharge_0_3_sub_reward",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "iap_daily_recharge_0_4_sub_reward",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "iap_daily_recharge_0_5_sub_reward",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "iap_daily_recharge_0_6_sub_reward",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "iap_daily_recharge_0_7_sub_reward",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "iap_daily_recharge_1_1_sub_reward",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "iap_daily_recharge_1_2_sub_reward",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "iap_daily_recharge_1_3_sub_reward",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "iap_daily_recharge_1_4_sub_reward",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "iap_daily_recharge_1_5_sub_reward",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "iap_daily_recharge_1_6_sub_reward",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "iap_daily_recharge_1_7_sub_reward",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "iap_daily_recharge_2_1_sub_reward",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "iap_daily_recharge_2_2_sub_reward",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "iap_daily_recharge_2_3_sub_reward",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "iap_daily_recharge_2_4_sub_reward",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "iap_daily_recharge_2_5_sub_reward",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "iap_daily_recharge_2_6_sub_reward",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "iap_daily_recharge_2_7_sub_reward",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "iap_daily_recharge_3_1_sub_reward",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "iap_daily_recharge_3_2_sub_reward",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "iap_daily_recharge_3_3_sub_reward",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "iap_daily_recharge_3_4_sub_reward",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "iap_daily_recharge_3_5_sub_reward",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "iap_daily_recharge_3_6_sub_reward",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "iap_daily_recharge_3_7_sub_reward",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  } ]
+}

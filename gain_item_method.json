@@ -1,0 +1,252 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "item_type" : "item_type@string",
+    "show_type" : "show_type@string",
+    "method" : "method@gain_item_method_type.id",
+    "param1" : "param1@string",
+    "title" : "title@string",
+    "description" : "description@string"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "item_type" : "道具类别\nfood:食物\nwood:石油\nore:钢材\nsilver:稀有金属\nspeedup:加速\nsummon:英雄号角\nsummon_normal:英雄徽章\ngeneral_exp: 英雄经验\ngeneral_skill_exp: 英雄技能经验\ngold:黄金",
+    "show_type" : "normal\nbanner",
+    "method" : "获取途径\nchest:购买礼包\ninside_gather:城内采集\noutside_gather:城外采集\nshop:商店购买\nPVE:大世界野怪\nGVE:大世界军团\nshop_alliance:联盟商店\nshop_expedition:深渊商店\nrogue_like:英雄远征",
+    "param1" : "获取途径参数1",
+    "title" : "描述标题",
+    "description" : "多语言描述"
+  }, {
+    "id" : "1",
+    "item_type" : "food",
+    "show_type" : "normal",
+    "method" : "inside_gather",
+    "title" : "get_resources_way_harvest_subtitle",
+    "description" : "get_resources_way_harvest_description"
+  }, {
+    "id" : "2",
+    "item_type" : "food",
+    "show_type" : "normal",
+    "method" : "outside_gather",
+    "title" : "get_resources_way_gather_subtitle",
+    "description" : "get_resources_way_gather_description"
+  }, {
+    "id" : "3",
+    "item_type" : "food",
+    "show_type" : "normal",
+    "method" : "PVE",
+    "title" : "get_resources_way_pve_subtitle",
+    "description" : "get_resources_way_pve_description"
+  }, {
+    "id" : "5",
+    "item_type" : "wood",
+    "show_type" : "normal",
+    "method" : "inside_gather",
+    "title" : "get_resources_way_harvest_subtitle",
+    "description" : "get_resources_way_harvest_description"
+  }, {
+    "id" : "6",
+    "item_type" : "wood",
+    "show_type" : "normal",
+    "method" : "outside_gather",
+    "title" : "get_resources_way_gather_subtitle",
+    "description" : "get_resources_way_gather_description"
+  }, {
+    "id" : "8",
+    "item_type" : "wood",
+    "show_type" : "normal",
+    "method" : "GVE",
+    "title" : "get_resources_way_gve_subtitle",
+    "description" : "get_resources_way_gve_description"
+  }, {
+    "id" : "9",
+    "item_type" : "ore",
+    "show_type" : "normal",
+    "method" : "inside_gather",
+    "title" : "get_resources_way_harvest_subtitle",
+    "description" : "get_resources_way_harvest_description"
+  }, {
+    "id" : "10",
+    "item_type" : "ore",
+    "show_type" : "normal",
+    "method" : "outside_gather",
+    "title" : "get_resources_way_gather_subtitle",
+    "description" : "get_resources_way_gather_description"
+  }, {
+    "id" : "11",
+    "item_type" : "ore",
+    "show_type" : "normal",
+    "method" : "PVE",
+    "title" : "get_resources_way_pve_subtitle",
+    "description" : "get_resources_way_pve_description"
+  }, {
+    "id" : "13",
+    "item_type" : "silver",
+    "show_type" : "normal",
+    "method" : "inside_gather",
+    "title" : "get_resources_way_harvest_subtitle",
+    "description" : "get_resources_way_harvest_description"
+  }, {
+    "id" : "14",
+    "item_type" : "silver",
+    "show_type" : "normal",
+    "method" : "outside_gather",
+    "title" : "get_resources_way_gather_subtitle",
+    "description" : "get_resources_way_gather_description"
+  }, {
+    "id" : "16",
+    "item_type" : "silver",
+    "show_type" : "normal",
+    "method" : "GVE",
+    "title" : "get_resources_way_gve_subtitle",
+    "description" : "get_resources_way_gve_description"
+  }, {
+    "id" : "17",
+    "item_type" : "speedup",
+    "show_type" : "normal",
+    "method" : "PVE"
+  }, {
+    "id" : "18",
+    "item_type" : "speedup",
+    "show_type" : "normal",
+    "method" : "shop_alliance",
+    "description" : "speedup_item_access_alliance_store"
+  }, {
+    "id" : "19",
+    "item_type" : "food",
+    "show_type" : "banner",
+    "method" : "month_type_card",
+    "param1" : "201",
+    "description" : "iap_food_sub_description"
+  }, {
+    "id" : "20",
+    "item_type" : "wood",
+    "show_type" : "banner",
+    "method" : "month_type_card",
+    "param1" : "202",
+    "description" : "iap_oil_sub_description"
+  }, {
+    "id" : "21",
+    "item_type" : "ore",
+    "show_type" : "banner",
+    "method" : "month_type_card",
+    "param1" : "203",
+    "description" : "iap_iron_sub_description"
+  }, {
+    "id" : "22",
+    "item_type" : "silver",
+    "show_type" : "banner",
+    "method" : "month_type_card",
+    "param1" : "204",
+    "description" : "iap_alloy_sub_description"
+  }, {
+    "id" : "23",
+    "item_type" : "speedup_building",
+    "show_type" : "banner",
+    "method" : "month_type_card",
+    "param1" : "205",
+    "description" : "iap_building_speedup_sub_description"
+  }, {
+    "id" : "24",
+    "item_type" : "speedup_training",
+    "show_type" : "banner",
+    "method" : "month_type_card",
+    "param1" : "206",
+    "description" : "iap_train_speedup_sub_description"
+  }, {
+    "id" : "25",
+    "item_type" : "shoot_lottery",
+    "show_type" : "normal",
+    "method" : "PVE",
+    "description" : "speedup_item_access_pve"
+  }, {
+    "id" : "26",
+    "item_type" : "shoot_lottery",
+    "show_type" : "normal",
+    "method" : "GVE",
+    "description" : "hero_summon_coin_access_gve"
+  }, {
+    "id" : "27",
+    "item_type" : "shoot_lottery",
+    "show_type" : "normal",
+    "method" : "inside_gather",
+    "description" : "get_resources_way_harvest_subtitle"
+  }, {
+    "id" : "28",
+    "item_type" : "shoot_lottery",
+    "show_type" : "normal",
+    "method" : "outside_gather",
+    "description" : "get_resources_way_gather_subtitle"
+  }, {
+    "id" : "29",
+    "item_type" : "shoot_lottery",
+    "show_type" : "banner",
+    "method" : "chest"
+  }, {
+    "id" : "30",
+    "item_type" : "shoot_lottery",
+    "show_type" : "normal",
+    "method" : "daily_reward",
+    "description" : "event_season_pass_group_category_daily"
+  }, {
+    "id" : "31",
+    "item_type" : "summon_normal",
+    "show_type" : "normal",
+    "method" : "rogue_like",
+    "description" : "hero_summon_coin_access_explore"
+  }, {
+    "id" : "32",
+    "item_type" : "summon",
+    "show_type" : "normal",
+    "method" : "chest",
+    "param1" : "iap_package_hero",
+    "description" : "iap_gold_topup_now_button"
+  }, {
+    "id" : "33",
+    "item_type" : "summon",
+    "show_type" : "normal",
+    "method" : "daily_reward",
+    "description" : "event_season_pass_group_category_daily"
+  }, {
+    "id" : "34",
+    "item_type" : "general_skill_exp",
+    "show_type" : "normal",
+    "method" : "general_summon",
+    "description" : "hero_summon_button"
+  }, {
+    "id" : "35",
+    "item_type" : "general_portfolio",
+    "show_type" : "normal",
+    "method" : "activity",
+    "description" : "id_time_limited_event"
+  }, {
+    "id" : "36",
+    "item_type" : "gold",
+    "show_type" : "normal",
+    "method" : "chest",
+    "description" : "id_uppercase_buy_packages"
+  }, {
+    "id" : "37",
+    "item_type" : "general_chip",
+    "show_type" : "normal",
+    "method" : "general_summon",
+    "title" : "general_chip_gain_method_title",
+    "description" : "id_recruit_generals"
+  }, {
+    "id" : "38",
+    "item_type" : "general_exp",
+    "show_type" : "normal",
+    "method" : "general_summon",
+    "title" : "general_exp_gain_method_title",
+    "description" : "id_recruit_generals"
+  }, {
+    "id" : "39",
+    "item_type" : "general_star",
+    "show_type" : "normal",
+    "method" : "general_summon",
+    "title" : "general_star_gain_method_title",
+    "description" : "id_recruit_generals"
+  }, {
+    "title" : "                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             "
+  } ]
+}

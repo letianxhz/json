@@ -1,0 +1,104 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "name" : "name@string",
+    "priority" : "priority@int",
+    "unlock_level" : "unlock_level@int"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "name" : "名称",
+    "priority" : "排序",
+    "unlock_level" : "解锁等级"
+  }, {
+    "id" : "event",
+    "name" : "iap_package_group_category_event_name",
+    "priority" : "100",
+    "unlock_level" : "10"
+  }, {
+    "id" : "recruit",
+    "name" : "iap_package_group_category_recruit_name",
+    "priority" : "200",
+    "unlock_level" : "1"
+  }, {
+    "id" : "speedup",
+    "name" : "iap_package_group_category_speedup_name",
+    "priority" : "300",
+    "unlock_level" : "8"
+  }, {
+    "id" : "resource",
+    "name" : "iap_package_group_category_resource_name",
+    "priority" : "400",
+    "unlock_level" : "8"
+  }, {
+    "id" : "grow",
+    "name" : "iap_package_group_category_grow_name",
+    "priority" : "500",
+    "unlock_level" : "7"
+  }, {
+    "id" : "building",
+    "name" : "iap_package_group_category_building_name",
+    "priority" : "600",
+    "unlock_level" : "10"
+  }, {
+    "id" : "dragon",
+    "name" : "iap_package_group_category_dragon_name",
+    "priority" : "700",
+    "unlock_level" : "4"
+  }, {
+    "id" : "equipment",
+    "name" : "iap_package_group_category_equipment_name",
+    "priority" : "800",
+    "unlock_level" : "10"
+  }, {
+    "id" : "legend",
+    "name" : "iap_package_group_category_legend_name",
+    "priority" : "900",
+    "unlock_level" : "6"
+  }, {
+    "id" : "gemstone",
+    "name" : "iap_package_group_category_gemstone_name",
+    "priority" : "1000",
+    "unlock_level" : "10"
+  }, {
+    "id" : "artifact",
+    "name" : "iap_package_group_category_artifact_name",
+    "priority" : "1100",
+    "unlock_level" : "11"
+  }, {
+    "id" : "emblem",
+    "name" : "iap_package_group_category_emblem_name",
+    "priority" : "1200",
+    "unlock_level" : "10"
+  }, {
+    "id" : "statue",
+    "name" : "iap_package_group_category_statue_name",
+    "priority" : "1300",
+    "unlock_level" : "15"
+  }, {
+    "id" : "parliament_hero_equip",
+    "name" : "hero_equipment_1",
+    "priority" : "1400",
+    "unlock_level" : "8"
+  }, {
+    "id" : "alliance",
+    "name" : "iap_package_group_category_alliance_name",
+    "priority" : "1500",
+    "unlock_level" : "6"
+  }, {
+    "id" : "dragonknight",
+    "name" : "iap_package_group_category_dragonknight_name",
+    "priority" : "1600",
+    "unlock_level" : "8"
+  }, {
+    "id" : "other",
+    "name" : "iap_package_group_category_other_name",
+    "priority" : "1700",
+    "unlock_level" : "10"
+  }, {
+    "id" : "gold",
+    "name" : "iap_package_group_category_gold_name",
+    "priority" : "1800",
+    "unlock_level" : "1"
+  } ]
+}

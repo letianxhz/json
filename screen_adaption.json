@@ -1,0 +1,144 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "os" : "os@string",
+    "device_name" : "device_name@string",
+    "safe_width_rate" : "safe_width_rate@float",
+    "offset_hegith_rate" : "offset_hegith_rate@float",
+    "desc" : "desc@string"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "os" : "Android, iOS",
+    "device_name" : "设备名称",
+    "safe_width_rate" : "安全区宽度占比",
+    "offset_hegith_rate" : "高度偏移占比",
+    "desc" : "设备描述"
+  }, {
+    "id" : "1",
+    "os" : "iOS",
+    "device_name" : "iPhone10,3",
+    "safe_width_rate" : "0.934",
+    "offset_hegith_rate" : "0.035",
+    "desc" : "iPhoneX"
+  }, {
+    "id" : "2",
+    "os" : "iOS",
+    "device_name" : "iPhone10,6",
+    "safe_width_rate" : "0.934",
+    "offset_hegith_rate" : "0.035",
+    "desc" : "iPhoneX"
+  }, {
+    "id" : "3",
+    "os" : "iOS",
+    "device_name" : "iPhone11,8",
+    "safe_width_rate" : "0.934",
+    "offset_hegith_rate" : "0.035",
+    "desc" : "iPhoneXR"
+  }, {
+    "id" : "4",
+    "os" : "iOS",
+    "device_name" : "iPhone11,2",
+    "safe_width_rate" : "0.934",
+    "offset_hegith_rate" : "0.035",
+    "desc" : "iPhoneXS"
+  }, {
+    "id" : "5",
+    "os" : "iOS",
+    "device_name" : "iPhone11,4",
+    "safe_width_rate" : "0.934",
+    "offset_hegith_rate" : "0.035",
+    "desc" : "iPhoneXS Max"
+  }, {
+    "id" : "6",
+    "os" : "iOS",
+    "device_name" : "iPhone11,6",
+    "safe_width_rate" : "0.934",
+    "offset_hegith_rate" : "0.035",
+    "desc" : "iPhoneXS Max"
+  }, {
+    "id" : "7",
+    "os" : "iOS",
+    "device_name" : "iPad8,5",
+    "safe_width_rate" : "1",
+    "offset_hegith_rate" : "0.014",
+    "desc" : "iPadPro3 12.9 inch"
+  }, {
+    "id" : "8",
+    "os" : "iOS",
+    "device_name" : "iPad8,6",
+    "safe_width_rate" : "1",
+    "offset_hegith_rate" : "0.014",
+    "desc" : "iPadPro3 12.9 inch"
+  }, {
+    "id" : "9",
+    "os" : "iOS",
+    "device_name" : "iPad8,7",
+    "safe_width_rate" : "1",
+    "offset_hegith_rate" : "0.014",
+    "desc" : "iPadPro3 12.9 inch"
+  }, {
+    "id" : "10",
+    "os" : "iOS",
+    "device_name" : "iPad8,8",
+    "safe_width_rate" : "1",
+    "offset_hegith_rate" : "0.014",
+    "desc" : "iPadPro3 12.9 inch"
+  }, {
+    "id" : "11",
+    "os" : "iOS",
+    "device_name" : "iPad8,1",
+    "safe_width_rate" : "1",
+    "offset_hegith_rate" : "0.014",
+    "desc" : "iPadPro3 11 inch"
+  }, {
+    "id" : "12",
+    "os" : "iOS",
+    "device_name" : "iPad8,2",
+    "safe_width_rate" : "1",
+    "offset_hegith_rate" : "0.014",
+    "desc" : "iPadPro3 11 inch"
+  }, {
+    "id" : "13",
+    "os" : "iOS",
+    "device_name" : "iPad8,3",
+    "safe_width_rate" : "1",
+    "offset_hegith_rate" : "0.014",
+    "desc" : "iPadPro3 11 inch"
+  }, {
+    "id" : "14",
+    "os" : "iOS",
+    "device_name" : "iPad8,4",
+    "safe_width_rate" : "1",
+    "offset_hegith_rate" : "0.014",
+    "desc" : "iPadPro3 11 inch"
+  }, {
+    "id" : "15",
+    "os" : "iOS",
+    "device_name" : "iPhone12,1",
+    "safe_width_rate" : "0.934",
+    "offset_hegith_rate" : "0.035",
+    "desc" : "iPhone 11"
+  }, {
+    "id" : "16",
+    "os" : "iOS",
+    "device_name" : "iPhone12,3",
+    "safe_width_rate" : "0.934",
+    "offset_hegith_rate" : "0.035",
+    "desc" : "iPhone 11 Pro"
+  }, {
+    "id" : "17",
+    "os" : "iOS",
+    "device_name" : "iPhone12,5",
+    "safe_width_rate" : "0.934",
+    "offset_hegith_rate" : "0.035",
+    "desc" : "iPhone 11 Pro Max"
+  }, {
+    "id" : "18",
+    "os" : "Android",
+    "device_name" : "default",
+    "safe_width_rate" : "0.934",
+    "offset_hegith_rate" : "0.035",
+    "desc" : "华为荣耀V20"
+  } ]
+}

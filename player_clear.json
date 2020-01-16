@@ -1,0 +1,56 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "stronghold_level" : "stronghold_level@int",
+    "clear_time" : "clear_time@int"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "stronghold_level" : "城堡等级",
+    "clear_time" : "清除时间"
+  }, {
+    "id" : "1",
+    "stronghold_level" : "1",
+    "clear_time" : "2"
+  }, {
+    "id" : "2",
+    "stronghold_level" : "2",
+    "clear_time" : "2"
+  }, {
+    "id" : "3",
+    "stronghold_level" : "3",
+    "clear_time" : "6"
+  }, {
+    "id" : "4",
+    "stronghold_level" : "4",
+    "clear_time" : "12"
+  }, {
+    "id" : "5",
+    "stronghold_level" : "5",
+    "clear_time" : "18"
+  }, {
+    "id" : "6",
+    "stronghold_level" : "6",
+    "clear_time" : "24"
+  }, {
+    "id" : "7",
+    "stronghold_level" : "7",
+    "clear_time" : "48"
+  }, {
+    "id" : "8",
+    "stronghold_level" : "8",
+    "clear_time" : "48"
+  }, {
+    "id" : "9",
+    "stronghold_level" : "9",
+    "clear_time" : "72"
+  }, {
+    "id" : "10",
+    "stronghold_level" : "10",
+    "clear_time" : "72"
+  }, {
+    "id" : "11",
+    "stronghold_level" : "11",
+    "clear_time" : "72"
+  } ]
+}

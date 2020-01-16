@@ -1,0 +1,24 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "name" : "name@string",
+    "is_default" : "is_default@int",
+    "next_id" : "next_id@self.id"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "name" : "名称",
+    "is_default" : " 是否默认开启",
+    "next_id" : "下一活动id"
+  }, {
+    "id" : "knight_1",
+    "name" : "knight_1_name",
+    "is_default" : "1",
+    "next_id" : "knight_1"
+  }, {
+    "id" : "knight_2",
+    "name" : "knight_2_name",
+    "is_default" : "0",
+    "next_id" : "knight_2"
+  } ]
+}

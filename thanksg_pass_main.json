@@ -1,0 +1,438 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "group_id" : "group_id@thanksg_pass_group.id",
+    "level" : "level@int",
+    "reward_id_1" : "reward_id_1@itemlist.id",
+    "reward_value_1" : "reward_value_1@int",
+    "is_special" : "is_special@int"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "group_id" : "组id",
+    "level" : "等级",
+    "reward_id_1" : "奖励道具id",
+    "reward_value_1" : "奖励道具数量",
+    "is_special" : "是否为特殊奖励(特效)"
+  }, {
+    "id" : "thanksg_pass_group_1_0_1",
+    "group_id" : "thanksg_pass_group_1_0",
+    "level" : "1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "is_special" : "0"
+  }, {
+    "id" : "thanksg_pass_group_1_0_2",
+    "group_id" : "thanksg_pass_group_1_0",
+    "level" : "2",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "is_special" : "0"
+  }, {
+    "id" : "thanksg_pass_group_1_0_3",
+    "group_id" : "thanksg_pass_group_1_0",
+    "level" : "3",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "is_special" : "1"
+  }, {
+    "id" : "thanksg_pass_group_1_0_4",
+    "group_id" : "thanksg_pass_group_1_0",
+    "level" : "4",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "is_special" : "0"
+  }, {
+    "id" : "thanksg_pass_group_1_0_5",
+    "group_id" : "thanksg_pass_group_1_0",
+    "level" : "5",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "is_special" : "1"
+  }, {
+    "id" : "thanksg_pass_group_1_0_6",
+    "group_id" : "thanksg_pass_group_1_0",
+    "level" : "6",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "is_special" : "0"
+  }, {
+    "id" : "thanksg_pass_group_1_0_7",
+    "group_id" : "thanksg_pass_group_1_0",
+    "level" : "7",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "is_special" : "0"
+  }, {
+    "id" : "thanksg_pass_group_1_0_8",
+    "group_id" : "thanksg_pass_group_1_0",
+    "level" : "8",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "is_special" : "0"
+  }, {
+    "id" : "thanksg_pass_group_1_0_9",
+    "group_id" : "thanksg_pass_group_1_0",
+    "level" : "9",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "is_special" : "0"
+  }, {
+    "id" : "thanksg_pass_group_1_0_10",
+    "group_id" : "thanksg_pass_group_1_0",
+    "level" : "10",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "is_special" : "1"
+  }, {
+    "id" : "thanksg_pass_group_1_0_11",
+    "group_id" : "thanksg_pass_group_1_0",
+    "level" : "11",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "is_special" : "0"
+  }, {
+    "id" : "thanksg_pass_group_1_0_12",
+    "group_id" : "thanksg_pass_group_1_0",
+    "level" : "12",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "is_special" : "0"
+  }, {
+    "id" : "thanksg_pass_group_1_0_13",
+    "group_id" : "thanksg_pass_group_1_0",
+    "level" : "13",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "is_special" : "0"
+  }, {
+    "id" : "thanksg_pass_group_1_0_14",
+    "group_id" : "thanksg_pass_group_1_0",
+    "level" : "14",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "is_special" : "1"
+  }, {
+    "id" : "thanksg_pass_group_1_0_15",
+    "group_id" : "thanksg_pass_group_1_0",
+    "level" : "15",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "is_special" : "0"
+  }, {
+    "id" : "thanksg_pass_group_1_0_16",
+    "group_id" : "thanksg_pass_group_1_0",
+    "level" : "16",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "is_special" : "0"
+  }, {
+    "id" : "thanksg_pass_group_1_0_17",
+    "group_id" : "thanksg_pass_group_1_0",
+    "level" : "17",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "is_special" : "1"
+  }, {
+    "id" : "thanksg_pass_group_1_0_18",
+    "group_id" : "thanksg_pass_group_1_0",
+    "level" : "18",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "is_special" : "0"
+  }, {
+    "id" : "thanksg_pass_group_1_0_19",
+    "group_id" : "thanksg_pass_group_1_0",
+    "level" : "19",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "is_special" : "0"
+  }, {
+    "id" : "thanksg_pass_group_1_0_20",
+    "group_id" : "thanksg_pass_group_1_0",
+    "level" : "20",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "is_special" : "1"
+  }, {
+    "id" : "thanksg_pass_group_1_1_1",
+    "group_id" : "thanksg_pass_group_1_1",
+    "level" : "1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "is_special" : "0"
+  }, {
+    "id" : "thanksg_pass_group_1_1_2",
+    "group_id" : "thanksg_pass_group_1_1",
+    "level" : "2",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "is_special" : "0"
+  }, {
+    "id" : "thanksg_pass_group_1_1_3",
+    "group_id" : "thanksg_pass_group_1_1",
+    "level" : "3",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "is_special" : "0"
+  }, {
+    "id" : "thanksg_pass_group_1_1_4",
+    "group_id" : "thanksg_pass_group_1_1",
+    "level" : "4",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "is_special" : "1"
+  }, {
+    "id" : "thanksg_pass_group_1_1_5",
+    "group_id" : "thanksg_pass_group_1_1",
+    "level" : "5",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "is_special" : "0"
+  }, {
+    "id" : "thanksg_pass_group_1_1_6",
+    "group_id" : "thanksg_pass_group_1_1",
+    "level" : "6",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "is_special" : "0"
+  }, {
+    "id" : "thanksg_pass_group_1_1_7",
+    "group_id" : "thanksg_pass_group_1_1",
+    "level" : "7",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "is_special" : "1"
+  }, {
+    "id" : "thanksg_pass_group_1_1_8",
+    "group_id" : "thanksg_pass_group_1_1",
+    "level" : "8",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "is_special" : "0"
+  }, {
+    "id" : "thanksg_pass_group_1_1_9",
+    "group_id" : "thanksg_pass_group_1_1",
+    "level" : "9",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "is_special" : "0"
+  }, {
+    "id" : "thanksg_pass_group_1_1_10",
+    "group_id" : "thanksg_pass_group_1_1",
+    "level" : "10",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "is_special" : "1"
+  }, {
+    "id" : "thanksg_pass_group_1_1_11",
+    "group_id" : "thanksg_pass_group_1_1",
+    "level" : "11",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "is_special" : "0"
+  }, {
+    "id" : "thanksg_pass_group_1_1_12",
+    "group_id" : "thanksg_pass_group_1_1",
+    "level" : "12",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "is_special" : "0"
+  }, {
+    "id" : "thanksg_pass_group_1_1_13",
+    "group_id" : "thanksg_pass_group_1_1",
+    "level" : "13",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "is_special" : "0"
+  }, {
+    "id" : "thanksg_pass_group_1_1_14",
+    "group_id" : "thanksg_pass_group_1_1",
+    "level" : "14",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "is_special" : "0"
+  }, {
+    "id" : "thanksg_pass_group_1_1_15",
+    "group_id" : "thanksg_pass_group_1_1",
+    "level" : "15",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "is_special" : "1"
+  }, {
+    "id" : "thanksg_pass_group_1_1_16",
+    "group_id" : "thanksg_pass_group_1_1",
+    "level" : "16",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "is_special" : "0"
+  }, {
+    "id" : "thanksg_pass_group_1_1_17",
+    "group_id" : "thanksg_pass_group_1_1",
+    "level" : "17",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "is_special" : "0"
+  }, {
+    "id" : "thanksg_pass_group_1_1_18",
+    "group_id" : "thanksg_pass_group_1_1",
+    "level" : "18",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "is_special" : "0"
+  }, {
+    "id" : "thanksg_pass_group_1_1_19",
+    "group_id" : "thanksg_pass_group_1_1",
+    "level" : "19",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "is_special" : "0"
+  }, {
+    "id" : "thanksg_pass_group_1_1_20",
+    "group_id" : "thanksg_pass_group_1_1",
+    "level" : "20",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "is_special" : "1"
+  }, {
+    "id" : "thanksg_pass_group_1_2_1",
+    "group_id" : "thanksg_pass_group_1_2",
+    "level" : "1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "is_special" : "0"
+  }, {
+    "id" : "thanksg_pass_group_1_2_2",
+    "group_id" : "thanksg_pass_group_1_2",
+    "level" : "2",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "is_special" : "0"
+  }, {
+    "id" : "thanksg_pass_group_1_2_3",
+    "group_id" : "thanksg_pass_group_1_2",
+    "level" : "3",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "is_special" : "0"
+  }, {
+    "id" : "thanksg_pass_group_1_2_4",
+    "group_id" : "thanksg_pass_group_1_2",
+    "level" : "4",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "is_special" : "0"
+  }, {
+    "id" : "thanksg_pass_group_1_2_5",
+    "group_id" : "thanksg_pass_group_1_2",
+    "level" : "5",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "is_special" : "0"
+  }, {
+    "id" : "thanksg_pass_group_1_2_6",
+    "group_id" : "thanksg_pass_group_1_2",
+    "level" : "6",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "is_special" : "1"
+  }, {
+    "id" : "thanksg_pass_group_1_2_7",
+    "group_id" : "thanksg_pass_group_1_2",
+    "level" : "7",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "is_special" : "0"
+  }, {
+    "id" : "thanksg_pass_group_1_2_8",
+    "group_id" : "thanksg_pass_group_1_2",
+    "level" : "8",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "is_special" : "0"
+  }, {
+    "id" : "thanksg_pass_group_1_2_9",
+    "group_id" : "thanksg_pass_group_1_2",
+    "level" : "9",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "is_special" : "0"
+  }, {
+    "id" : "thanksg_pass_group_1_2_10",
+    "group_id" : "thanksg_pass_group_1_2",
+    "level" : "10",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "is_special" : "1"
+  }, {
+    "id" : "thanksg_pass_group_1_2_11",
+    "group_id" : "thanksg_pass_group_1_2",
+    "level" : "11",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "is_special" : "0"
+  }, {
+    "id" : "thanksg_pass_group_1_2_12",
+    "group_id" : "thanksg_pass_group_1_2",
+    "level" : "12",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "is_special" : "0"
+  }, {
+    "id" : "thanksg_pass_group_1_2_13",
+    "group_id" : "thanksg_pass_group_1_2",
+    "level" : "13",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "is_special" : "1"
+  }, {
+    "id" : "thanksg_pass_group_1_2_14",
+    "group_id" : "thanksg_pass_group_1_2",
+    "level" : "14",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "is_special" : "0"
+  }, {
+    "id" : "thanksg_pass_group_1_2_15",
+    "group_id" : "thanksg_pass_group_1_2",
+    "level" : "15",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "is_special" : "1"
+  }, {
+    "id" : "thanksg_pass_group_1_2_16",
+    "group_id" : "thanksg_pass_group_1_2",
+    "level" : "16",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "is_special" : "0"
+  }, {
+    "id" : "thanksg_pass_group_1_2_17",
+    "group_id" : "thanksg_pass_group_1_2",
+    "level" : "17",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "is_special" : "1"
+  }, {
+    "id" : "thanksg_pass_group_1_2_18",
+    "group_id" : "thanksg_pass_group_1_2",
+    "level" : "18",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "is_special" : "0"
+  }, {
+    "id" : "thanksg_pass_group_1_2_19",
+    "group_id" : "thanksg_pass_group_1_2",
+    "level" : "19",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "is_special" : "0"
+  }, {
+    "id" : "thanksg_pass_group_1_2_20",
+    "group_id" : "thanksg_pass_group_1_2",
+    "level" : "20",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "is_special" : "1"
+  } ]
+}

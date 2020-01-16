@@ -1,0 +1,1306 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "drop_group" : "drop_group@string",
+    "chance" : "chance@int",
+    "item_id" : "item_id@itemlist.id",
+    "min_value" : "min_value@int",
+    "max_value" : "max_value@int",
+    "show_priority" : "show_priority@int",
+    "big_show_priority" : "big_show_priority@int^c",
+    "effect" : "effect@string^c"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "drop_group" : "掉落组id",
+    "chance" : "几率",
+    "item_id" : "道具id",
+    "min_value" : "道具最小数量",
+    "max_value" : "道具最大数量",
+    "show_priority" : "展示优先级",
+    "big_show_priority" : "大奖展示优先级",
+    "effect" : "特效"
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_1",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "120000",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "1",
+    "big_show_priority" : "",
+    "effect" : "fx_jipiao_jiangliicon_zise"
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_2",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "60000",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "2",
+    "big_show_priority" : "",
+    "effect" : "fx_jipiao_jiangliicon_zise"
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_3",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "20000",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "",
+    "big_show_priority" : "1",
+    "effect" : "fx_jipiao_jiangliicon_chengse"
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_4",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "53333",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "",
+    "big_show_priority" : "",
+    "effect" : ""
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_5",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "53333",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "",
+    "big_show_priority" : "",
+    "effect" : ""
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_6",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "53333",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "effect" : ""
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_7",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "53333",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "0",
+    "effect" : ""
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_8",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "53333",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "0",
+    "effect" : ""
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_9",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "53333",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "",
+    "effect" : ""
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_10",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "36667",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "",
+    "effect" : ""
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_11",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "36667",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "",
+    "effect" : ""
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_12",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "36667",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "",
+    "big_show_priority" : "",
+    "effect" : ""
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_13",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "36667",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "",
+    "big_show_priority" : "",
+    "effect" : ""
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_14",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "36667",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "",
+    "big_show_priority" : "",
+    "effect" : ""
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_15",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "36667",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "",
+    "big_show_priority" : "",
+    "effect" : ""
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_16",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "3667",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "",
+    "big_show_priority" : "",
+    "effect" : ""
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_17",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "3667",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "",
+    "big_show_priority" : "",
+    "effect" : ""
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_18",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "3667",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "",
+    "big_show_priority" : "",
+    "effect" : ""
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_19",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "3667",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "",
+    "big_show_priority" : "",
+    "effect" : ""
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_20",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "3667",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "",
+    "big_show_priority" : "",
+    "effect" : ""
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_21",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "3667",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "",
+    "big_show_priority" : "",
+    "effect" : ""
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_22",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "7333",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "",
+    "big_show_priority" : "",
+    "effect" : ""
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_23",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "7333",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "",
+    "big_show_priority" : "",
+    "effect" : ""
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_24",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "7333",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "",
+    "big_show_priority" : "",
+    "effect" : ""
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_25",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "7333",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "",
+    "big_show_priority" : ""
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_26",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "7333",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "",
+    "big_show_priority" : "",
+    "effect" : ""
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_27",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "7333",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "",
+    "big_show_priority" : "",
+    "effect" : ""
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_28",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "7333",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "",
+    "big_show_priority" : "",
+    "effect" : ""
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_29",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "7333",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "",
+    "big_show_priority" : "",
+    "effect" : ""
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_30",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "7333",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "",
+    "big_show_priority" : "",
+    "effect" : ""
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_31",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "7333",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "",
+    "big_show_priority" : "",
+    "effect" : ""
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_32",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "7333",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "",
+    "big_show_priority" : "",
+    "effect" : ""
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_33",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "7333",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "",
+    "big_show_priority" : "",
+    "effect" : ""
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_34",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "7333",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "",
+    "big_show_priority" : "",
+    "effect" : ""
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_35",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "7333",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "",
+    "big_show_priority" : "",
+    "effect" : ""
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_36",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "7333",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "",
+    "big_show_priority" : "",
+    "effect" : ""
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_37",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "7333",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "",
+    "big_show_priority" : "",
+    "effect" : ""
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_38",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "1875",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "",
+    "big_show_priority" : "",
+    "effect" : ""
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_39",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "1875",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "",
+    "big_show_priority" : "",
+    "effect" : ""
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_40",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "1875",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "",
+    "big_show_priority" : "",
+    "effect" : ""
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_41",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "1875",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "",
+    "big_show_priority" : "",
+    "effect" : ""
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_42",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "1875",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "",
+    "big_show_priority" : "",
+    "effect" : ""
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_43",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "1875",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "",
+    "big_show_priority" : "",
+    "effect" : ""
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_44",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "1875",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "",
+    "big_show_priority" : "",
+    "effect" : ""
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_45",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "1875",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "",
+    "big_show_priority" : "",
+    "effect" : ""
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_46",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "1875",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "",
+    "big_show_priority" : "",
+    "effect" : ""
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_47",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "1875",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "",
+    "big_show_priority" : "",
+    "effect" : ""
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_48",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "1875",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "",
+    "big_show_priority" : "",
+    "effect" : ""
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_49",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "1875",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "",
+    "big_show_priority" : "",
+    "effect" : ""
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_50",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "1875",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "",
+    "big_show_priority" : "",
+    "effect" : ""
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_51",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "1875",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "",
+    "big_show_priority" : "",
+    "effect" : ""
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_52",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "1875",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "",
+    "big_show_priority" : "",
+    "effect" : ""
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_53",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "1875",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "",
+    "big_show_priority" : "",
+    "effect" : ""
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_54",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "445",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "3",
+    "big_show_priority" : "",
+    "effect" : "fx_jipiao_jiangliicon_zise"
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_55",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "445",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "4",
+    "big_show_priority" : "",
+    "effect" : "fx_jipiao_jiangliicon_zise"
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_56",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "445",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "5",
+    "big_show_priority" : "",
+    "effect" : "fx_jipiao_jiangliicon_zise"
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_57",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "445",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "6",
+    "big_show_priority" : "",
+    "effect" : "fx_jipiao_jiangliicon_zise"
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_58",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "445",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "7",
+    "big_show_priority" : "",
+    "effect" : "fx_jipiao_jiangliicon_zise"
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_59",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "445",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "8",
+    "big_show_priority" : "",
+    "effect" : "fx_jipiao_jiangliicon_zise"
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_60",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "666",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "9",
+    "big_show_priority" : "",
+    "effect" : "fx_jipiao_jiangliicon_zise"
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_61",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "666",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "10",
+    "big_show_priority" : "",
+    "effect" : "fx_jipiao_jiangliicon_zise"
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_62",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "666",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "11",
+    "big_show_priority" : "",
+    "effect" : "fx_jipiao_jiangliicon_zise"
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_63",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "666",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "12",
+    "big_show_priority" : "",
+    "effect" : "fx_jipiao_jiangliicon_zise"
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_64",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "833",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "13",
+    "big_show_priority" : "",
+    "effect" : "fx_jipiao_jiangliicon_zise"
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_65",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "833",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "14",
+    "big_show_priority" : "",
+    "effect" : "fx_jipiao_jiangliicon_zise"
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_66",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "833",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "15",
+    "big_show_priority" : "",
+    "effect" : "fx_jipiao_jiangliicon_zise"
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_67",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "833",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "16",
+    "big_show_priority" : "",
+    "effect" : "fx_jipiao_jiangliicon_zise"
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_68",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "666",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "17",
+    "big_show_priority" : "",
+    "effect" : "fx_jipiao_jiangliicon_zise"
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_69",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "666",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "18",
+    "big_show_priority" : "",
+    "effect" : "fx_jipiao_jiangliicon_zise"
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_70",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "666",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "19",
+    "big_show_priority" : "",
+    "effect" : "fx_jipiao_jiangliicon_zise"
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_71",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "666",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "20",
+    "big_show_priority" : "",
+    "effect" : "fx_jipiao_jiangliicon_zise"
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_72",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "666",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "21",
+    "big_show_priority" : "",
+    "effect" : "fx_jipiao_jiangliicon_zise"
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_73",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "666",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "22",
+    "big_show_priority" : "",
+    "effect" : "fx_jipiao_jiangliicon_zise"
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_74",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "666",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "23",
+    "big_show_priority" : "",
+    "effect" : "fx_jipiao_jiangliicon_zise"
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_75",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "666",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "24",
+    "big_show_priority" : "",
+    "effect" : "fx_jipiao_jiangliicon_zise"
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_76",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "208",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "25",
+    "big_show_priority" : "",
+    "effect" : "fx_jipiao_jiangliicon_zise"
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_77",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "208",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "26",
+    "big_show_priority" : "",
+    "effect" : "fx_jipiao_jiangliicon_zise"
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_78",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "208",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "27",
+    "big_show_priority" : "",
+    "effect" : "fx_jipiao_jiangliicon_zise"
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_79",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "208",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "28",
+    "big_show_priority" : "",
+    "effect" : "fx_jipiao_jiangliicon_zise"
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_80",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "208",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "29",
+    "big_show_priority" : "",
+    "effect" : "fx_jipiao_jiangliicon_zise"
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_81",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "208",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "30",
+    "big_show_priority" : "",
+    "effect" : "fx_jipiao_jiangliicon_zise"
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_82",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "208",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "31",
+    "big_show_priority" : "",
+    "effect" : "fx_jipiao_jiangliicon_zise"
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_83",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "208",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "32",
+    "big_show_priority" : "",
+    "effect" : "fx_jipiao_jiangliicon_zise"
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_84",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "208",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "33",
+    "big_show_priority" : "",
+    "effect" : "fx_jipiao_jiangliicon_zise"
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_85",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "208",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "34",
+    "big_show_priority" : "",
+    "effect" : "fx_jipiao_jiangliicon_zise"
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_86",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "208",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "35",
+    "big_show_priority" : "",
+    "effect" : "fx_jipiao_jiangliicon_zise"
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_87",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "208",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "36",
+    "big_show_priority" : "",
+    "effect" : "fx_jipiao_jiangliicon_zise"
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_88",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "208",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "37",
+    "big_show_priority" : "",
+    "effect" : "fx_jipiao_jiangliicon_zise"
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_89",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "208",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "38",
+    "big_show_priority" : "",
+    "effect" : "fx_jipiao_jiangliicon_zise"
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_90",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "208",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "39",
+    "big_show_priority" : "",
+    "effect" : "fx_jipiao_jiangliicon_zise"
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_91",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "208",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "40",
+    "big_show_priority" : "",
+    "effect" : "fx_jipiao_jiangliicon_zise"
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_92",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "150",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "",
+    "big_show_priority" : "2",
+    "effect" : "fx_jipiao_jiangliicon_chengse"
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_93",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "150",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "",
+    "big_show_priority" : "3",
+    "effect" : "fx_jipiao_jiangliicon_chengse"
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_94",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "150",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "",
+    "big_show_priority" : "4",
+    "effect" : "fx_jipiao_jiangliicon_chengse"
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_95",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "150",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "",
+    "big_show_priority" : "5",
+    "effect" : "fx_jipiao_jiangliicon_chengse"
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_96",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "150",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "",
+    "big_show_priority" : "6",
+    "effect" : "fx_jipiao_jiangliicon_chengse"
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_97",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "150",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "",
+    "big_show_priority" : "7",
+    "effect" : "fx_jipiao_jiangliicon_chengse"
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_98",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "334",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "",
+    "big_show_priority" : "8",
+    "effect" : "fx_jipiao_jiangliicon_chengse"
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_99",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "334",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "",
+    "big_show_priority" : "9",
+    "effect" : "fx_jipiao_jiangliicon_chengse"
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_100",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "334",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "",
+    "big_show_priority" : "10",
+    "effect" : "fx_jipiao_jiangliicon_chengse"
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_101",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "334",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "",
+    "big_show_priority" : "11",
+    "effect" : "fx_jipiao_jiangliicon_chengse"
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_102",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "417",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "",
+    "big_show_priority" : "12",
+    "effect" : "fx_jipiao_jiangliicon_chengse"
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_103",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "417",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "",
+    "big_show_priority" : "13",
+    "effect" : "fx_jipiao_jiangliicon_chengse"
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_104",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "417",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "",
+    "big_show_priority" : "14",
+    "effect" : "fx_jipiao_jiangliicon_chengse"
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_105",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "417",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "",
+    "big_show_priority" : "15",
+    "effect" : "fx_jipiao_jiangliicon_chengse"
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_106",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "334",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "",
+    "big_show_priority" : "16",
+    "effect" : "fx_jipiao_jiangliicon_chengse"
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_107",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "334",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "",
+    "big_show_priority" : "17",
+    "effect" : "fx_jipiao_jiangliicon_chengse"
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_108",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "334",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "",
+    "big_show_priority" : "18",
+    "effect" : "fx_jipiao_jiangliicon_chengse"
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_109",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "334",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "",
+    "big_show_priority" : "19",
+    "effect" : "fx_jipiao_jiangliicon_chengse"
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_110",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "334",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "",
+    "big_show_priority" : "20",
+    "effect" : "fx_jipiao_jiangliicon_chengse"
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_111",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "334",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "",
+    "big_show_priority" : "21",
+    "effect" : "fx_jipiao_jiangliicon_chengse"
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_112",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "334",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "",
+    "big_show_priority" : "22",
+    "effect" : "fx_jipiao_jiangliicon_chengse"
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_113",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "334",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "",
+    "big_show_priority" : "23",
+    "effect" : "fx_jipiao_jiangliicon_chengse"
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_114",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "104",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "",
+    "big_show_priority" : "24",
+    "effect" : "fx_jipiao_jiangliicon_chengse"
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_115",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "104",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "",
+    "big_show_priority" : "25",
+    "effect" : "fx_jipiao_jiangliicon_chengse"
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_116",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "104",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "",
+    "big_show_priority" : "26",
+    "effect" : "fx_jipiao_jiangliicon_chengse"
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_117",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "104",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "",
+    "big_show_priority" : "27",
+    "effect" : "fx_jipiao_jiangliicon_chengse"
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_118",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "104",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "",
+    "big_show_priority" : "28",
+    "effect" : "fx_jipiao_jiangliicon_chengse"
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_119",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "104",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "",
+    "big_show_priority" : "29",
+    "effect" : "fx_jipiao_jiangliicon_chengse"
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_120",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "104",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "",
+    "big_show_priority" : "30",
+    "effect" : "fx_jipiao_jiangliicon_chengse"
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_121",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "104",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "",
+    "big_show_priority" : "31",
+    "effect" : "fx_jipiao_jiangliicon_chengse"
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_122",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "104",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "",
+    "big_show_priority" : "32",
+    "effect" : "fx_jipiao_jiangliicon_chengse"
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_123",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "104",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "",
+    "big_show_priority" : "33",
+    "effect" : "fx_jipiao_jiangliicon_chengse"
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_124",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "104",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "",
+    "big_show_priority" : "34",
+    "effect" : "fx_jipiao_jiangliicon_chengse"
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_125",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "104",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "",
+    "big_show_priority" : "35",
+    "effect" : "fx_jipiao_jiangliicon_chengse"
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_126",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "104",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "",
+    "big_show_priority" : "36",
+    "effect" : "fx_jipiao_jiangliicon_chengse"
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_127",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "104",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "",
+    "big_show_priority" : "37",
+    "effect" : "fx_jipiao_jiangliicon_chengse"
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_128",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "104",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "",
+    "big_show_priority" : "38",
+    "effect" : "fx_jipiao_jiangliicon_chengse"
+  }, {
+    "id" : "drop_item_thanksg_pass_chest_treasure_open_129",
+    "drop_group" : "drop_item_thanksg_pass_chest_treasure_open",
+    "chance" : "104",
+    "item_id" : "item_gold_1",
+    "min_value" : "1",
+    "max_value" : "1",
+    "show_priority" : "",
+    "big_show_priority" : "39",
+    "effect" : "fx_jipiao_jiangliicon_chengse"
+  } ]
+}

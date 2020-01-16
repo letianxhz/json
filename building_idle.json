@@ -1,0 +1,96 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "type" : "type@string",
+    "intro_1" : "intro_1@string",
+    "intro_2" : "intro_2@string"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "type" : "类型",
+    "intro_1" : "描述1",
+    "intro_2" : "描述2"
+  }, {
+    "id" : "1",
+    "type" : "barracks",
+    "intro_1" : "tutorial_city_helper_barracks_upgrade",
+    "intro_2" : "tutorial_city_helper_barracks_train"
+  }, {
+    "id" : "2",
+    "type" : "range",
+    "intro_1" : "tutorial_city_helper_range_upgrade",
+    "intro_2" : "tutorial_city_helper_range_train"
+  }, {
+    "id" : "3",
+    "type" : "stables",
+    "intro_1" : "tutorial_city_helper_stables_upgrade",
+    "intro_2" : "tutorial_city_helper_stables_train"
+  }, {
+    "id" : "4",
+    "type" : "workshop",
+    "intro_1" : "tutorial_city_helper_siege_workshop_upgrade",
+    "intro_2" : "tutorial_city_helper_siege_workshop_train"
+  }, {
+    "id" : "5",
+    "type" : "farm",
+    "intro_1" : "tutorial_city_helper_farm_upgrade"
+  }, {
+    "id" : "6",
+    "type" : "lumber_mill",
+    "intro_1" : "tutorial_city_helper_sawmill_upgrade"
+  }, {
+    "id" : "7",
+    "type" : "mine",
+    "intro_1" : "tutorial_city_helper_iron_mine_upgrade"
+  }, {
+    "id" : "8",
+    "type" : "house",
+    "intro_1" : "tutorial_city_helper_silver_mine_upgrade"
+  }, {
+    "id" : "9",
+    "type" : "military_tent",
+    "intro_1" : "tutorial_city_helper_military_tent_upgrade"
+  }, {
+    "id" : "10",
+    "type" : "hospital",
+    "intro_1" : "tutorial_city_helper_hospital_upgrade"
+  }, {
+    "id" : "11",
+    "type" : "university",
+    "intro_1" : "tutorial_city_helper_university_upgrade",
+    "intro_2" : "tutorial_city_helper_university_research"
+  }, {
+    "id" : "12",
+    "type" : "embassy",
+    "intro_1" : "tutorial_city_helper_embassy_upgrade"
+  }, {
+    "id" : "13",
+    "type" : "war_rally",
+    "intro_1" : "tutorial_city_helper_hall_of_war_upgrade"
+  }, {
+    "id" : "14",
+    "type" : "fortress",
+    "intro_1" : "tutorial_city_helper_trap_factory_upgrade",
+    "intro_2" : "tutorial_city_helper_trap_factory_build_traps"
+  }, {
+    "id" : "15",
+    "type" : "wish_well",
+    "intro_1" : "tutorial_city_helper_wishing_well_upgrade"
+  }, {
+    "id" : "16",
+    "type" : "storehouse",
+    "intro_1" : "tutorial_city_helper_storehouse_upgrade"
+  }, {
+    "id" : "17",
+    "type" : "forge",
+    "intro_1" : "tutorial_city_helper_forge_upgrade"
+  }, {
+    "id" : "18",
+    "type" : "dragon_lair",
+    "intro_1" : "tutorial_city_helper_dragon_lair_upgrade"
+  }, {
+    "id" : "19",
+    "type" : "stronghold",
+    "intro_1" : "tutorial_city_helper_stronghold_upgrade"
+  } ]
+}

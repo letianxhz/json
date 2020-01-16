@@ -1,0 +1,89 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "name" : "name@string",
+    "description" : "description@string",
+    "icon" : "icon@string"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "name" : "标签名字",
+    "description" : "标签描述",
+    "icon" : "标签图标"
+  }, {
+    "id" : "general_sign_id_1_bubing_id",
+    "name" : "general_sign_id_1_bubing_name",
+    "description" : "general_sign_id_1_bubing_description",
+    "icon" : "general_sign_id_1_bubing"
+  }, {
+    "id" : "general_sign_id_1_tanke_id",
+    "name" : "general_sign_id_1_tanke_name",
+    "description" : "general_sign_id_1_tanke_description",
+    "icon" : "general_sign_id_1_tanke"
+  }, {
+    "id" : "general_sign_id_1_kongjun_id",
+    "name" : "general_sign_id_1_kongjun_name",
+    "description" : "general_sign_id_1_kongjun_description",
+    "icon" : "general_sign_id_1_kongjun"
+  }, {
+    "id" : "general_sign_id_1_paobing_id",
+    "name" : "general_sign_id_1_paobing_name",
+    "description" : "general_sign_id_1_paobing_description",
+    "icon" : "general_sign_id_1_paobing"
+  }, {
+    "id" : "general_sign_id_1_tongshuai_id",
+    "name" : "general_sign_id_1_tongshuai_name",
+    "description" : "general_sign_id_1_tongshuai_description",
+    "icon" : "general_sign_id_1_tongshuai"
+  }, {
+    "id" : "general_sign_id_1_huncheng_id",
+    "name" : "general_sign_id_1_huncheng_name",
+    "description" : "general_sign_id_1_huncheng_description",
+    "icon" : "general_sign_id_1_huncheng"
+  }, {
+    "id" : "general_sign_id_2_qingjiao_id",
+    "name" : "general_sign_id_2_qingjiao_name",
+    "description" : "general_sign_id_2_qingjiao_description",
+    "icon" : "general_sign_id_2_qingjiao"
+  }, {
+    "id" : "general_sign_id_2_houqin_id",
+    "name" : "general_sign_id_2_houqin_name",
+    "description" : "general_sign_id_2_houqin_description",
+    "icon" : "general_sign_id_2_houqin"
+  }, {
+    "id" : "general_sign_id_2_zhushou_id",
+    "name" : "general_sign_id_2_zhushou_name",
+    "description" : "general_sign_id_2_zhushou_description",
+    "icon" : "general_sign_id_2_zhushou"
+  }, {
+    "id" : "general_sign_id_2_gongcheng_id",
+    "name" : "general_sign_id_2_gongcheng_name",
+    "description" : "general_sign_id_2_gongcheng_description",
+    "icon" : "general_sign_id_2_gongcheng"
+  }, {
+    "id" : "general_sign_id_2_junheng_id",
+    "name" : "general_sign_id_2_junheng_name",
+    "description" : "general_sign_id_2_junheng_description",
+    "icon" : "general_sign_id_2_junheng"
+  }, {
+    "id" : "general_sign_id_3_jingong_id",
+    "name" : "general_sign_id_3_jingong_name",
+    "description" : "general_sign_id_3_jingong_description",
+    "icon" : "general_sign_id_3_jingong"
+  }, {
+    "id" : "general_sign_id_3_zhihui_id",
+    "name" : "general_sign_id_3_zhihui_name",
+    "description" : "general_sign_id_3_zhihui_description",
+    "icon" : "general_sign_id_3_zhihui"
+  }, {
+    "id" : "general_sign_id_3_fangyu_id",
+    "name" : "general_sign_id_3_fangyu_name",
+    "description" : "general_sign_id_3_fangyu_description",
+    "icon" : "general_sign_id_3_fangyu"
+  }, {
+    "id" : "general_sign_id_3_chiyuan_id",
+    "name" : "general_sign_id_3_chiyuan_name",
+    "description" : "general_sign_id_3_chiyuan_description",
+    "icon" : "general_sign_id_3_chiyuan"
+  } ]
+}

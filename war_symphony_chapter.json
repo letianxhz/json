@@ -1,0 +1,123 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "asset_config_path" : "asset_config_path@string",
+    "index" : "index@int",
+    "name" : "name@string",
+    "icon" : "icon@string",
+    "description" : "description@string",
+    "conversation1" : "conversation1@npc_dialogue.id",
+    "conversation2" : "conversation2@npc_dialogue.id",
+    "conversation3" : "conversation3@npc_dialogue.id",
+    "conversation4" : "conversation4@npc_dialogue.id",
+    "reward_id_1" : "reward_id_1@itemlist.id",
+    "reward_value_1" : "reward_value_1@int",
+    "reward_id_2" : "reward_id_2@itemlist.id",
+    "reward_value_2" : "reward_value_2@int",
+    "reward_id_3" : "reward_id_3@itemlist.id",
+    "reward_value_3" : "reward_value_3@int"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "asset_config_path" : "地图id",
+    "index" : "索引",
+    "name" : "名称",
+    "icon" : "图标",
+    "description" : "背景介绍",
+    "conversation1" : "战区对话1",
+    "conversation2" : "战区对话2",
+    "conversation3" : "战区对话3",
+    "conversation4" : "战区对话4",
+    "reward_id_1" : "奖励道具1",
+    "reward_value_1" : "奖励数量1",
+    "reward_id_2" : "奖励道具2",
+    "reward_value_2" : "奖励数量2",
+    "reward_id_3" : "奖励道具3",
+    "reward_value_3" : "奖励数量3"
+  }, {
+    "id" : "war_symphony_chapter_1",
+    "asset_config_path" : "warsymphony_1_asset_config",
+    "index" : "1",
+    "name" : "war_symphony_1_name",
+    "description" : "war_symphony_1_description",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "war_symphony_chapter_2",
+    "asset_config_path" : "warsymphony_2_asset_config",
+    "index" : "2",
+    "name" : "war_symphony_2_name",
+    "description" : "war_symphony_2_description",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "war_symphony_chapter_3",
+    "asset_config_path" : "warsymphony_3_asset_config",
+    "index" : "3",
+    "name" : "war_symphony_3_name",
+    "description" : "war_symphony_3_description",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "war_symphony_chapter_4",
+    "asset_config_path" : "warsymphony_4_asset_config",
+    "index" : "4",
+    "name" : "war_symphony_4_name",
+    "description" : "war_symphony_4_description",
+    "conversation1" : "tutorial_dialogue_war_symphony_4_1",
+    "conversation2" : "tutorial_dialogue_war_symphony_4_2",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "war_symphony_chapter_5",
+    "asset_config_path" : "warsymphony_5_asset_config",
+    "index" : "5",
+    "name" : "war_symphony_5_name",
+    "description" : "war_symphony_5_description",
+    "conversation1" : "tutorial_dialogue_war_symphony_5_1",
+    "conversation2" : "tutorial_dialogue_war_symphony_5_2",
+    "conversation3" : "tutorial_dialogue_war_symphony_5_3",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "war_symphony_chapter_6",
+    "asset_config_path" : "warsymphony_6_asset_config",
+    "index" : "6",
+    "name" : "war_symphony_6_name",
+    "description" : "war_symphony_5chapter10_description",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "war_symphony_chapter_7",
+    "asset_config_path" : "warsymphony_7_asset_config",
+    "index" : "7",
+    "name" : "war_symphony_7_name",
+    "description" : "war_symphony_5chapter10_description",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "war_symphony_chapter_8",
+    "asset_config_path" : "warsymphony_8_asset_config",
+    "index" : "8",
+    "name" : "war_symphony_8_name",
+    "description" : "war_symphony_5chapter10_description",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "war_symphony_chapter_9",
+    "asset_config_path" : "warsymphony_9_asset_config",
+    "index" : "9",
+    "name" : "war_symphony_9_name",
+    "description" : "war_symphony_5chapter10_description",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "war_symphony_chapter_10",
+    "asset_config_path" : "warsymphony_10_asset_config",
+    "index" : "10",
+    "name" : "war_symphony_10_name",
+    "description" : "war_symphony_5chapter10_description",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  } ]
+}

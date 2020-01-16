@@ -1,0 +1,253 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "type" : "type@int",
+    "name" : "name@string",
+    "icon" : "icon@string",
+    "discardable" : "discardable@int",
+    "desc" : "desc@string"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "type" : "技能类型（主动被动）",
+    "name" : "名字",
+    "icon" : "图标",
+    "discardable" : "觉醒后技能失效",
+    "desc" : "技能描述"
+  }, {
+    "id" : "general_slg_skill_500601",
+    "type" : "1",
+    "discardable" : "1"
+  }, {
+    "id" : "general_slg_skill_500602",
+    "type" : "2",
+    "discardable" : "0"
+  }, {
+    "id" : "general_slg_skill_500603",
+    "type" : "2",
+    "discardable" : "0"
+  }, {
+    "id" : "general_slg_skill_500604",
+    "type" : "2",
+    "discardable" : "0"
+  }, {
+    "id" : "general_slg_skill_500605",
+    "type" : "1",
+    "discardable" : "0"
+  }, {
+    "id" : "general_slg_skill_500101",
+    "type" : "1",
+    "discardable" : "1",
+    "desc" : "general_slg_skill_500101_desc"
+  }, {
+    "id" : "general_slg_skill_500102",
+    "type" : "2",
+    "discardable" : "0",
+    "desc" : "general_slg_skill_500102_desc"
+  }, {
+    "id" : "general_slg_skill_500103",
+    "type" : "2",
+    "discardable" : "0",
+    "desc" : "general_slg_skill_500103_desc"
+  }, {
+    "id" : "general_slg_skill_500104",
+    "type" : "2",
+    "discardable" : "0",
+    "desc" : "general_slg_skill_500104_desc"
+  }, {
+    "id" : "general_slg_skill_500105",
+    "type" : "1",
+    "discardable" : "0",
+    "desc" : "general_slg_skill_500105_desc"
+  }, {
+    "id" : "general_slg_skill_500201",
+    "type" : "1",
+    "discardable" : "1",
+    "desc" : "general_slg_skill_500201_desc"
+  }, {
+    "id" : "general_slg_skill_500202",
+    "type" : "1",
+    "discardable" : "0",
+    "desc" : "general_slg_skill_500202_desc"
+  }, {
+    "id" : "general_slg_skill_500203",
+    "type" : "2",
+    "discardable" : "0",
+    "desc" : "general_slg_skill_500203_desc"
+  }, {
+    "id" : "general_slg_skill_500204",
+    "type" : "2",
+    "discardable" : "0",
+    "desc" : "general_slg_skill_500204_desc"
+  }, {
+    "id" : "general_slg_skill_500205",
+    "type" : "1",
+    "discardable" : "0",
+    "desc" : "general_slg_skill_500205_desc"
+  }, {
+    "id" : "general_slg_skill_500501",
+    "type" : "1",
+    "discardable" : "1",
+    "desc" : "general_slg_skill_500501_desc"
+  }, {
+    "id" : "general_slg_skill_500502",
+    "type" : "2",
+    "discardable" : "0",
+    "desc" : "general_slg_skill_500502_desc"
+  }, {
+    "id" : "general_slg_skill_500503",
+    "type" : "2",
+    "discardable" : "0",
+    "desc" : "general_slg_skill_500503_desc"
+  }, {
+    "id" : "general_slg_skill_500504",
+    "type" : "1",
+    "discardable" : "0",
+    "desc" : "general_slg_skill_500504_desc"
+  }, {
+    "id" : "general_slg_skill_500505",
+    "type" : "1",
+    "discardable" : "0",
+    "desc" : "general_slg_skill_500505_desc"
+  }, {
+    "id" : "general_slg_skill_500801",
+    "type" : "1",
+    "discardable" : "0",
+    "desc" : "general_slg_skill_500801_desc"
+  }, {
+    "id" : "general_slg_skill_500802",
+    "type" : "2",
+    "discardable" : "0",
+    "desc" : "general_slg_skill_500802_desc"
+  }, {
+    "id" : "general_slg_skill_500803",
+    "type" : "2",
+    "discardable" : "0",
+    "desc" : "general_slg_skill_500803_desc"
+  }, {
+    "id" : "general_slg_skill_500804",
+    "type" : "1",
+    "discardable" : "0",
+    "desc" : "general_slg_skill_500804_desc"
+  }, {
+    "id" : "general_slg_skill_500805",
+    "type" : "2",
+    "discardable" : "0",
+    "desc" : "general_slg_skill_500805_desc"
+  }, {
+    "id" : "general_slg_skill_400301",
+    "type" : "1",
+    "discardable" : "1",
+    "desc" : "general_slg_skill_400301_desc"
+  }, {
+    "id" : "general_slg_skill_400302",
+    "type" : "2",
+    "discardable" : "0",
+    "desc" : "general_slg_skill_400302_desc"
+  }, {
+    "id" : "general_slg_skill_400303",
+    "type" : "2",
+    "discardable" : "0",
+    "desc" : "general_slg_skill_400303_desc"
+  }, {
+    "id" : "general_slg_skill_400304",
+    "type" : "2",
+    "discardable" : "0",
+    "desc" : "general_slg_skill_400304_desc"
+  }, {
+    "id" : "general_slg_skill_400305",
+    "type" : "1",
+    "discardable" : "0",
+    "desc" : "general_slg_skill_400305_desc"
+  }, {
+    "id" : "general_slg_skill_400501",
+    "type" : "2",
+    "discardable" : "1",
+    "desc" : "general_slg_skill_400501_desc"
+  }, {
+    "id" : "general_slg_skill_400502",
+    "type" : "2",
+    "discardable" : "0",
+    "desc" : "general_slg_skill_400502_desc"
+  }, {
+    "id" : "general_slg_skill_400503",
+    "type" : "2",
+    "discardable" : "0",
+    "desc" : "general_slg_skill_400503_desc"
+  }, {
+    "id" : "general_slg_skill_400504",
+    "type" : "1",
+    "discardable" : "0",
+    "desc" : "general_slg_skill_400504_desc"
+  }, {
+    "id" : "general_slg_skill_400505",
+    "type" : "2",
+    "discardable" : "0",
+    "desc" : "general_slg_skill_400505_desc"
+  }, {
+    "id" : "general_slg_skill_400701",
+    "type" : "2",
+    "discardable" : "1",
+    "desc" : "general_slg_skill_400701_desc"
+  }, {
+    "id" : "general_slg_skill_400702",
+    "type" : "2",
+    "discardable" : "0",
+    "desc" : "general_slg_skill_400702_desc"
+  }, {
+    "id" : "general_slg_skill_400703",
+    "type" : "1",
+    "discardable" : "0",
+    "desc" : "general_slg_skill_400703_desc"
+  }, {
+    "id" : "general_slg_skill_400704",
+    "type" : "1",
+    "discardable" : "0",
+    "desc" : "general_slg_skill_400704_desc"
+  }, {
+    "id" : "general_slg_skill_400705",
+    "type" : "2",
+    "discardable" : "0",
+    "desc" : "general_slg_skill_400705_desc"
+  }, {
+    "id" : "general_slg_skill_300301",
+    "type" : "2",
+    "discardable" : "0",
+    "desc" : "general_slg_skill_300301_desc"
+  }, {
+    "id" : "general_slg_skill_300302",
+    "type" : "1",
+    "discardable" : "0",
+    "desc" : "general_slg_skill_300302_desc"
+  }, {
+    "id" : "general_slg_skill_300303",
+    "type" : "1",
+    "discardable" : "0",
+    "desc" : "general_slg_skill_300303_desc"
+  }, {
+    "id" : "general_slg_skill_300304",
+    "type" : "1",
+    "discardable" : "0",
+    "desc" : "general_slg_skill_300304_desc"
+  }, {
+    "id" : "general_slg_skill_200101",
+    "type" : "2",
+    "discardable" : "0",
+    "desc" : "general_slg_skill_200101_desc"
+  }, {
+    "id" : "general_slg_skill_200102",
+    "type" : "2",
+    "discardable" : "0",
+    "desc" : "general_slg_skill_200102_desc"
+  }, {
+    "id" : "general_slg_skill_200103",
+    "type" : "2",
+    "discardable" : "0",
+    "desc" : "general_slg_skill_200103_desc"
+  }, {
+    "id" : "general_slg_skill_200104",
+    "type" : "1",
+    "discardable" : "0",
+    "desc" : "general_slg_skill_200104_desc"
+  } ]
+}

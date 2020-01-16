@@ -1,0 +1,913 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "type" : "type@string",
+    "category" : "category@string",
+    "round" : "round@int",
+    "target" : "target@int",
+    "config_1" : "config_1@string",
+    "config_2" : "config_2@string",
+    "config_3" : "config_3@string",
+    "benefit_id_1" : "benefit_id_1@benefits.id",
+    "benefit_value_1" : "benefit_value_1@float",
+    "benefit_id_2" : "benefit_id_2@benefits.id",
+    "benefit_value_2" : "benefit_value_2@float",
+    "benefit_id_3" : "benefit_id_3@benefits.id",
+    "benefit_value_3" : "benefit_value_3@float"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "type" : "buff类型",
+    "category" : "buff种类",
+    "round" : "持续回合",
+    "target" : "效果目标1自己2敌人",
+    "config_1" : "参数1",
+    "config_2" : "参数2",
+    "config_3" : "参数3",
+    "benefit_id_1" : "benefit_id_1",
+    "benefit_value_1" : "benefit值_1",
+    "benefit_id_2" : "benefit_id_2",
+    "benefit_value_2" : "benefit值_2",
+    "benefit_id_3" : "benefit_id_3",
+    "benefit_value_3" : "benefit值_3"
+  }, {
+    "id" : "general_slg_skill_buff_500601_level1",
+    "type" : "dot",
+    "category" : "burn",
+    "round" : "3",
+    "target" : "2",
+    "config_1" : "0.625"
+  }, {
+    "id" : "general_slg_skill_buff_500601_level2",
+    "type" : "dot",
+    "category" : "burn",
+    "round" : "3",
+    "target" : "2",
+    "config_1" : "0.625"
+  }, {
+    "id" : "general_slg_skill_buff_500601_level3",
+    "type" : "dot",
+    "category" : "burn",
+    "round" : "3",
+    "target" : "2",
+    "config_1" : "0.625"
+  }, {
+    "id" : "general_slg_skill_buff_500601_level4",
+    "type" : "dot",
+    "category" : "burn",
+    "round" : "3",
+    "target" : "2",
+    "config_1" : "0.625"
+  }, {
+    "id" : "general_slg_skill_buff_500601_level5",
+    "type" : "dot",
+    "category" : "burn",
+    "round" : "3",
+    "target" : "2",
+    "config_1" : "0.625"
+  }, {
+    "id" : "general_slg_skill_buff_500605_level1",
+    "type" : "dot",
+    "category" : "burn",
+    "round" : "3",
+    "target" : "2",
+    "config_1" : "0.625"
+  }, {
+    "id" : "general_slg_skill_buff_500602_level1",
+    "type" : "benefit",
+    "round" : "-1",
+    "target" : "2",
+    "benefit_id_1" : "prop_hero_army_damage_decrease_percent",
+    "benefit_value_1" : "-0.1"
+  }, {
+    "id" : "general_slg_skill_buff_500602_level2",
+    "type" : "benefit",
+    "round" : "-1",
+    "target" : "2",
+    "benefit_id_1" : "prop_hero_army_damage_decrease_percent",
+    "benefit_value_1" : "-0.15"
+  }, {
+    "id" : "general_slg_skill_buff_500602_level3",
+    "type" : "benefit",
+    "round" : "-1",
+    "target" : "2",
+    "benefit_id_1" : "prop_hero_army_damage_decrease_percent",
+    "benefit_value_1" : "-0.2"
+  }, {
+    "id" : "general_slg_skill_buff_500602_level4",
+    "type" : "benefit",
+    "round" : "-1",
+    "target" : "2",
+    "benefit_id_1" : "prop_hero_army_damage_decrease_percent",
+    "benefit_value_1" : "-0.25"
+  }, {
+    "id" : "general_slg_skill_buff_500602_level5",
+    "type" : "benefit",
+    "round" : "-1",
+    "target" : "2",
+    "benefit_id_1" : "prop_hero_army_damage_decrease_percent",
+    "benefit_value_1" : "-0.3"
+  }, {
+    "id" : "general_slg_skill_buff_500603_level1",
+    "type" : "benefit",
+    "round" : "3",
+    "target" : "1",
+    "benefit_id_1" : "prop_hero_army_damage_increase_percent",
+    "benefit_value_1" : "0.5"
+  }, {
+    "id" : "general_slg_skill_buff_500603_level2",
+    "type" : "benefit",
+    "round" : "3",
+    "target" : "1",
+    "benefit_id_1" : "prop_hero_army_damage_increase_percent",
+    "benefit_value_1" : "0.5"
+  }, {
+    "id" : "general_slg_skill_buff_500603_level3",
+    "type" : "benefit",
+    "round" : "3",
+    "target" : "1",
+    "benefit_id_1" : "prop_hero_army_damage_increase_percent",
+    "benefit_value_1" : "0.5"
+  }, {
+    "id" : "general_slg_skill_buff_500603_level4",
+    "type" : "benefit",
+    "round" : "3",
+    "target" : "1",
+    "benefit_id_1" : "prop_hero_army_damage_increase_percent",
+    "benefit_value_1" : "0.5"
+  }, {
+    "id" : "general_slg_skill_buff_500603_level5",
+    "type" : "benefit",
+    "round" : "3",
+    "target" : "1",
+    "benefit_id_1" : "prop_hero_army_damage_increase_percent",
+    "benefit_value_1" : "0.5"
+  }, {
+    "id" : "general_slg_skill_buff_500102_level1_effect1",
+    "type" : "benefit",
+    "round" : "-1",
+    "target" : "1",
+    "benefit_id_1" : "prop_hero_army_damage_increase_percent",
+    "benefit_value_1" : "0.08"
+  }, {
+    "id" : "general_slg_skill_buff_500102_level2_effect1",
+    "type" : "benefit",
+    "round" : "-1",
+    "target" : "1",
+    "benefit_id_1" : "prop_hero_army_damage_increase_percent",
+    "benefit_value_1" : "0.11"
+  }, {
+    "id" : "general_slg_skill_buff_500102_level3_effect1",
+    "type" : "benefit",
+    "round" : "-1",
+    "target" : "1",
+    "benefit_id_1" : "prop_hero_army_damage_increase_percent",
+    "benefit_value_1" : "0.14"
+  }, {
+    "id" : "general_slg_skill_buff_500102_level4_effect1",
+    "type" : "benefit",
+    "round" : "-1",
+    "target" : "1",
+    "benefit_id_1" : "prop_hero_army_damage_increase_percent",
+    "benefit_value_1" : "0.17"
+  }, {
+    "id" : "general_slg_skill_buff_500102_level5_effect1",
+    "type" : "benefit",
+    "round" : "-1",
+    "target" : "1",
+    "benefit_id_1" : "prop_hero_army_damage_increase_percent",
+    "benefit_value_1" : "0.2"
+  }, {
+    "id" : "general_slg_skill_buff_500103_level1_effect1",
+    "type" : "benefit",
+    "round" : "-1",
+    "target" : "2",
+    "benefit_id_1" : "prop_hero_army_damage_decrease_percent",
+    "benefit_value_1" : "-0.08"
+  }, {
+    "id" : "general_slg_skill_buff_500103_level2_effect1",
+    "type" : "benefit",
+    "round" : "-1",
+    "target" : "2",
+    "benefit_id_1" : "prop_hero_army_damage_decrease_percent",
+    "benefit_value_1" : "-0.11"
+  }, {
+    "id" : "general_slg_skill_buff_500103_level3_effect1",
+    "type" : "benefit",
+    "round" : "-1",
+    "target" : "2",
+    "benefit_id_1" : "prop_hero_army_damage_decrease_percent",
+    "benefit_value_1" : "-0.14"
+  }, {
+    "id" : "general_slg_skill_buff_500103_level4_effect1",
+    "type" : "benefit",
+    "round" : "-1",
+    "target" : "2",
+    "benefit_id_1" : "prop_hero_army_damage_decrease_percent",
+    "benefit_value_1" : "-0.17"
+  }, {
+    "id" : "general_slg_skill_buff_500103_level5_effect1",
+    "type" : "benefit",
+    "round" : "-1",
+    "target" : "2",
+    "benefit_id_1" : "prop_hero_army_damage_decrease_percent",
+    "benefit_value_1" : "-0.2"
+  }, {
+    "id" : "general_slg_skill_buff_500201_level1_effect2",
+    "type" : "benefit",
+    "round" : "3",
+    "target" : "2",
+    "benefit_id_1" : "prop_hero_army_damage_decrease_percent",
+    "benefit_value_1" : "-0.16"
+  }, {
+    "id" : "general_slg_skill_buff_500201_level2_effect2",
+    "type" : "benefit",
+    "round" : "3",
+    "target" : "2",
+    "benefit_id_1" : "prop_hero_army_damage_decrease_percent",
+    "benefit_value_1" : "-0.22"
+  }, {
+    "id" : "general_slg_skill_buff_500201_level3_effect2",
+    "type" : "benefit",
+    "round" : "3",
+    "target" : "2",
+    "benefit_id_1" : "prop_hero_army_damage_decrease_percent",
+    "benefit_value_1" : "-0.28"
+  }, {
+    "id" : "general_slg_skill_buff_500201_level4_effect2",
+    "type" : "benefit",
+    "round" : "3",
+    "target" : "2",
+    "benefit_id_1" : "prop_hero_army_damage_decrease_percent",
+    "benefit_value_1" : "-0.34"
+  }, {
+    "id" : "general_slg_skill_buff_500201_level5_effect2",
+    "type" : "benefit",
+    "round" : "3",
+    "target" : "2",
+    "benefit_id_1" : "prop_hero_army_damage_decrease_percent",
+    "benefit_value_1" : "-0.4"
+  }, {
+    "id" : "general_slg_skill_buff_500203_level1_effect1",
+    "type" : "benefit",
+    "round" : "-1",
+    "target" : "1",
+    "benefit_id_1" : "prop_hero_army_damage_increase_percent",
+    "benefit_value_1" : "0.08"
+  }, {
+    "id" : "general_slg_skill_buff_500203_level2_effect1",
+    "type" : "benefit",
+    "round" : "-1",
+    "target" : "1",
+    "benefit_id_1" : "prop_hero_army_damage_increase_percent",
+    "benefit_value_1" : "0.11"
+  }, {
+    "id" : "general_slg_skill_buff_500203_level3_effect1",
+    "type" : "benefit",
+    "round" : "-1",
+    "target" : "1",
+    "benefit_id_1" : "prop_hero_army_damage_increase_percent",
+    "benefit_value_1" : "0.14"
+  }, {
+    "id" : "general_slg_skill_buff_500203_level4_effect1",
+    "type" : "benefit",
+    "round" : "-1",
+    "target" : "1",
+    "benefit_id_1" : "prop_hero_army_damage_increase_percent",
+    "benefit_value_1" : "0.17"
+  }, {
+    "id" : "general_slg_skill_buff_500203_level5_effect1",
+    "type" : "benefit",
+    "round" : "-1",
+    "target" : "1",
+    "benefit_id_1" : "prop_hero_army_damage_increase_percent",
+    "benefit_value_1" : "0.2"
+  }, {
+    "id" : "general_slg_skill_buff_500205_level5_effect1",
+    "type" : "benefit",
+    "round" : "3",
+    "target" : "2",
+    "benefit_id_1" : "prop_hero_army_damage_decrease_percent",
+    "benefit_value_1" : "-0.6"
+  }, {
+    "id" : "general_slg_skill_buff_500502_level1_effect1",
+    "type" : "benefit",
+    "round" : "-1",
+    "target" : "1",
+    "benefit_id_1" : "prop_hero_infantry_damage_increase_percent",
+    "benefit_value_1" : "0.08"
+  }, {
+    "id" : "general_slg_skill_buff_500502_level2_effect1",
+    "type" : "benefit",
+    "round" : "-1",
+    "target" : "1",
+    "benefit_id_1" : "prop_hero_infantry_damage_increase_percent",
+    "benefit_value_1" : "0.11"
+  }, {
+    "id" : "general_slg_skill_buff_500502_level3_effect1",
+    "type" : "benefit",
+    "round" : "-1",
+    "target" : "1",
+    "benefit_id_1" : "prop_hero_infantry_damage_increase_percent",
+    "benefit_value_1" : "0.14"
+  }, {
+    "id" : "general_slg_skill_buff_500502_level4_effect1",
+    "type" : "benefit",
+    "round" : "-1",
+    "target" : "1",
+    "benefit_id_1" : "prop_hero_infantry_damage_increase_percent",
+    "benefit_value_1" : "0.17"
+  }, {
+    "id" : "general_slg_skill_buff_500502_level5_effect1",
+    "type" : "benefit",
+    "round" : "-1",
+    "target" : "1",
+    "benefit_id_1" : "prop_hero_infantry_damage_increase_percent",
+    "benefit_value_1" : "0.2"
+  }, {
+    "id" : "general_slg_skill_buff_500503_level1_effect1",
+    "type" : "benefit",
+    "round" : "-1",
+    "target" : "1",
+    "benefit_id_1" : "prop_hero_army_damage_increase_percent",
+    "benefit_value_1" : "0.08"
+  }, {
+    "id" : "general_slg_skill_buff_500503_level2_effect1",
+    "type" : "benefit",
+    "round" : "-1",
+    "target" : "1",
+    "benefit_id_1" : "prop_hero_army_damage_increase_percent",
+    "benefit_value_1" : "0.11"
+  }, {
+    "id" : "general_slg_skill_buff_500503_level3_effect1",
+    "type" : "benefit",
+    "round" : "-1",
+    "target" : "1",
+    "benefit_id_1" : "prop_hero_army_damage_increase_percent",
+    "benefit_value_1" : "0.14"
+  }, {
+    "id" : "general_slg_skill_buff_500503_level4_effect1",
+    "type" : "benefit",
+    "round" : "-1",
+    "target" : "1",
+    "benefit_id_1" : "prop_hero_army_damage_increase_percent",
+    "benefit_value_1" : "0.17"
+  }, {
+    "id" : "general_slg_skill_buff_500503_level5_effect1",
+    "type" : "benefit",
+    "round" : "-1",
+    "target" : "1",
+    "benefit_id_1" : "prop_hero_army_damage_increase_percent",
+    "benefit_value_1" : "0.2"
+  }, {
+    "id" : "general_slg_skill_buff_500505_level1_effect2",
+    "type" : "dot",
+    "category" : "burn",
+    "round" : "2",
+    "target" : "2",
+    "config_1" : "0.5"
+  }, {
+    "id" : "general_slg_skill_buff_500801_level1_effect1",
+    "type" : "benefit",
+    "round" : "2",
+    "target" : "1",
+    "benefit_id_1" : "prop_hero_army_damage_increase_percent",
+    "benefit_value_1" : "0.5"
+  }, {
+    "id" : "general_slg_skill_buff_500801_level2_effect1",
+    "type" : "benefit",
+    "round" : "2",
+    "target" : "1",
+    "benefit_id_1" : "prop_hero_army_damage_increase_percent",
+    "benefit_value_1" : "0.6"
+  }, {
+    "id" : "general_slg_skill_buff_500801_level3_effect1",
+    "type" : "benefit",
+    "round" : "2",
+    "target" : "1",
+    "benefit_id_1" : "prop_hero_army_damage_increase_percent",
+    "benefit_value_1" : "0.7"
+  }, {
+    "id" : "general_slg_skill_buff_500801_level4_effect1",
+    "type" : "benefit",
+    "round" : "2",
+    "target" : "1",
+    "benefit_id_1" : "prop_hero_army_damage_increase_percent",
+    "benefit_value_1" : "0.8"
+  }, {
+    "id" : "general_slg_skill_buff_500801_level5_effect1",
+    "type" : "benefit",
+    "round" : "2",
+    "target" : "1",
+    "benefit_id_1" : "prop_hero_army_damage_increase_percent",
+    "benefit_value_1" : "1"
+  }, {
+    "id" : "general_slg_skill_buff_500802_level1_effect1",
+    "type" : "benefit",
+    "round" : "-1",
+    "target" : "1",
+    "benefit_id_1" : "prop_hero_cavalry_damage_increase_percent",
+    "benefit_value_1" : "0.08"
+  }, {
+    "id" : "general_slg_skill_buff_500802_level2_effect1",
+    "type" : "benefit",
+    "round" : "-1",
+    "target" : "1",
+    "benefit_id_1" : "prop_hero_cavalry_damage_increase_percent",
+    "benefit_value_1" : "0.11"
+  }, {
+    "id" : "general_slg_skill_buff_500802_level3_effect1",
+    "type" : "benefit",
+    "round" : "-1",
+    "target" : "1",
+    "benefit_id_1" : "prop_hero_cavalry_damage_increase_percent",
+    "benefit_value_1" : "0.14"
+  }, {
+    "id" : "general_slg_skill_buff_500802_level4_effect1",
+    "type" : "benefit",
+    "round" : "-1",
+    "target" : "1",
+    "benefit_id_1" : "prop_hero_cavalry_damage_increase_percent",
+    "benefit_value_1" : "0.17"
+  }, {
+    "id" : "general_slg_skill_buff_500802_level5_effect1",
+    "type" : "benefit",
+    "round" : "-1",
+    "target" : "1",
+    "benefit_id_1" : "prop_hero_cavalry_damage_increase_percent",
+    "benefit_value_1" : "0.2"
+  }, {
+    "id" : "general_slg_skill_buff_500803_level1_effect1",
+    "type" : "benefit",
+    "round" : "-1",
+    "target" : "1",
+    "benefit_id_1" : "prop_hero_army_damage_decrease_percent",
+    "benefit_value_1" : "0.08"
+  }, {
+    "id" : "general_slg_skill_buff_500803_level2_effect1",
+    "type" : "benefit",
+    "round" : "-1",
+    "target" : "1",
+    "benefit_id_1" : "prop_hero_army_damage_decrease_percent",
+    "benefit_value_1" : "0.11"
+  }, {
+    "id" : "general_slg_skill_buff_500803_level3_effect1",
+    "type" : "benefit",
+    "round" : "-1",
+    "target" : "1",
+    "benefit_id_1" : "prop_hero_army_damage_decrease_percent",
+    "benefit_value_1" : "0.14"
+  }, {
+    "id" : "general_slg_skill_buff_500803_level4_effect1",
+    "type" : "benefit",
+    "round" : "-1",
+    "target" : "1",
+    "benefit_id_1" : "prop_hero_army_damage_decrease_percent",
+    "benefit_value_1" : "0.17"
+  }, {
+    "id" : "general_slg_skill_buff_500803_level5_effect1",
+    "type" : "benefit",
+    "round" : "-1",
+    "target" : "1",
+    "benefit_id_1" : "prop_hero_army_damage_decrease_percent",
+    "benefit_value_1" : "0.2"
+  }, {
+    "id" : "general_slg_skill_buff_500805_level1_effect1",
+    "type" : "benefit",
+    "round" : "-1",
+    "target" : "1",
+    "benefit_id_1" : "prop_hero_cavalry_damage_increase_percent",
+    "benefit_value_1" : "0.2",
+    "benefit_id_2" : "prop_hero_army_damage_decrease_percent",
+    "benefit_value_2" : "0.1"
+  }, {
+    "id" : "general_slg_skill_buff_400302_level1_effect1",
+    "type" : "benefit",
+    "round" : "-1",
+    "target" : "1",
+    "benefit_id_1" : "prop_hero_army_damage_decrease_percent",
+    "benefit_value_1" : "0.03"
+  }, {
+    "id" : "general_slg_skill_buff_400302_level2_effect1",
+    "type" : "benefit",
+    "round" : "-1",
+    "target" : "1",
+    "benefit_id_1" : "prop_hero_army_damage_decrease_percent",
+    "benefit_value_1" : "0.06"
+  }, {
+    "id" : "general_slg_skill_buff_400302_level3_effect1",
+    "type" : "benefit",
+    "round" : "-1",
+    "target" : "1",
+    "benefit_id_1" : "prop_hero_army_damage_decrease_percent",
+    "benefit_value_1" : "0.09"
+  }, {
+    "id" : "general_slg_skill_buff_400302_level4_effect1",
+    "type" : "benefit",
+    "round" : "-1",
+    "target" : "1",
+    "benefit_id_1" : "prop_hero_army_damage_decrease_percent",
+    "benefit_value_1" : "0.12"
+  }, {
+    "id" : "general_slg_skill_buff_400302_level5_effect1",
+    "type" : "benefit",
+    "round" : "-1",
+    "target" : "1",
+    "benefit_id_1" : "prop_hero_army_damage_decrease_percent",
+    "benefit_value_1" : "0.15"
+  }, {
+    "id" : "general_slg_skill_buff_400303_level1_effect1",
+    "type" : "benefit",
+    "round" : "-1",
+    "target" : "1",
+    "benefit_id_1" : "prop_hero_ranged_damage_increase_percent",
+    "benefit_value_1" : "0.03"
+  }, {
+    "id" : "general_slg_skill_buff_400303_level2_effect1",
+    "type" : "benefit",
+    "round" : "-1",
+    "target" : "1",
+    "benefit_id_1" : "prop_hero_ranged_damage_increase_percent",
+    "benefit_value_1" : "0.06"
+  }, {
+    "id" : "general_slg_skill_buff_400303_level3_effect1",
+    "type" : "benefit",
+    "round" : "-1",
+    "target" : "1",
+    "benefit_id_1" : "prop_hero_ranged_damage_increase_percent",
+    "benefit_value_1" : "0.09"
+  }, {
+    "id" : "general_slg_skill_buff_400303_level4_effect1",
+    "type" : "benefit",
+    "round" : "-1",
+    "target" : "1",
+    "benefit_id_1" : "prop_hero_ranged_damage_increase_percent",
+    "benefit_value_1" : "0.12"
+  }, {
+    "id" : "general_slg_skill_buff_400303_level5_effect1",
+    "type" : "benefit",
+    "round" : "-1",
+    "target" : "1",
+    "benefit_id_1" : "prop_hero_ranged_damage_increase_percent",
+    "benefit_value_1" : "0.15"
+  }, {
+    "id" : "general_slg_skill_buff_400305_level1_effect2",
+    "type" : "benefit",
+    "round" : "3",
+    "target" : "1",
+    "benefit_id_1" : "prop_hero_army_damage_increase_percent",
+    "benefit_value_1" : "0.2"
+  }, {
+    "id" : "general_slg_skill_buff_400502_level1_effect1",
+    "type" : "benefit",
+    "round" : "-1",
+    "target" : "1",
+    "benefit_id_1" : "prop_hero_infantry_damage_increase_percent",
+    "benefit_value_1" : "0.03"
+  }, {
+    "id" : "general_slg_skill_buff_400502_level2_effect1",
+    "type" : "benefit",
+    "round" : "-1",
+    "target" : "1",
+    "benefit_id_1" : "prop_hero_infantry_damage_increase_percent",
+    "benefit_value_1" : "0.06"
+  }, {
+    "id" : "general_slg_skill_buff_400502_level3_effect1",
+    "type" : "benefit",
+    "round" : "-1",
+    "target" : "1",
+    "benefit_id_1" : "prop_hero_infantry_damage_increase_percent",
+    "benefit_value_1" : "0.09"
+  }, {
+    "id" : "general_slg_skill_buff_400502_level4_effect1",
+    "type" : "benefit",
+    "round" : "-1",
+    "target" : "1",
+    "benefit_id_1" : "prop_hero_infantry_damage_increase_percent",
+    "benefit_value_1" : "0.12"
+  }, {
+    "id" : "general_slg_skill_buff_400502_level5_effect1",
+    "type" : "benefit",
+    "round" : "-1",
+    "target" : "1",
+    "benefit_id_1" : "prop_hero_infantry_damage_increase_percent",
+    "benefit_value_1" : "0.15"
+  }, {
+    "id" : "general_slg_skill_buff_400503_level1_effect1",
+    "type" : "benefit",
+    "round" : "-1",
+    "target" : "1",
+    "benefit_id_1" : "prop_hero_army_damage_increase_percent",
+    "benefit_value_1" : "0.03"
+  }, {
+    "id" : "general_slg_skill_buff_400503_level2_effect1",
+    "type" : "benefit",
+    "round" : "-1",
+    "target" : "1",
+    "benefit_id_1" : "prop_hero_army_damage_increase_percent",
+    "benefit_value_1" : "0.06"
+  }, {
+    "id" : "general_slg_skill_buff_400503_level3_effect1",
+    "type" : "benefit",
+    "round" : "-1",
+    "target" : "1",
+    "benefit_id_1" : "prop_hero_army_damage_increase_percent",
+    "benefit_value_1" : "0.09"
+  }, {
+    "id" : "general_slg_skill_buff_400503_level4_effect1",
+    "type" : "benefit",
+    "round" : "-1",
+    "target" : "1",
+    "benefit_id_1" : "prop_hero_army_damage_increase_percent",
+    "benefit_value_1" : "0.12"
+  }, {
+    "id" : "general_slg_skill_buff_400503_level5_effect1",
+    "type" : "benefit",
+    "round" : "-1",
+    "target" : "1",
+    "benefit_id_1" : "prop_hero_army_damage_increase_percent",
+    "benefit_value_1" : "0.15"
+  }, {
+    "id" : "general_slg_skill_buff_400504_level1_effect1",
+    "type" : "benefit",
+    "round" : "-1",
+    "target" : "1",
+    "benefit_id_1" : "prop_hero_army_damage_decrease_percent",
+    "benefit_value_1" : "0.03"
+  }, {
+    "id" : "general_slg_skill_buff_400504_level2_effect1",
+    "type" : "benefit",
+    "round" : "-1",
+    "target" : "1",
+    "benefit_id_1" : "prop_hero_army_damage_decrease_percent",
+    "benefit_value_1" : "0.06"
+  }, {
+    "id" : "general_slg_skill_buff_400504_level3_effect1",
+    "type" : "benefit",
+    "round" : "-1",
+    "target" : "1",
+    "benefit_id_1" : "prop_hero_army_damage_decrease_percent",
+    "benefit_value_1" : "0.09"
+  }, {
+    "id" : "general_slg_skill_buff_400504_level4_effect1",
+    "type" : "benefit",
+    "round" : "-1",
+    "target" : "1",
+    "benefit_id_1" : "prop_hero_army_damage_decrease_percent",
+    "benefit_value_1" : "0.12"
+  }, {
+    "id" : "general_slg_skill_buff_400504_level5_effect1",
+    "type" : "benefit",
+    "round" : "-1",
+    "target" : "1",
+    "benefit_id_1" : "prop_hero_army_damage_decrease_percent",
+    "benefit_value_1" : "0.15"
+  }, {
+    "id" : "general_slg_skill_buff_400701_level1_effect1",
+    "type" : "benefit",
+    "round" : "3",
+    "target" : "2",
+    "benefit_id_1" : "prop_hero_army_damage_decrease_percent",
+    "benefit_value_1" : "-0.1"
+  }, {
+    "id" : "general_slg_skill_buff_400701_level2_effect1",
+    "type" : "benefit",
+    "round" : "3",
+    "target" : "2",
+    "benefit_id_1" : "prop_hero_army_damage_decrease_percent",
+    "benefit_value_1" : "-0.2"
+  }, {
+    "id" : "general_slg_skill_buff_400701_level3_effect1",
+    "type" : "benefit",
+    "round" : "3",
+    "target" : "2",
+    "benefit_id_1" : "prop_hero_army_damage_decrease_percent",
+    "benefit_value_1" : "-0.3"
+  }, {
+    "id" : "general_slg_skill_buff_400701_level4_effect1",
+    "type" : "benefit",
+    "round" : "3",
+    "target" : "2",
+    "benefit_id_1" : "prop_hero_army_damage_decrease_percent",
+    "benefit_value_1" : "-0.4"
+  }, {
+    "id" : "general_slg_skill_buff_400701_level5_effect1",
+    "type" : "benefit",
+    "round" : "3",
+    "target" : "2",
+    "benefit_id_1" : "prop_hero_army_damage_decrease_percent",
+    "benefit_value_1" : "-0.5"
+  }, {
+    "id" : "general_slg_skill_buff_400702_level1_effect1",
+    "type" : "benefit",
+    "round" : "-1",
+    "target" : "1",
+    "benefit_id_1" : "prop_hero_cavalry_damage_increase_percent",
+    "benefit_value_1" : "0.03"
+  }, {
+    "id" : "general_slg_skill_buff_400702_level2_effect1",
+    "type" : "benefit",
+    "round" : "-1",
+    "target" : "1",
+    "benefit_id_1" : "prop_hero_cavalry_damage_increase_percent",
+    "benefit_value_1" : "0.06"
+  }, {
+    "id" : "general_slg_skill_buff_400702_level3_effect1",
+    "type" : "benefit",
+    "round" : "-1",
+    "target" : "1",
+    "benefit_id_1" : "prop_hero_cavalry_damage_increase_percent",
+    "benefit_value_1" : "0.09"
+  }, {
+    "id" : "general_slg_skill_buff_400702_level4_effect1",
+    "type" : "benefit",
+    "round" : "-1",
+    "target" : "1",
+    "benefit_id_1" : "prop_hero_cavalry_damage_increase_percent",
+    "benefit_value_1" : "0.12"
+  }, {
+    "id" : "general_slg_skill_buff_400702_level5_effect1",
+    "type" : "benefit",
+    "round" : "-1",
+    "target" : "1",
+    "benefit_id_1" : "prop_hero_cavalry_damage_increase_percent",
+    "benefit_value_1" : "0.15"
+  }, {
+    "id" : "general_slg_skill_buff_400703_level1_effect1",
+    "type" : "benefit",
+    "round" : "-1",
+    "target" : "1",
+    "benefit_id_1" : "prop_hero_army_damage_increase_percent",
+    "benefit_value_1" : "0.03"
+  }, {
+    "id" : "general_slg_skill_buff_400703_level2_effect1",
+    "type" : "benefit",
+    "round" : "-1",
+    "target" : "1",
+    "benefit_id_1" : "prop_hero_army_damage_increase_percent",
+    "benefit_value_1" : "0.06"
+  }, {
+    "id" : "general_slg_skill_buff_400703_level3_effect1",
+    "type" : "benefit",
+    "round" : "-1",
+    "target" : "1",
+    "benefit_id_1" : "prop_hero_army_damage_increase_percent",
+    "benefit_value_1" : "0.09"
+  }, {
+    "id" : "general_slg_skill_buff_400703_level4_effect1",
+    "type" : "benefit",
+    "round" : "-1",
+    "target" : "1",
+    "benefit_id_1" : "prop_hero_army_damage_increase_percent",
+    "benefit_value_1" : "0.12"
+  }, {
+    "id" : "general_slg_skill_buff_400703_level5_effect1",
+    "type" : "benefit",
+    "round" : "-1",
+    "target" : "1",
+    "benefit_id_1" : "prop_hero_army_damage_increase_percent",
+    "benefit_value_1" : "0.15"
+  }, {
+    "id" : "general_slg_skill_buff_400704_level1_effect1",
+    "type" : "benefit",
+    "round" : "-1",
+    "target" : "1",
+    "benefit_id_1" : "prop_hero_army_damage_decrease_percent",
+    "benefit_value_1" : "0.03"
+  }, {
+    "id" : "general_slg_skill_buff_400704_level2_effect1",
+    "type" : "benefit",
+    "round" : "-1",
+    "target" : "1",
+    "benefit_id_1" : "prop_hero_army_damage_decrease_percent",
+    "benefit_value_1" : "0.06"
+  }, {
+    "id" : "general_slg_skill_buff_400704_level3_effect1",
+    "type" : "benefit",
+    "round" : "-1",
+    "target" : "1",
+    "benefit_id_1" : "prop_hero_army_damage_decrease_percent",
+    "benefit_value_1" : "0.09"
+  }, {
+    "id" : "general_slg_skill_buff_400704_level4_effect1",
+    "type" : "benefit",
+    "round" : "-1",
+    "target" : "1",
+    "benefit_id_1" : "prop_hero_army_damage_decrease_percent",
+    "benefit_value_1" : "0.12"
+  }, {
+    "id" : "general_slg_skill_buff_400704_level5_effect1",
+    "type" : "benefit",
+    "round" : "-1",
+    "target" : "1",
+    "benefit_id_1" : "prop_hero_army_damage_decrease_percent",
+    "benefit_value_1" : "0.15"
+  }, {
+    "id" : "general_slg_skill_buff_400705_level1_effect2",
+    "type" : "benefit",
+    "round" : "3",
+    "target" : "2",
+    "benefit_id_1" : "prop_hero_army_damage_decrease_percent",
+    "benefit_value_1" : "-0.5"
+  }, {
+    "id" : "general_slg_skill_buff_300302_level1_effect1",
+    "type" : "benefit",
+    "round" : "-1",
+    "target" : "1",
+    "benefit_id_1" : "prop_hero_infantry_damage_increase_percent",
+    "benefit_value_1" : "0.02"
+  }, {
+    "id" : "general_slg_skill_buff_300302_level2_effect1",
+    "type" : "benefit",
+    "round" : "-1",
+    "target" : "1",
+    "benefit_id_1" : "prop_hero_infantry_damage_increase_percent",
+    "benefit_value_1" : "0.04"
+  }, {
+    "id" : "general_slg_skill_buff_300302_level3_effect1",
+    "type" : "benefit",
+    "round" : "-1",
+    "target" : "1",
+    "benefit_id_1" : "prop_hero_infantry_damage_increase_percent",
+    "benefit_value_1" : "0.06"
+  }, {
+    "id" : "general_slg_skill_buff_300302_level4_effect1",
+    "type" : "benefit",
+    "round" : "-1",
+    "target" : "1",
+    "benefit_id_1" : "prop_hero_infantry_damage_increase_percent",
+    "benefit_value_1" : "0.08"
+  }, {
+    "id" : "general_slg_skill_buff_300302_level5_effect1",
+    "type" : "benefit",
+    "round" : "-1",
+    "target" : "1",
+    "benefit_id_1" : "prop_hero_infantry_damage_increase_percent",
+    "benefit_value_1" : "0.1"
+  }, {
+    "id" : "general_slg_skill_buff_300304_level1_effect1",
+    "type" : "shield",
+    "round" : "1",
+    "target" : "1",
+    "config_1" : "999999"
+  }, {
+    "id" : "general_slg_skill_buff_300304_level2_effect1",
+    "type" : "shield",
+    "round" : "2",
+    "target" : "1",
+    "config_1" : "999999"
+  }, {
+    "id" : "general_slg_skill_buff_300304_level3_effect1",
+    "type" : "shield",
+    "round" : "3",
+    "target" : "1",
+    "config_1" : "999999"
+  }, {
+    "id" : "general_slg_skill_buff_300304_level4_effect1",
+    "type" : "shield",
+    "round" : "4",
+    "target" : "1",
+    "config_1" : "999999"
+  }, {
+    "id" : "general_slg_skill_buff_300304_level5_effect1",
+    "type" : "shield",
+    "round" : "5",
+    "target" : "1",
+    "config_1" : "999999"
+  }, {
+    "id" : "general_slg_skill_buff_200102_level1_effect1",
+    "type" : "benefit",
+    "round" : "-1",
+    "target" : "1",
+    "benefit_id_1" : "prop_hero_army_damage_increase_percent",
+    "benefit_value_1" : "0.01"
+  }, {
+    "id" : "general_slg_skill_buff_200102_level2_effect1",
+    "type" : "benefit",
+    "round" : "-1",
+    "target" : "1",
+    "benefit_id_1" : "prop_hero_army_damage_increase_percent",
+    "benefit_value_1" : "0.02"
+  }, {
+    "id" : "general_slg_skill_buff_200102_level3_effect1",
+    "type" : "benefit",
+    "round" : "-1",
+    "target" : "1",
+    "benefit_id_1" : "prop_hero_army_damage_increase_percent",
+    "benefit_value_1" : "0.03"
+  }, {
+    "id" : "general_slg_skill_buff_200102_level4_effect1",
+    "type" : "benefit",
+    "round" : "-1",
+    "target" : "1",
+    "benefit_id_1" : "prop_hero_army_damage_increase_percent",
+    "benefit_value_1" : "0.04"
+  }, {
+    "id" : "general_slg_skill_buff_200102_level5_effect1",
+    "type" : "benefit",
+    "round" : "-1",
+    "target" : "1",
+    "benefit_id_1" : "prop_hero_army_damage_increase_percent",
+    "benefit_value_1" : "0.05"
+  } ]
+}

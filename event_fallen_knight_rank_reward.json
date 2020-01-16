@@ -1,0 +1,222 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "type" : "type@int",
+    "rank_min" : "rank_min@int",
+    "rank_max" : "rank_max@int",
+    "fund" : "fund@int",
+    "honor" : "honor@int",
+    "reward_id_1" : "reward_id_1@itemlist.id",
+    "reward_value_1" : "reward_value_1@int",
+    "reward_id_2" : "reward_id_2@itemlist.id",
+    "reward_value_2" : "reward_value_2@int",
+    "reward_id_3" : "reward_id_3@itemlist.id",
+    "reward_value_3" : "reward_value_3@int",
+    "reward_id_4" : "reward_id_4@itemlist.id",
+    "reward_value_4" : "reward_value_4@int",
+    "reward_id_5" : "reward_id_5@itemlist.id",
+    "reward_value_5" : "reward_value_5@int",
+    "reward_id_6" : "reward_id_6@itemlist.id",
+    "reward_value_6" : "reward_value_6@int"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "type" : "类型",
+    "rank_min" : "最小排名",
+    "rank_max" : "最大排名",
+    "fund" : "信誉",
+    "honor" : "荣誉",
+    "reward_id_1" : "奖励道具id_1",
+    "reward_value_1" : "奖励道具数量_1",
+    "reward_id_2" : "奖励道具id_2",
+    "reward_value_2" : "奖励道具数量_2",
+    "reward_id_3" : "奖励道具id_3",
+    "reward_value_3" : "奖励道具数量_3",
+    "reward_id_4" : "奖励道具id_4",
+    "reward_value_4" : "奖励道具数量_4",
+    "reward_id_5" : "奖励道具id_5",
+    "reward_value_5" : "奖励道具数量_5",
+    "reward_id_6" : "奖励道具id_6",
+    "reward_value_6" : "奖励道具数量_6"
+  }, {
+    "id" : "activity_rank_reward_1",
+    "type" : "0",
+    "rank_min" : "1",
+    "rank_max" : "1",
+    "fund" : "30000",
+    "honor" : "30000",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "activity_rank_reward_2",
+    "type" : "0",
+    "rank_min" : "2",
+    "rank_max" : "2",
+    "fund" : "30000",
+    "honor" : "30000",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "activity_rank_reward_3",
+    "type" : "0",
+    "rank_min" : "3",
+    "rank_max" : "3",
+    "fund" : "30000",
+    "honor" : "30000",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "activity_rank_reward_4",
+    "type" : "0",
+    "rank_min" : "4",
+    "rank_max" : "4",
+    "fund" : "25000",
+    "honor" : "25000",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "activity_rank_reward_5",
+    "type" : "0",
+    "rank_min" : "5",
+    "rank_max" : "5",
+    "fund" : "25000",
+    "honor" : "25000",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "activity_rank_reward_6",
+    "type" : "0",
+    "rank_min" : "6",
+    "rank_max" : "6",
+    "fund" : "25000",
+    "honor" : "25000",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "activity_rank_reward_7",
+    "type" : "0",
+    "rank_min" : "7",
+    "rank_max" : "7",
+    "fund" : "20000",
+    "honor" : "20000",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "activity_rank_reward_8",
+    "type" : "0",
+    "rank_min" : "8",
+    "rank_max" : "8",
+    "fund" : "20000",
+    "honor" : "20000",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "activity_rank_reward_9",
+    "type" : "0",
+    "rank_min" : "9",
+    "rank_max" : "9",
+    "fund" : "20000",
+    "honor" : "20000",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "activity_rank_reward_10",
+    "type" : "0",
+    "rank_min" : "10",
+    "rank_max" : "10",
+    "fund" : "20000",
+    "honor" : "20000",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "activity_rank_reward_11",
+    "type" : "1",
+    "rank_min" : "1",
+    "rank_max" : "1",
+    "fund" : "100000",
+    "honor" : "100000",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "activity_rank_reward_12",
+    "type" : "1",
+    "rank_min" : "2",
+    "rank_max" : "2",
+    "fund" : "80000",
+    "honor" : "80000",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "activity_rank_reward_13",
+    "type" : "1",
+    "rank_min" : "3",
+    "rank_max" : "3",
+    "fund" : "60000",
+    "honor" : "60000",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "activity_rank_reward_14",
+    "type" : "1",
+    "rank_min" : "4",
+    "rank_max" : "4",
+    "fund" : "50000",
+    "honor" : "50000",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "activity_rank_reward_15",
+    "type" : "1",
+    "rank_min" : "5",
+    "rank_max" : "5",
+    "fund" : "40000",
+    "honor" : "40000",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "activity_rank_reward_16",
+    "type" : "1",
+    "rank_min" : "6",
+    "rank_max" : "6",
+    "fund" : "30000",
+    "honor" : "30000",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "activity_rank_reward_17",
+    "type" : "1",
+    "rank_min" : "7",
+    "rank_max" : "7",
+    "fund" : "20000",
+    "honor" : "20000",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "activity_rank_reward_18",
+    "type" : "1",
+    "rank_min" : "8",
+    "rank_max" : "8",
+    "fund" : "10000",
+    "honor" : "10000",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "activity_rank_reward_19",
+    "type" : "1",
+    "rank_min" : "9",
+    "rank_max" : "9",
+    "fund" : "5000",
+    "honor" : "5000",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "activity_rank_reward_20",
+    "type" : "1",
+    "rank_min" : "10",
+    "rank_max" : "10",
+    "fund" : "3000",
+    "honor" : "3000",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  } ]
+}

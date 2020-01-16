@@ -1,0 +1,107 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "type" : "type@string",
+    "order" : "order@int",
+    "target" : "target@string",
+    "target_value" : "target_value@string",
+    "value_type" : "value_type@string",
+    "value" : "value",
+    "benefits" : "benefits@string",
+    "param_1" : "param_1@string",
+    "param_2" : "param_2@string",
+    "goods" : "goods@int",
+    "days" : "days@int",
+    "toast" : "toast@string",
+    "tactic" : "tactic@campaign_tactic.id",
+    "" : ""
+  },
+  "rows" : [ {
+    "id" : "id",
+    "type" : "效果类型",
+    "order" : "1",
+    "target" : "生效目标",
+    "target_value" : "目标参数",
+    "value_type" : "数值类型",
+    "value" : "数值",
+    "param_1" : "特殊参数1",
+    "param_2" : "特殊参数2",
+    "goods" : "消耗物资",
+    "days" : "消耗天数",
+    "toast" : "效果飘字",
+    "tactic" : "关联战术卡"
+  }, {
+    "id" : "campaign_effect_1",
+    "type" : "benefits",
+    "order" : "2",
+    "target" : "troop",
+    "target_value" : "me",
+    "param_1" : "1000",
+    "param_2" : "1000",
+    "toast" : "部队攻击力变化",
+    "tactic" : "campaign_tactic_1"
+  }, {
+    "id" : "campaign_effect_4",
+    "type" : "troops_num",
+    "order" : "3",
+    "target" : "troop",
+    "value_type" : "integer",
+    "value" : "4",
+    "toast" : "部队数量变化",
+    "tactic" : "campaign_tactic_2"
+  }, {
+    "id" : "campaign_effect_5",
+    "type" : "heal_wounded",
+    "order" : "4",
+    "target" : "troop",
+    "value_type" : "integer",
+    "value" : "1",
+    "goods" : "1",
+    "toast" : "治疗伤兵",
+    "tactic" : "campaign_tactic_2"
+  }, {
+    "id" : "campaign_effect_6",
+    "type" : "heal_wounded_any_num",
+    "order" : "5",
+    "target" : "troop",
+    "value_type" : "percent",
+    "value" : "1",
+    "toast" : "根据伤兵数治疗伤兵",
+    "tactic" : "campaign_tactic_2"
+  }, {
+    "id" : "campaign_effect_7",
+    "type" : "certain_node_reduce_num",
+    "order" : "6",
+    "target" : "node",
+    "value_type" : "percent",
+    "value" : "-1000",
+    "toast" : "指定地块减数量"
+  }, {
+    "id" : "campaign_effect_8",
+    "type" : "change_troops_model",
+    "order" : "7",
+    "target" : "troop",
+    "param_1" : "airplane",
+    "toast" : "更改部队模型"
+  }, {
+    "id" : "campaign_effect_9",
+    "type" : "aoe_firepower",
+    "order" : "8",
+    "target" : "node",
+    "param_1" : "buildings",
+    "toast" : "aoe增加攻击力"
+  }, {
+    "id" : "campaign_effect_10",
+    "type" : "change_terrain",
+    "order" : "9",
+    "target" : "node",
+    "target_value" : "campaign_node_13",
+    "param_1" : "1",
+    "param_2" : "png",
+    "toast" : "更改地图图片"
+  }, {
+    "toast" : "效果排序"
+  }, {
+    "toast" : "治疗伤兵顺序"
+  } ]
+}

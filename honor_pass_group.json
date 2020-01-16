@@ -1,0 +1,60 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "season_id" : "season_id@honor_pass_season.id",
+    "next_id" : "next_id@self.id",
+    "iap_special_id" : "iap_special_id@iap_special.id",
+    "name" : "name@string^c",
+    "extra_exp_rate" : "extra_exp_rate@float",
+    "exp_reward" : "exp_reward@int"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "season_id" : "赛季id",
+    "next_id" : "下一级id",
+    "iap_special_id" : "礼包id",
+    "name" : "名称",
+    "extra_exp_rate" : "额外经验加成比例",
+    "exp_reward" : "直接经验奖励"
+  }, {
+    "id" : "honor_pass_group_1_0",
+    "season_id" : "honor_pass_group_1",
+    "next_id" : "honor_pass_group_1_1",
+    "name" : "honor_pass_group_1_0_name",
+    "extra_exp_rate" : "0"
+  }, {
+    "id" : "honor_pass_group_1_1",
+    "season_id" : "honor_pass_group_1",
+    "next_id" : "honor_pass_group_1_2",
+    "iap_special_id" : "iap_honor_pass_2",
+    "name" : "honor_pass_group_1_1_name",
+    "extra_exp_rate" : "0.25",
+    "exp_reward" : "7000"
+  }, {
+    "id" : "honor_pass_group_1_2",
+    "season_id" : "honor_pass_group_1",
+    "iap_special_id" : "iap_honor_pass_3",
+    "name" : "honor_pass_group_1_2_name",
+    "extra_exp_rate" : "0.35",
+    "exp_reward" : "10000"
+  }, {
+    "id" : "honor_pass_group_2_0",
+    "season_id" : "honor_pass_group_2",
+    "next_id" : "honor_pass_group_2_1"
+  }, {
+    "id" : "honor_pass_group_2_1",
+    "season_id" : "honor_pass_group_2",
+    "next_id" : "honor_pass_group_2_2",
+    "iap_special_id" : "iap_honor_pass_2",
+    "name" : "honor_pass_group_1_1_name",
+    "extra_exp_rate" : "0.25",
+    "exp_reward" : "7000"
+  }, {
+    "id" : "honor_pass_group_2_2",
+    "season_id" : "honor_pass_group_2",
+    "iap_special_id" : "iap_honor_pass_3",
+    "name" : "honor_pass_group_1_2_name",
+    "extra_exp_rate" : "0.35",
+    "exp_reward" : "10000"
+  } ]
+}

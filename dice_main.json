@@ -1,0 +1,684 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "group" : "group@dice_group.id",
+    "rank" : "rank@int",
+    "is_score" : "is_score@int",
+    "reward" : "reward@itemlist.id",
+    "number" : "number@int",
+    "refresh_weight" : "refresh_weight@int",
+    "item_weight" : "item_weight@int",
+    "multiple_weight" : "multiple_weight@string"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "group" : "组id",
+    "rank" : "排序",
+    "is_score" : "是否积分",
+    "reward" : "奖励道具id",
+    "number" : "奖励道具数量",
+    "refresh_weight" : "刷新权重",
+    "item_weight" : "道具随机权重",
+    "multiple_weight" : "6个位置的抽出权重"
+  }, {
+    "id" : "dice_group_1_1",
+    "group" : "dice_group_1",
+    "rank" : "1",
+    "is_score" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "refresh_weight" : "1000",
+    "item_weight" : "6000",
+    "multiple_weight" : "24_30_30_10_5_1"
+  }, {
+    "id" : "dice_group_1_2",
+    "group" : "dice_group_1",
+    "rank" : "1",
+    "is_score" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "refresh_weight" : "9000",
+    "item_weight" : "6000",
+    "multiple_weight" : "24_30_30_10_5_1"
+  }, {
+    "id" : "dice_group_1_3",
+    "group" : "dice_group_1",
+    "rank" : "2",
+    "is_score" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "refresh_weight" : "2000",
+    "item_weight" : "1500",
+    "multiple_weight" : "24_30_30_10_5_1"
+  }, {
+    "id" : "dice_group_1_4",
+    "group" : "dice_group_1",
+    "rank" : "2",
+    "is_score" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "refresh_weight" : "8000",
+    "item_weight" : "1500",
+    "multiple_weight" : "24_30_30_10_5_1"
+  }, {
+    "id" : "dice_group_1_5",
+    "group" : "dice_group_1",
+    "rank" : "3",
+    "is_score" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "refresh_weight" : "3000",
+    "item_weight" : "500",
+    "multiple_weight" : "24_30_30_10_5_1"
+  }, {
+    "id" : "dice_group_1_6",
+    "group" : "dice_group_1",
+    "rank" : "3",
+    "is_score" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "refresh_weight" : "7000",
+    "item_weight" : "500",
+    "multiple_weight" : "24_30_30_10_5_1"
+  }, {
+    "id" : "dice_group_1_7",
+    "group" : "dice_group_1",
+    "rank" : "4",
+    "is_score" : "0",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "refresh_weight" : "10000",
+    "item_weight" : "500",
+    "multiple_weight" : "24_30_30_10_5_1"
+  }, {
+    "id" : "dice_group_1_8",
+    "group" : "dice_group_1",
+    "rank" : "4",
+    "is_score" : "0",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "refresh_weight" : "10000",
+    "item_weight" : "500",
+    "multiple_weight" : "24_30_30_10_5_1"
+  }, {
+    "id" : "dice_group_1_9",
+    "group" : "dice_group_1",
+    "rank" : "4",
+    "is_score" : "0",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "refresh_weight" : "10000",
+    "item_weight" : "500",
+    "multiple_weight" : "24_30_30_10_5_1"
+  }, {
+    "id" : "dice_group_1_10",
+    "group" : "dice_group_1",
+    "rank" : "4",
+    "is_score" : "0",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "refresh_weight" : "10000",
+    "item_weight" : "500",
+    "multiple_weight" : "24_30_30_10_5_1"
+  }, {
+    "id" : "dice_group_1_11",
+    "group" : "dice_group_1",
+    "rank" : "4",
+    "is_score" : "0",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "refresh_weight" : "10000",
+    "item_weight" : "500",
+    "multiple_weight" : "24_30_30_10_5_1"
+  }, {
+    "id" : "dice_group_1_12",
+    "group" : "dice_group_1",
+    "rank" : "4",
+    "is_score" : "0",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "refresh_weight" : "10000",
+    "item_weight" : "500",
+    "multiple_weight" : "24_30_30_10_5_1"
+  }, {
+    "id" : "dice_group_1_13",
+    "group" : "dice_group_1",
+    "rank" : "5",
+    "is_score" : "0",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "refresh_weight" : "10000",
+    "item_weight" : "1500",
+    "multiple_weight" : "24_30_30_10_5_1"
+  }, {
+    "id" : "dice_group_1_14",
+    "group" : "dice_group_1",
+    "rank" : "5",
+    "is_score" : "0",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "refresh_weight" : "10000",
+    "item_weight" : "1500",
+    "multiple_weight" : "24_30_30_10_5_1"
+  }, {
+    "id" : "dice_group_1_15",
+    "group" : "dice_group_1",
+    "rank" : "5",
+    "is_score" : "0",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "refresh_weight" : "10000",
+    "item_weight" : "1500",
+    "multiple_weight" : "24_30_30_10_5_1"
+  }, {
+    "id" : "dice_group_1_16",
+    "group" : "dice_group_1",
+    "rank" : "5",
+    "is_score" : "0",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "refresh_weight" : "10000",
+    "item_weight" : "1500",
+    "multiple_weight" : "24_30_30_10_5_1"
+  }, {
+    "id" : "dice_group_1_17",
+    "group" : "dice_group_1",
+    "rank" : "5",
+    "is_score" : "0",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "refresh_weight" : "10000",
+    "item_weight" : "1500",
+    "multiple_weight" : "24_30_30_10_5_1"
+  }, {
+    "id" : "dice_group_1_18",
+    "group" : "dice_group_1",
+    "rank" : "6",
+    "is_score" : "0",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "refresh_weight" : "10000",
+    "item_weight" : "300",
+    "multiple_weight" : "24_30_30_10_5_1"
+  }, {
+    "id" : "dice_group_1_19",
+    "group" : "dice_group_1",
+    "rank" : "6",
+    "is_score" : "0",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "refresh_weight" : "10000",
+    "item_weight" : "300",
+    "multiple_weight" : "24_30_30_10_5_1"
+  }, {
+    "id" : "dice_group_1_20",
+    "group" : "dice_group_1",
+    "rank" : "6",
+    "is_score" : "0",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "refresh_weight" : "10000",
+    "item_weight" : "300",
+    "multiple_weight" : "24_30_30_10_5_1"
+  }, {
+    "id" : "dice_group_1_21",
+    "group" : "dice_group_1",
+    "rank" : "6",
+    "is_score" : "0",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "refresh_weight" : "10000",
+    "item_weight" : "300",
+    "multiple_weight" : "24_30_30_10_5_1"
+  }, {
+    "id" : "dice_group_1_22",
+    "group" : "dice_group_1",
+    "rank" : "6",
+    "is_score" : "0",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "refresh_weight" : "10000",
+    "item_weight" : "300",
+    "multiple_weight" : "24_30_30_10_5_1"
+  }, {
+    "id" : "dice_group_2_1",
+    "group" : "dice_group_2",
+    "rank" : "1",
+    "is_score" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "refresh_weight" : "1000",
+    "item_weight" : "6000",
+    "multiple_weight" : "24_30_30_10_5_1"
+  }, {
+    "id" : "dice_group_2_2",
+    "group" : "dice_group_2",
+    "rank" : "1",
+    "is_score" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "refresh_weight" : "9000",
+    "item_weight" : "6000",
+    "multiple_weight" : "24_30_30_10_5_1"
+  }, {
+    "id" : "dice_group_2_3",
+    "group" : "dice_group_2",
+    "rank" : "2",
+    "is_score" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "refresh_weight" : "2000",
+    "item_weight" : "1500",
+    "multiple_weight" : "24_30_30_10_5_1"
+  }, {
+    "id" : "dice_group_2_4",
+    "group" : "dice_group_2",
+    "rank" : "2",
+    "is_score" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "refresh_weight" : "8000",
+    "item_weight" : "1500",
+    "multiple_weight" : "24_30_30_10_5_1"
+  }, {
+    "id" : "dice_group_2_5",
+    "group" : "dice_group_2",
+    "rank" : "3",
+    "is_score" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "refresh_weight" : "3000",
+    "item_weight" : "500",
+    "multiple_weight" : "24_30_30_10_5_1"
+  }, {
+    "id" : "dice_group_2_6",
+    "group" : "dice_group_2",
+    "rank" : "3",
+    "is_score" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "refresh_weight" : "7000",
+    "item_weight" : "500",
+    "multiple_weight" : "24_30_30_10_5_1"
+  }, {
+    "id" : "dice_group_2_7",
+    "group" : "dice_group_2",
+    "rank" : "4",
+    "is_score" : "0",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "refresh_weight" : "10000",
+    "item_weight" : "500",
+    "multiple_weight" : "24_30_30_10_5_1"
+  }, {
+    "id" : "dice_group_2_8",
+    "group" : "dice_group_2",
+    "rank" : "4",
+    "is_score" : "0",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "refresh_weight" : "10000",
+    "item_weight" : "500",
+    "multiple_weight" : "24_30_30_10_5_1"
+  }, {
+    "id" : "dice_group_2_9",
+    "group" : "dice_group_2",
+    "rank" : "4",
+    "is_score" : "0",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "refresh_weight" : "10000",
+    "item_weight" : "500",
+    "multiple_weight" : "24_30_30_10_5_1"
+  }, {
+    "id" : "dice_group_2_10",
+    "group" : "dice_group_2",
+    "rank" : "4",
+    "is_score" : "0",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "refresh_weight" : "10000",
+    "item_weight" : "500",
+    "multiple_weight" : "24_30_30_10_5_1"
+  }, {
+    "id" : "dice_group_2_11",
+    "group" : "dice_group_2",
+    "rank" : "4",
+    "is_score" : "0",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "refresh_weight" : "10000",
+    "item_weight" : "500",
+    "multiple_weight" : "24_30_30_10_5_1"
+  }, {
+    "id" : "dice_group_2_12",
+    "group" : "dice_group_2",
+    "rank" : "4",
+    "is_score" : "0",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "refresh_weight" : "10000",
+    "item_weight" : "500",
+    "multiple_weight" : "24_30_30_10_5_1"
+  }, {
+    "id" : "dice_group_2_13",
+    "group" : "dice_group_2",
+    "rank" : "5",
+    "is_score" : "0",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "refresh_weight" : "10000",
+    "item_weight" : "1500",
+    "multiple_weight" : "24_30_30_10_5_1"
+  }, {
+    "id" : "dice_group_2_14",
+    "group" : "dice_group_2",
+    "rank" : "5",
+    "is_score" : "0",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "refresh_weight" : "10000",
+    "item_weight" : "1500",
+    "multiple_weight" : "24_30_30_10_5_1"
+  }, {
+    "id" : "dice_group_2_15",
+    "group" : "dice_group_2",
+    "rank" : "5",
+    "is_score" : "0",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "refresh_weight" : "10000",
+    "item_weight" : "1500",
+    "multiple_weight" : "24_30_30_10_5_1"
+  }, {
+    "id" : "dice_group_2_16",
+    "group" : "dice_group_2",
+    "rank" : "5",
+    "is_score" : "0",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "refresh_weight" : "10000",
+    "item_weight" : "1500",
+    "multiple_weight" : "24_30_30_10_5_1"
+  }, {
+    "id" : "dice_group_2_17",
+    "group" : "dice_group_2",
+    "rank" : "5",
+    "is_score" : "0",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "refresh_weight" : "10000",
+    "item_weight" : "1500",
+    "multiple_weight" : "24_30_30_10_5_1"
+  }, {
+    "id" : "dice_group_2_18",
+    "group" : "dice_group_2",
+    "rank" : "6",
+    "is_score" : "0",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "refresh_weight" : "10000",
+    "item_weight" : "300",
+    "multiple_weight" : "24_30_30_10_5_1"
+  }, {
+    "id" : "dice_group_2_19",
+    "group" : "dice_group_2",
+    "rank" : "6",
+    "is_score" : "0",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "refresh_weight" : "10000",
+    "item_weight" : "300",
+    "multiple_weight" : "24_30_30_10_5_1"
+  }, {
+    "id" : "dice_group_2_20",
+    "group" : "dice_group_2",
+    "rank" : "6",
+    "is_score" : "0",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "refresh_weight" : "10000",
+    "item_weight" : "300",
+    "multiple_weight" : "24_30_30_10_5_1"
+  }, {
+    "id" : "dice_group_2_21",
+    "group" : "dice_group_2",
+    "rank" : "6",
+    "is_score" : "0",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "refresh_weight" : "10000",
+    "item_weight" : "300",
+    "multiple_weight" : "24_30_30_10_5_1"
+  }, {
+    "id" : "dice_group_2_22",
+    "group" : "dice_group_2",
+    "rank" : "6",
+    "is_score" : "0",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "refresh_weight" : "10000",
+    "item_weight" : "300",
+    "multiple_weight" : "24_30_30_10_5_1"
+  }, {
+    "id" : "dice_group_3_1",
+    "group" : "dice_group_3",
+    "rank" : "1",
+    "is_score" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "refresh_weight" : "1000",
+    "item_weight" : "6000",
+    "multiple_weight" : "24_30_30_10_5_1"
+  }, {
+    "id" : "dice_group_3_2",
+    "group" : "dice_group_3",
+    "rank" : "1",
+    "is_score" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "refresh_weight" : "9000",
+    "item_weight" : "6000",
+    "multiple_weight" : "24_30_30_10_5_1"
+  }, {
+    "id" : "dice_group_3_3",
+    "group" : "dice_group_3",
+    "rank" : "2",
+    "is_score" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "refresh_weight" : "2000",
+    "item_weight" : "1500",
+    "multiple_weight" : "24_30_30_10_5_1"
+  }, {
+    "id" : "dice_group_3_4",
+    "group" : "dice_group_3",
+    "rank" : "2",
+    "is_score" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "refresh_weight" : "8000",
+    "item_weight" : "1500",
+    "multiple_weight" : "24_30_30_10_5_1"
+  }, {
+    "id" : "dice_group_3_5",
+    "group" : "dice_group_3",
+    "rank" : "3",
+    "is_score" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "refresh_weight" : "3000",
+    "item_weight" : "500",
+    "multiple_weight" : "24_30_30_10_5_1"
+  }, {
+    "id" : "dice_group_3_6",
+    "group" : "dice_group_3",
+    "rank" : "3",
+    "is_score" : "1",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "refresh_weight" : "7000",
+    "item_weight" : "500",
+    "multiple_weight" : "24_30_30_10_5_1"
+  }, {
+    "id" : "dice_group_3_7",
+    "group" : "dice_group_3",
+    "rank" : "4",
+    "is_score" : "0",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "refresh_weight" : "10000",
+    "item_weight" : "500",
+    "multiple_weight" : "24_30_30_10_5_1"
+  }, {
+    "id" : "dice_group_3_8",
+    "group" : "dice_group_3",
+    "rank" : "4",
+    "is_score" : "0",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "refresh_weight" : "10000",
+    "item_weight" : "500",
+    "multiple_weight" : "24_30_30_10_5_1"
+  }, {
+    "id" : "dice_group_3_9",
+    "group" : "dice_group_3",
+    "rank" : "4",
+    "is_score" : "0",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "refresh_weight" : "10000",
+    "item_weight" : "500",
+    "multiple_weight" : "24_30_30_10_5_1"
+  }, {
+    "id" : "dice_group_3_10",
+    "group" : "dice_group_3",
+    "rank" : "4",
+    "is_score" : "0",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "refresh_weight" : "10000",
+    "item_weight" : "500",
+    "multiple_weight" : "24_30_30_10_5_1"
+  }, {
+    "id" : "dice_group_3_11",
+    "group" : "dice_group_3",
+    "rank" : "4",
+    "is_score" : "0",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "refresh_weight" : "10000",
+    "item_weight" : "500",
+    "multiple_weight" : "24_30_30_10_5_1"
+  }, {
+    "id" : "dice_group_3_12",
+    "group" : "dice_group_3",
+    "rank" : "4",
+    "is_score" : "0",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "refresh_weight" : "10000",
+    "item_weight" : "500",
+    "multiple_weight" : "24_30_30_10_5_1"
+  }, {
+    "id" : "dice_group_3_13",
+    "group" : "dice_group_3",
+    "rank" : "5",
+    "is_score" : "0",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "refresh_weight" : "10000",
+    "item_weight" : "1500",
+    "multiple_weight" : "24_30_30_10_5_1"
+  }, {
+    "id" : "dice_group_3_14",
+    "group" : "dice_group_3",
+    "rank" : "5",
+    "is_score" : "0",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "refresh_weight" : "10000",
+    "item_weight" : "1500",
+    "multiple_weight" : "24_30_30_10_5_1"
+  }, {
+    "id" : "dice_group_3_15",
+    "group" : "dice_group_3",
+    "rank" : "5",
+    "is_score" : "0",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "refresh_weight" : "10000",
+    "item_weight" : "1500",
+    "multiple_weight" : "24_30_30_10_5_1"
+  }, {
+    "id" : "dice_group_3_16",
+    "group" : "dice_group_3",
+    "rank" : "5",
+    "is_score" : "0",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "refresh_weight" : "10000",
+    "item_weight" : "1500",
+    "multiple_weight" : "24_30_30_10_5_1"
+  }, {
+    "id" : "dice_group_3_17",
+    "group" : "dice_group_3",
+    "rank" : "5",
+    "is_score" : "0",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "refresh_weight" : "10000",
+    "item_weight" : "1500",
+    "multiple_weight" : "24_30_30_10_5_1"
+  }, {
+    "id" : "dice_group_3_18",
+    "group" : "dice_group_3",
+    "rank" : "6",
+    "is_score" : "0",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "refresh_weight" : "10000",
+    "item_weight" : "300",
+    "multiple_weight" : "24_30_30_10_5_1"
+  }, {
+    "id" : "dice_group_3_19",
+    "group" : "dice_group_3",
+    "rank" : "6",
+    "is_score" : "0",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "refresh_weight" : "10000",
+    "item_weight" : "300",
+    "multiple_weight" : "24_30_30_10_5_1"
+  }, {
+    "id" : "dice_group_3_20",
+    "group" : "dice_group_3",
+    "rank" : "6",
+    "is_score" : "0",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "refresh_weight" : "10000",
+    "item_weight" : "300",
+    "multiple_weight" : "24_30_30_10_5_1"
+  }, {
+    "id" : "dice_group_3_21",
+    "group" : "dice_group_3",
+    "rank" : "6",
+    "is_score" : "0",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "refresh_weight" : "10000",
+    "item_weight" : "300",
+    "multiple_weight" : "24_30_30_10_5_1"
+  }, {
+    "id" : "dice_group_3_22",
+    "group" : "dice_group_3",
+    "rank" : "6",
+    "is_score" : "0",
+    "reward" : "item_gold_1",
+    "number" : "1",
+    "refresh_weight" : "10000",
+    "item_weight" : "300",
+    "multiple_weight" : "24_30_30_10_5_1"
+  } ]
+}

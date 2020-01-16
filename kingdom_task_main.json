@@ -1,0 +1,73 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "kingdom_score_req" : "kingdom_score_req@int",
+    "kingdom_buff_id" : "kingdom_buff_id@kingdom_buff.id",
+    "reward_id_1" : "reward_id_1@itemlist.id",
+    "reward_value_1" : "reward_value_1@int",
+    "reward_id_2" : "reward_id_2@itemlist.id",
+    "reward_value_2" : "reward_value_2@int",
+    "reward_id_3" : "reward_id_3@itemlist.id",
+    "reward_value_3" : "reward_value_3@int",
+    "reward_id_4" : "reward_id_4@itemlist.id",
+    "reward_value_4" : "reward_value_4@int",
+    "reward_id_5" : "reward_id_5@itemlist.id",
+    "reward_value_5" : "reward_value_5@int",
+    "reward_id_6" : "reward_id_6@itemlist.id",
+    "reward_value_6" : "reward_value_6@int",
+    "reward_id_7" : "reward_id_7@itemlist.id",
+    "reward_value_7" : "reward_value_7@int"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "kingdom_score_req" : "王国积分需求",
+    "kingdom_buff_id" : "王国buff_id",
+    "reward_id_1" : "奖励道具id_1",
+    "reward_value_1" : "奖励道具数量_1",
+    "reward_id_2" : "奖励道具id_2",
+    "reward_value_2" : "奖励道具数量_2",
+    "reward_id_3" : "奖励道具id_3",
+    "reward_value_3" : "奖励道具数量_3",
+    "reward_id_4" : "奖励道具id_4",
+    "reward_value_4" : "奖励道具数量_4",
+    "reward_id_5" : "奖励道具id_5",
+    "reward_value_5" : "奖励道具数量_5",
+    "reward_id_6" : "奖励道具id_6",
+    "reward_value_6" : "奖励道具数量_6",
+    "reward_id_7" : "奖励道具id_7",
+    "reward_value_7" : "奖励道具数量_7"
+  }, {
+    "id" : "kingdom_task_1",
+    "kingdom_score_req" : "1000",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "kingdom_task_2",
+    "kingdom_score_req" : "2500",
+    "kingdom_buff_id" : "16",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "kingdom_task_3",
+    "kingdom_score_req" : "4500",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "kingdom_task_4",
+    "kingdom_score_req" : "7000",
+    "kingdom_buff_id" : "17",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "kingdom_task_5",
+    "kingdom_score_req" : "10000",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "kingdom_task_6",
+    "kingdom_score_req" : "15000",
+    "kingdom_buff_id" : "18",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  } ]
+}

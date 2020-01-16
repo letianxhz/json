@@ -1,0 +1,24 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "name" : "name@string",
+    "start_day" : "start_day@int",
+    "is_ranking" : "is_ranking@int",
+    "interval" : "interval@int",
+    "next_id" : "next_id@self.id"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "name" : "名称",
+    "start_day" : "开启日期",
+    "is_ranking" : "是否有排序开关",
+    "interval" : "间隔",
+    "next_id" : "下一活动id"
+  }, {
+    "id" : "alliance_activity_1",
+    "name" : "alliance_activity_1_name",
+    "start_day" : "1",
+    "interval" : "28",
+    "next_id" : "alliance_activity_1"
+  } ]
+}

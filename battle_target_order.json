@@ -1,0 +1,75 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "troop_class_1" : "troop_class_1@string",
+    "troop_class_2" : "troop_class_2@string",
+    "troop_class_3" : "troop_class_3@string",
+    "troop_class_4" : "troop_class_4@string",
+    "troop_class_5" : "troop_class_5@string",
+    "troop_class_6" : "troop_class_6@string",
+    "troop_class_7" : "troop_class_7@string",
+    "troop_class_8" : "troop_class_8@string",
+    "troop_class_9" : "troop_class_9@string",
+    "troop_class_10" : "troop_class_10@string",
+    "troop_class_11" : "troop_class_11@string",
+    "troop_class_12" : "troop_class_12@string"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "troop_class_1" : "部队优先级"
+  }, {
+    "id" : "order_1_1",
+    "troop_class_1" : "class_infantry_spearman",
+    "troop_class_2" : "class_cavalry_heavycavalry",
+    "troop_class_3" : "class_ranged_archer",
+    "troop_class_4" : "class_siege_batteringram"
+  }, {
+    "id" : "order_1_2",
+    "troop_class_1" : "class_infantry_spearman",
+    "troop_class_2" : "class_ranged_archer",
+    "troop_class_3" : "class_siege_batteringram",
+    "troop_class_4" : "class_cavalry_heavycavalry"
+  }, {
+    "id" : "order_1_3",
+    "troop_class_1" : "class_infantry_spearman",
+    "troop_class_2" : "class_siege_batteringram",
+    "troop_class_3" : "class_cavalry_heavycavalry",
+    "troop_class_4" : "class_ranged_archer"
+  }, {
+    "id" : "order_2",
+    "troop_class_1" : "class_ranged_archer",
+    "troop_class_2" : "class_infantry_spearman",
+    "troop_class_3" : "class_cavalry_heavycavalry",
+    "troop_class_4" : "class_siege_batteringram"
+  }, {
+    "id" : "order_3",
+    "troop_class_1" : "class_infantry_spearman",
+    "troop_class_2" : "class_cavalry_heavycavalry",
+    "troop_class_3" : "class_ranged_archer",
+    "troop_class_4" : "class_siege_batteringram"
+  }, {
+    "id" : "order_4",
+    "troop_class_1" : "class_cavalry_heavycavalry",
+    "troop_class_2" : "class_ranged_archer",
+    "troop_class_3" : "class_infantry_spearman",
+    "troop_class_4" : "class_siege_batteringram"
+  }, {
+    "id" : "order_6",
+    "troop_class_1" : "class_siege_batteringram",
+    "troop_class_2" : "class_infantry_spearman",
+    "troop_class_3" : "class_ranged_archer",
+    "troop_class_4" : "class_cavalry_heavycavalry"
+  }, {
+    "id" : "order_7",
+    "troop_class_1" : "class_siege_batteringram",
+    "troop_class_2" : "class_cavalry_heavycavalry",
+    "troop_class_3" : "class_infantry_spearman",
+    "troop_class_4" : "class_ranged_archer"
+  }, {
+    "id" : "order_8",
+    "troop_class_1" : "class_siege_batteringram",
+    "troop_class_2" : "class_ranged_archer",
+    "troop_class_3" : "class_cavalry_heavycavalry",
+    "troop_class_4" : "class_infantry_spearman"
+  } ]
+}

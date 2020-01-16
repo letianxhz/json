@@ -1,0 +1,66 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "season_id" : "season_id@thanksg_pass_season.id",
+    "chest_open_chest_score" : "chest_open_chest_score@int",
+    "reward_id_1" : "reward_id_1@itemlist.id",
+    "reward_value_1" : "reward_value_1@int",
+    "reward_id_2" : "reward_id_2@itemlist.id",
+    "reward_value_2" : "reward_value_2@int",
+    "reward_id_3" : "reward_id_3@itemlist.id",
+    "reward_value_3" : "reward_value_3@int",
+    "reward_id_4" : "reward_id_4@itemlist.id",
+    "reward_value_4" : "reward_value_4@int",
+    "reward_id_5" : "reward_id_5@itemlist.id",
+    "reward_value_5" : "reward_value_5@int",
+    "reward_id_6" : "reward_id_6@itemlist.id",
+    "reward_value_6" : "reward_value_6@int"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "season_id" : "season表id",
+    "chest_open_chest_score" : "打开礼盒档位",
+    "reward_id_1" : "奖励1",
+    "reward_value_1" : "数量1",
+    "reward_id_2" : "奖励2",
+    "reward_value_2" : "数量2",
+    "reward_id_3" : "奖励3",
+    "reward_value_3" : "数量3",
+    "reward_id_4" : "奖励4",
+    "reward_value_4" : "数量4",
+    "reward_id_5" : "奖励5",
+    "reward_value_5" : "数量5",
+    "reward_id_6" : "奖励6",
+    "reward_value_6" : "数量6"
+  }, {
+    "id" : "thanksg_pass_times_group_1_1",
+    "season_id" : "thanksg_pass_group_1",
+    "chest_open_chest_score" : "5",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "thanksg_pass_times_group_1_2",
+    "season_id" : "thanksg_pass_group_1",
+    "chest_open_chest_score" : "15",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "thanksg_pass_times_group_1_3",
+    "season_id" : "thanksg_pass_group_1",
+    "chest_open_chest_score" : "30",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "thanksg_pass_times_group_1_4",
+    "season_id" : "thanksg_pass_group_1",
+    "chest_open_chest_score" : "60",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "thanksg_pass_times_group_1_5",
+    "season_id" : "thanksg_pass_group_1",
+    "chest_open_chest_score" : "100",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  } ]
+}

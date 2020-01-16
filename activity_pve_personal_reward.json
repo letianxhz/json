@@ -1,0 +1,135 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "activity_id" : "activity_id@activity_pve_main.id",
+    "rank_level" : "rank_level@int",
+    "rank_score" : "rank_score@int",
+    "reward_id_1" : "reward_id_1@itemlist.id",
+    "reward_value_1" : "reward_value_1@int",
+    "reward_id_2" : "reward_id_2@itemlist.id",
+    "reward_value_2" : "reward_value_2@int",
+    "reward_id_3" : "reward_id_3@itemlist.id",
+    "reward_value_3" : "reward_value_3@int",
+    "reward_id_4" : "reward_id_4@itemlist.id",
+    "reward_value_4" : "reward_value_4@int"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "activity_id" : "活动id",
+    "rank_level" : "档位序号",
+    "rank_score" : "档位积分",
+    "reward_id_1" : "奖励道具1",
+    "reward_value_1" : "奖励数量1",
+    "reward_id_2" : "奖励道具2",
+    "reward_value_2" : "奖励数量2",
+    "reward_id_3" : "奖励道具3",
+    "reward_value_3" : "奖励数量3",
+    "reward_id_4" : "奖励道具4",
+    "reward_value_4" : "奖励数量4"
+  }, {
+    "id" : "1",
+    "activity_id" : "activity_pve_1",
+    "rank_level" : "1",
+    "rank_score" : "200",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "2",
+    "activity_id" : "activity_pve_1",
+    "rank_level" : "2",
+    "rank_score" : "700",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "3",
+    "activity_id" : "activity_pve_1",
+    "rank_level" : "3",
+    "rank_score" : "1200",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "4",
+    "activity_id" : "activity_pve_1",
+    "rank_level" : "4",
+    "rank_score" : "1800",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "5",
+    "activity_id" : "activity_pve_1",
+    "rank_level" : "5",
+    "rank_score" : "2500",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "6",
+    "activity_id" : "activity_pve_2",
+    "rank_level" : "1",
+    "rank_score" : "200",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "7",
+    "activity_id" : "activity_pve_2",
+    "rank_level" : "2",
+    "rank_score" : "700",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "8",
+    "activity_id" : "activity_pve_2",
+    "rank_level" : "3",
+    "rank_score" : "1200",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "9",
+    "activity_id" : "activity_pve_2",
+    "rank_level" : "4",
+    "rank_score" : "1800",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "10",
+    "activity_id" : "activity_pve_2",
+    "rank_level" : "5",
+    "rank_score" : "2500",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "11",
+    "activity_id" : "activity_pve_christmas",
+    "rank_level" : "1",
+    "rank_score" : "200",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "12",
+    "activity_id" : "activity_pve_christmas",
+    "rank_level" : "2",
+    "rank_score" : "700",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "13",
+    "activity_id" : "activity_pve_christmas",
+    "rank_level" : "3",
+    "rank_score" : "1200",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "14",
+    "activity_id" : "activity_pve_christmas",
+    "rank_level" : "4",
+    "rank_score" : "1800",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "15",
+    "activity_id" : "activity_pve_christmas",
+    "rank_level" : "5",
+    "rank_score" : "2500",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  } ]
+}

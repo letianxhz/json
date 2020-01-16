@@ -1,0 +1,64 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "question" : "question@string",
+    "correct" : "correct@int",
+    "option_1" : "option_1@string",
+    "option_2" : "option_2@string",
+    "option_3" : "option_3@string",
+    "option_4" : "option_4@string",
+    "option_5" : "option_5@string",
+    "option_6" : "option_6@string",
+    "option_7" : "option_7@string",
+    "option_8" : "option_8@string",
+    "option_9" : "option_9@string",
+    "option_10" : "option_10@string"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "question" : "问题",
+    "correct" : "正确选项\n对应后续选项\n-1为全部正确",
+    "option_1" : "选项1（用于放正确选项）",
+    "option_2" : "选项2",
+    "option_3" : "选项3",
+    "option_4" : "选项4",
+    "option_5" : "选项5",
+    "option_6" : "选项6",
+    "option_7" : "选项7",
+    "option_8" : "选项8",
+    "option_9" : "选项9",
+    "option_10" : "选项10"
+  }, {
+    "id" : "1",
+    "question" : "questionnaire_question_1",
+    "correct" : "1",
+    "option_1" : "questionnaire_option_1_1",
+    "option_2" : "questionnaire_option_1_2",
+    "option_3" : "questionnaire_option_1_3",
+    "option_4" : "questionnaire_option_1_4"
+  }, {
+    "id" : "2",
+    "question" : "questionnaire_question_2",
+    "correct" : "1",
+    "option_1" : "questionnaire_option_2_1",
+    "option_2" : "questionnaire_option_2_2",
+    "option_3" : "questionnaire_option_2_3",
+    "option_4" : "questionnaire_option_2_4"
+  }, {
+    "id" : "3",
+    "question" : "questionnaire_question_3",
+    "correct" : "1",
+    "option_1" : "questionnaire_option_3_1",
+    "option_2" : "questionnaire_option_3_2",
+    "option_3" : "questionnaire_option_3_3",
+    "option_4" : "questionnaire_option_3_4"
+  }, {
+    "id" : "4",
+    "question" : "questionnaire_question_4",
+    "correct" : "1",
+    "option_1" : "questionnaire_option_4_1",
+    "option_2" : "questionnaire_option_4_2",
+    "option_3" : "questionnaire_option_4_3",
+    "option_4" : "questionnaire_option_4_4"
+  } ]
+}

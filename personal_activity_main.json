@@ -1,0 +1,49 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "is_use" : "is_use@int",
+    "activity_id" : "activity_id@activity_main.id",
+    "type" : "type@string",
+    "param1" : "param1@string[]",
+    "param2" : "param2@string[]",
+    "name" : "name@string",
+    "description" : "description@string"
+  },
+  "rows" : [ {
+    "id" : "子活动id",
+    "is_use" : "是否开启",
+    "activity_id" : "所属父活动id",
+    "type" : "类别",
+    "param1" : "参数1",
+    "param2" : "参数2",
+    "name" : "标题",
+    "description" : "描述"
+  }, {
+    "id" : "activity_personal_building_1",
+    "is_use" : "1",
+    "activity_id" : "activity_personal_1",
+    "type" : "building",
+    "param1" : "1",
+    "param2" : "2",
+    "name" : "personal_building_title",
+    "description" : "personal_building_description"
+  }, {
+    "id" : "activity_personal_research_1",
+    "is_use" : "1",
+    "activity_id" : "activity_personal_1",
+    "type" : "research",
+    "param1" : "1",
+    "param2" : "8",
+    "name" : "personal_research_title",
+    "description" : "personal_research_description"
+  }, {
+    "id" : "activity_personal_training_1",
+    "is_use" : "1",
+    "activity_id" : "activity_personal_1",
+    "type" : "training",
+    "param1" : "1,2,3,4,5,6,7,8,9,10,11,12",
+    "param2" : "6,8,10,14,18,24,30,37,48,70,92,130",
+    "name" : "personal_training_title",
+    "description" : "personal_training_description"
+  } ]
+}

@@ -1,0 +1,44 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "type" : "type@string",
+    "priority" : "priority@string",
+    "name" : "name@string"
+  },
+  "rows" : [ {
+    "id" : "主key",
+    "type" : "功能id",
+    "priority" : "页签排序",
+    "name" : "页签名字"
+  }, {
+    "id" : "1",
+    "type" : "iap_recommend",
+    "priority" : "1",
+    "name" : "iap_daily_gift_pack_super_name"
+  }, {
+    "id" : "2",
+    "type" : "iap_daily_recharge",
+    "priority" : "3",
+    "name" : "iap_daily_pack_name"
+  }, {
+    "id" : "3",
+    "type" : "iap_month",
+    "priority" : "4",
+    "name" : "event_daily_delivery_title"
+  }, {
+    "id" : "4",
+    "type" : "iap_growth_fund",
+    "priority" : "5",
+    "name" : "event_growth_fund_title"
+  }, {
+    "id" : "5",
+    "type" : "iap_subscribe",
+    "priority" : "6",
+    "name" : "id_subscription"
+  }, {
+    "id" : "6",
+    "type" : "iap_gold",
+    "priority" : "7",
+    "name" : "iap_gold_store_name"
+  } ]
+}

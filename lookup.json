@@ -1,0 +1,181 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "type" : "type@string",
+    "loc_id" : "loc_id@string^c",
+    "image" : "image@string^c",
+    "" : "",
+    "lookup_type" : "lookup_type@string^p",
+    "resource_type" : "resource_type@string^p"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "type" : "类型",
+    "loc_id" : "名称",
+    "image" : "图片",
+    "lookup_type" : "查找类型",
+    "resource_type" : "资源类型"
+  }, {
+    "id" : "food",
+    "type" : "resource",
+    "loc_id" : "food",
+    "image" : "food_icon",
+    "lookup_type" : "none",
+    "resource_type" : "food"
+  }, {
+    "id" : "wood",
+    "type" : "resource",
+    "loc_id" : "wood",
+    "image" : "wood_icon",
+    "lookup_type" : "resource",
+    "resource_type" : "wood"
+  }, {
+    "id" : "ore",
+    "type" : "resource",
+    "loc_id" : "ore",
+    "image" : "ore_icon",
+    "lookup_type" : "unit_class",
+    "resource_type" : "ore"
+  }, {
+    "id" : "silver",
+    "type" : "resource",
+    "loc_id" : "silver",
+    "image" : "silver_icon",
+    "lookup_type" : "building_class",
+    "resource_type" : "silver"
+  }, {
+    "id" : "class_hero",
+    "type" : "unit_class",
+    "lookup_type" : "property"
+  }, {
+    "id" : "class_troop_infantry",
+    "type" : "unit_class"
+  }, {
+    "id" : "class_troop_ranged",
+    "type" : "unit_class"
+  }, {
+    "id" : "class_troop_cavalry",
+    "type" : "unit_class"
+  }, {
+    "id" : "class_troop_mage",
+    "type" : "unit_class"
+  }, {
+    "id" : "class_troop_siege",
+    "type" : "unit_class"
+  }, {
+    "id" : "class_defense_infantry",
+    "type" : "unit_class"
+  }, {
+    "id" : "class_defense_ranged",
+    "type" : "unit_class"
+  }, {
+    "id" : "class_defense_cavalry",
+    "type" : "unit_class"
+  }, {
+    "id" : "class_defense_artynear",
+    "type" : "unit_class"
+  }, {
+    "id" : "class_defense_brick",
+    "type" : "unit_class"
+  }, {
+    "id" : "class_monster_boss",
+    "type" : "unit_class"
+  }, {
+    "id" : "class_monster_01",
+    "type" : "unit_class"
+  }, {
+    "id" : "class_monster_02",
+    "type" : "unit_class"
+  }, {
+    "id" : "class_monster_03",
+    "type" : "unit_class"
+  }, {
+    "id" : "class_monster_04",
+    "type" : "unit_class"
+  }, {
+    "id" : "class_monster_05",
+    "type" : "unit_class"
+  }, {
+    "id" : "class_monster_06",
+    "type" : "unit_class"
+  }, {
+    "id" : "class_monster_07",
+    "type" : "unit_class"
+  }, {
+    "id" : "class_monster_08",
+    "type" : "unit_class"
+  }, {
+    "id" : "class_monster_09",
+    "type" : "unit_class"
+  }, {
+    "id" : "class_monster_10",
+    "type" : "unit_class"
+  }, {
+    "id" : "class_monster_11",
+    "type" : "unit_class"
+  }, {
+    "id" : "class_monster_12",
+    "type" : "unit_class"
+  }, {
+    "id" : "class_farm",
+    "type" : "building_class"
+  }, {
+    "id" : "class_lumber_mill",
+    "type" : "building_class"
+  }, {
+    "id" : "class_mine",
+    "type" : "building_class"
+  }, {
+    "id" : "class_stronghold",
+    "type" : "building_class"
+  }, {
+    "id" : "class_walls",
+    "type" : "building_class"
+  }, {
+    "id" : "class_pve_portal",
+    "type" : "building_class"
+  }, {
+    "id" : "class_house",
+    "type" : "building_class"
+  }, {
+    "id" : "class_barracks",
+    "type" : "building_class"
+  }, {
+    "id" : "class_hospital",
+    "type" : "building_class"
+  }, {
+    "id" : "class_storehouse",
+    "type" : "building_class"
+  }, {
+    "id" : "class_university",
+    "type" : "building_class"
+  }, {
+    "id" : "class_forge",
+    "type" : "building_class"
+  }, {
+    "id" : "class_watchtower",
+    "type" : "building_class"
+  }, {
+    "id" : "class_marketplace",
+    "type" : "building_class"
+  }, {
+    "id" : "class_embassy",
+    "type" : "building_class"
+  }, {
+    "id" : "class_war_rally",
+    "type" : "building_class"
+  }, {
+    "id" : "class_prison",
+    "type" : "building_class"
+  }, {
+    "id" : "xp",
+    "type" : "property",
+    "loc_id" : "xp",
+    "image" : "xp_icon"
+  }, {
+    "id" : "currency",
+    "type" : "property",
+    "loc_id" : "currency",
+    "image" : "store_icon"
+  } ]
+}

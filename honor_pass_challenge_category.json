@@ -1,0 +1,104 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "local_key" : "local_key@string^c",
+    "icon" : "icon@string",
+    "remark" : "remark@string^p"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "local_key" : "多语言key",
+    "icon" : "图标",
+    "remark" : "备注"
+  }, {
+    "id" : "alliance_donate",
+    "local_key" : "honor_pass_challenge_category_alliance_donate",
+    "icon" : "honor_pass_challenge_category_alliance_donate",
+    "remark" : "联盟捐献"
+  }, {
+    "id" : "alliance_help",
+    "local_key" : "honor_pass_challenge_category_alliance_help",
+    "icon" : "honor_pass_challenge_category_alliance_help",
+    "remark" : "帮助盟友"
+  }, {
+    "id" : "npc_store",
+    "local_key" : "honor_pass_challenge_category_npc_store",
+    "icon" : "honor_pass_challenge_category_npc_store",
+    "remark" : "市集"
+  }, {
+    "id" : "gather_resource",
+    "local_key" : "honor_pass_challenge_category_gather_resource",
+    "icon" : "honor_pass_challenge_category_gather_resource",
+    "remark" : "采集资源"
+  }, {
+    "id" : "use_lord_spirit",
+    "local_key" : "honor_pass_challenge_category_use_lord_spirit",
+    "icon" : "honor_pass_challenge_category_use_lord_spirit",
+    "remark" : "使用领主体力"
+  }, {
+    "id" : "use_dk_stamina",
+    "local_key" : "honor_pass_challenge_category_use_dk_stamina",
+    "icon" : "honor_pass_challenge_category_use_dk_stamina",
+    "remark" : "使用龙魂耐力"
+  }, {
+    "id" : "train_troops",
+    "local_key" : "honor_pass_challenge_category_train_troops",
+    "icon" : "honor_pass_challenge_category_train_troops",
+    "remark" : "训练部队"
+  }, {
+    "id" : "use_speedups",
+    "local_key" : "honor_pass_challenge_category_use_speedups",
+    "icon" : "honor_pass_challenge_category_use_speedups",
+    "remark" : "使用加速道具"
+  }, {
+    "id" : "help_sacrifice",
+    "local_key" : "honor_pass_challenge_category_help_sacrifice",
+    "icon" : "honor_pass_challenge_category_help_sacrifice",
+    "remark" : "帮助祭祀"
+  }, {
+    "id" : "magic_tower_gather",
+    "local_key" : "honor_pass_challenge_category_magic_tower_gather",
+    "icon" : "honor_pass_challenge_category_magic_tower_gather",
+    "remark" : "秘法塔采集"
+  }, {
+    "id" : "collect_timer_chest",
+    "local_key" : "honor_pass_challenge_category_collect_timer_chest",
+    "icon" : "honor_pass_challenge_category_collect_timer_chest",
+    "remark" : "收集礼物"
+  }, {
+    "id" : "open_alliance_chest",
+    "local_key" : "honor_pass_challenge_category_open_alliance_chest",
+    "icon" : "honor_pass_challenge_category_open_alliance_chest",
+    "remark" : "开启联盟宝箱"
+  }, {
+    "id" : "roguelike_stamina",
+    "local_key" : "honor_pass_challenge_category_roguelike_stamina",
+    "icon" : "honor_pass_challenge_category_roguelike_stamina",
+    "remark" : "roguelike消耗体力"
+  }, {
+    "id" : "alliance_boss",
+    "local_key" : "honor_pass_challenge_category_alliance_boss",
+    "icon" : "honor_pass_challenge_category_alliance_boss",
+    "remark" : "传送门"
+  }, {
+    "id" : "abyss",
+    "local_key" : "honor_pass_challenge_category_abyss",
+    "icon" : "honor_pass_challenge_category_abyss",
+    "remark" : "深渊"
+  }, {
+    "id" : "kingdom_boss",
+    "local_key" : "honor_pass_challenge_category_kingdom_boss",
+    "icon" : "honor_pass_challenge_category_kingdom_boss",
+    "remark" : "世界boss"
+  }, {
+    "id" : "fallen_knight",
+    "local_key" : "honor_pass_challenge_category_fallen_knight",
+    "icon" : "honor_pass_challenge_category_fallen_knight",
+    "remark" : "堕落骑士"
+  }, {
+    "id" : "alliance_warfare",
+    "local_key" : "honor_pass_challenge_category_alliance_warfare",
+    "icon" : "honor_pass_challenge_category_alliance_warfare",
+    "remark" : "联盟战"
+  } ]
+}

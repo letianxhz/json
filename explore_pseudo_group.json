@@ -1,0 +1,69 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "times_weight_type" : "times_weight_type@bool",
+    "pool" : "pool@explore_pseudo_pool.id",
+    "appear_times" : "appear_times@int"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "times_weight_type" : "次数权重类型： \n1-不同次数生效权重不一样\n0-不同次数生效权重一致",
+    "pool" : "所属伪随机池",
+    "appear_times" : "生效次数"
+  }, {
+    "id" : "explore_pseudo_group_equip_chest_1",
+    "times_weight_type" : "1",
+    "pool" : "explore_pseudo_pool_equip_chest",
+    "appear_times" : "6"
+  }, {
+    "id" : "explore_pseudo_group_equip_chest_2",
+    "times_weight_type" : "1",
+    "pool" : "explore_pseudo_pool_equip_chest",
+    "appear_times" : "6"
+  }, {
+    "id" : "explore_pseudo_group_equip_chest_3",
+    "times_weight_type" : "1",
+    "pool" : "explore_pseudo_pool_equip_chest",
+    "appear_times" : "6"
+  }, {
+    "id" : "explore_pseudo_group_equip_chest_4",
+    "times_weight_type" : "1",
+    "pool" : "explore_pseudo_pool_equip_chest",
+    "appear_times" : "6"
+  }, {
+    "id" : "explore_pseudo_group_equip_chest_5",
+    "times_weight_type" : "1",
+    "pool" : "explore_pseudo_pool_equip_chest",
+    "appear_times" : "6"
+  }, {
+    "id" : "explore_pseudo_pool_equip_chest_special_1",
+    "times_weight_type" : "0",
+    "pool" : "explore_pseudo_pool_equip_chest_special",
+    "appear_times" : "1"
+  }, {
+    "id" : "activity_explore_pseudo_group_equip_chest_1",
+    "times_weight_type" : "1",
+    "pool" : "activity_explore_pseudo_pool_equip_chest",
+    "appear_times" : "4"
+  }, {
+    "id" : "activity_explore_pseudo_group_equip_chest_2",
+    "times_weight_type" : "1",
+    "pool" : "activity_explore_pseudo_pool_equip_chest",
+    "appear_times" : "4"
+  }, {
+    "id" : "activity_explore_pseudo_group_equip_chest_3",
+    "times_weight_type" : "1",
+    "pool" : "activity_explore_pseudo_pool_equip_chest",
+    "appear_times" : "4"
+  }, {
+    "id" : "activity_explore_pseudo_group_equip_chest_4",
+    "times_weight_type" : "1",
+    "pool" : "activity_explore_pseudo_pool_equip_chest",
+    "appear_times" : "4"
+  }, {
+    "id" : "activity_explore_pseudo_group_equip_chest_5",
+    "times_weight_type" : "1",
+    "pool" : "activity_explore_pseudo_pool_equip_chest",
+    "appear_times" : "4"
+  } ]
+}

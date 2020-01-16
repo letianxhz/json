@@ -1,0 +1,31 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "default_week" : "default_week@int"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "default_week" : "默认开启日期"
+  }, {
+    "id" : "integral_config_1",
+    "default_week" : "1"
+  }, {
+    "id" : "integral_config_2",
+    "default_week" : "2"
+  }, {
+    "id" : "integral_config_3",
+    "default_week" : "3"
+  }, {
+    "id" : "integral_config_4",
+    "default_week" : "4"
+  }, {
+    "id" : "integral_config_5",
+    "default_week" : "5"
+  }, {
+    "id" : "integral_config_6",
+    "default_week" : "6"
+  }, {
+    "id" : "integral_config_7",
+    "default_week" : "0"
+  } ]
+}

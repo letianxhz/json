@@ -1,0 +1,374 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "suit" : "suit@explore_equip_suit.id",
+    "star" : "star@int",
+    "type_num" : "type_num@int",
+    "benefit_for_explore_id_1" : "benefit_for_explore_id_1@benefits.id",
+    "benefit_for_explore_value_1" : "benefit_for_explore_value_1@float",
+    "benefit_for_explore_id_2" : "benefit_for_explore_id_2@benefits.id",
+    "benefit_for_explore_value_2" : "benefit_for_explore_value_2@float",
+    "explore_skill_id_1" : "explore_skill_id_1@explore_skill.id",
+    "explore_skill_id_2" : "explore_skill_id_2@explore_skill.id"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "suit" : "套装组",
+    "star" : "星数",
+    "type_num" : "部位个数",
+    "benefit_for_explore_id_1" : "benefit1_id",
+    "benefit_for_explore_value_1" : "benefit1_value",
+    "benefit_for_explore_id_2" : "benefit2_id",
+    "benefit_for_explore_value_2" : "benefit2_value",
+    "explore_skill_id_1" : "技能1",
+    "explore_skill_id_2" : "技能2"
+  }, {
+    "id" : "explore_item_equip_1_1",
+    "suit" : "explore_item_equip_1",
+    "star" : "1",
+    "type_num" : "2",
+    "benefit_for_explore_id_1" : "prop_explore_attack_percent",
+    "benefit_for_explore_value_1" : "0.0432"
+  }, {
+    "id" : "explore_item_equip_1_2",
+    "suit" : "explore_item_equip_1",
+    "star" : "2",
+    "type_num" : "2",
+    "benefit_for_explore_id_1" : "prop_explore_attack_percent",
+    "benefit_for_explore_value_1" : "0.09680000000000001",
+    "benefit_for_explore_id_2" : "prop_explore_hp_percent",
+    "benefit_for_explore_value_2" : "0.0053"
+  }, {
+    "id" : "explore_item_equip_1_3",
+    "suit" : "explore_item_equip_1",
+    "star" : "3",
+    "type_num" : "2",
+    "benefit_for_explore_id_1" : "prop_explore_attack_percent",
+    "benefit_for_explore_value_1" : "0.1322",
+    "benefit_for_explore_id_2" : "prop_explore_hp_percent",
+    "benefit_for_explore_value_2" : "0.0572"
+  }, {
+    "id" : "explore_item_equip_1_4",
+    "suit" : "explore_item_equip_1",
+    "star" : "4",
+    "type_num" : "2",
+    "benefit_for_explore_id_1" : "prop_explore_attack_percent",
+    "benefit_for_explore_value_1" : "0.1743",
+    "benefit_for_explore_id_2" : "prop_explore_hp_percent",
+    "benefit_for_explore_value_2" : "0.1188"
+  }, {
+    "id" : "explore_item_equip_1_5",
+    "suit" : "explore_item_equip_1",
+    "star" : "5",
+    "type_num" : "2",
+    "benefit_for_explore_id_1" : "prop_explore_attack_percent",
+    "benefit_for_explore_value_1" : "0.2243",
+    "benefit_for_explore_id_2" : "prop_explore_hp_percent",
+    "benefit_for_explore_value_2" : "0.192"
+  }, {
+    "id" : "explore_item_equip_2_1",
+    "suit" : "explore_item_equip_2",
+    "star" : "1",
+    "type_num" : "2",
+    "benefit_for_explore_id_1" : "prop_explore_attack_percent",
+    "benefit_for_explore_value_1" : "0.0432"
+  }, {
+    "id" : "explore_item_equip_2_2",
+    "suit" : "explore_item_equip_2",
+    "star" : "2",
+    "type_num" : "2",
+    "benefit_for_explore_id_1" : "prop_explore_attack_percent",
+    "benefit_for_explore_value_1" : "0.1004"
+  }, {
+    "id" : "explore_item_equip_2_3",
+    "suit" : "explore_item_equip_2",
+    "star" : "3",
+    "type_num" : "2",
+    "benefit_for_explore_id_1" : "prop_explore_attack_percent",
+    "benefit_for_explore_value_1" : "0.1768"
+  }, {
+    "id" : "explore_item_equip_2_4",
+    "suit" : "explore_item_equip_2",
+    "star" : "4",
+    "type_num" : "2",
+    "benefit_for_explore_id_1" : "prop_explore_attack_percent",
+    "benefit_for_explore_value_1" : "0.2565",
+    "benefit_for_explore_id_2" : "prop_explore_hp_percent",
+    "benefit_for_explore_value_2" : "0.0211"
+  }, {
+    "id" : "explore_item_equip_2_5",
+    "suit" : "explore_item_equip_2",
+    "star" : "5",
+    "type_num" : "2",
+    "benefit_for_explore_id_1" : "prop_explore_attack_percent",
+    "benefit_for_explore_value_1" : "0.3181",
+    "benefit_for_explore_id_2" : "prop_explore_hp_percent",
+    "benefit_for_explore_value_2" : "0.0805"
+  }, {
+    "id" : "explore_item_equip_3_1",
+    "suit" : "explore_item_equip_3",
+    "star" : "1",
+    "type_num" : "2",
+    "benefit_for_explore_id_2" : "prop_explore_hp_percent",
+    "benefit_for_explore_value_2" : "0.0432"
+  }, {
+    "id" : "explore_item_equip_3_2",
+    "suit" : "explore_item_equip_3",
+    "star" : "2",
+    "type_num" : "2",
+    "benefit_for_explore_id_2" : "prop_explore_hp_percent",
+    "benefit_for_explore_value_2" : "0.1004"
+  }, {
+    "id" : "explore_item_equip_3_3",
+    "suit" : "explore_item_equip_3",
+    "star" : "3",
+    "type_num" : "2",
+    "benefit_for_explore_id_2" : "prop_explore_hp_percent",
+    "benefit_for_explore_value_2" : "0.1768"
+  }, {
+    "id" : "explore_item_equip_3_4",
+    "suit" : "explore_item_equip_3",
+    "star" : "4",
+    "type_num" : "2",
+    "benefit_for_explore_id_1" : "prop_explore_attack_percent",
+    "benefit_for_explore_value_1" : "0.0519",
+    "benefit_for_explore_id_2" : "prop_explore_hp_percent",
+    "benefit_for_explore_value_2" : "0.2267"
+  }, {
+    "id" : "explore_item_equip_3_5",
+    "suit" : "explore_item_equip_3",
+    "star" : "5",
+    "type_num" : "2",
+    "benefit_for_explore_id_1" : "prop_explore_attack_percent",
+    "benefit_for_explore_value_1" : "0.1157",
+    "benefit_for_explore_id_2" : "prop_explore_hp_percent",
+    "benefit_for_explore_value_2" : "0.2841"
+  }, {
+    "id" : "explore_item_equip_4_1",
+    "suit" : "explore_item_equip_4",
+    "star" : "1",
+    "type_num" : "2",
+    "benefit_for_explore_id_2" : "prop_explore_hp_percent",
+    "benefit_for_explore_value_2" : "0.0432"
+  }, {
+    "id" : "explore_item_equip_4_2",
+    "suit" : "explore_item_equip_4",
+    "star" : "2",
+    "type_num" : "2",
+    "benefit_for_explore_id_1" : "prop_explore_attack_percent",
+    "benefit_for_explore_value_1" : "0.0198",
+    "benefit_for_explore_id_2" : "prop_explore_hp_percent",
+    "benefit_for_explore_value_2" : "0.0872"
+  }, {
+    "id" : "explore_item_equip_4_3",
+    "suit" : "explore_item_equip_4",
+    "star" : "3",
+    "type_num" : "2",
+    "benefit_for_explore_id_1" : "prop_explore_attack_percent",
+    "benefit_for_explore_value_1" : "0.0736",
+    "benefit_for_explore_id_2" : "prop_explore_hp_percent",
+    "benefit_for_explore_value_2" : "0.1214"
+  }, {
+    "id" : "explore_item_equip_4_4",
+    "suit" : "explore_item_equip_4",
+    "star" : "4",
+    "type_num" : "2",
+    "benefit_for_explore_id_1" : "prop_explore_attack_percent",
+    "benefit_for_explore_value_1" : "0.1374",
+    "benefit_for_explore_id_2" : "prop_explore_hp_percent",
+    "benefit_for_explore_value_2" : "0.162"
+  }, {
+    "id" : "explore_item_equip_4_5",
+    "suit" : "explore_item_equip_4",
+    "star" : "5",
+    "type_num" : "2",
+    "benefit_for_explore_id_1" : "prop_explore_attack_percent",
+    "benefit_for_explore_value_1" : "0.2133",
+    "benefit_for_explore_id_2" : "prop_explore_hp_percent",
+    "benefit_for_explore_value_2" : "0.2103"
+  }, {
+    "id" : "explore_item_equip_1_6",
+    "suit" : "explore_item_equip_1",
+    "star" : "1",
+    "type_num" : "4",
+    "benefit_for_explore_id_1" : "prop_explore_attack_percent",
+    "benefit_for_explore_value_1" : "0.0432",
+    "explore_skill_id_1" : "equip_suit_1_1"
+  }, {
+    "id" : "explore_item_equip_1_7",
+    "suit" : "explore_item_equip_1",
+    "star" : "2",
+    "type_num" : "4",
+    "benefit_for_explore_id_1" : "prop_explore_attack_percent",
+    "benefit_for_explore_value_1" : "0.09680000000000001",
+    "benefit_for_explore_id_2" : "prop_explore_hp_percent",
+    "benefit_for_explore_value_2" : "0.0053",
+    "explore_skill_id_1" : "equip_suit_1_2"
+  }, {
+    "id" : "explore_item_equip_1_8",
+    "suit" : "explore_item_equip_1",
+    "star" : "3",
+    "type_num" : "4",
+    "benefit_for_explore_id_1" : "prop_explore_attack_percent",
+    "benefit_for_explore_value_1" : "0.1322",
+    "benefit_for_explore_id_2" : "prop_explore_hp_percent",
+    "benefit_for_explore_value_2" : "0.0572",
+    "explore_skill_id_1" : "equip_suit_1_3"
+  }, {
+    "id" : "explore_item_equip_1_9",
+    "suit" : "explore_item_equip_1",
+    "star" : "4",
+    "type_num" : "4",
+    "benefit_for_explore_id_1" : "prop_explore_attack_percent",
+    "benefit_for_explore_value_1" : "0.1743",
+    "benefit_for_explore_id_2" : "prop_explore_hp_percent",
+    "benefit_for_explore_value_2" : "0.1188",
+    "explore_skill_id_1" : "equip_suit_1_4"
+  }, {
+    "id" : "explore_item_equip_1_10",
+    "suit" : "explore_item_equip_1",
+    "star" : "5",
+    "type_num" : "4",
+    "benefit_for_explore_id_1" : "prop_explore_attack_percent",
+    "benefit_for_explore_value_1" : "0.2243",
+    "benefit_for_explore_id_2" : "prop_explore_hp_percent",
+    "benefit_for_explore_value_2" : "0.192",
+    "explore_skill_id_1" : "equip_suit_1_5"
+  }, {
+    "id" : "explore_item_equip_2_6",
+    "suit" : "explore_item_equip_2",
+    "star" : "1",
+    "type_num" : "4",
+    "benefit_for_explore_id_1" : "prop_explore_attack_percent",
+    "benefit_for_explore_value_1" : "0.0432",
+    "explore_skill_id_1" : "equip_suit_2_1"
+  }, {
+    "id" : "explore_item_equip_2_7",
+    "suit" : "explore_item_equip_2",
+    "star" : "2",
+    "type_num" : "4",
+    "benefit_for_explore_id_1" : "prop_explore_attack_percent",
+    "benefit_for_explore_value_1" : "0.1004",
+    "explore_skill_id_1" : "equip_suit_2_2"
+  }, {
+    "id" : "explore_item_equip_2_8",
+    "suit" : "explore_item_equip_2",
+    "star" : "3",
+    "type_num" : "4",
+    "benefit_for_explore_id_1" : "prop_explore_attack_percent",
+    "benefit_for_explore_value_1" : "0.1768",
+    "explore_skill_id_1" : "equip_suit_2_3"
+  }, {
+    "id" : "explore_item_equip_2_9",
+    "suit" : "explore_item_equip_2",
+    "star" : "4",
+    "type_num" : "4",
+    "benefit_for_explore_id_1" : "prop_explore_attack_percent",
+    "benefit_for_explore_value_1" : "0.2565",
+    "benefit_for_explore_id_2" : "prop_explore_hp_percent",
+    "benefit_for_explore_value_2" : "0.0211",
+    "explore_skill_id_1" : "equip_suit_2_4"
+  }, {
+    "id" : "explore_item_equip_2_10",
+    "suit" : "explore_item_equip_2",
+    "star" : "5",
+    "type_num" : "4",
+    "benefit_for_explore_id_1" : "prop_explore_attack_percent",
+    "benefit_for_explore_value_1" : "0.3181",
+    "benefit_for_explore_id_2" : "prop_explore_hp_percent",
+    "benefit_for_explore_value_2" : "0.0805",
+    "explore_skill_id_1" : "equip_suit_2_5"
+  }, {
+    "id" : "explore_item_equip_3_6",
+    "suit" : "explore_item_equip_3",
+    "star" : "1",
+    "type_num" : "4",
+    "benefit_for_explore_id_2" : "prop_explore_hp_percent",
+    "benefit_for_explore_value_2" : "0.0432",
+    "explore_skill_id_1" : "equip_suit_3_1"
+  }, {
+    "id" : "explore_item_equip_3_7",
+    "suit" : "explore_item_equip_3",
+    "star" : "2",
+    "type_num" : "4",
+    "benefit_for_explore_id_2" : "prop_explore_hp_percent",
+    "benefit_for_explore_value_2" : "0.1004",
+    "explore_skill_id_1" : "equip_suit_3_2"
+  }, {
+    "id" : "explore_item_equip_3_8",
+    "suit" : "explore_item_equip_3",
+    "star" : "3",
+    "type_num" : "4",
+    "benefit_for_explore_id_2" : "prop_explore_hp_percent",
+    "benefit_for_explore_value_2" : "0.1768",
+    "explore_skill_id_1" : "equip_suit_3_3"
+  }, {
+    "id" : "explore_item_equip_3_9",
+    "suit" : "explore_item_equip_3",
+    "star" : "4",
+    "type_num" : "4",
+    "benefit_for_explore_id_1" : "prop_explore_attack_percent",
+    "benefit_for_explore_value_1" : "0.0519",
+    "benefit_for_explore_id_2" : "prop_explore_hp_percent",
+    "benefit_for_explore_value_2" : "0.2267",
+    "explore_skill_id_1" : "equip_suit_3_4"
+  }, {
+    "id" : "explore_item_equip_3_10",
+    "suit" : "explore_item_equip_3",
+    "star" : "5",
+    "type_num" : "4",
+    "benefit_for_explore_id_1" : "prop_explore_attack_percent",
+    "benefit_for_explore_value_1" : "0.1157",
+    "benefit_for_explore_id_2" : "prop_explore_hp_percent",
+    "benefit_for_explore_value_2" : "0.2841",
+    "explore_skill_id_1" : "equip_suit_3_5"
+  }, {
+    "id" : "explore_item_equip_4_6",
+    "suit" : "explore_item_equip_4",
+    "star" : "1",
+    "type_num" : "4",
+    "benefit_for_explore_id_2" : "prop_explore_hp_percent",
+    "benefit_for_explore_value_2" : "0.0432",
+    "explore_skill_id_1" : "equip_suit_4_1"
+  }, {
+    "id" : "explore_item_equip_4_7",
+    "suit" : "explore_item_equip_4",
+    "star" : "2",
+    "type_num" : "4",
+    "benefit_for_explore_id_1" : "prop_explore_attack_percent",
+    "benefit_for_explore_value_1" : "0.0198",
+    "benefit_for_explore_id_2" : "prop_explore_hp_percent",
+    "benefit_for_explore_value_2" : "0.0872",
+    "explore_skill_id_1" : "equip_suit_4_2"
+  }, {
+    "id" : "explore_item_equip_4_8",
+    "suit" : "explore_item_equip_4",
+    "star" : "3",
+    "type_num" : "4",
+    "benefit_for_explore_id_1" : "prop_explore_attack_percent",
+    "benefit_for_explore_value_1" : "0.0736",
+    "benefit_for_explore_id_2" : "prop_explore_hp_percent",
+    "benefit_for_explore_value_2" : "0.1214",
+    "explore_skill_id_1" : "equip_suit_4_3"
+  }, {
+    "id" : "explore_item_equip_4_9",
+    "suit" : "explore_item_equip_4",
+    "star" : "4",
+    "type_num" : "4",
+    "benefit_for_explore_id_1" : "prop_explore_attack_percent",
+    "benefit_for_explore_value_1" : "0.1374",
+    "benefit_for_explore_id_2" : "prop_explore_hp_percent",
+    "benefit_for_explore_value_2" : "0.162",
+    "explore_skill_id_1" : "equip_suit_4_4"
+  }, {
+    "id" : "explore_item_equip_4_10",
+    "suit" : "explore_item_equip_4",
+    "star" : "5",
+    "type_num" : "4",
+    "benefit_for_explore_id_1" : "prop_explore_attack_percent",
+    "benefit_for_explore_value_1" : "0.2133",
+    "benefit_for_explore_id_2" : "prop_explore_hp_percent",
+    "benefit_for_explore_value_2" : "0.2103",
+    "explore_skill_id_1" : "equip_suit_4_5"
+  } ]
+}

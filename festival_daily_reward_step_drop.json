@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "daily_reward_step_drop" : "daily_reward_step_drop@string",
+    "step" : "step@daily_reward.id",
+    "reward_id_1" : "reward_id_1@itemlist.id",
+    "reward_value_1" : "reward_value_1@int"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "daily_reward_step_drop" : "掉落组",
+    "step" : "步骤",
+    "reward_id_1" : "奖励道具id_1",
+    "reward_value_1" : "奖励道具数量_1"
+  }, {
+    "id" : "1",
+    "daily_reward_step_drop" : "shoot_lottery_drop",
+    "step" : "daily_reward_1",
+    "reward_id_1" : "item_shoot_lottery_coin",
+    "reward_value_1" : "10"
+  }, {
+    "id" : "2",
+    "daily_reward_step_drop" : "shoot_lottery_drop",
+    "step" : "daily_reward_2",
+    "reward_id_1" : "item_shoot_lottery_coin",
+    "reward_value_1" : "10"
+  }, {
+    "id" : "3",
+    "daily_reward_step_drop" : "shoot_lottery_drop",
+    "step" : "daily_reward_3",
+    "reward_id_1" : "item_shoot_lottery_coin",
+    "reward_value_1" : "15"
+  }, {
+    "id" : "4",
+    "daily_reward_step_drop" : "shoot_lottery_drop",
+    "step" : "daily_reward_4",
+    "reward_id_1" : "item_shoot_lottery_coin",
+    "reward_value_1" : "15"
+  }, {
+    "id" : "5",
+    "daily_reward_step_drop" : "shoot_lottery_drop",
+    "step" : "daily_reward_5",
+    "reward_id_1" : "item_shoot_lottery_coin",
+    "reward_value_1" : "20"
+  } ]
+}

@@ -1,0 +1,70 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "rank_min" : "rank_min@int",
+    "rank_max" : "rank_max@int",
+    "fund" : "fund@int",
+    "honor" : "honor@int",
+    "alliance_reward_id_1" : "alliance_reward_id_1@itemlist.id",
+    "alliance_reward_value_1" : "alliance_reward_value_1@int",
+    "alliance_reward_id_2" : "alliance_reward_id_2@itemlist.id",
+    "alliance_reward_value_2" : "alliance_reward_value_2@int",
+    "alliance_reward_id_3" : "alliance_reward_id_3@itemlist.id",
+    "alliance_reward_value_3" : "alliance_reward_value_3@int",
+    "individual_reward_id_1" : "individual_reward_id_1@itemlist.id",
+    "individual_reward_value_1" : "individual_reward_value_1@int",
+    "individual_reward_id_2" : "individual_reward_id_2@itemlist.id",
+    "individual_reward_value_2" : "individual_reward_value_2@int",
+    "individual_reward_id_3" : "individual_reward_id_3@itemlist.id",
+    "individual_reward_value_3" : "individual_reward_value_3@int"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "rank_min" : "最小排名",
+    "rank_max" : "最大排名",
+    "fund" : "信誉",
+    "honor" : "荣誉",
+    "alliance_reward_id_1" : "联盟奖励id_1",
+    "alliance_reward_value_1" : "联盟奖励数量_1",
+    "alliance_reward_id_2" : "联盟奖励id_2",
+    "alliance_reward_value_2" : "联盟奖励数量_2",
+    "alliance_reward_id_3" : "联盟奖励id_3",
+    "alliance_reward_value_3" : "联盟奖励数量_3",
+    "individual_reward_id_1" : "个人奖励id_1",
+    "individual_reward_value_1" : "个人奖励数量_1",
+    "individual_reward_id_2" : "个人奖励id_2",
+    "individual_reward_value_2" : "个人奖励数量_2",
+    "individual_reward_id_3" : "个人奖励id_3",
+    "individual_reward_value_3" : "个人奖励数量_3"
+  }, {
+    "id" : "1",
+    "rank_min" : "1",
+    "rank_max" : "1",
+    "fund" : "100000",
+    "honor" : "100000",
+    "alliance_reward_id_1" : "item_gold_1",
+    "alliance_reward_value_1" : "1",
+    "individual_reward_id_1" : "item_gold_1",
+    "individual_reward_value_1" : "1"
+  }, {
+    "id" : "2",
+    "rank_min" : "2",
+    "rank_max" : "3",
+    "fund" : "50000",
+    "honor" : "50000",
+    "alliance_reward_id_1" : "item_gold_1",
+    "alliance_reward_value_1" : "1",
+    "individual_reward_id_1" : "item_gold_1",
+    "individual_reward_value_1" : "1"
+  }, {
+    "id" : "3",
+    "rank_min" : "4",
+    "rank_max" : "7",
+    "fund" : "10000",
+    "honor" : "10000",
+    "alliance_reward_id_1" : "item_gold_1",
+    "alliance_reward_value_1" : "1",
+    "individual_reward_id_1" : "item_gold_1",
+    "individual_reward_value_1" : "1"
+  } ]
+}

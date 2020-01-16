@@ -1,0 +1,302 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "gve_boss_drop_group" : "gve_boss_drop_group@string",
+    "gve_boss_id" : "gve_boss_id@gve_boss.id",
+    "reward_id_1" : "reward_id_1@itemlist.id",
+    "reward_value_1" : "reward_value_1@int",
+    "chance" : "chance@int",
+    "drop_group_id_1" : "drop_group_id_1@drop_group.id",
+    "drop_group_chance_1" : "drop_group_chance_1@float"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "gve_boss_drop_group" : "掉落组",
+    "gve_boss_id" : "gve_boss_id",
+    "reward_id_1" : "奖励道具id_1",
+    "reward_value_1" : "奖励道具数量_1",
+    "chance" : "几率",
+    "drop_group_id_1" : "掉落组1",
+    "drop_group_chance_1" : "概率"
+  }, {
+    "id" : "shoot_lottery_drop_1",
+    "gve_boss_drop_group" : "shoot_lottery_drop",
+    "gve_boss_id" : "new_gve_boss_1_1",
+    "reward_id_1" : "item_shoot_lottery_coin",
+    "reward_value_1" : "10",
+    "chance" : "1"
+  }, {
+    "id" : "shoot_lottery_drop_2",
+    "gve_boss_drop_group" : "shoot_lottery_drop",
+    "gve_boss_id" : "new_gve_boss_1_2",
+    "reward_id_1" : "item_shoot_lottery_coin",
+    "reward_value_1" : "10",
+    "chance" : "1"
+  }, {
+    "id" : "shoot_lottery_drop_3",
+    "gve_boss_drop_group" : "shoot_lottery_drop",
+    "gve_boss_id" : "new_gve_boss_1_3",
+    "reward_id_1" : "item_shoot_lottery_coin",
+    "reward_value_1" : "10",
+    "chance" : "1"
+  }, {
+    "id" : "shoot_lottery_drop_4",
+    "gve_boss_drop_group" : "shoot_lottery_drop",
+    "gve_boss_id" : "new_gve_boss_1_4",
+    "reward_id_1" : "item_shoot_lottery_coin",
+    "reward_value_1" : "10",
+    "chance" : "1"
+  }, {
+    "id" : "shoot_lottery_drop_5",
+    "gve_boss_drop_group" : "shoot_lottery_drop",
+    "gve_boss_id" : "new_gve_boss_2_1",
+    "reward_id_1" : "item_shoot_lottery_coin",
+    "reward_value_1" : "10",
+    "chance" : "1"
+  }, {
+    "id" : "shoot_lottery_drop_6",
+    "gve_boss_drop_group" : "shoot_lottery_drop",
+    "gve_boss_id" : "new_gve_boss_2_2",
+    "reward_id_1" : "item_shoot_lottery_coin",
+    "reward_value_1" : "10",
+    "chance" : "1"
+  }, {
+    "id" : "shoot_lottery_drop_7",
+    "gve_boss_drop_group" : "shoot_lottery_drop",
+    "gve_boss_id" : "new_gve_boss_2_3",
+    "reward_id_1" : "item_shoot_lottery_coin",
+    "reward_value_1" : "10",
+    "chance" : "1"
+  }, {
+    "id" : "shoot_lottery_drop_8",
+    "gve_boss_drop_group" : "shoot_lottery_drop",
+    "gve_boss_id" : "new_gve_boss_2_4",
+    "reward_id_1" : "item_shoot_lottery_coin",
+    "reward_value_1" : "10",
+    "chance" : "1"
+  }, {
+    "id" : "shoot_lottery_drop_9",
+    "gve_boss_drop_group" : "shoot_lottery_drop",
+    "gve_boss_id" : "new_gve_boss_3_1",
+    "reward_id_1" : "item_shoot_lottery_coin",
+    "reward_value_1" : "10",
+    "chance" : "1"
+  }, {
+    "id" : "shoot_lottery_drop_10",
+    "gve_boss_drop_group" : "shoot_lottery_drop",
+    "gve_boss_id" : "new_gve_boss_3_2",
+    "reward_id_1" : "item_shoot_lottery_coin",
+    "reward_value_1" : "10",
+    "chance" : "1"
+  }, {
+    "id" : "shoot_lottery_drop_11",
+    "gve_boss_drop_group" : "shoot_lottery_drop",
+    "gve_boss_id" : "new_gve_boss_3_3",
+    "reward_id_1" : "item_shoot_lottery_coin",
+    "reward_value_1" : "10",
+    "chance" : "1"
+  }, {
+    "id" : "shoot_lottery_drop_12",
+    "gve_boss_drop_group" : "shoot_lottery_drop",
+    "gve_boss_id" : "new_gve_boss_3_4",
+    "reward_id_1" : "item_shoot_lottery_coin",
+    "reward_value_1" : "10",
+    "chance" : "1"
+  }, {
+    "id" : "shoot_lottery_drop_13",
+    "gve_boss_drop_group" : "shoot_lottery_drop",
+    "gve_boss_id" : "new_gve_boss_4_1",
+    "reward_id_1" : "item_shoot_lottery_coin",
+    "reward_value_1" : "10",
+    "chance" : "1"
+  }, {
+    "id" : "shoot_lottery_drop_14",
+    "gve_boss_drop_group" : "shoot_lottery_drop",
+    "gve_boss_id" : "new_gve_boss_4_2",
+    "reward_id_1" : "item_shoot_lottery_coin",
+    "reward_value_1" : "10",
+    "chance" : "1"
+  }, {
+    "id" : "shoot_lottery_drop_15",
+    "gve_boss_drop_group" : "shoot_lottery_drop",
+    "gve_boss_id" : "new_gve_boss_4_3",
+    "reward_id_1" : "item_shoot_lottery_coin",
+    "reward_value_1" : "10",
+    "chance" : "1"
+  }, {
+    "id" : "shoot_lottery_drop_16",
+    "gve_boss_drop_group" : "shoot_lottery_drop",
+    "gve_boss_id" : "new_gve_boss_4_4",
+    "reward_id_1" : "item_shoot_lottery_coin",
+    "reward_value_1" : "10",
+    "chance" : "1"
+  }, {
+    "id" : "shoot_lottery_drop_17",
+    "gve_boss_drop_group" : "shoot_lottery_drop",
+    "gve_boss_id" : "new_gve_boss_5_1",
+    "reward_id_1" : "item_shoot_lottery_coin",
+    "reward_value_1" : "10",
+    "chance" : "1"
+  }, {
+    "id" : "shoot_lottery_drop_18",
+    "gve_boss_drop_group" : "shoot_lottery_drop",
+    "gve_boss_id" : "new_gve_boss_5_2",
+    "reward_id_1" : "item_shoot_lottery_coin",
+    "reward_value_1" : "10",
+    "chance" : "1"
+  }, {
+    "id" : "shoot_lottery_drop_19",
+    "gve_boss_drop_group" : "shoot_lottery_drop",
+    "gve_boss_id" : "new_gve_boss_5_3",
+    "reward_id_1" : "item_shoot_lottery_coin",
+    "reward_value_1" : "10",
+    "chance" : "1"
+  }, {
+    "id" : "shoot_lottery_drop_20",
+    "gve_boss_drop_group" : "shoot_lottery_drop",
+    "gve_boss_id" : "new_gve_boss_5_4",
+    "reward_id_1" : "item_shoot_lottery_coin",
+    "reward_value_1" : "10",
+    "chance" : "1"
+  }, {
+    "id" : "shoot_lottery_drop_21",
+    "gve_boss_drop_group" : "shoot_lottery_drop",
+    "gve_boss_id" : "new_gve_boss_6_1",
+    "reward_id_1" : "item_shoot_lottery_coin",
+    "reward_value_1" : "10",
+    "chance" : "1"
+  }, {
+    "id" : "shoot_lottery_drop_22",
+    "gve_boss_drop_group" : "shoot_lottery_drop",
+    "gve_boss_id" : "new_gve_boss_6_2",
+    "reward_id_1" : "item_shoot_lottery_coin",
+    "reward_value_1" : "10",
+    "chance" : "1"
+  }, {
+    "id" : "shoot_lottery_drop_23",
+    "gve_boss_drop_group" : "shoot_lottery_drop",
+    "gve_boss_id" : "new_gve_boss_6_3",
+    "reward_id_1" : "item_shoot_lottery_coin",
+    "reward_value_1" : "10",
+    "chance" : "1"
+  }, {
+    "id" : "shoot_lottery_drop_24",
+    "gve_boss_drop_group" : "shoot_lottery_drop",
+    "gve_boss_id" : "new_gve_boss_6_4",
+    "reward_id_1" : "item_shoot_lottery_coin",
+    "reward_value_1" : "10",
+    "chance" : "1"
+  }, {
+    "id" : "shoot_lottery_drop_25",
+    "gve_boss_drop_group" : "shoot_lottery_drop",
+    "gve_boss_id" : "new_gve_boss_7_1",
+    "reward_id_1" : "item_shoot_lottery_coin",
+    "reward_value_1" : "10",
+    "chance" : "1"
+  }, {
+    "id" : "shoot_lottery_drop_26",
+    "gve_boss_drop_group" : "shoot_lottery_drop",
+    "gve_boss_id" : "new_gve_boss_7_2",
+    "reward_id_1" : "item_shoot_lottery_coin",
+    "reward_value_1" : "10",
+    "chance" : "1"
+  }, {
+    "id" : "shoot_lottery_drop_27",
+    "gve_boss_drop_group" : "shoot_lottery_drop",
+    "gve_boss_id" : "new_gve_boss_7_3",
+    "reward_id_1" : "item_shoot_lottery_coin",
+    "reward_value_1" : "10",
+    "chance" : "1"
+  }, {
+    "id" : "shoot_lottery_drop_28",
+    "gve_boss_drop_group" : "shoot_lottery_drop",
+    "gve_boss_id" : "new_gve_boss_7_4",
+    "reward_id_1" : "item_shoot_lottery_coin",
+    "reward_value_1" : "10",
+    "chance" : "1"
+  }, {
+    "id" : "shoot_lottery_drop_29",
+    "gve_boss_drop_group" : "shoot_lottery_drop",
+    "gve_boss_id" : "new_gve_boss_8_1",
+    "reward_id_1" : "item_shoot_lottery_coin",
+    "reward_value_1" : "10",
+    "chance" : "1"
+  }, {
+    "id" : "shoot_lottery_drop_30",
+    "gve_boss_drop_group" : "shoot_lottery_drop",
+    "gve_boss_id" : "new_gve_boss_8_2",
+    "reward_id_1" : "item_shoot_lottery_coin",
+    "reward_value_1" : "10",
+    "chance" : "1"
+  }, {
+    "id" : "shoot_lottery_drop_31",
+    "gve_boss_drop_group" : "shoot_lottery_drop",
+    "gve_boss_id" : "new_gve_boss_8_3",
+    "reward_id_1" : "item_shoot_lottery_coin",
+    "reward_value_1" : "10",
+    "chance" : "1"
+  }, {
+    "id" : "shoot_lottery_drop_32",
+    "gve_boss_drop_group" : "shoot_lottery_drop",
+    "gve_boss_id" : "new_gve_boss_8_4",
+    "reward_id_1" : "item_shoot_lottery_coin",
+    "reward_value_1" : "10",
+    "chance" : "1"
+  }, {
+    "id" : "shoot_lottery_drop_33",
+    "gve_boss_drop_group" : "shoot_lottery_drop",
+    "gve_boss_id" : "new_gve_boss_9_1",
+    "reward_id_1" : "item_shoot_lottery_coin",
+    "reward_value_1" : "10",
+    "chance" : "1"
+  }, {
+    "id" : "shoot_lottery_drop_34",
+    "gve_boss_drop_group" : "shoot_lottery_drop",
+    "gve_boss_id" : "new_gve_boss_9_2",
+    "reward_id_1" : "item_shoot_lottery_coin",
+    "reward_value_1" : "10",
+    "chance" : "1"
+  }, {
+    "id" : "shoot_lottery_drop_35",
+    "gve_boss_drop_group" : "shoot_lottery_drop",
+    "gve_boss_id" : "new_gve_boss_9_3",
+    "reward_id_1" : "item_shoot_lottery_coin",
+    "reward_value_1" : "10",
+    "chance" : "1"
+  }, {
+    "id" : "shoot_lottery_drop_36",
+    "gve_boss_drop_group" : "shoot_lottery_drop",
+    "gve_boss_id" : "new_gve_boss_9_4",
+    "reward_id_1" : "item_shoot_lottery_coin",
+    "reward_value_1" : "10",
+    "chance" : "1"
+  }, {
+    "id" : "shoot_lottery_drop_37",
+    "gve_boss_drop_group" : "shoot_lottery_drop",
+    "gve_boss_id" : "new_gve_boss_10_1",
+    "reward_id_1" : "item_shoot_lottery_coin",
+    "reward_value_1" : "10",
+    "chance" : "1"
+  }, {
+    "id" : "shoot_lottery_drop_38",
+    "gve_boss_drop_group" : "shoot_lottery_drop",
+    "gve_boss_id" : "new_gve_boss_10_2",
+    "reward_id_1" : "item_shoot_lottery_coin",
+    "reward_value_1" : "10",
+    "chance" : "1"
+  }, {
+    "id" : "shoot_lottery_drop_39",
+    "gve_boss_drop_group" : "shoot_lottery_drop",
+    "gve_boss_id" : "new_gve_boss_10_3",
+    "reward_id_1" : "item_shoot_lottery_coin",
+    "reward_value_1" : "10",
+    "chance" : "1"
+  }, {
+    "id" : "shoot_lottery_drop_40",
+    "gve_boss_drop_group" : "shoot_lottery_drop",
+    "gve_boss_id" : "new_gve_boss_10_4",
+    "reward_id_1" : "item_shoot_lottery_coin",
+    "reward_value_1" : "10",
+    "chance" : "1"
+  } ]
+}

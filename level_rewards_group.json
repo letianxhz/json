@@ -1,0 +1,76 @@
+{
+  "header" : {
+    "id" : "id@string"
+  },
+  "rows" : [ {
+    "id" : "id"
+  }, {
+    "id" : "daily_reward_step_1"
+  }, {
+    "id" : "daily_reward_step_2"
+  }, {
+    "id" : "daily_reward_step_3"
+  }, {
+    "id" : "daily_reward_step_4"
+  }, {
+    "id" : "daily_reward_step_5"
+  }, {
+    "id" : "daily_reward_quest_login_in"
+  }, {
+    "id" : "daily_reward_quest_upgrade_buildings"
+  }, {
+    "id" : "daily_reward_quest_research"
+  }, {
+    "id" : "daily_reward_quest_general_summon_times"
+  }, {
+    "id" : "daily_reward_quest_train_infantry"
+  }, {
+    "id" : "daily_reward_quest_train_cavalry"
+  }, {
+    "id" : "daily_reward_quest_train_ranged"
+  }, {
+    "id" : "daily_reward_quest_train_siege"
+  }, {
+    "id" : "daily_reward_quest_gather_food"
+  }, {
+    "id" : "daily_reward_quest_gather_wood"
+  }, {
+    "id" : "daily_reward_quest_gather_ore"
+  }, {
+    "id" : "daily_reward_quest_gather_silver"
+  }, {
+    "id" : "daily_reward_quest_timer_chest"
+  }, {
+    "id" : "daily_reward_quest_explore_shop"
+  }, {
+    "id" : "daily_reward_quest_cure_wounded"
+  }, {
+    "id" : "daily_reward_quest_wish"
+  }, {
+    "id" : "daily_reward_quest_npc_store"
+  }, {
+    "id" : "daily_reward_quest_lord_expedition_chest"
+  }, {
+    "id" : "daily_reward_quest_jackpot"
+  }, {
+    "id" : "daily_reward_quest_alliance_trade"
+  }, {
+    "id" : "daily_reward_quest_reinforce"
+  }, {
+    "id" : "daily_reward_quest_alliance_donate"
+  }, {
+    "id" : "daily_reward_quest_alliance_help"
+  }, {
+    "id" : "daily_reward_quest_gve_times"
+  }, {
+    "id" : "daily_reward_quest_attack_monster"
+  }, {
+    "id" : "daily_reward_quest_war_symphony_mission"
+  }, {
+    "id" : "daily_reward_quest_radar_treasure_map"
+  }, {
+    "id" : "daily_reward_quest_general_appoint"
+  }, {
+    "id" : "daily_reward_quest_buy_iap"
+  } ]
+}

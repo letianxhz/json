@@ -1,0 +1,36 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "priority" : "priority@int",
+    "name" : "name@string"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "priority" : "排序",
+    "name" : "名字"
+  }, {
+    "id" : "all",
+    "priority" : "1",
+    "name" : "item_uppercase_all_title"
+  }, {
+    "id" : "resource",
+    "priority" : "2",
+    "name" : "item_uppercase_resources_title"
+  }, {
+    "id" : "speedup",
+    "priority" : "3",
+    "name" : "id_speedup"
+  }, {
+    "id" : "chest",
+    "priority" : "4",
+    "name" : "item_uppercase_chest_title"
+  }, {
+    "id" : "benefits",
+    "priority" : "5",
+    "name" : "id_benefits"
+  }, {
+    "id" : "other",
+    "priority" : "6",
+    "name" : "item_uppercase_other_title"
+  } ]
+}

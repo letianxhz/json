@@ -1,0 +1,105 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "explore_level" : "explore_level@explore_level.id",
+    "rank_min" : "rank_min@int",
+    "rank_max" : "rank_max@int",
+    "reward_id_1" : "reward_id_1@itemlist.id",
+    "reward_value_1" : "reward_value_1",
+    "reward_id_2" : "reward_id_2@itemlist.id",
+    "reward_value_2" : "reward_value_2",
+    "reward_id_3" : "reward_id_3@itemlist.id",
+    "reward_value_3" : "reward_value_3",
+    "reward_id_4" : "reward_id_4@itemlist.id",
+    "reward_value_4" : "reward_value_4"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "explore_level" : "所属关卡id",
+    "rank_min" : "最小排名",
+    "rank_max" : "最大排名",
+    "reward_id_1" : "奖励道具id_1",
+    "reward_value_1" : "奖励道具数量_1",
+    "reward_id_2" : "奖励道具id_2",
+    "reward_value_2" : "奖励道具数量_2",
+    "reward_id_3" : "奖励道具id_3",
+    "reward_value_3" : "奖励道具数量_3"
+  }, {
+    "id" : "explore_explore_1_2_1_1",
+    "explore_level" : "explore_explore_1_2_1",
+    "rank_min" : "1",
+    "rank_max" : "1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "explore_explore_1_2_1_2",
+    "explore_level" : "explore_explore_1_2_1",
+    "rank_min" : "2",
+    "rank_max" : "2",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "explore_explore_1_2_1_3",
+    "explore_level" : "explore_explore_1_2_1",
+    "rank_min" : "3",
+    "rank_max" : "3",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "explore_explore_1_2_1_4",
+    "explore_level" : "explore_explore_1_2_1",
+    "rank_min" : "4",
+    "rank_max" : "10",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "activity_explore_1_2_1_1",
+    "explore_level" : "activity_explore_1_2_1",
+    "rank_min" : "1",
+    "rank_max" : "1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "activity_explore_1_2_1_2",
+    "explore_level" : "activity_explore_1_2_1",
+    "rank_min" : "2",
+    "rank_max" : "2",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "activity_explore_1_2_1_3",
+    "explore_level" : "activity_explore_1_2_1",
+    "rank_min" : "3",
+    "rank_max" : "3",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "activity_explore_1_2_1_4",
+    "explore_level" : "activity_explore_1_2_1",
+    "rank_min" : "4",
+    "rank_max" : "10",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "activity_explore_1_2_1_5",
+    "explore_level" : "activity_explore_1_2_1",
+    "rank_min" : "11",
+    "rank_max" : "50",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "activity_explore_1_2_1_6",
+    "explore_level" : "activity_explore_1_2_1",
+    "rank_min" : "51",
+    "rank_max" : "100",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "activity_explore_1_2_1_7",
+    "explore_level" : "activity_explore_1_2_1",
+    "rank_min" : "101",
+    "rank_max" : "500",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  } ]
+}

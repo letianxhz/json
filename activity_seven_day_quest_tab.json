@@ -1,0 +1,106 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "activity_group" : "activity_group@activity_seven_day_group.id",
+    "open_day" : "open_day@int",
+    "description" : "description@string",
+    "sequence" : "sequence@int"
+  },
+  "rows" : [ {
+    "id" : "id(第x活动组_第x天开启)",
+    "activity_group" : "所属活动组",
+    "open_day" : "第几天开启",
+    "description" : "多语言",
+    "sequence" : "页签排序（数字小，排序靠前）"
+  }, {
+    "id" : "activity_seven_day_group_1_1_1",
+    "activity_group" : "activity_seven_day_group_1",
+    "open_day" : "1",
+    "description" : "activity_seven_day_group_1_1_1_name",
+    "sequence" : "1"
+  }, {
+    "id" : "activity_seven_day_group_1_1_2",
+    "activity_group" : "activity_seven_day_group_1",
+    "open_day" : "1",
+    "description" : "activity_seven_day_group_1_1_2_name",
+    "sequence" : "2"
+  }, {
+    "id" : "activity_seven_day_group_1_1_3",
+    "activity_group" : "activity_seven_day_group_1",
+    "open_day" : "1",
+    "description" : "activity_seven_day_group_1_1_3_name",
+    "sequence" : "3"
+  }, {
+    "id" : "activity_seven_day_group_1_2_1",
+    "activity_group" : "activity_seven_day_group_1",
+    "open_day" : "2",
+    "description" : "activity_seven_day_group_1_2_1_name",
+    "sequence" : "4"
+  }, {
+    "id" : "activity_seven_day_group_1_2_2",
+    "activity_group" : "activity_seven_day_group_1",
+    "open_day" : "2",
+    "description" : "activity_seven_day_group_1_2_2_name",
+    "sequence" : "5"
+  }, {
+    "id" : "activity_seven_day_group_1_2_3",
+    "activity_group" : "activity_seven_day_group_1",
+    "open_day" : "2",
+    "description" : "activity_seven_day_group_1_2_3_name",
+    "sequence" : "6"
+  }, {
+    "id" : "activity_seven_day_group_1_3_1",
+    "activity_group" : "activity_seven_day_group_1",
+    "open_day" : "3",
+    "description" : "activity_seven_day_group_1_3_1_name",
+    "sequence" : "7"
+  }, {
+    "id" : "activity_seven_day_group_1_3_2",
+    "activity_group" : "activity_seven_day_group_1",
+    "open_day" : "3",
+    "description" : "activity_seven_day_group_1_3_2_name",
+    "sequence" : "8"
+  }, {
+    "id" : "activity_seven_day_group_1_3_3",
+    "activity_group" : "activity_seven_day_group_1",
+    "open_day" : "3",
+    "description" : "activity_seven_day_group_1_3_3_name",
+    "sequence" : "9"
+  }, {
+    "id" : "activity_seven_day_group_1_4_1",
+    "activity_group" : "activity_seven_day_group_1",
+    "open_day" : "4",
+    "description" : "activity_seven_day_group_1_4_1_name",
+    "sequence" : "10"
+  }, {
+    "id" : "activity_seven_day_group_1_4_2",
+    "activity_group" : "activity_seven_day_group_1",
+    "open_day" : "4",
+    "description" : "activity_seven_day_group_1_4_2_name",
+    "sequence" : "11"
+  }, {
+    "id" : "activity_seven_day_group_1_4_3",
+    "activity_group" : "activity_seven_day_group_1",
+    "open_day" : "4",
+    "description" : "activity_seven_day_group_1_4_3_name",
+    "sequence" : "12"
+  }, {
+    "id" : "activity_seven_day_group_1_5_1",
+    "activity_group" : "activity_seven_day_group_1",
+    "open_day" : "5",
+    "description" : "activity_seven_day_group_1_5_1_name",
+    "sequence" : "13"
+  }, {
+    "id" : "activity_seven_day_group_1_5_2",
+    "activity_group" : "activity_seven_day_group_1",
+    "open_day" : "5",
+    "description" : "activity_seven_day_group_1_5_2_name",
+    "sequence" : "14"
+  }, {
+    "id" : "activity_seven_day_group_1_5_3",
+    "activity_group" : "activity_seven_day_group_1",
+    "open_day" : "5",
+    "description" : "activity_seven_day_group_1_5_3_name",
+    "sequence" : "15"
+  } ]
+}

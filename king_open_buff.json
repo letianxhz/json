@@ -1,0 +1,151 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "skill_type" : "skill_type@string",
+    "kingdom_buff_id" : "kingdom_buff_id@kingdom_buff.id",
+    "cost" : "cost@int",
+    "cd" : "cd@int",
+    "max_use" : "max_use@int",
+    "auto_open_type" : "auto_open_type@int",
+    "skill_param_1" : "skill_param_1@string",
+    "skill_param_2" : "skill_param_2@string",
+    "name" : "name@string^c",
+    "description" : "description@string^c",
+    "icon" : "icon@string^c"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "skill_type" : "技能类型",
+    "kingdom_buff_id" : "王国buffid",
+    "cost" : "消耗古币",
+    "cd" : "cd",
+    "max_use" : "每日最大使用次数",
+    "auto_open_type" : "自动开启类型",
+    "skill_param_1" : "参数1",
+    "skill_param_2" : "参数2",
+    "name" : "名称",
+    "description" : "描述",
+    "icon" : "图标"
+  }, {
+    "id" : "1",
+    "skill_type" : "after_war_training",
+    "kingdom_buff_id" : "15",
+    "cost" : "10000",
+    "cd" : "1209600",
+    "max_use" : "1",
+    "auto_open_type" : "excalibur_war_lost",
+    "skill_param_1" : "72",
+    "name" : "throne_king_skill_2_name",
+    "description" : "throne_king_skill_2_description",
+    "icon" : "throne_king_skill_after_war_training"
+  }, {
+    "id" : "2",
+    "skill_type" : "get_gold",
+    "cost" : "3000",
+    "max_use" : "3",
+    "skill_param_1" : "300",
+    "skill_param_2" : "100",
+    "name" : "throne_king_skill_1_name",
+    "description" : "throne_king_skill_1_description",
+    "icon" : "throne_king_skill_get_gold"
+  }, {
+    "id" : "3",
+    "skill_type" : "force_teleport",
+    "cost" : "3000",
+    "cd" : "7200",
+    "max_use" : "1",
+    "name" : "throne_king_skill_3_name",
+    "description" : "throne_king_skill_3_description",
+    "icon" : "throne_king_skill_force_teleport"
+  }, {
+    "id" : "4",
+    "skill_type" : "send_troop_forbidden",
+    "cost" : "5000",
+    "cd" : "7200",
+    "max_use" : "1",
+    "skill_param_1" : "1",
+    "name" : "throne_king_skill_4_name",
+    "description" : "throne_king_skill_4_description",
+    "icon" : "throne_king_skill_send_troop_forbidden"
+  }, {
+    "id" : "5",
+    "skill_type" : "find_target",
+    "cost" : "2000",
+    "cd" : "7200",
+    "max_use" : "5",
+    "name" : "throne_king_skill_5_name",
+    "description" : "throne_king_skill_5_description",
+    "icon" : "throne_king_skill_find_target"
+  }, {
+    "id" : "training_cost",
+    "skill_type" : "training_cost",
+    "kingdom_buff_id" : "19",
+    "cost" : "5000",
+    "cd" : "604800",
+    "max_use" : "1",
+    "name" : "throne_king_skill_training_cost_name",
+    "description" : "throne_king_skill_training_cost_description",
+    "icon" : "throne_king_skill_training_cost"
+  }, {
+    "id" : "iap_package_gold",
+    "skill_type" : "iap_package_gold",
+    "kingdom_buff_id" : "20",
+    "cost" : "10000",
+    "cd" : "604800",
+    "max_use" : "1",
+    "skill_param_1" : "1",
+    "name" : "throne_king_skill_iap_package_gold_name",
+    "description" : "throne_king_skill_iap_package_gold_description",
+    "icon" : "throne_king_skill_iap_package_gold"
+  }, {
+    "id" : "resource_gather",
+    "skill_type" : "resource_gather",
+    "kingdom_buff_id" : "21",
+    "cost" : "3000",
+    "cd" : "604800",
+    "max_use" : "1",
+    "name" : "throne_king_skill_resource_gather_name",
+    "description" : "throne_king_skill_resource_gather_description",
+    "icon" : "throne_king_skill_resource_gather"
+  }, {
+    "id" : "construction_time",
+    "skill_type" : "construction_time",
+    "kingdom_buff_id" : "22",
+    "cost" : "3000",
+    "cd" : "604800",
+    "max_use" : "1",
+    "name" : "throne_king_skill_construction_time_name",
+    "description" : "throne_king_skill_construction_time_description",
+    "icon" : "throne_king_skill_construction_time"
+  }, {
+    "id" : "research_time",
+    "skill_type" : "research_time",
+    "kingdom_buff_id" : "23",
+    "cost" : "3000",
+    "cd" : "604800",
+    "max_use" : "1",
+    "name" : "throne_king_skill_research_time_name",
+    "description" : "throne_king_skill_research_time_description",
+    "icon" : "throne_king_skill_research_time"
+  }, {
+    "id" : "healing_army_cost",
+    "skill_type" : "healing_army_cost",
+    "kingdom_buff_id" : "24",
+    "cost" : "3000",
+    "cd" : "604800",
+    "max_use" : "1",
+    "name" : "throne_king_skill_healing_army_cost_name",
+    "description" : "throne_king_skill_healing_army_cost_description",
+    "icon" : "throne_king_skill_healing_army_cost"
+  }, {
+    "id" : "army_training_time",
+    "skill_type" : "army_training_time",
+    "kingdom_buff_id" : "25",
+    "cost" : "5000",
+    "cd" : "604800",
+    "max_use" : "1",
+    "name" : "throne_king_skill_army_training_time_name",
+    "description" : "throne_king_skill_army_training_time_description",
+    "icon" : "throne_king_skill_army_training_time"
+  } ]
+}

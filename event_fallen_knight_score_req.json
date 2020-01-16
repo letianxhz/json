@@ -1,0 +1,204 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "need_self_score" : "need_self_score@int",
+    "need_alliance_score" : "need_alliance_score@int",
+    "fund" : "fund@int",
+    "honor" : "honor@int",
+    "reward_id_1" : "reward_id_1@itemlist.id",
+    "reward_value_1" : "reward_value_1@int",
+    "reward_id_2" : "reward_id_2@itemlist.id",
+    "reward_value_2" : "reward_value_2@int",
+    "reward_id_3" : "reward_id_3@itemlist.id",
+    "reward_value_3" : "reward_value_3@int",
+    "reward_id_4" : "reward_id_4@itemlist.id",
+    "reward_value_4" : "reward_value_4@int",
+    "reward_id_5" : "reward_id_5@itemlist.id",
+    "reward_value_5" : "reward_value_5@int",
+    "reward_id_6" : "reward_id_6@itemlist.id",
+    "reward_value_6" : "reward_value_6@int",
+    "reward_id_7" : "reward_id_7@itemlist.id",
+    "reward_value_7" : "reward_value_7@int"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "need_self_score" : "需求自身积分",
+    "need_alliance_score" : "需求联盟积分",
+    "fund" : "信誉",
+    "honor" : "荣誉",
+    "reward_id_1" : "奖励道具id_1",
+    "reward_value_1" : "奖励道具数量_1",
+    "reward_id_2" : "奖励道具id_2",
+    "reward_value_2" : "奖励道具数量_2",
+    "reward_id_3" : "奖励道具id_3",
+    "reward_value_3" : "奖励道具数量_3",
+    "reward_id_4" : "奖励道具id_4",
+    "reward_value_4" : "奖励道具数量_4",
+    "reward_id_5" : "奖励道具id_5",
+    "reward_value_5" : "奖励道具数量_5",
+    "reward_id_6" : "奖励道具id_6",
+    "reward_value_6" : "奖励道具数量_6",
+    "reward_id_7" : "奖励道具id_7",
+    "reward_value_7" : "奖励道具数量_7"
+  }, {
+    "id" : "fallen_knight_score_req_1",
+    "need_self_score" : "3000",
+    "need_alliance_score" : "300000",
+    "fund" : "0",
+    "honor" : "0",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "fallen_knight_score_req_2",
+    "need_self_score" : "6000",
+    "need_alliance_score" : "1200000",
+    "fund" : "0",
+    "honor" : "0",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "fallen_knight_score_req_3",
+    "need_self_score" : "8000",
+    "need_alliance_score" : "2400000",
+    "fund" : "0",
+    "honor" : "0",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "fallen_knight_score_req_4",
+    "need_self_score" : "11000",
+    "need_alliance_score" : "3600000",
+    "fund" : "0",
+    "honor" : "0",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "fallen_knight_score_req_5",
+    "need_self_score" : "13000",
+    "need_alliance_score" : "5200000",
+    "fund" : "5000",
+    "honor" : "0",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "fallen_knight_score_req_6",
+    "need_self_score" : "17000",
+    "need_alliance_score" : "7300000",
+    "fund" : "5000",
+    "honor" : "0",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "fallen_knight_score_req_7",
+    "need_self_score" : "19000",
+    "need_alliance_score" : "9100000",
+    "fund" : "5000",
+    "honor" : "0",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "fallen_knight_score_req_8",
+    "need_self_score" : "21000",
+    "need_alliance_score" : "11100000",
+    "fund" : "5000",
+    "honor" : "0",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "fallen_knight_score_req_9",
+    "need_self_score" : "23000",
+    "need_alliance_score" : "12200000",
+    "fund" : "5000",
+    "honor" : "0",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "fallen_knight_score_req_10",
+    "need_self_score" : "25000",
+    "need_alliance_score" : "14600000",
+    "fund" : "10000",
+    "honor" : "0",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "fallen_knight_score_req_11",
+    "need_self_score" : "65000",
+    "need_alliance_score" : "15200000",
+    "fund" : "10000",
+    "honor" : "0",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "fallen_knight_score_req_12",
+    "need_self_score" : "68000",
+    "need_alliance_score" : "15900000",
+    "fund" : "10000",
+    "honor" : "0",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "fallen_knight_score_req_13",
+    "need_self_score" : "71000",
+    "need_alliance_score" : "16700000",
+    "fund" : "10000",
+    "honor" : "0",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "fallen_knight_score_req_14",
+    "need_self_score" : "78000",
+    "need_alliance_score" : "18200000",
+    "fund" : "10000",
+    "honor" : "0",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "fallen_knight_score_req_15",
+    "need_self_score" : "84000",
+    "need_alliance_score" : "19700000",
+    "fund" : "15000",
+    "honor" : "0",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "fallen_knight_score_req_16",
+    "need_self_score" : "91000",
+    "need_alliance_score" : "21200000",
+    "fund" : "15000",
+    "honor" : "0",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "fallen_knight_score_req_17",
+    "need_self_score" : "100000",
+    "need_alliance_score" : "23500000",
+    "fund" : "15000",
+    "honor" : "0",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "fallen_knight_score_req_18",
+    "need_self_score" : "110000",
+    "need_alliance_score" : "25700000",
+    "fund" : "15000",
+    "honor" : "0",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "fallen_knight_score_req_19",
+    "need_self_score" : "120000",
+    "need_alliance_score" : "28000000",
+    "fund" : "15000",
+    "honor" : "0",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "fallen_knight_score_req_20",
+    "need_self_score" : "129000",
+    "need_alliance_score" : "30300000",
+    "fund" : "15000",
+    "honor" : "0",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  } ]
+}

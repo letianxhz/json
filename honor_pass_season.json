@@ -1,0 +1,26 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "level_group_id" : "level_group_id@honor_pass_level.group_id",
+    "challenge_group_id" : "challenge_group_id@honor_pass_challenge.group_id",
+    "chest_item_id" : "chest_item_id@itemlist.id",
+    "chest_iap_id" : "chest_iap_id@iap_shop_package_group.id"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "level_group_id" : "等级线组id",
+    "challenge_group_id" : "挑战组id",
+    "chest_item_id" : "对应宝箱id",
+    "chest_iap_id" : "对应宝箱礼包id"
+  }, {
+    "id" : "honor_pass_group_1",
+    "level_group_id" : "honer_pass_level_group_1",
+    "challenge_group_id" : "honor_pass_challenge_group_1",
+    "chest_item_id" : "item_honor_pass_chest_treasure"
+  }, {
+    "id" : "honor_pass_group_2",
+    "level_group_id" : "honer_pass_level_group_2",
+    "challenge_group_id" : "honor_pass_challenge_group_2",
+    "chest_item_id" : "item_honor_pass_chest_treasure_1"
+  } ]
+}

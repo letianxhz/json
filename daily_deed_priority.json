@@ -1,0 +1,40 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "priority" : "priority@int"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "priority" : "优先级"
+  }, {
+    "id" : "building_queue",
+    "priority" : "5"
+  }, {
+    "id" : "military_building",
+    "priority" : "6"
+  }, {
+    "id" : "research",
+    "priority" : "9"
+  }, {
+    "id" : "march_queue",
+    "priority" : "11"
+  }, {
+    "id" : "energy",
+    "priority" : "12"
+  }, {
+    "id" : "gift",
+    "priority" : "1"
+  }, {
+    "id" : "tavern",
+    "priority" : "13"
+  }, {
+    "id" : "magic_circle",
+    "priority" : "2"
+  }, {
+    "id" : "alliance_affairs",
+    "priority" : "8"
+  }, {
+    "id" : "kings_road",
+    "priority" : "3"
+  } ]
+}

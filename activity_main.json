@@ -1,0 +1,57 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "image_big" : "image_big@string^c",
+    "image" : "image@string^c",
+    "icon" : "icon@string^c",
+    "name" : "name@string^c",
+    "description_big" : "description_big@string^c",
+    "description" : "description@string^c",
+    "name_1" : "name_1@string^c",
+    "description_1" : "description_1@string^c",
+    "description_big_1" : "description_big_1@string^c"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "image_big" : "大图id",
+    "image" : "图片id",
+    "icon" : "图标id",
+    "name" : "名称多语言key",
+    "description_big" : "描述多语言key",
+    "description" : "描述多语言key",
+    "name_1" : "名称1多语言key",
+    "description_1" : "描述1多语言key",
+    "description_big_1" : "描述1多语言key"
+  }, {
+    "id" : "activity_1",
+    "image_big" : "intergral_activity_big",
+    "image" : "intergral_activity",
+    "icon" : "intergral_activity_icon",
+    "name" : "event_points_event_name",
+    "description_big" : "event_gold_one_line_description",
+    "description" : "event_strongest_lord_description",
+    "name_1" : "event_mini_points_event_name",
+    "description_1" : "event_mini_points_event_description",
+    "description_big_1" : "event_mini_points_event_one_line_description"
+  }, {
+    "id" : "activity_fallen_knight",
+    "image_big" : "intergral_fallen_knight_big",
+    "image" : "intergral_fallen_knight",
+    "icon" : "intergral_fallen_knight_icon",
+    "name" : "event_fallen_knight_name",
+    "description_big" : "event_fallen_knight_description",
+    "description" : "event_fallen_knight_description"
+  }, {
+    "id" : "alliance_activity_1",
+    "image_big" : "alliance_activity_big",
+    "image" : "alliance_activity",
+    "icon" : "alliance_activity_icon",
+    "name" : "event_alliance_name",
+    "description_big" : "event_alliance_one_line_description",
+    "description" : "event_alliance_description"
+  }, {
+    "id" : "activity_personal_1",
+    "image_big" : "solo_activity_big_new",
+    "icon" : "solo_activity_icon_new"
+  } ]
+}

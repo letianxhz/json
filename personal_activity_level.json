@@ -1,0 +1,256 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "activity_id" : "activity_id@activity_main.id",
+    "is_use" : "is_use@int",
+    "city_level_min" : "city_level_min@int",
+    "city_level_max" : "city_level_max@int"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "activity_id" : "活动id",
+    "is_use" : "是否使用",
+    "city_level_min" : "对应主城等级下限",
+    "city_level_max" : "对应主城等级上限"
+  }, {
+    "id" : "activity_personal_1_1",
+    "activity_id" : "activity_personal_1",
+    "is_use" : "1",
+    "city_level_min" : "1",
+    "city_level_max" : "1"
+  }, {
+    "id" : "activity_personal_1_2",
+    "activity_id" : "activity_personal_1",
+    "is_use" : "1",
+    "city_level_min" : "2",
+    "city_level_max" : "2"
+  }, {
+    "id" : "activity_personal_1_3",
+    "activity_id" : "activity_personal_1",
+    "is_use" : "1",
+    "city_level_min" : "3",
+    "city_level_max" : "3"
+  }, {
+    "id" : "activity_personal_1_4",
+    "activity_id" : "activity_personal_1",
+    "is_use" : "1",
+    "city_level_min" : "4",
+    "city_level_max" : "4"
+  }, {
+    "id" : "activity_personal_1_5",
+    "activity_id" : "activity_personal_1",
+    "is_use" : "1",
+    "city_level_min" : "5",
+    "city_level_max" : "5"
+  }, {
+    "id" : "activity_personal_1_6",
+    "activity_id" : "activity_personal_1",
+    "is_use" : "1",
+    "city_level_min" : "6",
+    "city_level_max" : "6"
+  }, {
+    "id" : "activity_personal_1_7",
+    "activity_id" : "activity_personal_1",
+    "is_use" : "1",
+    "city_level_min" : "7",
+    "city_level_max" : "7"
+  }, {
+    "id" : "activity_personal_1_8",
+    "activity_id" : "activity_personal_1",
+    "is_use" : "1",
+    "city_level_min" : "8",
+    "city_level_max" : "8"
+  }, {
+    "id" : "activity_personal_1_9",
+    "activity_id" : "activity_personal_1",
+    "is_use" : "1",
+    "city_level_min" : "9",
+    "city_level_max" : "9"
+  }, {
+    "id" : "activity_personal_1_10",
+    "activity_id" : "activity_personal_1",
+    "is_use" : "1",
+    "city_level_min" : "10",
+    "city_level_max" : "10"
+  }, {
+    "id" : "activity_personal_1_11",
+    "activity_id" : "activity_personal_1",
+    "is_use" : "1",
+    "city_level_min" : "11",
+    "city_level_max" : "11"
+  }, {
+    "id" : "activity_personal_1_12",
+    "activity_id" : "activity_personal_1",
+    "is_use" : "1",
+    "city_level_min" : "12",
+    "city_level_max" : "12"
+  }, {
+    "id" : "activity_personal_1_13",
+    "activity_id" : "activity_personal_1",
+    "is_use" : "1",
+    "city_level_min" : "13",
+    "city_level_max" : "13"
+  }, {
+    "id" : "activity_personal_1_14",
+    "activity_id" : "activity_personal_1",
+    "is_use" : "1",
+    "city_level_min" : "14",
+    "city_level_max" : "14"
+  }, {
+    "id" : "activity_personal_1_15",
+    "activity_id" : "activity_personal_1",
+    "is_use" : "1",
+    "city_level_min" : "15",
+    "city_level_max" : "15"
+  }, {
+    "id" : "activity_personal_1_16",
+    "activity_id" : "activity_personal_1",
+    "is_use" : "1",
+    "city_level_min" : "16",
+    "city_level_max" : "16"
+  }, {
+    "id" : "activity_personal_1_17",
+    "activity_id" : "activity_personal_1",
+    "is_use" : "1",
+    "city_level_min" : "17",
+    "city_level_max" : "17"
+  }, {
+    "id" : "activity_personal_1_18",
+    "activity_id" : "activity_personal_1",
+    "is_use" : "1",
+    "city_level_min" : "18",
+    "city_level_max" : "18"
+  }, {
+    "id" : "activity_personal_1_19",
+    "activity_id" : "activity_personal_1",
+    "is_use" : "1",
+    "city_level_min" : "19",
+    "city_level_max" : "19"
+  }, {
+    "id" : "activity_personal_1_20",
+    "activity_id" : "activity_personal_1",
+    "is_use" : "1",
+    "city_level_min" : "20",
+    "city_level_max" : "20"
+  }, {
+    "id" : "activity_personal_1_21",
+    "activity_id" : "activity_personal_1",
+    "is_use" : "1",
+    "city_level_min" : "21",
+    "city_level_max" : "21"
+  }, {
+    "id" : "activity_personal_1_22",
+    "activity_id" : "activity_personal_1",
+    "is_use" : "1",
+    "city_level_min" : "22",
+    "city_level_max" : "22"
+  }, {
+    "id" : "activity_personal_1_23",
+    "activity_id" : "activity_personal_1",
+    "is_use" : "1",
+    "city_level_min" : "23",
+    "city_level_max" : "23"
+  }, {
+    "id" : "activity_personal_1_24",
+    "activity_id" : "activity_personal_1",
+    "is_use" : "1",
+    "city_level_min" : "24",
+    "city_level_max" : "24"
+  }, {
+    "id" : "activity_personal_1_25",
+    "activity_id" : "activity_personal_1",
+    "is_use" : "1",
+    "city_level_min" : "25",
+    "city_level_max" : "25"
+  }, {
+    "id" : "activity_personal_1_26",
+    "activity_id" : "activity_personal_1",
+    "is_use" : "1",
+    "city_level_min" : "26",
+    "city_level_max" : "26"
+  }, {
+    "id" : "activity_personal_1_27",
+    "activity_id" : "activity_personal_1",
+    "is_use" : "1",
+    "city_level_min" : "27",
+    "city_level_max" : "27"
+  }, {
+    "id" : "activity_personal_1_28",
+    "activity_id" : "activity_personal_1",
+    "is_use" : "1",
+    "city_level_min" : "28",
+    "city_level_max" : "28"
+  }, {
+    "id" : "activity_personal_1_29",
+    "activity_id" : "activity_personal_1",
+    "is_use" : "1",
+    "city_level_min" : "29",
+    "city_level_max" : "29"
+  }, {
+    "id" : "activity_personal_1_30",
+    "activity_id" : "activity_personal_1",
+    "is_use" : "1",
+    "city_level_min" : "30",
+    "city_level_max" : "30"
+  }, {
+    "id" : "activity_personal_1_31",
+    "activity_id" : "activity_personal_1",
+    "is_use" : "1",
+    "city_level_min" : "31",
+    "city_level_max" : "31"
+  }, {
+    "id" : "activity_personal_1_32",
+    "activity_id" : "activity_personal_1",
+    "is_use" : "1",
+    "city_level_min" : "32",
+    "city_level_max" : "32"
+  }, {
+    "id" : "activity_personal_1_33",
+    "activity_id" : "activity_personal_1",
+    "is_use" : "1",
+    "city_level_min" : "33",
+    "city_level_max" : "33"
+  }, {
+    "id" : "activity_personal_1_34",
+    "activity_id" : "activity_personal_1",
+    "is_use" : "1",
+    "city_level_min" : "34",
+    "city_level_max" : "34"
+  }, {
+    "id" : "activity_personal_1_35",
+    "activity_id" : "activity_personal_1",
+    "is_use" : "1",
+    "city_level_min" : "35",
+    "city_level_max" : "35"
+  }, {
+    "id" : "activity_personal_1_36",
+    "activity_id" : "activity_personal_1",
+    "is_use" : "1",
+    "city_level_min" : "36",
+    "city_level_max" : "36"
+  }, {
+    "id" : "activity_personal_1_37",
+    "activity_id" : "activity_personal_1",
+    "is_use" : "1",
+    "city_level_min" : "37",
+    "city_level_max" : "37"
+  }, {
+    "id" : "activity_personal_1_38",
+    "activity_id" : "activity_personal_1",
+    "is_use" : "1",
+    "city_level_min" : "38",
+    "city_level_max" : "38"
+  }, {
+    "id" : "activity_personal_1_39",
+    "activity_id" : "activity_personal_1",
+    "is_use" : "1",
+    "city_level_min" : "39",
+    "city_level_max" : "39"
+  }, {
+    "id" : "activity_personal_1_40",
+    "activity_id" : "activity_personal_1",
+    "is_use" : "1",
+    "city_level_min" : "40",
+    "city_level_max" : "40"
+  } ]
+}

@@ -1,0 +1,22 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "max_level" : "max_level@int",
+    "brush_time" : "brush_time@int",
+    "brush_cd" : "brush_cd@int",
+    "search_range" : "search_range@int"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "max_level" : "刷出野怪的最高等级",
+    "brush_time" : "刷出野怪存在时间",
+    "brush_cd" : "每个玩家刷怪CD",
+    "search_range" : "刷新范围"
+  }, {
+    "id" : "1",
+    "max_level" : "12",
+    "brush_time" : "1800",
+    "brush_cd" : "30",
+    "search_range" : "9"
+  } ]
+}

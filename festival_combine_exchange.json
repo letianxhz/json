@@ -1,0 +1,304 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "reward_group" : "reward_group@string",
+    "priority" : "priority@int",
+    "item_reward_id" : "item_reward_id@itemlist.id",
+    "item_reward_value" : "item_reward_value@int",
+    "times" : "times@int",
+    "item_id_1" : "item_id_1@itemlist.id",
+    "item_value_1" : "item_value_1@int",
+    "item_id_2" : "item_id_2@itemlist.id",
+    "item_value_2" : "item_value_2@int",
+    "item_id_3" : "item_id_3@itemlist.id",
+    "item_value_3" : "item_value_3@int",
+    "item_id_4" : "item_id_4@itemlist.id",
+    "item_value_4" : "item_value_4@int"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "reward_group" : "奖励组",
+    "priority" : "排序",
+    "item_reward_id" : "道具id",
+    "item_reward_value" : "道具数量",
+    "times" : "兑换次数",
+    "item_id_1" : "消耗道具id_1",
+    "item_value_1" : "消耗道具数量_1",
+    "item_id_2" : "消耗道具id_2",
+    "item_value_2" : "消耗道具数量_2",
+    "item_id_3" : "消耗道具id_3",
+    "item_value_3" : "消耗道具数量_3",
+    "item_id_4" : "消耗道具id_4",
+    "item_value_4" : "消耗道具数量_4"
+  }, {
+    "id" : "13",
+    "reward_group" : "festival_thanksg_2019",
+    "priority" : "1",
+    "item_reward_id" : "item_gold_1",
+    "item_reward_value" : "1",
+    "times" : "10",
+    "item_id_1" : "item_gold_1",
+    "item_value_1" : "1"
+  }, {
+    "id" : "14",
+    "reward_group" : "festival_thanksg_2019",
+    "priority" : "2",
+    "item_reward_id" : "item_gold_1",
+    "item_reward_value" : "1",
+    "times" : "5",
+    "item_id_1" : "item_gold_1",
+    "item_value_1" : "1"
+  }, {
+    "id" : "15",
+    "reward_group" : "festival_thanksg_2019",
+    "priority" : "3",
+    "item_reward_id" : "item_gold_1",
+    "item_reward_value" : "1",
+    "times" : "100",
+    "item_id_1" : "item_gold_1",
+    "item_value_1" : "1"
+  }, {
+    "id" : "16",
+    "reward_group" : "festival_thanksg_2019",
+    "priority" : "4",
+    "item_reward_id" : "item_gold_1",
+    "item_reward_value" : "1",
+    "times" : "100",
+    "item_id_1" : "item_gold_1",
+    "item_value_1" : "1"
+  }, {
+    "id" : "17",
+    "reward_group" : "festival_thanksg_2019",
+    "priority" : "5",
+    "item_reward_id" : "item_gold_1",
+    "item_reward_value" : "1",
+    "times" : "100",
+    "item_id_1" : "item_gold_1",
+    "item_value_1" : "1"
+  }, {
+    "id" : "18",
+    "reward_group" : "festival_thanksg_2019",
+    "priority" : "6",
+    "item_reward_id" : "item_gold_1",
+    "item_reward_value" : "1",
+    "times" : "100",
+    "item_id_1" : "item_gold_1",
+    "item_value_1" : "1"
+  }, {
+    "id" : "19",
+    "reward_group" : "festival_thanksg_2019",
+    "priority" : "7",
+    "item_reward_id" : "item_gold_1",
+    "item_reward_value" : "1",
+    "times" : "100",
+    "item_id_1" : "item_gold_1",
+    "item_value_1" : "1"
+  }, {
+    "id" : "20",
+    "reward_group" : "festival_thanksg_2019",
+    "priority" : "8",
+    "item_reward_id" : "item_gold_1",
+    "item_reward_value" : "1",
+    "times" : "100",
+    "item_id_1" : "item_gold_1",
+    "item_value_1" : "1"
+  }, {
+    "id" : "21",
+    "reward_group" : "festival_thanksg_2019",
+    "priority" : "9",
+    "item_reward_id" : "item_gold_1",
+    "item_reward_value" : "1",
+    "times" : "100",
+    "item_id_1" : "item_gold_1",
+    "item_value_1" : "1"
+  }, {
+    "id" : "22",
+    "reward_group" : "festival_thanksg_2019",
+    "priority" : "10",
+    "item_reward_id" : "item_gold_1",
+    "item_reward_value" : "1",
+    "times" : "100",
+    "item_id_1" : "item_gold_1",
+    "item_value_1" : "1"
+  }, {
+    "id" : "23",
+    "reward_group" : "festival_thanksg_2019",
+    "priority" : "11",
+    "item_reward_id" : "item_gold_1",
+    "item_reward_value" : "1",
+    "times" : "100",
+    "item_id_1" : "item_gold_1",
+    "item_value_1" : "1"
+  }, {
+    "id" : "24",
+    "reward_group" : "festival_thanksg_2019",
+    "priority" : "12",
+    "item_reward_id" : "item_gold_1",
+    "item_reward_value" : "1",
+    "times" : "100",
+    "item_id_1" : "item_gold_1",
+    "item_value_1" : "1"
+  }, {
+    "id" : "25",
+    "reward_group" : "festival_thanksg_2019",
+    "priority" : "13",
+    "item_reward_id" : "item_gold_1",
+    "item_reward_value" : "1",
+    "times" : "100",
+    "item_id_1" : "item_gold_1",
+    "item_value_1" : "1"
+  }, {
+    "id" : "26",
+    "reward_group" : "festival_thanksg_2019",
+    "priority" : "14",
+    "item_reward_id" : "item_gold_1",
+    "item_reward_value" : "1",
+    "times" : "100",
+    "item_id_1" : "item_gold_1",
+    "item_value_1" : "1"
+  }, {
+    "id" : "27",
+    "reward_group" : "festival_thanksg_2019",
+    "priority" : "15",
+    "item_reward_id" : "item_gold_1",
+    "item_reward_value" : "1",
+    "times" : "100",
+    "item_id_1" : "item_gold_1",
+    "item_value_1" : "1"
+  }, {
+    "id" : "28",
+    "reward_group" : "festival_christmas_2019",
+    "priority" : "1",
+    "item_reward_id" : "item_gold_1",
+    "item_reward_value" : "1",
+    "times" : "10",
+    "item_id_1" : "item_gold_1",
+    "item_value_1" : "1"
+  }, {
+    "id" : "29",
+    "reward_group" : "festival_christmas_2019",
+    "priority" : "2",
+    "item_reward_id" : "item_gold_1",
+    "item_reward_value" : "1",
+    "times" : "10",
+    "item_id_1" : "item_gold_1",
+    "item_value_1" : "1"
+  }, {
+    "id" : "30",
+    "reward_group" : "festival_christmas_2019",
+    "priority" : "3",
+    "item_reward_id" : "item_gold_1",
+    "item_reward_value" : "1",
+    "times" : "10",
+    "item_id_1" : "item_gold_1",
+    "item_value_1" : "1"
+  }, {
+    "id" : "31",
+    "reward_group" : "festival_christmas_2019",
+    "priority" : "4",
+    "item_reward_id" : "item_gold_1",
+    "item_reward_value" : "1",
+    "times" : "100",
+    "item_id_1" : "item_gold_1",
+    "item_value_1" : "1"
+  }, {
+    "id" : "32",
+    "reward_group" : "festival_christmas_2019",
+    "priority" : "5",
+    "item_reward_id" : "item_gold_1",
+    "item_reward_value" : "1",
+    "times" : "100",
+    "item_id_1" : "item_gold_1",
+    "item_value_1" : "1"
+  }, {
+    "id" : "33",
+    "reward_group" : "festival_christmas_2019",
+    "priority" : "6",
+    "item_reward_id" : "item_gold_1",
+    "item_reward_value" : "1",
+    "times" : "100",
+    "item_id_1" : "item_gold_1",
+    "item_value_1" : "1"
+  }, {
+    "id" : "34",
+    "reward_group" : "festival_christmas_2019",
+    "priority" : "7",
+    "item_reward_id" : "item_gold_1",
+    "item_reward_value" : "1",
+    "times" : "100",
+    "item_id_1" : "item_gold_1",
+    "item_value_1" : "1"
+  }, {
+    "id" : "35",
+    "reward_group" : "festival_christmas_2019",
+    "priority" : "8",
+    "item_reward_id" : "item_gold_1",
+    "item_reward_value" : "1",
+    "times" : "100",
+    "item_id_1" : "item_gold_1",
+    "item_value_1" : "1"
+  }, {
+    "id" : "36",
+    "reward_group" : "festival_christmas_2019",
+    "priority" : "9",
+    "item_reward_id" : "item_gold_1",
+    "item_reward_value" : "1",
+    "times" : "100",
+    "item_id_1" : "item_gold_1",
+    "item_value_1" : "1"
+  }, {
+    "id" : "37",
+    "reward_group" : "festival_christmas_2019",
+    "priority" : "10",
+    "item_reward_id" : "item_gold_1",
+    "item_reward_value" : "1",
+    "times" : "100",
+    "item_id_1" : "item_gold_1",
+    "item_value_1" : "1"
+  }, {
+    "id" : "38",
+    "reward_group" : "festival_christmas_2019",
+    "priority" : "11",
+    "item_reward_id" : "item_gold_1",
+    "item_reward_value" : "1",
+    "times" : "100",
+    "item_id_1" : "item_gold_1",
+    "item_value_1" : "1"
+  }, {
+    "id" : "39",
+    "reward_group" : "festival_christmas_2019",
+    "priority" : "12",
+    "item_reward_id" : "item_gold_1",
+    "item_reward_value" : "1",
+    "times" : "100",
+    "item_id_1" : "item_gold_1",
+    "item_value_1" : "1"
+  }, {
+    "id" : "40",
+    "reward_group" : "festival_christmas_2019",
+    "priority" : "13",
+    "item_reward_id" : "item_gold_1",
+    "item_reward_value" : "1",
+    "times" : "100",
+    "item_id_1" : "item_gold_1",
+    "item_value_1" : "1"
+  }, {
+    "id" : "41",
+    "reward_group" : "festival_christmas_2019",
+    "priority" : "14",
+    "item_reward_id" : "item_gold_1",
+    "item_reward_value" : "1",
+    "times" : "100",
+    "item_id_1" : "item_gold_1",
+    "item_value_1" : "1"
+  }, {
+    "id" : "42",
+    "reward_group" : "festival_christmas_2019",
+    "priority" : "15",
+    "item_reward_id" : "item_gold_1",
+    "item_reward_value" : "1",
+    "times" : "100",
+    "item_id_1" : "item_gold_1",
+    "item_value_1" : "1"
+  } ]
+}

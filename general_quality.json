@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "frame_color" : "frame_color@string",
+    "base_color" : "base_color@string",
+    "mask_color" : "mask_color@string",
+    "priority" : "priority@int",
+    "almighty_item_id" : "almighty_item_id@itemlist.id"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "frame_color" : "边框颜色",
+    "base_color" : "名字颜色",
+    "mask_color" : "遮罩颜色",
+    "priority" : "品质排序",
+    "almighty_item_id" : "万能碎片id"
+  }, {
+    "id" : "1",
+    "frame_color" : "#CFFF88FF",
+    "base_color" : "#849E5EFF",
+    "mask_color" : "#339025FF",
+    "priority" : "1",
+    "almighty_item_id" : "item_general_chip_lv_id"
+  }, {
+    "id" : "2",
+    "frame_color" : "#5DB5FFFF",
+    "base_color" : "#448DCAFF",
+    "mask_color" : "#3974A7FF",
+    "priority" : "2",
+    "almighty_item_id" : "item_general_chip_lan_id"
+  }, {
+    "id" : "3",
+    "frame_color" : "#FF76E4FF",
+    "base_color" : "#B849A2FF",
+    "mask_color" : "#98339EFF",
+    "priority" : "3",
+    "almighty_item_id" : "item_general_chip_zi_id"
+  }, {
+    "id" : "4",
+    "frame_color" : "#FFAB6AFF",
+    "base_color" : "#D08348FF",
+    "mask_color" : "#C96101FF",
+    "priority" : "4",
+    "almighty_item_id" : "item_general_chip_cheng_id"
+  } ]
+}

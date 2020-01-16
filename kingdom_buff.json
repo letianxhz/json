@@ -1,0 +1,222 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "kingdom_benefit" : "kingdom_benefit@benefits.id",
+    "kingdom_benefit_value" : "kingdom_benefit_value@float",
+    "effect_time" : "effect_time@int",
+    "open_type" : "open_type@string",
+    "open_param_1" : "open_param_1@string",
+    "open_param_2" : "open_param_2@string",
+    "description" : "description@string",
+    "icon" : "icon@string^c"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "kingdom_benefit" : "王国benefit_id",
+    "kingdom_benefit_value" : "王国benefit值",
+    "effect_time" : "生效时间",
+    "open_type" : "开启类型",
+    "open_param_1" : "开启参数1",
+    "open_param_2" : "开启参数2",
+    "description" : "描述",
+    "icon" : "图标"
+  }, {
+    "id" : "1",
+    "kingdom_benefit" : "prop_construction_time_percent",
+    "kingdom_benefit_value" : "0.2",
+    "effect_time" : "24",
+    "open_type" : "server_time",
+    "open_param_1" : "144",
+    "description" : "开服6天建造加速",
+    "icon" : "kingdom_buff_construction_time_percent"
+  }, {
+    "id" : "2",
+    "kingdom_benefit" : "prop_construction_time_percent",
+    "kingdom_benefit_value" : "0.2",
+    "effect_time" : "24",
+    "open_type" : "server_time",
+    "open_param_1" : "240",
+    "description" : "开服10天建造加速",
+    "icon" : "kingdom_buff_construction_time_percent"
+  }, {
+    "id" : "3",
+    "kingdom_benefit" : "prop_research_time_percent",
+    "kingdom_benefit_value" : "0.2",
+    "effect_time" : "24",
+    "open_type" : "server_time",
+    "open_param_1" : "144",
+    "description" : "开服6天研究加速",
+    "icon" : "kingdom_buff_research_time_percent"
+  }, {
+    "id" : "4",
+    "kingdom_benefit" : "prop_research_time_percent",
+    "kingdom_benefit_value" : "0.2",
+    "effect_time" : "24",
+    "open_type" : "server_time",
+    "open_param_1" : "240",
+    "description" : "开服10天研究加速",
+    "icon" : "kingdom_buff_research_time_percent"
+  }, {
+    "id" : "5",
+    "kingdom_benefit" : "prop_army_training_time_percent",
+    "kingdom_benefit_value" : "0.2",
+    "effect_time" : "24",
+    "open_type" : "server_time",
+    "open_param_1" : "192",
+    "description" : "开服8天造兵加速",
+    "icon" : "kingdom_buff_training_time_percent"
+  }, {
+    "id" : "6",
+    "kingdom_benefit" : "prop_army_training_time_percent",
+    "kingdom_benefit_value" : "0.2",
+    "effect_time" : "24",
+    "open_type" : "server_time",
+    "open_param_1" : "288",
+    "description" : "开服12天造兵加速",
+    "icon" : "kingdom_buff_training_time_percent"
+  }, {
+    "id" : "7",
+    "kingdom_benefit" : "prop_alliance_hospital_healing_speed_percent",
+    "kingdom_benefit_value" : "0.3",
+    "effect_time" : "24",
+    "open_type" : "gold_event",
+    "open_param_1" : "1",
+    "open_param_2" : "activity_score_main_5",
+    "description" : "杀兵活动后治疗联盟伤兵加速",
+    "icon" : "kingdom_buff_alliance_hospital_healing_percent"
+  }, {
+    "id" : "8",
+    "kingdom_benefit" : "prop_army_healing_time_percent",
+    "kingdom_benefit_value" : "0.3",
+    "effect_time" : "24",
+    "open_type" : "gold_event",
+    "open_param_1" : "1",
+    "open_param_2" : "activity_score_main_5",
+    "description" : "杀兵活动后治疗伤兵加速",
+    "icon" : "kingdom_buff_army_healing_time_percent"
+  }, {
+    "id" : "9",
+    "kingdom_benefit" : "prop_construction_time_percent",
+    "open_type" : "gm",
+    "description" : "gm建造加速百分比",
+    "icon" : "kingdom_buff_construction_time_percent"
+  }, {
+    "id" : "10",
+    "kingdom_benefit" : "prop_research_time_percent",
+    "open_type" : "gm",
+    "description" : "gm研究加速百分比",
+    "icon" : "kingdom_buff_research_time_percent"
+  }, {
+    "id" : "11",
+    "kingdom_benefit" : "prop_army_training_time_percent",
+    "open_type" : "gm",
+    "description" : "gm造兵加速百分比",
+    "icon" : "kingdom_buff_training_time_percent"
+  }, {
+    "id" : "12",
+    "kingdom_benefit" : "prop_alliance_hospital_healing_speed_percent",
+    "open_type" : "gm",
+    "description" : "gm治疗联盟伤兵加速百分比",
+    "icon" : "kingdom_buff_alliance_hospital_healing_percent"
+  }, {
+    "id" : "13",
+    "kingdom_benefit" : "prop_army_healing_time_percent",
+    "open_type" : "gm",
+    "description" : "gm治疗伤兵加速百分比",
+    "icon" : "kingdom_buff_army_healing_time_percent"
+  }, {
+    "id" : "14",
+    "kingdom_benefit" : "prop_resource_gather_percent",
+    "open_type" : "gm",
+    "description" : "gm采集加速百分比",
+    "icon" : "kingdom_buff_resource_gather_percent"
+  }, {
+    "id" : "15",
+    "kingdom_benefit" : "prop_army_training_time_percent",
+    "kingdom_benefit_value" : "3",
+    "effect_time" : "72",
+    "open_type" : "king",
+    "description" : "王战后加速造兵",
+    "icon" : "kingdom_buff_training_time_percent"
+  }, {
+    "id" : "16",
+    "kingdom_benefit" : "prop_resource_gather_percent",
+    "kingdom_benefit_value" : "0.5",
+    "effect_time" : "72",
+    "open_type" : "kingdom_task",
+    "description" : "王国任务采集加速",
+    "icon" : "kingdom_buff_resource_gather_percent"
+  }, {
+    "id" : "17",
+    "kingdom_benefit" : "prop_construction_time_percent",
+    "kingdom_benefit_value" : "0.5",
+    "effect_time" : "72",
+    "open_type" : "kingdom_task",
+    "description" : "王国任务建造加速",
+    "icon" : "kingdom_buff_construction_time_percent"
+  }, {
+    "id" : "18",
+    "kingdom_benefit" : "prop_research_time_percent",
+    "kingdom_benefit_value" : "0.5",
+    "effect_time" : "72",
+    "open_type" : "kingdom_task",
+    "description" : "王国任务研究加速",
+    "icon" : "kingdom_buff_research_time_percent"
+  }, {
+    "id" : "19",
+    "kingdom_benefit" : "prop_train_army_cost_decrease_percent",
+    "kingdom_benefit_value" : "-0.3",
+    "effect_time" : "48",
+    "open_type" : "king",
+    "description" : "王国技能造兵减消耗",
+    "icon" : "kingdom_buff_train_army_cost_decrease_percent"
+  }, {
+    "id" : "20",
+    "kingdom_benefit" : "prop_iap_package_gold_increase_percent",
+    "kingdom_benefit_value" : "0.05",
+    "effect_time" : "168",
+    "open_type" : "king",
+    "description" : "王国技能礼包额外金币",
+    "icon" : "kingdom_buff_iap_package_gold_increase_percent"
+  }, {
+    "id" : "21",
+    "kingdom_benefit" : "prop_resource_gather_percent",
+    "kingdom_benefit_value" : "0.2",
+    "effect_time" : "24",
+    "open_type" : "king",
+    "description" : "王国技能采集加速",
+    "icon" : "kingdom_buff_resource_gather_percent"
+  }, {
+    "id" : "22",
+    "kingdom_benefit" : "prop_construction_time_percent",
+    "kingdom_benefit_value" : "0.2",
+    "effect_time" : "24",
+    "open_type" : "king",
+    "description" : "王国技能建造加速",
+    "icon" : "kingdom_buff_construction_time_percent"
+  }, {
+    "id" : "23",
+    "kingdom_benefit" : "prop_research_time_percent",
+    "kingdom_benefit_value" : "0.2",
+    "effect_time" : "24",
+    "open_type" : "king",
+    "description" : "王国技能研究加速",
+    "icon" : "kingdom_buff_research_time_percent"
+  }, {
+    "id" : "24",
+    "kingdom_benefit" : "prop_healing_army_cost_decrease_percent",
+    "kingdom_benefit_value" : "-0.3",
+    "effect_time" : "24",
+    "open_type" : "king",
+    "description" : "王国技能治疗减消耗",
+    "icon" : "kingdom_buff_healing_army_cost_decrease_percent"
+  }, {
+    "id" : "25",
+    "kingdom_benefit" : "prop_army_training_time_percent",
+    "kingdom_benefit_value" : "0.3",
+    "effect_time" : "168",
+    "open_type" : "king",
+    "description" : "王国技能造兵加速",
+    "icon" : "kingdom_buff_training_time_percent"
+  } ]
+}

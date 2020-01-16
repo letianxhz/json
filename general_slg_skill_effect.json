@@ -1,0 +1,1366 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "skill_level_id" : "skill_level_id@general_slg_skill_level.id",
+    "prerequisite" : "prerequisite@string",
+    "occasion" : "occasion@string",
+    "type" : "type@string",
+    "config_1" : "config_1@string",
+    "config_2" : "config_2@string",
+    "config_3" : "config_3@string"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "skill_level_id" : "对应技能id",
+    "prerequisite" : "触发条件",
+    "occasion" : "触发时机1",
+    "type" : "技能效果",
+    "config_1" : "参数1",
+    "config_2" : "参数2",
+    "config_3" : "参数3"
+  }, {
+    "id" : "general_slg_skill_500601_level1_effect1",
+    "skill_level_id" : "general_slg_skill_500601_level1",
+    "prerequisite" : "cd[interval]=5&cd[start]=4",
+    "occasion" : "before_attack",
+    "type" : "attack",
+    "config_1" : "1.25"
+  }, {
+    "id" : "general_slg_skill_500601_level2_effect1",
+    "skill_level_id" : "general_slg_skill_500601_level2",
+    "prerequisite" : "cd[interval]=5&cd[start]=4",
+    "occasion" : "before_attack",
+    "type" : "attack",
+    "config_1" : "1.5"
+  }, {
+    "id" : "general_slg_skill_500601_level4_effect1",
+    "skill_level_id" : "general_slg_skill_500601_level4",
+    "prerequisite" : "cd[interval]=5&cd[start]=4",
+    "occasion" : "before_attack",
+    "type" : "attack",
+    "config_1" : "1.75"
+  }, {
+    "id" : "general_slg_skill_500601_level5_effect1",
+    "skill_level_id" : "general_slg_skill_500601_level5",
+    "prerequisite" : "cd[interval]=5&cd[start]=4",
+    "occasion" : "before_attack",
+    "type" : "attack",
+    "config_1" : "2"
+  }, {
+    "id" : "general_slg_skill_500605_level1_effect1",
+    "skill_level_id" : "general_slg_skill_500605_level1",
+    "prerequisite" : "cd[interval]=5&cd[start]=4",
+    "occasion" : "before_attack",
+    "type" : "attack",
+    "config_1" : "2.5"
+  }, {
+    "id" : "general_slg_skill_500601_level1_effect2",
+    "skill_level_id" : "general_slg_skill_500601_level1",
+    "prerequisite" : "cd[interval]=5&cd[start]=4&probability=3000",
+    "occasion" : "before_attack",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_500601_level1"
+  }, {
+    "id" : "general_slg_skill_500601_level2_effect2",
+    "skill_level_id" : "general_slg_skill_500601_level2",
+    "prerequisite" : "cd[interval]=5&cd[start]=4&probability=4000",
+    "occasion" : "before_attack",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_500601_level2"
+  }, {
+    "id" : "general_slg_skill_500601_level3_effect2",
+    "skill_level_id" : "general_slg_skill_500601_level3",
+    "prerequisite" : "cd[interval]=5&cd[start]=4&probability=5000",
+    "occasion" : "before_attack",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_500601_level3"
+  }, {
+    "id" : "general_slg_skill_500601_level4_effect2",
+    "skill_level_id" : "general_slg_skill_500601_level4",
+    "prerequisite" : "cd[interval]=5&cd[start]=4&probability=6000",
+    "occasion" : "before_attack",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_500601_level4"
+  }, {
+    "id" : "general_slg_skill_500601_level5_effect2",
+    "skill_level_id" : "general_slg_skill_500601_level5",
+    "prerequisite" : "cd[interval]=5&cd[start]=4&probability=10000",
+    "occasion" : "before_attack",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_500601_level5"
+  }, {
+    "id" : "general_slg_skill_500602_level1_effect1",
+    "skill_level_id" : "general_slg_skill_500602_level1",
+    "prerequisite" : "scene[stage]=attackcity",
+    "occasion" : "before_battle",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_500602_level1"
+  }, {
+    "id" : "general_slg_skill_500602_level2_effect1",
+    "skill_level_id" : "general_slg_skill_500602_level2",
+    "prerequisite" : "scene[stage]=attackcity",
+    "occasion" : "before_battle",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_500602_level2"
+  }, {
+    "id" : "general_slg_skill_500602_level3_effect1",
+    "skill_level_id" : "general_slg_skill_500602_level3",
+    "prerequisite" : "scene[stage]=attackcity",
+    "occasion" : "before_battle",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_500602_level3"
+  }, {
+    "id" : "general_slg_skill_500602_level4_effect1",
+    "skill_level_id" : "general_slg_skill_500602_level4",
+    "prerequisite" : "scene[stage]=attackcity",
+    "occasion" : "before_battle",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_500602_level4"
+  }, {
+    "id" : "general_slg_skill_500602_level5_effect1",
+    "skill_level_id" : "general_slg_skill_500602_level5",
+    "prerequisite" : "scene[stage]=attackcity",
+    "occasion" : "before_battle",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_500602_level5"
+  }, {
+    "id" : "general_slg_skill_500603_level1_effect1",
+    "skill_level_id" : "general_slg_skill_500603_level1",
+    "prerequisite" : "cd[interval]=5&cd[start]=4&scene[stage]=attackcity",
+    "occasion" : "before_attack",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_500603_level1"
+  }, {
+    "id" : "general_slg_skill_500603_level2_effect1",
+    "skill_level_id" : "general_slg_skill_500603_level2",
+    "prerequisite" : "cd[interval]=5&cd[start]=4&scene[stage]=attackcity",
+    "occasion" : "before_attack",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_500603_level2"
+  }, {
+    "id" : "general_slg_skill_500603_level3_effect1",
+    "skill_level_id" : "general_slg_skill_500603_level3",
+    "prerequisite" : "cd[interval]=5&cd[start]=4&scene[stage]=attackcity",
+    "occasion" : "before_attack",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_500603_level3"
+  }, {
+    "id" : "general_slg_skill_500603_level4_effect1",
+    "skill_level_id" : "general_slg_skill_500603_level4",
+    "prerequisite" : "cd[interval]=5&cd[start]=4&scene[stage]=attackcity",
+    "occasion" : "before_attack",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_500603_level4"
+  }, {
+    "id" : "general_slg_skill_500603_level5_effect1",
+    "skill_level_id" : "general_slg_skill_500603_level5",
+    "prerequisite" : "cd[interval]=5&cd[start]=4&scene[stage]=attackcity",
+    "occasion" : "before_attack",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_500603_level5"
+  }, {
+    "id" : "general_slg_skill_500101_level1_effect1",
+    "skill_level_id" : "general_slg_skill_500101_level1",
+    "prerequisite" : "cd[interval]=5&cd[start]=4",
+    "occasion" : "before_attack",
+    "type" : "attack",
+    "config_1" : "1.25"
+  }, {
+    "id" : "general_slg_skill_500101_level2_effect1",
+    "skill_level_id" : "general_slg_skill_500101_level2",
+    "prerequisite" : "cd[interval]=5&cd[start]=4",
+    "occasion" : "before_attack",
+    "type" : "attack",
+    "config_1" : "1.5"
+  }, {
+    "id" : "general_slg_skill_500101_level3_effect1",
+    "skill_level_id" : "general_slg_skill_500101_level3",
+    "prerequisite" : "cd[interval]=5&cd[start]=4",
+    "occasion" : "before_attack",
+    "type" : "attack",
+    "config_1" : "1.75"
+  }, {
+    "id" : "general_slg_skill_500101_level4_effect1",
+    "skill_level_id" : "general_slg_skill_500101_level4",
+    "prerequisite" : "cd[interval]=5&cd[start]=4",
+    "occasion" : "before_attack",
+    "type" : "attack",
+    "config_1" : "2"
+  }, {
+    "id" : "general_slg_skill_500101_level5_effect1",
+    "skill_level_id" : "general_slg_skill_500101_level5",
+    "prerequisite" : "cd[interval]=5&cd[start]=4",
+    "occasion" : "before_attack",
+    "type" : "attack",
+    "config_1" : "2.5"
+  }, {
+    "id" : "general_slg_skill_500102_level1_effect1",
+    "skill_level_id" : "general_slg_skill_500102_level1",
+    "prerequisite" : "self_unit=mixed",
+    "occasion" : "before_battle",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_500102_level1_effect1"
+  }, {
+    "id" : "general_slg_skill_500102_level2_effect1",
+    "skill_level_id" : "general_slg_skill_500102_level2",
+    "prerequisite" : "self_unit=mixed",
+    "occasion" : "before_battle",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_500102_level2_effect1"
+  }, {
+    "id" : "general_slg_skill_500102_level3_effect1",
+    "skill_level_id" : "general_slg_skill_500102_level3",
+    "prerequisite" : "self_unit=mixed",
+    "occasion" : "before_battle",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_500102_level3_effect1"
+  }, {
+    "id" : "general_slg_skill_500102_level4_effect1",
+    "skill_level_id" : "general_slg_skill_500102_level4",
+    "prerequisite" : "self_unit=mixed",
+    "occasion" : "before_battle",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_500102_level4_effect1"
+  }, {
+    "id" : "general_slg_skill_500102_level5_effect1",
+    "skill_level_id" : "general_slg_skill_500102_level5",
+    "prerequisite" : "self_unit=mixed",
+    "occasion" : "before_battle",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_500102_level5_effect1"
+  }, {
+    "id" : "general_slg_skill_500103_level1_effect1",
+    "skill_level_id" : "general_slg_skill_500103_level1",
+    "prerequisite" : "probability=10000",
+    "occasion" : "before_battle",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_500103_level1_effect1"
+  }, {
+    "id" : "general_slg_skill_500103_level2_effect1",
+    "skill_level_id" : "general_slg_skill_500103_level2",
+    "prerequisite" : "probability=10000",
+    "occasion" : "before_battle",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_500103_level2_effect1"
+  }, {
+    "id" : "general_slg_skill_500103_level3_effect1",
+    "skill_level_id" : "general_slg_skill_500103_level3",
+    "prerequisite" : "probability=10000",
+    "occasion" : "before_battle",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_500103_level3_effect1"
+  }, {
+    "id" : "general_slg_skill_500103_level4_effect1",
+    "skill_level_id" : "general_slg_skill_500103_level4",
+    "prerequisite" : "probability=10000",
+    "occasion" : "before_battle",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_500103_level4_effect1"
+  }, {
+    "id" : "general_slg_skill_500103_level5_effect1",
+    "skill_level_id" : "general_slg_skill_500103_level5",
+    "prerequisite" : "probability=10000",
+    "occasion" : "before_battle",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_500103_level5_effect1"
+  }, {
+    "id" : "general_slg_skill_500105_level1_effect1",
+    "skill_level_id" : "general_slg_skill_500105_level1",
+    "prerequisite" : "cd[interval]=5&cd[start]=4",
+    "occasion" : "before_attack",
+    "type" : "attack",
+    "config_1" : "2.5"
+  }, {
+    "id" : "general_slg_skill_500105_level1_effect2",
+    "skill_level_id" : "general_slg_skill_500105_level1",
+    "prerequisite" : "cd[interval]=5&cd[start]=4",
+    "occasion" : "before_attack",
+    "type" : "attack",
+    "config_1" : "1.25"
+  }, {
+    "id" : "general_slg_skill_500201_level1_effect1",
+    "skill_level_id" : "general_slg_skill_500201_level1",
+    "prerequisite" : "cd[interval]=4&cd[start]=3",
+    "occasion" : "before_attack",
+    "type" : "attack",
+    "config_1" : "0.625"
+  }, {
+    "id" : "general_slg_skill_500201_level2_effect1",
+    "skill_level_id" : "general_slg_skill_500201_level2",
+    "prerequisite" : "cd[interval]=4&cd[start]=3",
+    "occasion" : "before_attack",
+    "type" : "attack",
+    "config_1" : "0.75"
+  }, {
+    "id" : "general_slg_skill_500201_level3_effect1",
+    "skill_level_id" : "general_slg_skill_500201_level3",
+    "prerequisite" : "cd[interval]=4&cd[start]=3",
+    "occasion" : "before_attack",
+    "type" : "attack",
+    "config_1" : "0.875"
+  }, {
+    "id" : "general_slg_skill_500201_level4_effect1",
+    "skill_level_id" : "general_slg_skill_500201_level4",
+    "prerequisite" : "cd[interval]=4&cd[start]=3",
+    "occasion" : "before_attack",
+    "type" : "attack",
+    "config_1" : "1"
+  }, {
+    "id" : "general_slg_skill_500201_level5_effect1",
+    "skill_level_id" : "general_slg_skill_500201_level5",
+    "prerequisite" : "cd[interval]=4&cd[start]=3",
+    "occasion" : "before_attack",
+    "type" : "attack",
+    "config_1" : "1.25"
+  }, {
+    "id" : "general_slg_skill_500201_level1_effect2",
+    "skill_level_id" : "general_slg_skill_500201_level1",
+    "prerequisite" : "cd[interval]=4&cd[start]=3",
+    "occasion" : "before_attack",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_500201_level1_effect2"
+  }, {
+    "id" : "general_slg_skill_500201_level2_effect2",
+    "skill_level_id" : "general_slg_skill_500201_level2",
+    "prerequisite" : "cd[interval]=4&cd[start]=3",
+    "occasion" : "before_attack",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_500201_level2_effect2"
+  }, {
+    "id" : "general_slg_skill_500201_level3_effect2",
+    "skill_level_id" : "general_slg_skill_500201_level3",
+    "prerequisite" : "cd[interval]=4&cd[start]=3",
+    "occasion" : "before_attack",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_500201_level3_effect2"
+  }, {
+    "id" : "general_slg_skill_500201_level4_effect2",
+    "skill_level_id" : "general_slg_skill_500201_level4",
+    "prerequisite" : "cd[interval]=4&cd[start]=3",
+    "occasion" : "before_attack",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_500201_level4_effect2"
+  }, {
+    "id" : "general_slg_skill_500201_level5_effect2",
+    "skill_level_id" : "general_slg_skill_500201_level5",
+    "prerequisite" : "cd[interval]=4&cd[start]=3",
+    "occasion" : "before_attack",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_500201_level5_effect2"
+  }, {
+    "id" : "general_slg_skill_500202_level1_effect1",
+    "skill_level_id" : "general_slg_skill_500202_level1",
+    "prerequisite" : "cd[interval]=5&cd[start]=4",
+    "occasion" : "before_attack",
+    "type" : "attack",
+    "config_1" : "0.625"
+  }, {
+    "id" : "general_slg_skill_500202_level2_effect1",
+    "skill_level_id" : "general_slg_skill_500202_level2",
+    "prerequisite" : "cd[interval]=5&cd[start]=4",
+    "occasion" : "before_attack",
+    "type" : "attack",
+    "config_1" : "0.75"
+  }, {
+    "id" : "general_slg_skill_500202_level3_effect1",
+    "skill_level_id" : "general_slg_skill_500202_level3",
+    "prerequisite" : "cd[interval]=5&cd[start]=4",
+    "occasion" : "before_attack",
+    "type" : "attack",
+    "config_1" : "0.875"
+  }, {
+    "id" : "general_slg_skill_500202_level4_effect1",
+    "skill_level_id" : "general_slg_skill_500202_level4",
+    "prerequisite" : "cd[interval]=5&cd[start]=4",
+    "occasion" : "before_attack",
+    "type" : "attack",
+    "config_1" : "1"
+  }, {
+    "id" : "general_slg_skill_500202_level5_effect1",
+    "skill_level_id" : "general_slg_skill_500202_level5",
+    "prerequisite" : "cd[interval]=5&cd[start]=4",
+    "occasion" : "before_attack",
+    "type" : "attack",
+    "config_1" : "1.25"
+  }, {
+    "id" : "general_slg_skill_500203_level1_effect1",
+    "skill_level_id" : "general_slg_skill_500203_level1",
+    "prerequisite" : "scene[stage]=attackcity",
+    "occasion" : "before_battle",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_500203_level1_effect1"
+  }, {
+    "id" : "general_slg_skill_500203_level2_effect1",
+    "skill_level_id" : "general_slg_skill_500203_level2",
+    "prerequisite" : "scene[stage]=attackcity",
+    "occasion" : "before_battle",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_500203_level2_effect1"
+  }, {
+    "id" : "general_slg_skill_500203_level3_effect1",
+    "skill_level_id" : "general_slg_skill_500203_level3",
+    "prerequisite" : "scene[stage]=attackcity",
+    "occasion" : "before_battle",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_500203_level3_effect1"
+  }, {
+    "id" : "general_slg_skill_500203_level4_effect1",
+    "skill_level_id" : "general_slg_skill_500203_level4",
+    "prerequisite" : "scene[stage]=attackcity",
+    "occasion" : "before_battle",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_500203_level4_effect1"
+  }, {
+    "id" : "general_slg_skill_500203_level5_effect1",
+    "skill_level_id" : "general_slg_skill_500203_level5",
+    "prerequisite" : "scene[stage]=attackcity",
+    "occasion" : "before_battle",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_500203_level5_effect1"
+  }, {
+    "id" : "general_slg_skill_500205_level1_effect1",
+    "skill_level_id" : "general_slg_skill_500205_level1",
+    "prerequisite" : "cd[interval]=4&cd[start]=3",
+    "occasion" : "before_attack",
+    "type" : "attack",
+    "config_1" : "1.25"
+  }, {
+    "id" : "general_slg_skill_500205_level1_effect2",
+    "skill_level_id" : "general_slg_skill_500205_level1",
+    "prerequisite" : "cd[interval]=4&cd[start]=3",
+    "occasion" : "before_attack",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_500205_level5_effect1"
+  }, {
+    "id" : "general_slg_skill_500501_level1_effect1",
+    "skill_level_id" : "general_slg_skill_500501_level1",
+    "prerequisite" : "cd[interval]=4&cd[start]=3",
+    "occasion" : "before_attack",
+    "type" : "attack",
+    "config_1" : "1"
+  }, {
+    "id" : "general_slg_skill_500501_level2_effect1",
+    "skill_level_id" : "general_slg_skill_500501_level2",
+    "prerequisite" : "cd[interval]=4&cd[start]=3",
+    "occasion" : "before_attack",
+    "type" : "attack",
+    "config_1" : "1.2"
+  }, {
+    "id" : "general_slg_skill_500501_level3_effect1",
+    "skill_level_id" : "general_slg_skill_500501_level3",
+    "prerequisite" : "cd[interval]=4&cd[start]=3",
+    "occasion" : "before_attack",
+    "type" : "attack",
+    "config_1" : "1.4"
+  }, {
+    "id" : "general_slg_skill_500501_level4_effect1",
+    "skill_level_id" : "general_slg_skill_500501_level4",
+    "prerequisite" : "cd[interval]=4&cd[start]=3",
+    "occasion" : "before_attack",
+    "type" : "attack",
+    "config_1" : "1.6"
+  }, {
+    "id" : "general_slg_skill_500501_level5_effect1",
+    "skill_level_id" : "general_slg_skill_500501_level5",
+    "prerequisite" : "cd[interval]=4&cd[start]=3",
+    "occasion" : "before_attack",
+    "type" : "attack",
+    "config_1" : "2"
+  }, {
+    "id" : "general_slg_skill_500502_level1_effect1",
+    "skill_level_id" : "general_slg_skill_500502_level1",
+    "prerequisite" : "probability=10000",
+    "occasion" : "before_battle",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_500502_level1_effect1"
+  }, {
+    "id" : "general_slg_skill_500502_level2_effect1",
+    "skill_level_id" : "general_slg_skill_500502_level2",
+    "prerequisite" : "probability=10000",
+    "occasion" : "before_battle",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_500502_level2_effect1"
+  }, {
+    "id" : "general_slg_skill_500502_level3_effect1",
+    "skill_level_id" : "general_slg_skill_500502_level3",
+    "prerequisite" : "probability=10000",
+    "occasion" : "before_battle",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_500502_level3_effect1"
+  }, {
+    "id" : "general_slg_skill_500502_level4_effect1",
+    "skill_level_id" : "general_slg_skill_500502_level4",
+    "prerequisite" : "probability=10000",
+    "occasion" : "before_battle",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_500502_level4_effect1"
+  }, {
+    "id" : "general_slg_skill_500502_level5_effect1",
+    "skill_level_id" : "general_slg_skill_500502_level5",
+    "prerequisite" : "probability=10000",
+    "occasion" : "before_battle",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_500502_level5_effect1"
+  }, {
+    "id" : "general_slg_skill_500503_level1_effect1",
+    "skill_level_id" : "general_slg_skill_500503_level1",
+    "prerequisite" : "scene[stage]=jungle",
+    "occasion" : "before_battle",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_500503_level1_effect1"
+  }, {
+    "id" : "general_slg_skill_500503_level2_effect1",
+    "skill_level_id" : "general_slg_skill_500503_level2",
+    "prerequisite" : "scene[stage]=jungle",
+    "occasion" : "before_battle",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_500503_level2_effect1"
+  }, {
+    "id" : "general_slg_skill_500503_level3_effect1",
+    "skill_level_id" : "general_slg_skill_500503_level3",
+    "prerequisite" : "scene[stage]=jungle",
+    "occasion" : "before_battle",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_500503_level3_effect1"
+  }, {
+    "id" : "general_slg_skill_500503_level4_effect1",
+    "skill_level_id" : "general_slg_skill_500503_level4",
+    "prerequisite" : "scene[stage]=jungle",
+    "occasion" : "before_battle",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_500503_level4_effect1"
+  }, {
+    "id" : "general_slg_skill_500503_level5_effect1",
+    "skill_level_id" : "general_slg_skill_500503_level5",
+    "prerequisite" : "scene[stage]=jungle",
+    "occasion" : "before_battle",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_500503_level5_effect1"
+  }, {
+    "id" : "general_slg_skill_500504_level1_effect1",
+    "skill_level_id" : "general_slg_skill_500504_level1",
+    "prerequisite" : "cd[interval]=4&cd[start]=3&probability=2000",
+    "occasion" : "before_attack",
+    "type" : "cd_reduction",
+    "config_1" : "1"
+  }, {
+    "id" : "general_slg_skill_500504_level2_effect1",
+    "skill_level_id" : "general_slg_skill_500504_level2",
+    "prerequisite" : "cd[interval]=4&cd[start]=3&probability=4000",
+    "occasion" : "before_attack",
+    "type" : "cd_reduction",
+    "config_1" : "1"
+  }, {
+    "id" : "general_slg_skill_500504_level3_effect1",
+    "skill_level_id" : "general_slg_skill_500504_level3",
+    "prerequisite" : "cd[interval]=4&cd[start]=3&probability=6000",
+    "occasion" : "before_attack",
+    "type" : "cd_reduction",
+    "config_1" : "1"
+  }, {
+    "id" : "general_slg_skill_500504_level4_effect1",
+    "skill_level_id" : "general_slg_skill_500504_level4",
+    "prerequisite" : "cd[interval]=4&cd[start]=3&probability=8000",
+    "occasion" : "before_attack",
+    "type" : "cd_reduction",
+    "config_1" : "1"
+  }, {
+    "id" : "general_slg_skill_500504_level5_effect1",
+    "skill_level_id" : "general_slg_skill_500504_level5",
+    "prerequisite" : "cd[interval]=4&cd[start]=3&probability=10000",
+    "occasion" : "before_attack",
+    "type" : "cd_reduction",
+    "config_1" : "1"
+  }, {
+    "id" : "general_slg_skill_500505_level1_effect1",
+    "skill_level_id" : "general_slg_skill_500505_level1",
+    "prerequisite" : "cd[interval]=4&cd[start]=3",
+    "occasion" : "before_attack",
+    "type" : "attack",
+    "config_1" : "2"
+  }, {
+    "id" : "general_slg_skill_500505_level1_effect2",
+    "skill_level_id" : "general_slg_skill_500505_level1",
+    "prerequisite" : "cd[interval]=4&cd[start]=3",
+    "occasion" : "before_attack",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_500505_level1_effect2"
+  }, {
+    "id" : "general_slg_skill_500801_level1_effect1",
+    "skill_level_id" : "general_slg_skill_500801_level1",
+    "prerequisite" : "cd[interval]=4&cd[start]=3",
+    "occasion" : "before_attack",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_500801_level1_effect1"
+  }, {
+    "id" : "general_slg_skill_500801_level2_effect1",
+    "skill_level_id" : "general_slg_skill_500801_level2",
+    "prerequisite" : "cd[interval]=4&cd[start]=3",
+    "occasion" : "before_attack",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_500801_level2_effect1"
+  }, {
+    "id" : "general_slg_skill_500801_level3_effect1",
+    "skill_level_id" : "general_slg_skill_500801_level3",
+    "prerequisite" : "cd[interval]=4&cd[start]=3",
+    "occasion" : "before_attack",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_500801_level3_effect1"
+  }, {
+    "id" : "general_slg_skill_500801_level4_effect1",
+    "skill_level_id" : "general_slg_skill_500801_level4",
+    "prerequisite" : "cd[interval]=4&cd[start]=3",
+    "occasion" : "before_attack",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_500801_level4_effect1"
+  }, {
+    "id" : "general_slg_skill_500801_level5_effect1",
+    "skill_level_id" : "general_slg_skill_500801_level5",
+    "prerequisite" : "cd[interval]=4&cd[start]=3",
+    "occasion" : "before_attack",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_500801_level5_effect1"
+  }, {
+    "id" : "general_slg_skill_500802_level1_effect1",
+    "skill_level_id" : "general_slg_skill_500802_level1",
+    "prerequisite" : "probability=10000",
+    "occasion" : "before_battle",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_500802_level1_effect1"
+  }, {
+    "id" : "general_slg_skill_500802_level2_effect1",
+    "skill_level_id" : "general_slg_skill_500802_level2",
+    "prerequisite" : "probability=10000",
+    "occasion" : "before_battle",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_500802_level2_effect1"
+  }, {
+    "id" : "general_slg_skill_500802_level3_effect1",
+    "skill_level_id" : "general_slg_skill_500802_level3",
+    "prerequisite" : "probability=10000",
+    "occasion" : "before_battle",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_500802_level3_effect1"
+  }, {
+    "id" : "general_slg_skill_500802_level4_effect1",
+    "skill_level_id" : "general_slg_skill_500802_level4",
+    "prerequisite" : "probability=10000",
+    "occasion" : "before_battle",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_500802_level4_effect1"
+  }, {
+    "id" : "general_slg_skill_500802_level5_effect1",
+    "skill_level_id" : "general_slg_skill_500802_level5",
+    "prerequisite" : "probability=10000",
+    "occasion" : "before_battle",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_500802_level5_effect1"
+  }, {
+    "id" : "general_slg_skill_500803_level1_effect1",
+    "skill_level_id" : "general_slg_skill_500803_level1",
+    "prerequisite" : "scene[stage]=attackcity",
+    "occasion" : "before_battle",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_500803_level1_effect1"
+  }, {
+    "id" : "general_slg_skill_500803_level2_effect1",
+    "skill_level_id" : "general_slg_skill_500803_level2",
+    "prerequisite" : "scene[stage]=attackcity",
+    "occasion" : "before_battle",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_500803_level2_effect1"
+  }, {
+    "id" : "general_slg_skill_500803_level3_effect1",
+    "skill_level_id" : "general_slg_skill_500803_level3",
+    "prerequisite" : "scene[stage]=attackcity",
+    "occasion" : "before_battle",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_500803_level3_effect1"
+  }, {
+    "id" : "general_slg_skill_500803_level4_effect1",
+    "skill_level_id" : "general_slg_skill_500803_level4",
+    "prerequisite" : "scene[stage]=attackcity",
+    "occasion" : "before_battle",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_500803_level4_effect1"
+  }, {
+    "id" : "general_slg_skill_500803_level5_effect1",
+    "skill_level_id" : "general_slg_skill_500803_level5",
+    "prerequisite" : "scene[stage]=attackcity",
+    "occasion" : "before_battle",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_500803_level5_effect1"
+  }, {
+    "id" : "general_slg_skill_500804_level1_effect1",
+    "skill_level_id" : "general_slg_skill_500804_level1",
+    "prerequisite" : "probability=1000",
+    "occasion" : "after_attack",
+    "type" : "attack",
+    "config_1" : "1"
+  }, {
+    "id" : "general_slg_skill_500804_level2_effect1",
+    "skill_level_id" : "general_slg_skill_500804_level2",
+    "prerequisite" : "probability=1500",
+    "occasion" : "after_attack",
+    "type" : "attack",
+    "config_1" : "1"
+  }, {
+    "id" : "general_slg_skill_500804_level3_effect1",
+    "skill_level_id" : "general_slg_skill_500804_level3",
+    "prerequisite" : "probability=2000",
+    "occasion" : "after_attack",
+    "type" : "attack",
+    "config_1" : "1"
+  }, {
+    "id" : "general_slg_skill_500804_level4_effect1",
+    "skill_level_id" : "general_slg_skill_500804_level4",
+    "prerequisite" : "probability=2500",
+    "occasion" : "after_attack",
+    "type" : "attack",
+    "config_1" : "1"
+  }, {
+    "id" : "general_slg_skill_500804_level5_effect1",
+    "skill_level_id" : "general_slg_skill_500804_level5",
+    "prerequisite" : "probability=3000",
+    "occasion" : "after_attack",
+    "type" : "attack",
+    "config_1" : "1"
+  }, {
+    "id" : "general_slg_skill_500805_level1_effect1",
+    "skill_level_id" : "general_slg_skill_500805_level1",
+    "prerequisite" : "probability=10000",
+    "occasion" : "before_battle",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_500805_level1_effect1"
+  }, {
+    "id" : "general_slg_skill_400301_level1_effect1",
+    "skill_level_id" : "general_slg_skill_400301_level1",
+    "prerequisite" : "cd[interval]=5&cd[start]=4",
+    "occasion" : "before_attack",
+    "type" : "attack",
+    "config_1" : "0.28"
+  }, {
+    "id" : "general_slg_skill_400301_level2_effect1",
+    "skill_level_id" : "general_slg_skill_400301_level2",
+    "prerequisite" : "cd[interval]=5&cd[start]=4",
+    "occasion" : "before_attack",
+    "type" : "attack",
+    "config_1" : "0.56"
+  }, {
+    "id" : "general_slg_skill_400301_level3_effect1",
+    "skill_level_id" : "general_slg_skill_400301_level3",
+    "prerequisite" : "cd[interval]=5&cd[start]=4",
+    "occasion" : "before_attack",
+    "type" : "attack",
+    "config_1" : "0.84"
+  }, {
+    "id" : "general_slg_skill_400301_level4_effect1",
+    "skill_level_id" : "general_slg_skill_400301_level4",
+    "prerequisite" : "cd[interval]=5&cd[start]=4",
+    "occasion" : "before_attack",
+    "type" : "attack",
+    "config_1" : "1.12"
+  }, {
+    "id" : "general_slg_skill_400301_level5_effect1",
+    "skill_level_id" : "general_slg_skill_400301_level5",
+    "prerequisite" : "cd[interval]=5&cd[start]=4",
+    "occasion" : "before_attack",
+    "type" : "attack",
+    "config_1" : "1.4"
+  }, {
+    "id" : "general_slg_skill_400302_level1_effect1",
+    "skill_level_id" : "general_slg_skill_400302_level1",
+    "prerequisite" : "scene[stage]=garrison",
+    "occasion" : "before_battle",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_400302_level1_effect1"
+  }, {
+    "id" : "general_slg_skill_400302_level2_effect1",
+    "skill_level_id" : "general_slg_skill_400302_level2",
+    "prerequisite" : "scene[stage]=garrison",
+    "occasion" : "before_battle",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_400302_level2_effect1"
+  }, {
+    "id" : "general_slg_skill_400302_level3_effect1",
+    "skill_level_id" : "general_slg_skill_400302_level3",
+    "prerequisite" : "scene[stage]=garrison",
+    "occasion" : "before_battle",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_400302_level3_effect1"
+  }, {
+    "id" : "general_slg_skill_400302_level4_effect1",
+    "skill_level_id" : "general_slg_skill_400302_level4",
+    "prerequisite" : "scene[stage]=garrison",
+    "occasion" : "before_battle",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_400302_level4_effect1"
+  }, {
+    "id" : "general_slg_skill_400302_level5_effect1",
+    "skill_level_id" : "general_slg_skill_400302_level5",
+    "prerequisite" : "scene[stage]=garrison",
+    "occasion" : "before_battle",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_400302_level5_effect1"
+  }, {
+    "id" : "general_slg_skill_400303_level1_effect1",
+    "skill_level_id" : "general_slg_skill_400303_level1",
+    "prerequisite" : "probability=10000",
+    "occasion" : "before_battle",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_400303_level1_effect1"
+  }, {
+    "id" : "general_slg_skill_400303_level2_effect1",
+    "skill_level_id" : "general_slg_skill_400303_level2",
+    "prerequisite" : "probability=10000",
+    "occasion" : "before_battle",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_400303_level2_effect1"
+  }, {
+    "id" : "general_slg_skill_400303_level3_effect1",
+    "skill_level_id" : "general_slg_skill_400303_level3",
+    "prerequisite" : "probability=10000",
+    "occasion" : "before_battle",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_400303_level3_effect1"
+  }, {
+    "id" : "general_slg_skill_400303_level4_effect1",
+    "skill_level_id" : "general_slg_skill_400303_level4",
+    "prerequisite" : "probability=10000",
+    "occasion" : "before_battle",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_400303_level4_effect1"
+  }, {
+    "id" : "general_slg_skill_400303_level5_effect1",
+    "skill_level_id" : "general_slg_skill_400303_level5",
+    "prerequisite" : "probability=10000",
+    "occasion" : "before_battle",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_400303_level5_effect1"
+  }, {
+    "id" : "general_slg_skill_400304_level1_effect1",
+    "skill_level_id" : "general_slg_skill_400304_level1",
+    "prerequisite" : "probability=400",
+    "occasion" : "after_attack",
+    "type" : "attack",
+    "config_1" : "0.7"
+  }, {
+    "id" : "general_slg_skill_400304_level2_effect1",
+    "skill_level_id" : "general_slg_skill_400304_level2",
+    "prerequisite" : "probability=800",
+    "occasion" : "after_attack",
+    "type" : "attack",
+    "config_1" : "0.7"
+  }, {
+    "id" : "general_slg_skill_400304_level3_effect1",
+    "skill_level_id" : "general_slg_skill_400304_level3",
+    "prerequisite" : "probability=1200",
+    "occasion" : "after_attack",
+    "type" : "attack",
+    "config_1" : "0.7"
+  }, {
+    "id" : "general_slg_skill_400304_level4_effect1",
+    "skill_level_id" : "general_slg_skill_400304_level4",
+    "prerequisite" : "probability=1600",
+    "occasion" : "after_attack",
+    "type" : "attack",
+    "config_1" : "0.7"
+  }, {
+    "id" : "general_slg_skill_400304_level5_effect1",
+    "skill_level_id" : "general_slg_skill_400304_level5",
+    "prerequisite" : "probability=2000",
+    "occasion" : "after_attack",
+    "type" : "attack",
+    "config_1" : "0.7"
+  }, {
+    "id" : "general_slg_skill_400305_level1_effect1",
+    "skill_level_id" : "general_slg_skill_400305_level1",
+    "prerequisite" : "cd[interval]=5&cd[start]=4",
+    "occasion" : "before_attack",
+    "type" : "attack",
+    "config_1" : "1.4"
+  }, {
+    "id" : "general_slg_skill_400305_level1_effect2",
+    "skill_level_id" : "general_slg_skill_400305_level1",
+    "prerequisite" : "cd[interval]=5&cd[start]=4",
+    "occasion" : "before_attack",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_400305_level1_effect2"
+  }, {
+    "id" : "general_slg_skill_400501_level1_effect1",
+    "skill_level_id" : "general_slg_skill_400501_level1",
+    "prerequisite" : "cd[interval]=4&cd[start]=3",
+    "occasion" : "before_attack",
+    "type" : "attack",
+    "config_1" : "0.28"
+  }, {
+    "id" : "general_slg_skill_400501_level2_effect1",
+    "skill_level_id" : "general_slg_skill_400501_level2",
+    "prerequisite" : "cd[interval]=4&cd[start]=3",
+    "occasion" : "before_attack",
+    "type" : "attack",
+    "config_1" : "0.56"
+  }, {
+    "id" : "general_slg_skill_400501_level3_effect1",
+    "skill_level_id" : "general_slg_skill_400501_level3",
+    "prerequisite" : "cd[interval]=4&cd[start]=3",
+    "occasion" : "before_attack",
+    "type" : "attack",
+    "config_1" : "0.84"
+  }, {
+    "id" : "general_slg_skill_400501_level4_effect1",
+    "skill_level_id" : "general_slg_skill_400501_level4",
+    "prerequisite" : "cd[interval]=4&cd[start]=3",
+    "occasion" : "before_attack",
+    "type" : "attack",
+    "config_1" : "1.12"
+  }, {
+    "id" : "general_slg_skill_400501_level5_effect1",
+    "skill_level_id" : "general_slg_skill_400501_level5",
+    "prerequisite" : "cd[interval]=4&cd[start]=3",
+    "occasion" : "before_attack",
+    "type" : "attack",
+    "config_1" : "1.4"
+  }, {
+    "id" : "general_slg_skill_400502_level1_effect1",
+    "skill_level_id" : "general_slg_skill_400502_level1",
+    "prerequisite" : "probability=10000",
+    "occasion" : "before_battle",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_400502_level1_effect1"
+  }, {
+    "id" : "general_slg_skill_400502_level2_effect1",
+    "skill_level_id" : "general_slg_skill_400502_level2",
+    "prerequisite" : "probability=10000",
+    "occasion" : "before_battle",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_400502_level2_effect1"
+  }, {
+    "id" : "general_slg_skill_400502_level3_effect1",
+    "skill_level_id" : "general_slg_skill_400502_level3",
+    "prerequisite" : "probability=10000",
+    "occasion" : "before_battle",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_400502_level3_effect1"
+  }, {
+    "id" : "general_slg_skill_400502_level4_effect1",
+    "skill_level_id" : "general_slg_skill_400502_level4",
+    "prerequisite" : "probability=10000",
+    "occasion" : "before_battle",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_400502_level4_effect1"
+  }, {
+    "id" : "general_slg_skill_400502_level5_effect1",
+    "skill_level_id" : "general_slg_skill_400502_level5",
+    "prerequisite" : "probability=10000",
+    "occasion" : "before_battle",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_400502_level5_effect1"
+  }, {
+    "id" : "general_slg_skill_400503_level1_effect1",
+    "skill_level_id" : "general_slg_skill_400503_level1",
+    "prerequisite" : "scene[stage]=jungle",
+    "occasion" : "before_battle",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_400503_level1_effect1"
+  }, {
+    "id" : "general_slg_skill_400503_level2_effect1",
+    "skill_level_id" : "general_slg_skill_400503_level2",
+    "prerequisite" : "scene[stage]=jungle",
+    "occasion" : "before_battle",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_400503_level2_effect1"
+  }, {
+    "id" : "general_slg_skill_400503_level3_effect1",
+    "skill_level_id" : "general_slg_skill_400503_level3",
+    "prerequisite" : "scene[stage]=jungle",
+    "occasion" : "before_battle",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_400503_level3_effect1"
+  }, {
+    "id" : "general_slg_skill_400503_level4_effect1",
+    "skill_level_id" : "general_slg_skill_400503_level4",
+    "prerequisite" : "scene[stage]=jungle",
+    "occasion" : "before_battle",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_400503_level4_effect1"
+  }, {
+    "id" : "general_slg_skill_400503_level5_effect1",
+    "skill_level_id" : "general_slg_skill_400503_level5",
+    "prerequisite" : "scene[stage]=jungle",
+    "occasion" : "before_battle",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_400503_level5_effect1"
+  }, {
+    "id" : "general_slg_skill_400504_level1_effect1",
+    "skill_level_id" : "general_slg_skill_400504_level1",
+    "prerequisite" : "probability=10000",
+    "occasion" : "before_battle",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_400504_level1_effect1"
+  }, {
+    "id" : "general_slg_skill_400504_level2_effect1",
+    "skill_level_id" : "general_slg_skill_400504_level2",
+    "prerequisite" : "probability=10000",
+    "occasion" : "before_battle",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_400504_level2_effect1"
+  }, {
+    "id" : "general_slg_skill_400504_level3_effect1",
+    "skill_level_id" : "general_slg_skill_400504_level3",
+    "prerequisite" : "probability=10000",
+    "occasion" : "before_battle",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_400504_level3_effect1"
+  }, {
+    "id" : "general_slg_skill_400504_level4_effect1",
+    "skill_level_id" : "general_slg_skill_400504_level4",
+    "prerequisite" : "probability=10000",
+    "occasion" : "before_battle",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_400504_level4_effect1"
+  }, {
+    "id" : "general_slg_skill_400504_level5_effect1",
+    "skill_level_id" : "general_slg_skill_400504_level5",
+    "prerequisite" : "probability=10000",
+    "occasion" : "before_battle",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_400504_level5_effect1"
+  }, {
+    "id" : "general_slg_skill_400505_level5_effect1",
+    "skill_level_id" : "general_slg_skill_400505_level1",
+    "prerequisite" : "cd[interval]=3&cd[start]=2",
+    "occasion" : "before_attack",
+    "type" : "attack",
+    "config_1" : "1.4"
+  }, {
+    "id" : "general_slg_skill_400701_level1_effect1",
+    "skill_level_id" : "general_slg_skill_400701_level1",
+    "prerequisite" : "cd[interval]=4&cd[start]=3",
+    "occasion" : "before_attack",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_400701_level1_effect1"
+  }, {
+    "id" : "general_slg_skill_400701_level2_effect1",
+    "skill_level_id" : "general_slg_skill_400701_level2",
+    "prerequisite" : "cd[interval]=4&cd[start]=3",
+    "occasion" : "before_attack",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_400701_level2_effect1"
+  }, {
+    "id" : "general_slg_skill_400701_level3_effect1",
+    "skill_level_id" : "general_slg_skill_400701_level3",
+    "prerequisite" : "cd[interval]=4&cd[start]=3",
+    "occasion" : "before_attack",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_400701_level3_effect1"
+  }, {
+    "id" : "general_slg_skill_400701_level4_effect1",
+    "skill_level_id" : "general_slg_skill_400701_level4",
+    "prerequisite" : "cd[interval]=4&cd[start]=3",
+    "occasion" : "before_attack",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_400701_level4_effect1"
+  }, {
+    "id" : "general_slg_skill_400701_level5_effect1",
+    "skill_level_id" : "general_slg_skill_400701_level5",
+    "prerequisite" : "cd[interval]=4&cd[start]=3",
+    "occasion" : "before_attack",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_400701_level5_effect1"
+  }, {
+    "id" : "general_slg_skill_400702_level1_effect1",
+    "skill_level_id" : "general_slg_skill_400702_level1",
+    "prerequisite" : "probability=10000",
+    "occasion" : "before_battle",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_400702_level1_effect1"
+  }, {
+    "id" : "general_slg_skill_400702_level2_effect1",
+    "skill_level_id" : "general_slg_skill_400702_level2",
+    "prerequisite" : "probability=10000",
+    "occasion" : "before_battle",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_400702_level2_effect1"
+  }, {
+    "id" : "general_slg_skill_400702_level3_effect1",
+    "skill_level_id" : "general_slg_skill_400702_level3",
+    "prerequisite" : "probability=10000",
+    "occasion" : "before_battle",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_400702_level3_effect1"
+  }, {
+    "id" : "general_slg_skill_400702_level4_effect1",
+    "skill_level_id" : "general_slg_skill_400702_level4",
+    "prerequisite" : "probability=10000",
+    "occasion" : "before_battle",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_400702_level4_effect1"
+  }, {
+    "id" : "general_slg_skill_400702_level5_effect1",
+    "skill_level_id" : "general_slg_skill_400702_level5",
+    "prerequisite" : "probability=10000",
+    "occasion" : "before_battle",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_400702_level5_effect1"
+  }, {
+    "id" : "general_slg_skill_400703_level1_effect1",
+    "skill_level_id" : "general_slg_skill_400703_level1",
+    "prerequisite" : "scene[stage]=garrison",
+    "occasion" : "before_battle",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_400703_level1_effect1"
+  }, {
+    "id" : "general_slg_skill_400703_level2_effect1",
+    "skill_level_id" : "general_slg_skill_400703_level2",
+    "prerequisite" : "scene[stage]=garrison",
+    "occasion" : "before_battle",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_400703_level2_effect1"
+  }, {
+    "id" : "general_slg_skill_400703_level3_effect1",
+    "skill_level_id" : "general_slg_skill_400703_level3",
+    "prerequisite" : "scene[stage]=garrison",
+    "occasion" : "before_battle",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_400703_level3_effect1"
+  }, {
+    "id" : "general_slg_skill_400703_level4_effect1",
+    "skill_level_id" : "general_slg_skill_400703_level4",
+    "prerequisite" : "scene[stage]=garrison",
+    "occasion" : "before_battle",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_400703_level4_effect1"
+  }, {
+    "id" : "general_slg_skill_400703_level5_effect1",
+    "skill_level_id" : "general_slg_skill_400703_level5",
+    "prerequisite" : "scene[stage]=garrison",
+    "occasion" : "before_battle",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_400703_level5_effect1"
+  }, {
+    "id" : "general_slg_skill_400704_level1_effect1",
+    "skill_level_id" : "general_slg_skill_400704_level1",
+    "prerequisite" : "probability=10000",
+    "occasion" : "before_battle",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_400704_level1_effect1"
+  }, {
+    "id" : "general_slg_skill_400704_level2_effect1",
+    "skill_level_id" : "general_slg_skill_400704_level2",
+    "prerequisite" : "probability=10000",
+    "occasion" : "before_battle",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_400704_level2_effect1"
+  }, {
+    "id" : "general_slg_skill_400704_level3_effect1",
+    "skill_level_id" : "general_slg_skill_400704_level3",
+    "prerequisite" : "probability=10000",
+    "occasion" : "before_battle",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_400704_level3_effect1"
+  }, {
+    "id" : "general_slg_skill_400704_level4_effect1",
+    "skill_level_id" : "general_slg_skill_400704_level4",
+    "prerequisite" : "probability=10000",
+    "occasion" : "before_battle",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_400704_level4_effect1"
+  }, {
+    "id" : "general_slg_skill_400704_level5_effect1",
+    "skill_level_id" : "general_slg_skill_400704_level5",
+    "prerequisite" : "probability=10000",
+    "occasion" : "before_battle",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_400704_level5_effect1"
+  }, {
+    "id" : "general_slg_skill_400705_level1_effect1",
+    "skill_level_id" : "general_slg_skill_400705_level1",
+    "prerequisite" : "cd[interval]=4&cd[start]=3",
+    "occasion" : "before_attack",
+    "type" : "attack",
+    "config_1" : "0.7"
+  }, {
+    "id" : "general_slg_skill_400705_level1_effect2",
+    "skill_level_id" : "general_slg_skill_400705_level1",
+    "prerequisite" : "cd[interval]=4&cd[start]=3",
+    "occasion" : "before_attack",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_400705_level1_effect2"
+  }, {
+    "id" : "general_slg_skill_300301_level1_effect1",
+    "skill_level_id" : "general_slg_skill_300301_level1",
+    "prerequisite" : "cd[interval]=5&cd[start]=4",
+    "occasion" : "before_attack",
+    "type" : "attack",
+    "config_1" : "0.2"
+  }, {
+    "id" : "general_slg_skill_300301_level2_effect1",
+    "skill_level_id" : "general_slg_skill_300301_level2",
+    "prerequisite" : "cd[interval]=5&cd[start]=4",
+    "occasion" : "before_attack",
+    "type" : "attack",
+    "config_1" : "0.4"
+  }, {
+    "id" : "general_slg_skill_300301_level3_effect1",
+    "skill_level_id" : "general_slg_skill_300301_level3",
+    "prerequisite" : "cd[interval]=5&cd[start]=4",
+    "occasion" : "before_attack",
+    "type" : "attack",
+    "config_1" : "0.6"
+  }, {
+    "id" : "general_slg_skill_300301_level4_effect1",
+    "skill_level_id" : "general_slg_skill_300301_level4",
+    "prerequisite" : "cd[interval]=5&cd[start]=4",
+    "occasion" : "before_attack",
+    "type" : "attack",
+    "config_1" : "0.8"
+  }, {
+    "id" : "general_slg_skill_300301_level5_effect1",
+    "skill_level_id" : "general_slg_skill_300301_level5",
+    "prerequisite" : "cd[interval]=5&cd[start]=4",
+    "occasion" : "before_attack",
+    "type" : "attack",
+    "config_1" : "1"
+  }, {
+    "id" : "general_slg_skill_300302_level1_effect1",
+    "skill_level_id" : "general_slg_skill_300302_level1",
+    "prerequisite" : "probability=10000",
+    "occasion" : "before_battle",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_300302_level1_effect1"
+  }, {
+    "id" : "general_slg_skill_300302_level2_effect1",
+    "skill_level_id" : "general_slg_skill_300302_level2",
+    "prerequisite" : "probability=10000",
+    "occasion" : "before_battle",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_300302_level2_effect1"
+  }, {
+    "id" : "general_slg_skill_300302_level3_effect1",
+    "skill_level_id" : "general_slg_skill_300302_level3",
+    "prerequisite" : "probability=10000",
+    "occasion" : "before_battle",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_300302_level3_effect1"
+  }, {
+    "id" : "general_slg_skill_300302_level4_effect1",
+    "skill_level_id" : "general_slg_skill_300302_level4",
+    "prerequisite" : "probability=10000",
+    "occasion" : "before_battle",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_300302_level4_effect1"
+  }, {
+    "id" : "general_slg_skill_300302_level5_effect1",
+    "skill_level_id" : "general_slg_skill_300302_level5",
+    "prerequisite" : "probability=10000",
+    "occasion" : "before_battle",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_300302_level5_effect1"
+  }, {
+    "id" : "general_slg_skill_300304_level1_effect1",
+    "skill_level_id" : "general_slg_skill_300304_level1",
+    "prerequisite" : "max_trigger=1&self_under_percent=1000",
+    "occasion" : "before_attack",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_300304_level1_effect1"
+  }, {
+    "id" : "general_slg_skill_300304_level2_effect1",
+    "skill_level_id" : "general_slg_skill_300304_level2",
+    "prerequisite" : "max_trigger=1&self_under_percent=1000",
+    "occasion" : "before_attack",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_300304_level2_effect1"
+  }, {
+    "id" : "general_slg_skill_300304_level3_effect1",
+    "skill_level_id" : "general_slg_skill_300304_level3",
+    "prerequisite" : "max_trigger=1&self_under_percent=1000",
+    "occasion" : "before_attack",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_300304_level3_effect1"
+  }, {
+    "id" : "general_slg_skill_300304_level4_effect1",
+    "skill_level_id" : "general_slg_skill_300304_level4",
+    "prerequisite" : "max_trigger=1&self_under_percent=1000",
+    "occasion" : "before_attack",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_300304_level4_effect1"
+  }, {
+    "id" : "general_slg_skill_300304_level5_effect1",
+    "skill_level_id" : "general_slg_skill_300304_level5",
+    "prerequisite" : "max_trigger=1&self_under_percent=1000",
+    "occasion" : "before_attack",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_300304_level5_effect1"
+  }, {
+    "id" : "general_slg_skill_200101_level1_effect1",
+    "skill_level_id" : "general_slg_skill_200101_level1",
+    "prerequisite" : "cd[interval]=5&cd[start]=4",
+    "occasion" : "before_attack",
+    "type" : "attack",
+    "config_1" : "0.1"
+  }, {
+    "id" : "general_slg_skill_200101_level2_effect1",
+    "skill_level_id" : "general_slg_skill_200101_level2",
+    "prerequisite" : "cd[interval]=5&cd[start]=4",
+    "occasion" : "before_attack",
+    "type" : "attack",
+    "config_1" : "0.2"
+  }, {
+    "id" : "general_slg_skill_200101_level3_effect1",
+    "skill_level_id" : "general_slg_skill_200101_level3",
+    "prerequisite" : "cd[interval]=5&cd[start]=4",
+    "occasion" : "before_attack",
+    "type" : "attack",
+    "config_1" : "0.3"
+  }, {
+    "id" : "general_slg_skill_200101_level4_effect1",
+    "skill_level_id" : "general_slg_skill_200101_level4",
+    "prerequisite" : "cd[interval]=5&cd[start]=4",
+    "occasion" : "before_attack",
+    "type" : "attack",
+    "config_1" : "0.4"
+  }, {
+    "id" : "general_slg_skill_200101_level5_effect1",
+    "skill_level_id" : "general_slg_skill_200101_level5",
+    "prerequisite" : "cd[interval]=5&cd[start]=4",
+    "occasion" : "before_attack",
+    "type" : "attack",
+    "config_1" : "0.5"
+  }, {
+    "id" : "general_slg_skill_200102_level1_effect1",
+    "skill_level_id" : "general_slg_skill_200102_level1",
+    "prerequisite" : "self_unit=mixed",
+    "occasion" : "before_battle",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_200102_level1_effect1"
+  }, {
+    "id" : "general_slg_skill_200102_level2_effect1",
+    "skill_level_id" : "general_slg_skill_200102_level2",
+    "prerequisite" : "self_unit=mixed",
+    "occasion" : "before_battle",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_200102_level2_effect1"
+  }, {
+    "id" : "general_slg_skill_200102_level3_effect1",
+    "skill_level_id" : "general_slg_skill_200102_level3",
+    "prerequisite" : "self_unit=mixed",
+    "occasion" : "before_battle",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_200102_level3_effect1"
+  }, {
+    "id" : "general_slg_skill_200102_level4_effect1",
+    "skill_level_id" : "general_slg_skill_200102_level4",
+    "prerequisite" : "self_unit=mixed",
+    "occasion" : "before_battle",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_200102_level4_effect1"
+  }, {
+    "id" : "general_slg_skill_200102_level5_effect1",
+    "skill_level_id" : "general_slg_skill_200102_level5",
+    "prerequisite" : "self_unit=mixed",
+    "occasion" : "before_battle",
+    "type" : "buff",
+    "config_1" : "general_slg_skill_buff_200102_level5_effect1"
+  } ]
+}

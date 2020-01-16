@@ -1,0 +1,283 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "id1" : "id1@itemlist.id",
+    "category" : "category@string",
+    "type" : "type@string",
+    "type_loc" : "type_loc@string",
+    "type_desc_loc" : "type_desc_loc@string",
+    "type_image" : "type_image@string",
+    "onsale" : "onsale@int",
+    "id2" : "id2@shop.id"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "id1" : "itemid",
+    "category" : "类别",
+    "type" : "类型",
+    "type_loc" : "类型名称",
+    "type_desc_loc" : "类型描述",
+    "type_image" : "类型图片",
+    "onsale" : "是否售卖",
+    "id2" : "shop_id"
+  }, {
+    "id" : "1",
+    "id1" : "item_boost_marchsize_25%",
+    "category" : "battle",
+    "type" : "marchsize",
+    "type_loc" : "boost_type_marchsize",
+    "type_desc_loc" : "boost_type_marchsize_description",
+    "type_image" : "marchsize",
+    "onsale" : "1",
+    "id2" : "shopitem_marchsize_25%"
+  }, {
+    "id" : "2",
+    "id1" : "item_boost_marchsize_50%",
+    "category" : "battle",
+    "type" : "marchsize",
+    "type_loc" : "boost_type_marchsize",
+    "type_desc_loc" : "boost_type_marchsize_description",
+    "type_image" : "marchsize",
+    "onsale" : "0"
+  }, {
+    "id" : "3",
+    "id1" : "item_boost_lessattack_12h",
+    "category" : "battle",
+    "type" : "attack",
+    "type_loc" : "boost_type_attack",
+    "type_desc_loc" : "boost_type_attack_description",
+    "type_image" : "attack",
+    "onsale" : "1",
+    "id2" : "shopitem_lessattack_12h"
+  }, {
+    "id" : "4",
+    "id1" : "item_boost_greatattack_12h",
+    "category" : "battle",
+    "type" : "attack",
+    "type_loc" : "boost_type_attack",
+    "type_desc_loc" : "boost_type_attack_description",
+    "type_image" : "attack",
+    "onsale" : "1",
+    "id2" : "shopitem_greatattack_12h"
+  }, {
+    "id" : "5",
+    "id1" : "item_boost_superattack_12h",
+    "category" : "battle",
+    "type" : "attack",
+    "type_loc" : "boost_type_attack",
+    "type_desc_loc" : "boost_type_attack_description",
+    "type_image" : "attack",
+    "onsale" : "1",
+    "id2" : "shopitem_superattack_12h"
+  }, {
+    "id" : "6",
+    "id1" : "item_boost_lessdefense_12h",
+    "category" : "battle",
+    "type" : "defense",
+    "type_loc" : "boost_type_defense",
+    "type_desc_loc" : "boost_type_defense_description",
+    "type_image" : "defense",
+    "onsale" : "1",
+    "id2" : "shopitem_lessdefense_12h"
+  }, {
+    "id" : "7",
+    "id1" : "item_boost_greatdefense_12h",
+    "category" : "battle",
+    "type" : "defense",
+    "type_loc" : "boost_type_defense",
+    "type_desc_loc" : "boost_type_defense_description",
+    "type_image" : "defense",
+    "onsale" : "1",
+    "id2" : "shopitem_greatdefense_12h"
+  }, {
+    "id" : "8",
+    "id1" : "item_boost_superdefense_12h",
+    "category" : "battle",
+    "type" : "defense",
+    "type_loc" : "boost_type_defense",
+    "type_desc_loc" : "boost_type_defense_description",
+    "type_image" : "defense",
+    "onsale" : "1",
+    "id2" : "shopitem_superdefense_12h"
+  }, {
+    "id" : "9",
+    "id1" : "item_boost_gatherspeed_24h",
+    "category" : "general",
+    "type" : "gatherspeed",
+    "type_loc" : "boost_type_gatherspeed",
+    "type_desc_loc" : "boost_type_gatherspeed_description",
+    "type_image" : "gatherspeed",
+    "onsale" : "1",
+    "id2" : "shopitem_gatherspeed_24h"
+  }, {
+    "id" : "10",
+    "id1" : "item_boost_gatherspeed_3d",
+    "category" : "general",
+    "type" : "gatherspeed",
+    "type_loc" : "boost_type_gatherspeed",
+    "type_desc_loc" : "boost_type_gatherspeed_description",
+    "type_image" : "gatherspeed",
+    "onsale" : "0",
+    "id2" : "shopitem_gatherspeed_3d"
+  }, {
+    "id" : "11",
+    "id1" : "item_boost_gatherspeed_7d",
+    "category" : "general",
+    "type" : "gatherspeed",
+    "type_loc" : "boost_type_gatherspeed",
+    "type_desc_loc" : "boost_type_gatherspeed_description",
+    "type_image" : "gatherspeed",
+    "onsale" : "0",
+    "id2" : "shopitem_gatherspeed_7d"
+  }, {
+    "id" : "12",
+    "id1" : "item_boost_peaceshield_2h",
+    "category" : "battle",
+    "type" : "peaceshield",
+    "type_loc" : "boost_type_peaceshield",
+    "type_desc_loc" : "boost_type_peaceshield_description",
+    "type_image" : "peaceshield",
+    "onsale" : "1",
+    "id2" : "shopitem_peaceshield_2h"
+  }, {
+    "id" : "13",
+    "id1" : "item_boost_peaceshield_12h",
+    "category" : "battle",
+    "type" : "peaceshield",
+    "type_loc" : "boost_type_peaceshield",
+    "type_desc_loc" : "boost_type_peaceshield_description",
+    "type_image" : "peaceshield",
+    "onsale" : "1",
+    "id2" : "shopitem_peaceshield_12h"
+  }, {
+    "id" : "14",
+    "id1" : "item_boost_peaceshield_24h",
+    "category" : "battle",
+    "type" : "peaceshield",
+    "type_loc" : "boost_type_peaceshield",
+    "type_desc_loc" : "boost_type_peaceshield_description",
+    "type_image" : "peaceshield",
+    "onsale" : "1",
+    "id2" : "shopitem_peaceshield_24h"
+  }, {
+    "id" : "15",
+    "id1" : "item_boost_antiscout_2h",
+    "category" : "battle",
+    "type" : "antiscout",
+    "type_loc" : "boost_type_antiscout",
+    "type_desc_loc" : "boost_type_antiscout_description",
+    "type_image" : "antiscout",
+    "onsale" : "1",
+    "id2" : "shopitem_antiscout_2h"
+  }, {
+    "id" : "16",
+    "id1" : "item_boost_antiscout_6h",
+    "category" : "battle",
+    "type" : "antiscout",
+    "type_loc" : "boost_type_antiscout",
+    "type_desc_loc" : "boost_type_antiscout_description",
+    "type_image" : "antiscout",
+    "onsale" : "1",
+    "id2" : "shopitem_antiscout_6h"
+  }, {
+    "id" : "17",
+    "id1" : "item_boost_antiscout_12h",
+    "category" : "battle",
+    "type" : "antiscout",
+    "type_loc" : "boost_type_antiscout",
+    "type_desc_loc" : "boost_type_antiscout_description",
+    "type_image" : "antiscout",
+    "onsale" : "1",
+    "id2" : "shopitem_antiscout_12h"
+  }, {
+    "id" : "18",
+    "id1" : "item_boost_gatherspeed_8h",
+    "category" : "general",
+    "type" : "gatherspeed",
+    "type_loc" : "boost_type_gatherspeed",
+    "type_desc_loc" : "boost_type_gatherspeed_description",
+    "type_image" : "gatherspeed",
+    "onsale" : "0"
+  }, {
+    "id" : "19",
+    "id1" : "item_boost_lessattack_2h",
+    "category" : "battle",
+    "type" : "attack",
+    "type_loc" : "boost_type_attack",
+    "type_desc_loc" : "boost_type_attack_description",
+    "type_image" : "attack",
+    "onsale" : "0"
+  }, {
+    "id" : "20",
+    "id1" : "item_boost_greatattack_2h",
+    "category" : "battle",
+    "type" : "attack",
+    "type_loc" : "boost_type_attack",
+    "type_desc_loc" : "boost_type_attack_description",
+    "type_image" : "attack",
+    "onsale" : "0"
+  }, {
+    "id" : "21",
+    "id1" : "item_boost_superattack_2h",
+    "category" : "battle",
+    "type" : "attack",
+    "type_loc" : "boost_type_attack",
+    "type_desc_loc" : "boost_type_attack_description",
+    "type_image" : "attack",
+    "onsale" : "0"
+  }, {
+    "id" : "22",
+    "id1" : "item_boost_lessdefense_2h",
+    "category" : "battle",
+    "type" : "defense",
+    "type_loc" : "boost_type_defense",
+    "type_desc_loc" : "boost_type_defense_description",
+    "type_image" : "defense",
+    "onsale" : "0"
+  }, {
+    "id" : "23",
+    "id1" : "item_boost_greatdefense_2h",
+    "category" : "battle",
+    "type" : "defense",
+    "type_loc" : "boost_type_defense",
+    "type_desc_loc" : "boost_type_defense_description",
+    "type_image" : "defense",
+    "onsale" : "0"
+  }, {
+    "id" : "24",
+    "id1" : "item_boost_superdefense_2h",
+    "category" : "battle",
+    "type" : "defense",
+    "type_loc" : "boost_type_defense",
+    "type_desc_loc" : "boost_type_defense_description",
+    "type_image" : "defense",
+    "onsale" : "0"
+  }, {
+    "id" : "25",
+    "id1" : "item_boost_marchsize_25%_2h",
+    "category" : "battle",
+    "type" : "marchsize",
+    "type_loc" : "boost_type_marchsize",
+    "type_desc_loc" : "boost_type_marchsize_description",
+    "type_image" : "marchsize",
+    "onsale" : "0"
+  }, {
+    "id" : "26",
+    "id1" : "item_boost_marchsize_50%_2h",
+    "category" : "battle",
+    "type" : "marchsize",
+    "type_loc" : "boost_type_marchsize",
+    "type_desc_loc" : "boost_type_marchsize_description",
+    "type_image" : "marchsize",
+    "onsale" : "0"
+  }, {
+    "id" : "27",
+    "id1" : "item_boost_alert_8h",
+    "category" : "battle",
+    "type" : "alert",
+    "type_loc" : "boost_type_alert",
+    "type_desc_loc" : "boost_type_alert_description",
+    "type_image" : "alert",
+    "onsale" : "0"
+  } ]
+}

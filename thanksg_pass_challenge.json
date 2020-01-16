@@ -1,0 +1,340 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "group_id" : "group_id@string",
+    "type" : "type@string",
+    "category" : "category@thanksg_pass_challenge_category.id",
+    "formula" : "formula@string",
+    "exp" : "exp@int",
+    "local_key" : "local_key@string^c"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "group_id" : "组id",
+    "type" : "类型",
+    "category" : "类别",
+    "formula" : "公式",
+    "exp" : "经验",
+    "local_key" : "多语言key"
+  }, {
+    "id" : "thanksg_pass_challenge_group_daily_1",
+    "group_id" : "thanksg_pass_challenge_group_1",
+    "type" : "daily",
+    "category" : "alliance_donate",
+    "formula" : "times=10",
+    "exp" : "71",
+    "local_key" : "honor_pass_challenge_alliance_donate_times"
+  }, {
+    "id" : "thanksg_pass_challenge_group_daily_2",
+    "group_id" : "thanksg_pass_challenge_group_1",
+    "type" : "daily",
+    "category" : "alliance_donate",
+    "formula" : "times=24",
+    "exp" : "71",
+    "local_key" : "honor_pass_challenge_alliance_donate_times"
+  }, {
+    "id" : "thanksg_pass_challenge_group_daily_3",
+    "group_id" : "thanksg_pass_challenge_group_1",
+    "type" : "daily",
+    "category" : "alliance_donate",
+    "formula" : "times=48",
+    "exp" : "71",
+    "local_key" : "honor_pass_challenge_alliance_donate_times"
+  }, {
+    "id" : "thanksg_pass_challenge_group_daily_4",
+    "group_id" : "thanksg_pass_challenge_group_1",
+    "type" : "daily",
+    "category" : "alliance_donate",
+    "formula" : "times=72",
+    "exp" : "71",
+    "local_key" : "honor_pass_challenge_alliance_donate_times"
+  }, {
+    "id" : "thanksg_pass_challenge_group_daily_5",
+    "group_id" : "thanksg_pass_challenge_group_1",
+    "type" : "daily",
+    "category" : "alliance_help",
+    "formula" : "times=5",
+    "exp" : "28",
+    "local_key" : "honor_pass_challenge_alliance_help_times"
+  }, {
+    "id" : "thanksg_pass_challenge_group_daily_6",
+    "group_id" : "thanksg_pass_challenge_group_1",
+    "type" : "daily",
+    "category" : "alliance_help",
+    "formula" : "times=10",
+    "exp" : "28",
+    "local_key" : "honor_pass_challenge_alliance_help_times"
+  }, {
+    "id" : "thanksg_pass_challenge_group_daily_7",
+    "group_id" : "thanksg_pass_challenge_group_1",
+    "type" : "daily",
+    "category" : "alliance_help",
+    "formula" : "times=15",
+    "exp" : "28",
+    "local_key" : "honor_pass_challenge_alliance_help_times"
+  }, {
+    "id" : "thanksg_pass_challenge_group_daily_8",
+    "group_id" : "thanksg_pass_challenge_group_1",
+    "type" : "daily",
+    "category" : "alliance_help",
+    "formula" : "times=20",
+    "exp" : "28",
+    "local_key" : "honor_pass_challenge_alliance_help_times"
+  }, {
+    "id" : "thanksg_pass_challenge_group_daily_9",
+    "group_id" : "thanksg_pass_challenge_group_1",
+    "type" : "daily",
+    "category" : "alliance_help",
+    "formula" : "times=25",
+    "exp" : "28",
+    "local_key" : "honor_pass_challenge_alliance_help_times"
+  }, {
+    "id" : "thanksg_pass_challenge_group_daily_10",
+    "group_id" : "thanksg_pass_challenge_group_1",
+    "type" : "daily",
+    "category" : "npc_store",
+    "formula" : "buy_times=5",
+    "exp" : "95",
+    "local_key" : "honor_pass_challenge_npc_store_buy_times"
+  }, {
+    "id" : "thanksg_pass_challenge_group_daily_11",
+    "group_id" : "thanksg_pass_challenge_group_1",
+    "type" : "daily",
+    "category" : "npc_store",
+    "formula" : "buy_times=10",
+    "exp" : "95",
+    "local_key" : "honor_pass_challenge_npc_store_buy_times"
+  }, {
+    "id" : "thanksg_pass_challenge_group_daily_12",
+    "group_id" : "thanksg_pass_challenge_group_1",
+    "type" : "daily",
+    "category" : "npc_store",
+    "formula" : "buy_times=20",
+    "exp" : "95",
+    "local_key" : "honor_pass_challenge_npc_store_buy_times"
+  }, {
+    "id" : "thanksg_pass_challenge_group_daily_13",
+    "group_id" : "thanksg_pass_challenge_group_1",
+    "type" : "daily",
+    "category" : "gather_resource",
+    "formula" : "load=400000",
+    "exp" : "85",
+    "local_key" : "honor_pass_challenge_gather_resource_load"
+  }, {
+    "id" : "thanksg_pass_challenge_group_daily_14",
+    "group_id" : "thanksg_pass_challenge_group_1",
+    "type" : "daily",
+    "category" : "gather_resource",
+    "formula" : "load=800000",
+    "exp" : "85",
+    "local_key" : "honor_pass_challenge_gather_resource_load"
+  }, {
+    "id" : "thanksg_pass_challenge_group_daily_15",
+    "group_id" : "thanksg_pass_challenge_group_1",
+    "type" : "daily",
+    "category" : "gather_resource",
+    "formula" : "load=1600000",
+    "exp" : "85",
+    "local_key" : "honor_pass_challenge_gather_resource_load"
+  }, {
+    "id" : "thanksg_pass_challenge_group_daily_16",
+    "group_id" : "thanksg_pass_challenge_group_1",
+    "type" : "daily",
+    "category" : "gather_resource",
+    "formula" : "load=2500000",
+    "exp" : "85",
+    "local_key" : "honor_pass_challenge_gather_resource_load"
+  }, {
+    "id" : "thanksg_pass_challenge_group_daily_17",
+    "group_id" : "thanksg_pass_challenge_group_1",
+    "type" : "daily",
+    "category" : "gather_resource",
+    "formula" : "load=4000000",
+    "exp" : "85",
+    "local_key" : "honor_pass_challenge_gather_resource_load"
+  }, {
+    "id" : "thanksg_pass_challenge_group_daily_18",
+    "group_id" : "thanksg_pass_challenge_group_1",
+    "type" : "daily",
+    "category" : "use_lord_spirit",
+    "formula" : "value=40",
+    "exp" : "57",
+    "local_key" : "honor_pass_challenge_use_lord_spirit"
+  }, {
+    "id" : "thanksg_pass_challenge_group_daily_19",
+    "group_id" : "thanksg_pass_challenge_group_1",
+    "type" : "daily",
+    "category" : "use_lord_spirit",
+    "formula" : "value=80",
+    "exp" : "57",
+    "local_key" : "honor_pass_challenge_use_lord_spirit"
+  }, {
+    "id" : "thanksg_pass_challenge_group_daily_20",
+    "group_id" : "thanksg_pass_challenge_group_1",
+    "type" : "daily",
+    "category" : "use_lord_spirit",
+    "formula" : "value=120",
+    "exp" : "57",
+    "local_key" : "honor_pass_challenge_use_lord_spirit"
+  }, {
+    "id" : "thanksg_pass_challenge_group_daily_21",
+    "group_id" : "thanksg_pass_challenge_group_1",
+    "type" : "daily",
+    "category" : "use_lord_spirit",
+    "formula" : "value=160",
+    "exp" : "57",
+    "local_key" : "honor_pass_challenge_use_lord_spirit"
+  }, {
+    "id" : "thanksg_pass_challenge_group_daily_22",
+    "group_id" : "thanksg_pass_challenge_group_1",
+    "type" : "daily",
+    "category" : "use_lord_spirit",
+    "formula" : "value=200",
+    "exp" : "57",
+    "local_key" : "honor_pass_challenge_use_lord_spirit"
+  }, {
+    "id" : "thanksg_pass_challenge_group_daily_27",
+    "group_id" : "thanksg_pass_challenge_group_1",
+    "type" : "daily",
+    "category" : "train_troops",
+    "formula" : "power=60000",
+    "exp" : "85",
+    "local_key" : "honor_pass_challenge_train_troops_power"
+  }, {
+    "id" : "thanksg_pass_challenge_group_daily_28",
+    "group_id" : "thanksg_pass_challenge_group_1",
+    "type" : "daily",
+    "category" : "train_troops",
+    "formula" : "power=120000",
+    "exp" : "85",
+    "local_key" : "honor_pass_challenge_train_troops_power"
+  }, {
+    "id" : "thanksg_pass_challenge_group_daily_29",
+    "group_id" : "thanksg_pass_challenge_group_1",
+    "type" : "daily",
+    "category" : "train_troops",
+    "formula" : "power=240000",
+    "exp" : "85",
+    "local_key" : "honor_pass_challenge_train_troops_power"
+  }, {
+    "id" : "thanksg_pass_challenge_group_daily_30",
+    "group_id" : "thanksg_pass_challenge_group_1",
+    "type" : "daily",
+    "category" : "train_troops",
+    "formula" : "power=360000",
+    "exp" : "85",
+    "local_key" : "honor_pass_challenge_train_troops_power"
+  }, {
+    "id" : "thanksg_pass_challenge_group_daily_31",
+    "group_id" : "thanksg_pass_challenge_group_1",
+    "type" : "daily",
+    "category" : "train_troops",
+    "formula" : "power=600000",
+    "exp" : "85",
+    "local_key" : "honor_pass_challenge_train_troops_power"
+  }, {
+    "id" : "thanksg_pass_challenge_group_daily_32",
+    "group_id" : "thanksg_pass_challenge_group_1",
+    "type" : "daily",
+    "category" : "use_speedups",
+    "formula" : "time=18000",
+    "exp" : "142",
+    "local_key" : "honor_pass_challenge_use_speedups"
+  }, {
+    "id" : "thanksg_pass_challenge_group_daily_33",
+    "group_id" : "thanksg_pass_challenge_group_1",
+    "type" : "daily",
+    "category" : "use_speedups",
+    "formula" : "time=54000",
+    "exp" : "142",
+    "local_key" : "honor_pass_challenge_use_speedups"
+  }, {
+    "id" : "thanksg_pass_challenge_group_daily_34",
+    "group_id" : "thanksg_pass_challenge_group_1",
+    "type" : "daily",
+    "category" : "use_speedups",
+    "formula" : "time=90000",
+    "exp" : "142",
+    "local_key" : "honor_pass_challenge_use_speedups"
+  }, {
+    "id" : "thanksg_pass_challenge_group_daily_35",
+    "group_id" : "thanksg_pass_challenge_group_1",
+    "type" : "daily",
+    "category" : "use_speedups",
+    "formula" : "time=180000",
+    "exp" : "142",
+    "local_key" : "honor_pass_challenge_use_speedups"
+  }, {
+    "id" : "thanksg_pass_challenge_group_daily_39",
+    "group_id" : "thanksg_pass_challenge_group_1",
+    "type" : "daily",
+    "category" : "collect_timer_chest",
+    "formula" : "times=2",
+    "exp" : "47",
+    "local_key" : "honor_pass_challenge_collect_timer_chest_times"
+  }, {
+    "id" : "thanksg_pass_challenge_group_daily_40",
+    "group_id" : "thanksg_pass_challenge_group_1",
+    "type" : "daily",
+    "category" : "collect_timer_chest",
+    "formula" : "times=4",
+    "exp" : "47",
+    "local_key" : "honor_pass_challenge_collect_timer_chest_times"
+  }, {
+    "id" : "thanksg_pass_challenge_group_daily_41",
+    "group_id" : "thanksg_pass_challenge_group_1",
+    "type" : "daily",
+    "category" : "collect_timer_chest",
+    "formula" : "times=6",
+    "exp" : "47",
+    "local_key" : "honor_pass_challenge_collect_timer_chest_times"
+  }, {
+    "id" : "thanksg_pass_challenge_group_daily_42",
+    "group_id" : "thanksg_pass_challenge_group_1",
+    "type" : "daily",
+    "category" : "open_alliance_chest",
+    "formula" : "times=2",
+    "exp" : "47",
+    "local_key" : "honor_pass_challenge_open_alliance_chest_times"
+  }, {
+    "id" : "thanksg_pass_challenge_group_daily_43",
+    "group_id" : "thanksg_pass_challenge_group_1",
+    "type" : "daily",
+    "category" : "open_alliance_chest",
+    "formula" : "times=4",
+    "exp" : "47",
+    "local_key" : "honor_pass_challenge_open_alliance_chest_times"
+  }, {
+    "id" : "thanksg_pass_challenge_group_daily_44",
+    "group_id" : "thanksg_pass_challenge_group_1",
+    "type" : "daily",
+    "category" : "open_alliance_chest",
+    "formula" : "times=6",
+    "exp" : "47",
+    "local_key" : "honor_pass_challenge_open_alliance_chest_times"
+  }, {
+    "id" : "thanksg_pass_challenge_group_daily_45",
+    "group_id" : "thanksg_pass_challenge_group_1",
+    "type" : "daily",
+    "category" : "roguelike_stamina",
+    "formula" : "value=50",
+    "exp" : "95",
+    "local_key" : "honor_pass_challenge_roguelike_stamina"
+  }, {
+    "id" : "thanksg_pass_challenge_group_daily_46",
+    "group_id" : "thanksg_pass_challenge_group_1",
+    "type" : "daily",
+    "category" : "roguelike_stamina",
+    "formula" : "value=100",
+    "exp" : "95",
+    "local_key" : "honor_pass_challenge_roguelike_stamina"
+  }, {
+    "id" : "thanksg_pass_challenge_group_daily_47",
+    "group_id" : "thanksg_pass_challenge_group_1",
+    "type" : "daily",
+    "category" : "roguelike_stamina",
+    "formula" : "value=150",
+    "exp" : "95",
+    "local_key" : "honor_pass_challenge_roguelike_stamina"
+  } ]
+}

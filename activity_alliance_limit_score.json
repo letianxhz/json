@@ -1,0 +1,164 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "activity_id" : "activity_id@activity_alliance_limit_main.id",
+    "type" : "type@string",
+    "in_alliance" : "in_alliance@int",
+    "param" : "param@string",
+    "param2" : "param2@string",
+    "score" : "score@int",
+    "limit" : "limit@int",
+    "description" : "description@string",
+    "goto_id" : "goto_id@goto.id"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "activity_id" : "活动id",
+    "type" : "积分类型",
+    "in_alliance" : "是否必须在联盟\n1:是，0：否",
+    "param" : "积分参数",
+    "param2" : "积分参数2",
+    "score" : "单次积分",
+    "limit" : "单日上限",
+    "description" : "活动多语言描述",
+    "goto_id" : "跳转"
+  }, {
+    "id" : "1",
+    "activity_id" : "alliance_limit_1",
+    "type" : "help",
+    "in_alliance" : "1",
+    "param" : "1",
+    "score" : "1",
+    "limit" : "100",
+    "description" : "alliance_limit_help",
+    "goto_id" : "47"
+  }, {
+    "id" : "2",
+    "activity_id" : "alliance_limit_1",
+    "type" : "pve",
+    "in_alliance" : "1",
+    "param" : "1",
+    "score" : "10",
+    "limit" : "20",
+    "description" : "alliance_limit_pve",
+    "goto_id" : "18"
+  }, {
+    "id" : "3",
+    "activity_id" : "alliance_limit_2",
+    "type" : "donate",
+    "in_alliance" : "1",
+    "param" : "1",
+    "score" : "5",
+    "limit" : "100",
+    "description" : "alliance_limit_donate",
+    "goto_id" : "47"
+  }, {
+    "id" : "4",
+    "activity_id" : "alliance_limit_2",
+    "type" : "gve",
+    "in_alliance" : "1",
+    "param" : "1",
+    "score" : "20",
+    "limit" : "10",
+    "description" : "alliance_limit_gve",
+    "goto_id" : "18"
+  }, {
+    "id" : "5",
+    "activity_id" : "alliance_limit_2",
+    "type" : "army_power",
+    "in_alliance" : "1",
+    "param" : "100",
+    "score" : "5",
+    "limit" : "-1",
+    "description" : "alliance_limit_army_power",
+    "goto_id" : "99"
+  }, {
+    "id" : "6",
+    "activity_id" : "alliance_limit_3",
+    "type" : "symphony",
+    "in_alliance" : "1",
+    "param" : "100",
+    "score" : "1",
+    "limit" : "-1",
+    "description" : "alliance_limit_symphony"
+  }, {
+    "id" : "7",
+    "activity_id" : "alliance_limit_3",
+    "type" : "rogue_like",
+    "in_alliance" : "1",
+    "param" : "1",
+    "score" : "5",
+    "limit" : "100",
+    "description" : "alliance_limit_rogue_like",
+    "goto_id" : "212"
+  }, {
+    "id" : "8",
+    "activity_id" : "alliance_limit_1_1",
+    "type" : "help",
+    "in_alliance" : "1",
+    "param" : "1",
+    "score" : "1",
+    "limit" : "100",
+    "description" : "alliance_limit_help",
+    "goto_id" : "47"
+  }, {
+    "id" : "9",
+    "activity_id" : "alliance_limit_1_1",
+    "type" : "pve",
+    "in_alliance" : "1",
+    "param" : "1",
+    "score" : "10",
+    "limit" : "20",
+    "description" : "alliance_limit_pve",
+    "goto_id" : "18"
+  }, {
+    "id" : "10",
+    "activity_id" : "alliance_limit_1_2",
+    "type" : "donate",
+    "in_alliance" : "1",
+    "param" : "1",
+    "score" : "5",
+    "limit" : "100",
+    "description" : "alliance_limit_donate",
+    "goto_id" : "47"
+  }, {
+    "id" : "11",
+    "activity_id" : "alliance_limit_1_2",
+    "type" : "gve",
+    "in_alliance" : "1",
+    "param" : "1",
+    "score" : "20",
+    "limit" : "10",
+    "description" : "alliance_limit_gve",
+    "goto_id" : "18"
+  }, {
+    "id" : "12",
+    "activity_id" : "alliance_limit_1_2",
+    "type" : "army_power",
+    "in_alliance" : "1",
+    "param" : "100",
+    "score" : "5",
+    "limit" : "-1",
+    "description" : "alliance_limit_army_power",
+    "goto_id" : "99"
+  }, {
+    "id" : "13",
+    "activity_id" : "alliance_limit_1_3",
+    "type" : "symphony",
+    "in_alliance" : "1",
+    "param" : "100",
+    "score" : "1",
+    "limit" : "-1",
+    "description" : "alliance_limit_symphony"
+  }, {
+    "id" : "14",
+    "activity_id" : "alliance_limit_1_3",
+    "type" : "rogue_like",
+    "in_alliance" : "1",
+    "param" : "1",
+    "score" : "5",
+    "limit" : "100",
+    "description" : "alliance_limit_rogue_like",
+    "goto_id" : "212"
+  } ]
+}

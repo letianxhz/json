@@ -1,0 +1,125 @@
+{
+  "header" : {
+    "id" : "id",
+    "type" : "type",
+    "ref_id" : "ref_id",
+    "count" : "count",
+    "slot_id" : "slot_id",
+    "ab_test" : "ab_test"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "type" : "类型",
+    "ref_id" : "指向id",
+    "count" : "数量",
+    "slot_id" : "槽位类型",
+    "ab_test" : "是否ab_test"
+  }, {
+    "id" : "1",
+    "type" : "troop",
+    "ref_id" : "tank_t1",
+    "count" : "120",
+    "ab_test" : "0"
+  }, {
+    "id" : "2",
+    "type" : "troop",
+    "ref_id" : "aircraft_t1",
+    "count" : "0",
+    "ab_test" : "0"
+  }, {
+    "id" : "3",
+    "type" : "troop",
+    "ref_id" : "artillery_t1",
+    "count" : "120",
+    "ab_test" : "0"
+  }, {
+    "id" : "4",
+    "type" : "resource",
+    "ref_id" : "food",
+    "count" : "100000",
+    "ab_test" : "0"
+  }, {
+    "id" : "5",
+    "type" : "resource",
+    "ref_id" : "wood",
+    "count" : "100000",
+    "ab_test" : "0"
+  }, {
+    "id" : "6",
+    "type" : "resource",
+    "ref_id" : "ore",
+    "count" : "4000",
+    "ab_test" : "0"
+  }, {
+    "id" : "7",
+    "type" : "resource",
+    "ref_id" : "silver",
+    "count" : "1000",
+    "ab_test" : "0"
+  }, {
+    "id" : "8",
+    "type" : "gold",
+    "ref_id" : "gold",
+    "count" : "0",
+    "ab_test" : "0"
+  }, {
+    "id" : "9",
+    "type" : "building",
+    "ref_id" : "stronghold_1",
+    "count" : "1",
+    "slot_id" : "4",
+    "ab_test" : "0"
+  }, {
+    "id" : "10",
+    "type" : "building",
+    "ref_id" : "walls_1",
+    "count" : "1",
+    "slot_id" : "5",
+    "ab_test" : "0"
+  }, {
+    "id" : "11",
+    "type" : "building",
+    "ref_id" : "parade_0",
+    "count" : "1",
+    "slot_id" : "6",
+    "ab_test" : "0"
+  }, {
+    "id" : "12",
+    "type" : "building",
+    "ref_id" : "general_club_0",
+    "count" : "1",
+    "slot_id" : "12",
+    "ab_test" : "0"
+  }, {
+    "id" : "13",
+    "type" : "building",
+    "ref_id" : "workshop_1",
+    "count" : "1",
+    "slot_id" : "2",
+    "ab_test" : "0"
+  }, {
+    "id" : "14",
+    "type" : "item",
+    "ref_id" : "item_speedup_1m",
+    "count" : "5",
+    "ab_test" : "0"
+  }, {
+    "id" : "15",
+    "type" : "citybuff",
+    "ref_id" : "new_player_protect",
+    "count" : "259200",
+    "ab_test" : "0"
+  }, {
+    "id" : "18",
+    "type" : "item",
+    "ref_id" : "item_player_rename",
+    "count" : "1",
+    "ab_test" : "0"
+  }, {
+    "id" : "19",
+    "type" : "item",
+    "ref_id" : "item_beginnertele",
+    "count" : "2",
+    "ab_test" : "0"
+  } ]
+}

@@ -1,0 +1,88 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "activity_group" : "activity_group@activity_seven_day_group.id",
+    "chest_sequence" : "chest_sequence@int",
+    "if_final_chest" : "if_final_chest@int",
+    "activity_point_req" : "activity_point_req@int",
+    "reward_id_1" : "reward_id_1@itemlist.id",
+    "reward_value_1" : "reward_value_1@int",
+    "reward_id_2" : "reward_id_2@itemlist.id",
+    "reward_value_2" : "reward_value_2@int",
+    "reward_id_3" : "reward_id_3@itemlist.id",
+    "reward_value_3" : "reward_value_3@int",
+    "reward_id_4" : "reward_id_4@itemlist.id",
+    "reward_value_4" : "reward_value_4@int"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "activity_group" : "所属活动组",
+    "chest_sequence" : "宝箱顺序",
+    "if_final_chest" : "最终宝箱",
+    "activity_point_req" : "所需活跃值",
+    "reward_id_1" : "奖励道具1",
+    "reward_id_2" : "奖励道具2",
+    "reward_id_3" : "奖励道具3",
+    "reward_id_4" : "奖励道具4"
+  }, {
+    "id" : "1",
+    "activity_group" : "activity_seven_day_group_1",
+    "chest_sequence" : "1",
+    "if_final_chest" : "0",
+    "activity_point_req" : "15",
+    "reward_id_1" : "item_building_speedup_5m",
+    "reward_value_1" : "7",
+    "reward_id_2" : "item_research_speedup_5m",
+    "reward_value_2" : "5"
+  }, {
+    "id" : "2",
+    "activity_group" : "activity_seven_day_group_1",
+    "chest_sequence" : "2",
+    "if_final_chest" : "0",
+    "activity_point_req" : "30",
+    "reward_id_1" : "item_building_speedup_60m",
+    "reward_value_1" : "1",
+    "reward_id_2" : "item_building_speedup_5m",
+    "reward_value_2" : "9",
+    "reward_id_3" : "item_general_medal_zi_id",
+    "reward_value_3" : "3"
+  }, {
+    "id" : "3",
+    "activity_group" : "activity_seven_day_group_1",
+    "chest_sequence" : "3",
+    "if_final_chest" : "0",
+    "activity_point_req" : "50",
+    "reward_id_1" : "item_research_speedup_60m",
+    "reward_value_1" : "1",
+    "reward_id_2" : "item_research_speedup_5m",
+    "reward_value_2" : "2",
+    "reward_id_3" : "item_general_medal_zi_id",
+    "reward_value_3" : "3"
+  }, {
+    "id" : "4",
+    "activity_group" : "activity_seven_day_group_1",
+    "chest_sequence" : "4",
+    "if_final_chest" : "0",
+    "activity_point_req" : "75",
+    "reward_id_1" : "item_training_speedup_60m",
+    "reward_value_1" : "6",
+    "reward_id_2" : "item_training_speedup_5m",
+    "reward_value_2" : "10",
+    "reward_id_3" : "item_general_medal_zi_id",
+    "reward_value_3" : "4"
+  }, {
+    "id" : "5",
+    "activity_group" : "activity_seven_day_group_1",
+    "chest_sequence" : "5",
+    "if_final_chest" : "1",
+    "activity_point_req" : "100",
+    "reward_id_1" : "item_building_speedup_60m",
+    "reward_value_1" : "3",
+    "reward_id_2" : "item_research_speedup_60m",
+    "reward_value_2" : "2",
+    "reward_id_3" : "item_general_chip_zi_id",
+    "reward_value_3" : "10",
+    "reward_id_4" : "item_general_card_5005_id",
+    "reward_value_4" : "1"
+  } ]
+}

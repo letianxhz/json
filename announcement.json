@@ -1,0 +1,18 @@
+{
+  "header" : {
+    "id" : "id@string"
+  },
+  "rows" : [ {
+    "id" : "资源名字"
+  }, {
+    "id" : "iap_package_buildingglory"
+  }, {
+    "id" : "iap_package_construction"
+  }, {
+    "id" : "iap_package_building_statue"
+  }, {
+    "id" : "iap_package_super_dragon"
+  }, {
+    "id" : "iap_package_dragonskill"
+  } ]
+}

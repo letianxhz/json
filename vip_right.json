@@ -1,0 +1,73 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "type" : "type@string",
+    "value" : "value@int",
+    "name" : "name@string^c",
+    "image" : "image@string^c"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "type" : "类型",
+    "value" : "值",
+    "image" : "图片"
+  }, {
+    "id" : "dk_dungeon_skip",
+    "type" : "dk_dungeon_skip",
+    "name" : "vip_right_dk_dungeon_skip",
+    "image" : "dk_dungeon_skip"
+  }, {
+    "id" : "dk_dungeon_teleport",
+    "type" : "dk_dungeon_teleport",
+    "name" : "vip_right_dk_dungeon_teleport",
+    "image" : "dk_dungeon_teleport"
+  }, {
+    "id" : "dk_dungeon_speedup_2",
+    "type" : "dk_dungeon_speedup_2",
+    "name" : "vip_right_dk_dungeon_speedup_2",
+    "image" : "dk_dungeon_speedup_2"
+  }, {
+    "id" : "dk_dungeon_speedup_4",
+    "type" : "dk_dungeon_speedup_4",
+    "name" : "vip_right_dk_dungeon_speedup_4",
+    "image" : "dk_dungeon_speedup_4"
+  }, {
+    "id" : "dk_dungeon_layer_complete_1",
+    "type" : "dk_dungeon_layer_complete",
+    "name" : "vip_right_dk_dungeon_layer_complete_1",
+    "image" : "dk_dungeon_layer_complete_1"
+  }, {
+    "id" : "dk_dungeon_layer_complete_2",
+    "type" : "dk_dungeon_layer_complete",
+    "name" : "vip_right_dk_dungeon_layer_complete_2",
+    "image" : "dk_dungeon_layer_complete_2"
+  }, {
+    "id" : "dk_dungeon_layer_complete_3",
+    "type" : "dk_dungeon_layer_complete",
+    "name" : "vip_right_dk_dungeon_layer_complete_3",
+    "image" : "dk_dungeon_layer_complete_3"
+  }, {
+    "id" : "magic_tower_fast_occupy",
+    "type" : "magic_tower_fast_occupy",
+    "name" : "vip_magic_tower_fast_occupy_name",
+    "image" : "icon_magic_tower_fast_occupy_vip"
+  }, {
+    "id" : "add_dungeon_challenge_times_1",
+    "type" : "add_dungeon_challenge_times",
+    "value" : "1",
+    "name" : "add_dungeon_challenge_times",
+    "image" : "ui_benefits_prop_dragon_knight_dungeon_cd_base_value"
+  }, {
+    "id" : "add_dungeon_challenge_times_2",
+    "type" : "add_dungeon_challenge_times",
+    "value" : "2",
+    "name" : "add_dungeon_challenge_times",
+    "image" : "ui_benefits_prop_dragon_knight_dungeon_cd_base_value"
+  }, {
+    "id" : "add_dungeon_challenge_times_3",
+    "type" : "add_dungeon_challenge_times",
+    "value" : "3",
+    "name" : "add_dungeon_challenge_times",
+    "image" : "ui_benefits_prop_dragon_knight_dungeon_cd_base_value"
+  } ]
+}

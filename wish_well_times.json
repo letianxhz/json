@@ -1,8 +1,8 @@
 {
   "header" : {
-    "id" : "id",
-    "price" : "price",
-    "boost" : "boost"
+    "id" : "id@string",
+    "price" : "price@int",
+    "boost" : "boost@float"
   },
   "rows" : [ {
     "id" : "id",
@@ -127,6 +127,6 @@
   }, {
     "id" : "wish_well_times_30",
     "price" : "60",
-    "boost" : "900"
+    "boost" : "0.6"
   } ]
 }

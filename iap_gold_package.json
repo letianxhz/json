@@ -1,0 +1,149 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "cm_project" : "cm_project",
+    "gold" : "gold@int",
+    "icon" : "icon@string",
+    "type" : "type@int",
+    "ex_gold" : "ex_gold@int",
+    "tag" : "tag@string"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "cm_project" : "项目id",
+    "gold" : "金币",
+    "icon" : "图标",
+    "type" : "类型",
+    "ex_gold" : "额外金币",
+    "tag" : "标签"
+  }, {
+    "id" : "com.funplus.koa.gold0",
+    "cm_project" : "koa",
+    "gold" : "100",
+    "icon" : "icon_iap_gold0",
+    "type" : "1",
+    "ex_gold" : "100"
+  }, {
+    "id" : "com.funplus.koa.gold1",
+    "cm_project" : "koa",
+    "gold" : "700",
+    "icon" : "icon_iap_gold1",
+    "type" : "1",
+    "ex_gold" : "400"
+  }, {
+    "id" : "com.funplus.koa.gold2",
+    "cm_project" : "koa",
+    "gold" : "1600",
+    "icon" : "icon_iap_gold2",
+    "type" : "1",
+    "ex_gold" : "800"
+  }, {
+    "id" : "com.funplus.koa.gold3",
+    "cm_project" : "koa",
+    "gold" : "3400",
+    "icon" : "icon_iap_gold3",
+    "type" : "1",
+    "ex_gold" : "600",
+    "tag" : "hot"
+  }, {
+    "id" : "com.funplus.koa.gold4",
+    "cm_project" : "koa",
+    "gold" : "9000",
+    "icon" : "icon_iap_gold4",
+    "type" : "2",
+    "ex_gold" : "6000"
+  }, {
+    "id" : "com.funplus.koa.gold5",
+    "cm_project" : "koa",
+    "gold" : "21000",
+    "icon" : "icon_iap_gold5",
+    "type" : "1",
+    "ex_gold" : "21000"
+  }, {
+    "id" : "com.diandian.gog.gold0",
+    "cm_project" : "gog",
+    "gold" : "100",
+    "icon" : "icon_iap_gold0",
+    "type" : "1",
+    "ex_gold" : "100"
+  }, {
+    "id" : "com.diandian.gog.gold1",
+    "cm_project" : "gog",
+    "gold" : "700",
+    "icon" : "icon_iap_gold1",
+    "type" : "1",
+    "ex_gold" : "400"
+  }, {
+    "id" : "com.diandian.gog.gold2",
+    "cm_project" : "gog",
+    "gold" : "1600",
+    "icon" : "icon_iap_gold2",
+    "type" : "1",
+    "ex_gold" : "800"
+  }, {
+    "id" : "com.diandian.gog.gold3",
+    "cm_project" : "gog",
+    "gold" : "3400",
+    "icon" : "icon_iap_gold3",
+    "type" : "1",
+    "ex_gold" : "600",
+    "tag" : "hot"
+  }, {
+    "id" : "com.diandian.gog.gold4",
+    "cm_project" : "gog",
+    "gold" : "9000",
+    "icon" : "icon_iap_gold4",
+    "type" : "2",
+    "ex_gold" : "6000"
+  }, {
+    "id" : "com.diandian.gog.gold5",
+    "cm_project" : "gog",
+    "gold" : "21000",
+    "icon" : "icon_iap_gold5",
+    "type" : "1",
+    "ex_gold" : "21000"
+  }, {
+    "id" : "com.funplus.koa.gold0",
+    "cm_project" : "ww2",
+    "gold" : "100",
+    "icon" : "icon_iap_gold0",
+    "type" : "1",
+    "ex_gold" : "100"
+  }, {
+    "id" : "com.funplus.koa.gold1",
+    "cm_project" : "ww2",
+    "gold" : "700",
+    "icon" : "icon_iap_gold1",
+    "type" : "1",
+    "ex_gold" : "400"
+  }, {
+    "id" : "com.funplus.koa.gold2",
+    "cm_project" : "ww2",
+    "gold" : "1600",
+    "icon" : "icon_iap_gold2",
+    "type" : "1",
+    "ex_gold" : "800"
+  }, {
+    "id" : "com.funplus.koa.gold3",
+    "cm_project" : "ww2",
+    "gold" : "3400",
+    "icon" : "icon_iap_gold3",
+    "type" : "1",
+    "ex_gold" : "600",
+    "tag" : "hot"
+  }, {
+    "id" : "com.funplus.koa.gold4",
+    "cm_project" : "ww2",
+    "gold" : "9000",
+    "icon" : "icon_iap_gold4",
+    "type" : "2",
+    "ex_gold" : "6000"
+  }, {
+    "id" : "com.funplus.koa.gold5",
+    "cm_project" : "ww2",
+    "gold" : "21000",
+    "icon" : "icon_iap_gold5",
+    "type" : "1",
+    "ex_gold" : "21000"
+  } ]
+}

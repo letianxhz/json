@@ -1,0 +1,111 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "activity_group" : "activity_group@activity_seven_day_group.id",
+    "level" : "level@int",
+    "power" : "power@int",
+    "reward_id_1" : "reward_id_1@itemlist.id",
+    "reward_value_1" : "reward_value_1@int",
+    "reward_id_2" : "reward_id_2@itemlist.id",
+    "reward_value_2" : "reward_value_2@int",
+    "reward_id_3" : "reward_id_3@itemlist.id",
+    "reward_value_3" : "reward_value_3@int",
+    "reward_id_4" : "reward_id_4@itemlist.id",
+    "reward_value_4" : "reward_value_4@int",
+    "reward_id_5" : "reward_id_5@itemlist.id",
+    "reward_value_5" : "reward_value_5@int"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "activity_group" : "所属活动组",
+    "level" : "档位",
+    "power" : "要求战力",
+    "reward_id_1" : "奖励1",
+    "reward_value_1" : "数量1",
+    "reward_id_2" : "奖励2",
+    "reward_value_2" : "数量2",
+    "reward_id_3" : "奖励3",
+    "reward_value_3" : "数量3",
+    "reward_id_4" : "奖励4",
+    "reward_value_4" : "数量4",
+    "reward_id_5" : "奖励5",
+    "reward_value_5" : "数量5"
+  }, {
+    "id" : "1",
+    "activity_group" : "activity_seven_day_group_1",
+    "level" : "1",
+    "power" : "100000",
+    "reward_id_1" : "item_speedup_60m",
+    "reward_value_1" : "1",
+    "reward_id_2" : "item_parliament_hero_summon_coin_normal",
+    "reward_value_2" : "1",
+    "reward_id_3" : "item_gold_100",
+    "reward_value_3" : "2"
+  }, {
+    "id" : "2",
+    "activity_group" : "activity_seven_day_group_1",
+    "level" : "2",
+    "power" : "400000",
+    "reward_id_1" : "item_speedup_60m",
+    "reward_value_1" : "2",
+    "reward_id_2" : "item_parliament_hero_summon_coin_normal",
+    "reward_value_2" : "2",
+    "reward_id_3" : "item_gold_100",
+    "reward_value_3" : "2"
+  }, {
+    "id" : "3",
+    "activity_group" : "activity_seven_day_group_1",
+    "level" : "3",
+    "power" : "800000",
+    "reward_id_1" : "item_speedup_60m",
+    "reward_value_1" : "5",
+    "reward_id_2" : "item_parliament_hero_summon_coin_normal",
+    "reward_value_2" : "3",
+    "reward_id_3" : "item_gold_100",
+    "reward_value_3" : "3"
+  }, {
+    "id" : "4",
+    "activity_group" : "activity_seven_day_group_1",
+    "level" : "4",
+    "power" : "1600000",
+    "reward_id_1" : "item_speedup_60m",
+    "reward_value_1" : "10",
+    "reward_id_2" : "item_parliament_hero_summon_coin_normal",
+    "reward_value_2" : "4",
+    "reward_id_3" : "item_general_medal_cheng_id",
+    "reward_value_3" : "4"
+  }, {
+    "id" : "5",
+    "activity_group" : "activity_seven_day_group_1",
+    "level" : "5",
+    "power" : "2500000",
+    "reward_id_1" : "item_speedup_60m",
+    "reward_value_1" : "20",
+    "reward_id_2" : "item_parliament_hero_summon_coin",
+    "reward_value_2" : "2",
+    "reward_id_3" : "item_general_medal_cheng_id",
+    "reward_value_3" : "6"
+  }, {
+    "id" : "6",
+    "activity_group" : "activity_seven_day_group_1",
+    "level" : "6",
+    "power" : "3500000",
+    "reward_id_1" : "item_speedup_60m",
+    "reward_value_1" : "30",
+    "reward_id_2" : "item_parliament_hero_summon_coin",
+    "reward_value_2" : "5",
+    "reward_id_3" : "item_general_chip_cheng_id",
+    "reward_value_3" : "4"
+  }, {
+    "id" : "7",
+    "activity_group" : "activity_seven_day_group_1",
+    "level" : "7",
+    "power" : "5000000",
+    "reward_id_1" : "item_speedup_60m",
+    "reward_value_1" : "50",
+    "reward_id_2" : "item_parliament_hero_summon_coin",
+    "reward_value_2" : "10",
+    "reward_id_3" : "item_general_chip_cheng_id",
+    "reward_value_3" : "6"
+  } ]
+}

@@ -1,0 +1,19 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "type" : "type@int",
+    "buildings" : "buildings@buildings.id",
+    "idle_queue_type" : "idle_queue_type@int",
+    "bubble_test" : "bubble_test@string",
+    "bubble_last_time" : "bubble_last_time@int"
+  },
+  "rows" : [ {
+    "type" : "气泡类型\n1-建筑溜缝\n2-空闲队列",
+    "buildings" : "建筑及其等级",
+    "idle_queue_type" : "空闲队列类型\n1- 对应建造队列空闲\n2 -对应研究队列空闲\n3-6 -对应 4种兵种训练类型",
+    "bubble_test" : "气泡文本",
+    "bubble_last_time" : "气泡持续时间（s）"
+  }, {
+    "id" : "1"
+  } ]
+}

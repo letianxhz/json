@@ -1,0 +1,186 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "elements_id" : "elements_id@explore_theme_elements.id",
+    "level" : "level@int",
+    "attack" : "attack@float",
+    "item_id_1" : "item_id_1@explore_itemlist.id",
+    "item_value_1" : "item_value_1@int",
+    "item_id_2" : "item_id_2@explore_itemlist.id",
+    "item_value_2" : "item_value_2@int",
+    "explore_skill_id_1" : "explore_skill_id_1@explore_skill.id",
+    "explore_skill_id_2" : "explore_skill_id_2@explore_skill.id"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "elements_id" : "元素id",
+    "level" : "等级",
+    "attack" : "攻击力",
+    "item_id_1" : "升级消耗道具1",
+    "item_value_1" : "道具1数量",
+    "item_id_2" : "升级消耗道具2",
+    "item_value_2" : "道具2数量",
+    "explore_skill_id_1" : "技能1",
+    "explore_skill_id_2" : "技能2"
+  }, {
+    "id" : "cannon_level_1",
+    "elements_id" : "cannon",
+    "level" : "1",
+    "attack" : "20",
+    "item_id_1" : "explore_item_cannon_material",
+    "item_value_1" : "5",
+    "explore_skill_id_1" : "chapter_1_cannon_1_1"
+  }, {
+    "id" : "cannon_level_2",
+    "elements_id" : "cannon",
+    "level" : "2",
+    "attack" : "50",
+    "item_id_1" : "explore_item_cannon_material",
+    "item_value_1" : "10",
+    "explore_skill_id_1" : "chapter_1_cannon_1_1"
+  }, {
+    "id" : "cannon_level_3",
+    "elements_id" : "cannon",
+    "level" : "3",
+    "attack" : "200",
+    "item_id_1" : "explore_item_cannon_material",
+    "item_value_1" : "12",
+    "explore_skill_id_1" : "chapter_1_cannon_1_1"
+  }, {
+    "id" : "cannon_level_4",
+    "elements_id" : "cannon",
+    "level" : "4",
+    "attack" : "500",
+    "item_id_1" : "explore_item_cannon_material",
+    "item_value_1" : "16",
+    "explore_skill_id_1" : "chapter_1_cannon_1_1"
+  }, {
+    "id" : "cannon_level_5",
+    "elements_id" : "cannon",
+    "level" : "5",
+    "attack" : "800",
+    "item_id_1" : "explore_item_cannon_material",
+    "item_value_1" : "20",
+    "explore_skill_id_1" : "chapter_1_cannon_1_1"
+  }, {
+    "id" : "cannon_level_6",
+    "elements_id" : "cannon",
+    "level" : "6",
+    "attack" : "1050",
+    "item_id_1" : "explore_item_cannon_material",
+    "item_value_1" : "24",
+    "explore_skill_id_1" : "chapter_1_cannon_1_1"
+  }, {
+    "id" : "cannon_level_7",
+    "elements_id" : "cannon",
+    "level" : "7",
+    "attack" : "1230",
+    "item_id_1" : "explore_item_cannon_material",
+    "item_value_1" : "30",
+    "explore_skill_id_1" : "chapter_1_cannon_1_1"
+  }, {
+    "id" : "cannon_level_8",
+    "elements_id" : "cannon",
+    "level" : "8",
+    "attack" : "1440",
+    "item_id_1" : "explore_item_cannon_material",
+    "item_value_1" : "36",
+    "explore_skill_id_1" : "chapter_1_cannon_1_1"
+  }, {
+    "id" : "cannon_level_9",
+    "elements_id" : "cannon",
+    "level" : "9",
+    "attack" : "1670",
+    "item_id_1" : "explore_item_cannon_material",
+    "item_value_1" : "46",
+    "explore_skill_id_1" : "chapter_1_cannon_1_1"
+  }, {
+    "id" : "cannon_level_10",
+    "elements_id" : "cannon",
+    "level" : "10",
+    "attack" : "1950",
+    "item_id_1" : "explore_item_cannon_material",
+    "item_value_1" : "56",
+    "explore_skill_id_1" : "chapter_1_cannon_1_1"
+  }, {
+    "id" : "cannon_level_11",
+    "elements_id" : "cannon",
+    "level" : "11",
+    "attack" : "2280",
+    "item_id_1" : "explore_item_cannon_material",
+    "item_value_1" : "70",
+    "explore_skill_id_1" : "chapter_1_cannon_1_1"
+  }, {
+    "id" : "cannon_level_12",
+    "elements_id" : "cannon",
+    "level" : "12",
+    "attack" : "2660",
+    "item_id_1" : "explore_item_cannon_material",
+    "item_value_1" : "88",
+    "explore_skill_id_1" : "chapter_1_cannon_1_1"
+  }, {
+    "id" : "cannon_level_13",
+    "elements_id" : "cannon",
+    "level" : "13",
+    "attack" : "3100",
+    "item_id_1" : "explore_item_cannon_material",
+    "item_value_1" : "110",
+    "explore_skill_id_1" : "chapter_1_cannon_1_1"
+  }, {
+    "id" : "cannon_level_14",
+    "elements_id" : "cannon",
+    "level" : "14",
+    "attack" : "3610",
+    "item_id_1" : "explore_item_cannon_material",
+    "item_value_1" : "138",
+    "explore_skill_id_1" : "chapter_1_cannon_1_1"
+  }, {
+    "id" : "cannon_level_15",
+    "elements_id" : "cannon",
+    "level" : "15",
+    "attack" : "4220",
+    "item_id_1" : "explore_item_cannon_material",
+    "item_value_1" : "172",
+    "explore_skill_id_1" : "chapter_1_cannon_1_1"
+  }, {
+    "id" : "cannon_level_16",
+    "elements_id" : "cannon",
+    "level" : "16",
+    "attack" : "4920",
+    "item_id_1" : "explore_item_cannon_material",
+    "item_value_1" : "214",
+    "explore_skill_id_1" : "chapter_1_cannon_1_1"
+  }, {
+    "id" : "cannon_level_17",
+    "elements_id" : "cannon",
+    "level" : "17",
+    "attack" : "5740",
+    "item_id_1" : "explore_item_cannon_material",
+    "item_value_1" : "266",
+    "explore_skill_id_1" : "chapter_1_cannon_1_1"
+  }, {
+    "id" : "cannon_level_18",
+    "elements_id" : "cannon",
+    "level" : "18",
+    "attack" : "6690",
+    "item_id_1" : "explore_item_cannon_material",
+    "item_value_1" : "334",
+    "explore_skill_id_1" : "chapter_1_cannon_1_1"
+  }, {
+    "id" : "cannon_level_19",
+    "elements_id" : "cannon",
+    "level" : "19",
+    "attack" : "7800",
+    "item_id_1" : "explore_item_cannon_material",
+    "item_value_1" : "416",
+    "explore_skill_id_1" : "chapter_1_cannon_1_1"
+  }, {
+    "id" : "cannon_level_20",
+    "elements_id" : "cannon",
+    "level" : "20",
+    "attack" : "9100",
+    "item_id_1" : "explore_item_cannon_material",
+    "item_value_1" : "520",
+    "explore_skill_id_1" : "chapter_1_cannon_1_1"
+  } ]
+}

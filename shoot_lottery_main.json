@@ -1,0 +1,81 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "group" : "group@shoot_lottery_group.id",
+    "weight" : "weight@int",
+    "is_special" : "is_special@int",
+    "reward_id_1" : "reward_id_1@itemlist.id",
+    "reward_value_1" : "reward_value_1@int"
+  },
+  "rows" : [ {
+    "id" : "奖励id",
+    "group" : "所属活动id",
+    "weight" : "权重",
+    "is_special" : "是否为大奖",
+    "reward_id_1" : "奖励道具id_1",
+    "reward_value_1" : "奖励道具数量_1"
+  }, {
+    "id" : "1",
+    "group" : "shoot_lottery_group_1",
+    "weight" : "453",
+    "is_special" : "0",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "2",
+    "group" : "shoot_lottery_group_1",
+    "weight" : "1324",
+    "is_special" : "0",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "3",
+    "group" : "shoot_lottery_group_1",
+    "weight" : "1324",
+    "is_special" : "0",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "4",
+    "group" : "shoot_lottery_group_1",
+    "weight" : "1324",
+    "is_special" : "0",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "5",
+    "group" : "shoot_lottery_group_1",
+    "weight" : "1471",
+    "is_special" : "0",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "6",
+    "group" : "shoot_lottery_group_1",
+    "weight" : "1324",
+    "is_special" : "0",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "7",
+    "group" : "shoot_lottery_group_1",
+    "weight" : "1251",
+    "is_special" : "0",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "8",
+    "group" : "shoot_lottery_group_1",
+    "weight" : "1472",
+    "is_special" : "0",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "9",
+    "group" : "shoot_lottery_group_1",
+    "weight" : "55",
+    "is_special" : "1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  } ]
+}

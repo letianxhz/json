@@ -1,0 +1,107 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "language" : "language@string",
+    "new_language" : "new_language@string"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "language" : "语言",
+    "new_language" : "新语言"
+  }, {
+    "id" : "all",
+    "language" : "english",
+    "new_language" : "English"
+  }, {
+    "id" : "en",
+    "language" : "english",
+    "new_language" : "English"
+  }, {
+    "id" : "fr",
+    "language" : "french",
+    "new_language" : "French"
+  }, {
+    "id" : "de",
+    "language" : "german",
+    "new_language" : "German"
+  }, {
+    "id" : "cn",
+    "language" : "chinese",
+    "new_language" : "Chinese (Simplified)"
+  }, {
+    "id" : "es",
+    "language" : "spanish",
+    "new_language" : "Spanish"
+  }, {
+    "id" : "it",
+    "language" : "italian",
+    "new_language" : "Italian"
+  }, {
+    "id" : "pl",
+    "language" : "polish",
+    "new_language" : "Polish"
+  }, {
+    "id" : "jp",
+    "language" : "japanese",
+    "new_language" : "Japanese"
+  }, {
+    "id" : "gr",
+    "language" : "greek"
+  }, {
+    "id" : "no",
+    "language" : "norwegian",
+    "new_language" : "Norwegian"
+  }, {
+    "id" : "ru",
+    "language" : "russian",
+    "new_language" : "Russian"
+  }, {
+    "id" : "zh-CN",
+    "language" : "chinese simplified",
+    "new_language" : "Chinese (Simplified)"
+  }, {
+    "id" : "zh-TW",
+    "language" : "chinese traditional",
+    "new_language" : "Chinese (Traditional)"
+  }, {
+    "id" : "nl",
+    "language" : "dutch",
+    "new_language" : "Dutch"
+  }, {
+    "id" : "id",
+    "language" : "indonesia",
+    "new_language" : "Indonesian"
+  }, {
+    "id" : "ja",
+    "language" : "japanese",
+    "new_language" : "Japanese"
+  }, {
+    "id" : "ko",
+    "language" : "korean",
+    "new_language" : "Korean"
+  }, {
+    "id" : "pt",
+    "language" : "portuguese",
+    "new_language" : "Portuguese"
+  }, {
+    "id" : "sv",
+    "language" : "swedish",
+    "new_language" : "Swedish"
+  }, {
+    "id" : "th",
+    "language" : "thai",
+    "new_language" : "Thai"
+  }, {
+    "id" : "tr",
+    "language" : "turkish",
+    "new_language" : "Turkish"
+  }, {
+    "id" : "ar",
+    "language" : "arabic",
+    "new_language" : "Arabic"
+  }, {
+    "id" : "vi",
+    "language" : "vietnamese",
+    "new_language" : "Vietnamese"
+  } ]
+}

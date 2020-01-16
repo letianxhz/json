@@ -1,0 +1,2152 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "pool" : "pool@charge_rebate_shop_pool.id",
+    "chance" : "chance@int",
+    "item_id" : "item_id@itemlist.id",
+    "item_value" : "item_value@int"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "pool" : "奖池id",
+    "chance" : "权重",
+    "item_id" : "道具id",
+    "item_value" : "道具数量"
+  }, {
+    "id" : "charge_rebate_shop_group_1_pool_1_1",
+    "pool" : "charge_rebate_shop_group_1_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_1_pool_1_2",
+    "pool" : "charge_rebate_shop_group_1_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_1_pool_1_3",
+    "pool" : "charge_rebate_shop_group_1_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_1_pool_1_4",
+    "pool" : "charge_rebate_shop_group_1_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_1_pool_1_5",
+    "pool" : "charge_rebate_shop_group_1_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_1_pool_1_6",
+    "pool" : "charge_rebate_shop_group_1_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_1_pool_1_7",
+    "pool" : "charge_rebate_shop_group_1_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_1_pool_1_8",
+    "pool" : "charge_rebate_shop_group_1_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_1_pool_1_9",
+    "pool" : "charge_rebate_shop_group_1_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_1_pool_1_10",
+    "pool" : "charge_rebate_shop_group_1_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_1_pool_1_11",
+    "pool" : "charge_rebate_shop_group_1_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_1_pool_1_12",
+    "pool" : "charge_rebate_shop_group_1_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_1_pool_1_13",
+    "pool" : "charge_rebate_shop_group_1_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_1_pool_1_14",
+    "pool" : "charge_rebate_shop_group_1_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_1_pool_1_15",
+    "pool" : "charge_rebate_shop_group_1_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_1_pool_1_16",
+    "pool" : "charge_rebate_shop_group_1_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_1_pool_1_17",
+    "pool" : "charge_rebate_shop_group_1_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_1_pool_1_18",
+    "pool" : "charge_rebate_shop_group_1_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_1_pool_1_19",
+    "pool" : "charge_rebate_shop_group_1_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_1_pool_1_20",
+    "pool" : "charge_rebate_shop_group_1_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_1_pool_1_21",
+    "pool" : "charge_rebate_shop_group_1_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_1_pool_1_22",
+    "pool" : "charge_rebate_shop_group_1_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_1_pool_1_23",
+    "pool" : "charge_rebate_shop_group_1_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_1_pool_1_24",
+    "pool" : "charge_rebate_shop_group_1_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_1_pool_1_25",
+    "pool" : "charge_rebate_shop_group_1_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_1_pool_1_26",
+    "pool" : "charge_rebate_shop_group_1_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_1_pool_1_27",
+    "pool" : "charge_rebate_shop_group_1_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_1_pool_1_28",
+    "pool" : "charge_rebate_shop_group_1_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_1_pool_1_29",
+    "pool" : "charge_rebate_shop_group_1_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_1_pool_1_30",
+    "pool" : "charge_rebate_shop_group_1_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_1_pool_2_1",
+    "pool" : "charge_rebate_shop_group_1_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_1_pool_2_2",
+    "pool" : "charge_rebate_shop_group_1_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_1_pool_2_3",
+    "pool" : "charge_rebate_shop_group_1_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_1_pool_2_4",
+    "pool" : "charge_rebate_shop_group_1_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_1_pool_2_5",
+    "pool" : "charge_rebate_shop_group_1_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_1_pool_2_6",
+    "pool" : "charge_rebate_shop_group_1_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_1_pool_2_7",
+    "pool" : "charge_rebate_shop_group_1_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_1_pool_2_8",
+    "pool" : "charge_rebate_shop_group_1_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_1_pool_2_9",
+    "pool" : "charge_rebate_shop_group_1_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_1_pool_2_10",
+    "pool" : "charge_rebate_shop_group_1_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_1_pool_2_11",
+    "pool" : "charge_rebate_shop_group_1_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_1_pool_2_12",
+    "pool" : "charge_rebate_shop_group_1_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_1_pool_2_13",
+    "pool" : "charge_rebate_shop_group_1_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_1_pool_2_14",
+    "pool" : "charge_rebate_shop_group_1_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_1_pool_2_15",
+    "pool" : "charge_rebate_shop_group_1_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_1_pool_2_16",
+    "pool" : "charge_rebate_shop_group_1_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_1_pool_2_17",
+    "pool" : "charge_rebate_shop_group_1_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_1_pool_2_18",
+    "pool" : "charge_rebate_shop_group_1_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_1_pool_2_19",
+    "pool" : "charge_rebate_shop_group_1_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_1_pool_2_20",
+    "pool" : "charge_rebate_shop_group_1_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_1_pool_2_21",
+    "pool" : "charge_rebate_shop_group_1_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_1_pool_2_22",
+    "pool" : "charge_rebate_shop_group_1_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_1_pool_2_23",
+    "pool" : "charge_rebate_shop_group_1_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_1_pool_2_24",
+    "pool" : "charge_rebate_shop_group_1_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_1_pool_2_25",
+    "pool" : "charge_rebate_shop_group_1_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_1_pool_2_26",
+    "pool" : "charge_rebate_shop_group_1_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_1_pool_3_1",
+    "pool" : "charge_rebate_shop_group_1_pool_3",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_1_pool_3_2",
+    "pool" : "charge_rebate_shop_group_1_pool_3",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_1_pool_3_3",
+    "pool" : "charge_rebate_shop_group_1_pool_3",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_1_pool_3_4",
+    "pool" : "charge_rebate_shop_group_1_pool_3",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_1_pool_3_5",
+    "pool" : "charge_rebate_shop_group_1_pool_3",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_1_pool_3_6",
+    "pool" : "charge_rebate_shop_group_1_pool_3",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_1_pool_3_7",
+    "pool" : "charge_rebate_shop_group_1_pool_3",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_1_pool_3_8",
+    "pool" : "charge_rebate_shop_group_1_pool_3",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_1_pool_3_9",
+    "pool" : "charge_rebate_shop_group_1_pool_3",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_1_pool_3_10",
+    "pool" : "charge_rebate_shop_group_1_pool_3",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_1_pool_3_11",
+    "pool" : "charge_rebate_shop_group_1_pool_3",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_1_pool_3_12",
+    "pool" : "charge_rebate_shop_group_1_pool_3",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_1_pool_3_13",
+    "pool" : "charge_rebate_shop_group_1_pool_3",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_1_pool_3_14",
+    "pool" : "charge_rebate_shop_group_1_pool_3",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_1_pool_3_15",
+    "pool" : "charge_rebate_shop_group_1_pool_3",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_1_pool_4_1",
+    "pool" : "charge_rebate_shop_group_1_pool_4",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_1_pool_4_2",
+    "pool" : "charge_rebate_shop_group_1_pool_4",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_1_pool_4_3",
+    "pool" : "charge_rebate_shop_group_1_pool_4",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_1_pool_4_4",
+    "pool" : "charge_rebate_shop_group_1_pool_4",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_1_pool_4_5",
+    "pool" : "charge_rebate_shop_group_1_pool_4",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_1_pool_4_6",
+    "pool" : "charge_rebate_shop_group_1_pool_4",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_1_pool_4_7",
+    "pool" : "charge_rebate_shop_group_1_pool_4",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_1_pool_4_8",
+    "pool" : "charge_rebate_shop_group_1_pool_4",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_1_pool_4_9",
+    "pool" : "charge_rebate_shop_group_1_pool_4",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_1_pool_4_10",
+    "pool" : "charge_rebate_shop_group_1_pool_4",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_1_pool_4_11",
+    "pool" : "charge_rebate_shop_group_1_pool_4",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_1_pool_4_12",
+    "pool" : "charge_rebate_shop_group_1_pool_4",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_1_pool_4_13",
+    "pool" : "charge_rebate_shop_group_1_pool_4",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_1_pool_4_14",
+    "pool" : "charge_rebate_shop_group_1_pool_4",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_1_pool_4_15",
+    "pool" : "charge_rebate_shop_group_1_pool_4",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_2_pool_1_1",
+    "pool" : "charge_rebate_shop_group_2_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_2_pool_1_2",
+    "pool" : "charge_rebate_shop_group_2_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_2_pool_1_3",
+    "pool" : "charge_rebate_shop_group_2_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_2_pool_1_4",
+    "pool" : "charge_rebate_shop_group_2_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_2_pool_1_5",
+    "pool" : "charge_rebate_shop_group_2_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_2_pool_1_6",
+    "pool" : "charge_rebate_shop_group_2_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_2_pool_1_7",
+    "pool" : "charge_rebate_shop_group_2_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_2_pool_1_8",
+    "pool" : "charge_rebate_shop_group_2_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_2_pool_1_9",
+    "pool" : "charge_rebate_shop_group_2_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_2_pool_1_10",
+    "pool" : "charge_rebate_shop_group_2_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_2_pool_1_11",
+    "pool" : "charge_rebate_shop_group_2_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_2_pool_1_12",
+    "pool" : "charge_rebate_shop_group_2_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_2_pool_1_13",
+    "pool" : "charge_rebate_shop_group_2_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_2_pool_1_14",
+    "pool" : "charge_rebate_shop_group_2_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_2_pool_1_15",
+    "pool" : "charge_rebate_shop_group_2_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_2_pool_1_16",
+    "pool" : "charge_rebate_shop_group_2_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_2_pool_1_17",
+    "pool" : "charge_rebate_shop_group_2_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_2_pool_1_18",
+    "pool" : "charge_rebate_shop_group_2_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_2_pool_1_19",
+    "pool" : "charge_rebate_shop_group_2_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_2_pool_1_20",
+    "pool" : "charge_rebate_shop_group_2_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_2_pool_1_21",
+    "pool" : "charge_rebate_shop_group_2_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_2_pool_1_22",
+    "pool" : "charge_rebate_shop_group_2_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_2_pool_1_23",
+    "pool" : "charge_rebate_shop_group_2_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_2_pool_1_24",
+    "pool" : "charge_rebate_shop_group_2_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_2_pool_1_25",
+    "pool" : "charge_rebate_shop_group_2_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_2_pool_1_26",
+    "pool" : "charge_rebate_shop_group_2_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_2_pool_1_27",
+    "pool" : "charge_rebate_shop_group_2_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_2_pool_1_28",
+    "pool" : "charge_rebate_shop_group_2_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_2_pool_1_29",
+    "pool" : "charge_rebate_shop_group_2_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_2_pool_1_30",
+    "pool" : "charge_rebate_shop_group_2_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_2_pool_1_31",
+    "pool" : "charge_rebate_shop_group_2_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_2_pool_2_1",
+    "pool" : "charge_rebate_shop_group_2_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_2_pool_2_2",
+    "pool" : "charge_rebate_shop_group_2_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_2_pool_2_3",
+    "pool" : "charge_rebate_shop_group_2_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_2_pool_2_4",
+    "pool" : "charge_rebate_shop_group_2_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_2_pool_2_5",
+    "pool" : "charge_rebate_shop_group_2_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_2_pool_2_6",
+    "pool" : "charge_rebate_shop_group_2_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_2_pool_2_7",
+    "pool" : "charge_rebate_shop_group_2_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_2_pool_2_8",
+    "pool" : "charge_rebate_shop_group_2_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_2_pool_2_9",
+    "pool" : "charge_rebate_shop_group_2_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_2_pool_2_10",
+    "pool" : "charge_rebate_shop_group_2_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_2_pool_2_11",
+    "pool" : "charge_rebate_shop_group_2_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_2_pool_2_12",
+    "pool" : "charge_rebate_shop_group_2_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_2_pool_2_13",
+    "pool" : "charge_rebate_shop_group_2_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_2_pool_2_14",
+    "pool" : "charge_rebate_shop_group_2_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_2_pool_2_15",
+    "pool" : "charge_rebate_shop_group_2_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_2_pool_2_16",
+    "pool" : "charge_rebate_shop_group_2_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_2_pool_2_17",
+    "pool" : "charge_rebate_shop_group_2_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_2_pool_2_18",
+    "pool" : "charge_rebate_shop_group_2_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_2_pool_2_19",
+    "pool" : "charge_rebate_shop_group_2_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_2_pool_2_20",
+    "pool" : "charge_rebate_shop_group_2_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_2_pool_2_21",
+    "pool" : "charge_rebate_shop_group_2_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_2_pool_2_22",
+    "pool" : "charge_rebate_shop_group_2_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_2_pool_2_23",
+    "pool" : "charge_rebate_shop_group_2_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_2_pool_2_24",
+    "pool" : "charge_rebate_shop_group_2_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_2_pool_2_25",
+    "pool" : "charge_rebate_shop_group_2_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_2_pool_2_26",
+    "pool" : "charge_rebate_shop_group_2_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_2_pool_2_27",
+    "pool" : "charge_rebate_shop_group_2_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_2_pool_3_1",
+    "pool" : "charge_rebate_shop_group_2_pool_3",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_2_pool_3_2",
+    "pool" : "charge_rebate_shop_group_2_pool_3",
+    "chance" : "101",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_2_pool_3_3",
+    "pool" : "charge_rebate_shop_group_2_pool_3",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_2_pool_3_4",
+    "pool" : "charge_rebate_shop_group_2_pool_3",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_2_pool_3_5",
+    "pool" : "charge_rebate_shop_group_2_pool_3",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_2_pool_3_6",
+    "pool" : "charge_rebate_shop_group_2_pool_3",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_2_pool_3_7",
+    "pool" : "charge_rebate_shop_group_2_pool_3",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_2_pool_3_8",
+    "pool" : "charge_rebate_shop_group_2_pool_3",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_2_pool_3_9",
+    "pool" : "charge_rebate_shop_group_2_pool_3",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_2_pool_3_10",
+    "pool" : "charge_rebate_shop_group_2_pool_3",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_2_pool_3_11",
+    "pool" : "charge_rebate_shop_group_2_pool_3",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_2_pool_3_12",
+    "pool" : "charge_rebate_shop_group_2_pool_3",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_2_pool_3_13",
+    "pool" : "charge_rebate_shop_group_2_pool_3",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_2_pool_3_14",
+    "pool" : "charge_rebate_shop_group_2_pool_3",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_2_pool_3_15",
+    "pool" : "charge_rebate_shop_group_2_pool_3",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_2_pool_3_16",
+    "pool" : "charge_rebate_shop_group_2_pool_3",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_2_pool_4_1",
+    "pool" : "charge_rebate_shop_group_2_pool_4",
+    "chance" : "101",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_2_pool_4_2",
+    "pool" : "charge_rebate_shop_group_2_pool_4",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_2_pool_4_3",
+    "pool" : "charge_rebate_shop_group_2_pool_4",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_2_pool_4_4",
+    "pool" : "charge_rebate_shop_group_2_pool_4",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_2_pool_4_5",
+    "pool" : "charge_rebate_shop_group_2_pool_4",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_2_pool_4_6",
+    "pool" : "charge_rebate_shop_group_2_pool_4",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_2_pool_4_7",
+    "pool" : "charge_rebate_shop_group_2_pool_4",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_2_pool_4_8",
+    "pool" : "charge_rebate_shop_group_2_pool_4",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_2_pool_4_9",
+    "pool" : "charge_rebate_shop_group_2_pool_4",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_2_pool_4_10",
+    "pool" : "charge_rebate_shop_group_2_pool_4",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_2_pool_4_11",
+    "pool" : "charge_rebate_shop_group_2_pool_4",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_2_pool_4_12",
+    "pool" : "charge_rebate_shop_group_2_pool_4",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_2_pool_4_13",
+    "pool" : "charge_rebate_shop_group_2_pool_4",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_2_pool_4_14",
+    "pool" : "charge_rebate_shop_group_2_pool_4",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_2_pool_4_15",
+    "pool" : "charge_rebate_shop_group_2_pool_4",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_2_pool_4_16",
+    "pool" : "charge_rebate_shop_group_2_pool_4",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_3_pool_1_1",
+    "pool" : "charge_rebate_shop_group_3_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_3_pool_1_2",
+    "pool" : "charge_rebate_shop_group_3_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_3_pool_1_3",
+    "pool" : "charge_rebate_shop_group_3_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_3_pool_1_4",
+    "pool" : "charge_rebate_shop_group_3_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_3_pool_1_5",
+    "pool" : "charge_rebate_shop_group_3_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_3_pool_1_6",
+    "pool" : "charge_rebate_shop_group_3_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_3_pool_1_7",
+    "pool" : "charge_rebate_shop_group_3_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_3_pool_1_8",
+    "pool" : "charge_rebate_shop_group_3_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_3_pool_1_9",
+    "pool" : "charge_rebate_shop_group_3_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_3_pool_1_10",
+    "pool" : "charge_rebate_shop_group_3_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_3_pool_1_11",
+    "pool" : "charge_rebate_shop_group_3_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_3_pool_1_12",
+    "pool" : "charge_rebate_shop_group_3_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_3_pool_1_13",
+    "pool" : "charge_rebate_shop_group_3_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_3_pool_1_14",
+    "pool" : "charge_rebate_shop_group_3_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_3_pool_1_15",
+    "pool" : "charge_rebate_shop_group_3_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_3_pool_1_16",
+    "pool" : "charge_rebate_shop_group_3_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_3_pool_1_17",
+    "pool" : "charge_rebate_shop_group_3_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_3_pool_1_18",
+    "pool" : "charge_rebate_shop_group_3_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_3_pool_1_19",
+    "pool" : "charge_rebate_shop_group_3_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_3_pool_1_20",
+    "pool" : "charge_rebate_shop_group_3_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_3_pool_1_21",
+    "pool" : "charge_rebate_shop_group_3_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_3_pool_1_22",
+    "pool" : "charge_rebate_shop_group_3_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_3_pool_1_23",
+    "pool" : "charge_rebate_shop_group_3_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_3_pool_1_24",
+    "pool" : "charge_rebate_shop_group_3_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_3_pool_1_25",
+    "pool" : "charge_rebate_shop_group_3_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_3_pool_1_26",
+    "pool" : "charge_rebate_shop_group_3_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_3_pool_1_27",
+    "pool" : "charge_rebate_shop_group_3_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_3_pool_1_28",
+    "pool" : "charge_rebate_shop_group_3_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_3_pool_1_29",
+    "pool" : "charge_rebate_shop_group_3_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_3_pool_1_30",
+    "pool" : "charge_rebate_shop_group_3_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_3_pool_1_31",
+    "pool" : "charge_rebate_shop_group_3_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_3_pool_2_1",
+    "pool" : "charge_rebate_shop_group_3_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_3_pool_2_2",
+    "pool" : "charge_rebate_shop_group_3_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_3_pool_2_3",
+    "pool" : "charge_rebate_shop_group_3_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_3_pool_2_4",
+    "pool" : "charge_rebate_shop_group_3_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_3_pool_2_5",
+    "pool" : "charge_rebate_shop_group_3_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_3_pool_2_6",
+    "pool" : "charge_rebate_shop_group_3_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_3_pool_2_7",
+    "pool" : "charge_rebate_shop_group_3_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_3_pool_2_8",
+    "pool" : "charge_rebate_shop_group_3_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_3_pool_2_9",
+    "pool" : "charge_rebate_shop_group_3_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_3_pool_2_10",
+    "pool" : "charge_rebate_shop_group_3_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_3_pool_2_11",
+    "pool" : "charge_rebate_shop_group_3_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_3_pool_2_12",
+    "pool" : "charge_rebate_shop_group_3_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_3_pool_2_13",
+    "pool" : "charge_rebate_shop_group_3_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_3_pool_2_14",
+    "pool" : "charge_rebate_shop_group_3_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_3_pool_2_15",
+    "pool" : "charge_rebate_shop_group_3_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_3_pool_2_16",
+    "pool" : "charge_rebate_shop_group_3_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_3_pool_2_17",
+    "pool" : "charge_rebate_shop_group_3_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_3_pool_2_18",
+    "pool" : "charge_rebate_shop_group_3_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_3_pool_2_19",
+    "pool" : "charge_rebate_shop_group_3_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_3_pool_2_20",
+    "pool" : "charge_rebate_shop_group_3_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_3_pool_2_21",
+    "pool" : "charge_rebate_shop_group_3_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_3_pool_2_22",
+    "pool" : "charge_rebate_shop_group_3_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_3_pool_2_23",
+    "pool" : "charge_rebate_shop_group_3_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_3_pool_2_24",
+    "pool" : "charge_rebate_shop_group_3_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_3_pool_2_25",
+    "pool" : "charge_rebate_shop_group_3_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_3_pool_2_26",
+    "pool" : "charge_rebate_shop_group_3_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_3_pool_2_27",
+    "pool" : "charge_rebate_shop_group_3_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_3_pool_3_1",
+    "pool" : "charge_rebate_shop_group_3_pool_3",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_3_pool_3_2",
+    "pool" : "charge_rebate_shop_group_3_pool_3",
+    "chance" : "101",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_3_pool_3_3",
+    "pool" : "charge_rebate_shop_group_3_pool_3",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_3_pool_3_4",
+    "pool" : "charge_rebate_shop_group_3_pool_3",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_3_pool_3_5",
+    "pool" : "charge_rebate_shop_group_3_pool_3",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_3_pool_3_6",
+    "pool" : "charge_rebate_shop_group_3_pool_3",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_3_pool_3_7",
+    "pool" : "charge_rebate_shop_group_3_pool_3",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_3_pool_3_8",
+    "pool" : "charge_rebate_shop_group_3_pool_3",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_3_pool_3_9",
+    "pool" : "charge_rebate_shop_group_3_pool_3",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_3_pool_3_10",
+    "pool" : "charge_rebate_shop_group_3_pool_3",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_3_pool_3_11",
+    "pool" : "charge_rebate_shop_group_3_pool_3",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_3_pool_3_12",
+    "pool" : "charge_rebate_shop_group_3_pool_3",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_3_pool_3_13",
+    "pool" : "charge_rebate_shop_group_3_pool_3",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_3_pool_3_14",
+    "pool" : "charge_rebate_shop_group_3_pool_3",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_3_pool_3_15",
+    "pool" : "charge_rebate_shop_group_3_pool_3",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_3_pool_3_16",
+    "pool" : "charge_rebate_shop_group_3_pool_3",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_3_pool_4_1",
+    "pool" : "charge_rebate_shop_group_3_pool_4",
+    "chance" : "101",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_3_pool_4_2",
+    "pool" : "charge_rebate_shop_group_3_pool_4",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_3_pool_4_3",
+    "pool" : "charge_rebate_shop_group_3_pool_4",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_3_pool_4_4",
+    "pool" : "charge_rebate_shop_group_3_pool_4",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_3_pool_4_5",
+    "pool" : "charge_rebate_shop_group_3_pool_4",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_3_pool_4_6",
+    "pool" : "charge_rebate_shop_group_3_pool_4",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_3_pool_4_7",
+    "pool" : "charge_rebate_shop_group_3_pool_4",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_3_pool_4_8",
+    "pool" : "charge_rebate_shop_group_3_pool_4",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_3_pool_4_9",
+    "pool" : "charge_rebate_shop_group_3_pool_4",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_3_pool_4_10",
+    "pool" : "charge_rebate_shop_group_3_pool_4",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_3_pool_4_11",
+    "pool" : "charge_rebate_shop_group_3_pool_4",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_3_pool_4_12",
+    "pool" : "charge_rebate_shop_group_3_pool_4",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_3_pool_4_13",
+    "pool" : "charge_rebate_shop_group_3_pool_4",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_3_pool_4_14",
+    "pool" : "charge_rebate_shop_group_3_pool_4",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_3_pool_4_15",
+    "pool" : "charge_rebate_shop_group_3_pool_4",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_3_pool_4_16",
+    "pool" : "charge_rebate_shop_group_3_pool_4",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_4_pool_1_1",
+    "pool" : "charge_rebate_shop_group_4_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_4_pool_1_2",
+    "pool" : "charge_rebate_shop_group_4_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_4_pool_1_3",
+    "pool" : "charge_rebate_shop_group_4_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_4_pool_1_4",
+    "pool" : "charge_rebate_shop_group_4_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_4_pool_1_5",
+    "pool" : "charge_rebate_shop_group_4_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_4_pool_1_6",
+    "pool" : "charge_rebate_shop_group_4_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_4_pool_1_7",
+    "pool" : "charge_rebate_shop_group_4_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_4_pool_1_8",
+    "pool" : "charge_rebate_shop_group_4_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_4_pool_1_9",
+    "pool" : "charge_rebate_shop_group_4_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_4_pool_1_10",
+    "pool" : "charge_rebate_shop_group_4_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_4_pool_1_11",
+    "pool" : "charge_rebate_shop_group_4_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_4_pool_1_12",
+    "pool" : "charge_rebate_shop_group_4_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_4_pool_1_13",
+    "pool" : "charge_rebate_shop_group_4_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_4_pool_1_14",
+    "pool" : "charge_rebate_shop_group_4_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_4_pool_1_15",
+    "pool" : "charge_rebate_shop_group_4_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_4_pool_1_16",
+    "pool" : "charge_rebate_shop_group_4_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_4_pool_1_17",
+    "pool" : "charge_rebate_shop_group_4_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_4_pool_1_18",
+    "pool" : "charge_rebate_shop_group_4_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_4_pool_1_19",
+    "pool" : "charge_rebate_shop_group_4_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_4_pool_1_20",
+    "pool" : "charge_rebate_shop_group_4_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_4_pool_1_21",
+    "pool" : "charge_rebate_shop_group_4_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_4_pool_1_22",
+    "pool" : "charge_rebate_shop_group_4_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_4_pool_1_23",
+    "pool" : "charge_rebate_shop_group_4_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_4_pool_1_24",
+    "pool" : "charge_rebate_shop_group_4_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_4_pool_1_25",
+    "pool" : "charge_rebate_shop_group_4_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_4_pool_1_26",
+    "pool" : "charge_rebate_shop_group_4_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_4_pool_1_27",
+    "pool" : "charge_rebate_shop_group_4_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_4_pool_1_28",
+    "pool" : "charge_rebate_shop_group_4_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_4_pool_1_29",
+    "pool" : "charge_rebate_shop_group_4_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_4_pool_1_30",
+    "pool" : "charge_rebate_shop_group_4_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_4_pool_1_31",
+    "pool" : "charge_rebate_shop_group_4_pool_1",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_4_pool_2_1",
+    "pool" : "charge_rebate_shop_group_4_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_4_pool_2_2",
+    "pool" : "charge_rebate_shop_group_4_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_4_pool_2_3",
+    "pool" : "charge_rebate_shop_group_4_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_4_pool_2_4",
+    "pool" : "charge_rebate_shop_group_4_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_4_pool_2_5",
+    "pool" : "charge_rebate_shop_group_4_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_4_pool_2_6",
+    "pool" : "charge_rebate_shop_group_4_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_4_pool_2_7",
+    "pool" : "charge_rebate_shop_group_4_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_4_pool_2_8",
+    "pool" : "charge_rebate_shop_group_4_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_4_pool_2_9",
+    "pool" : "charge_rebate_shop_group_4_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_4_pool_2_10",
+    "pool" : "charge_rebate_shop_group_4_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_4_pool_2_11",
+    "pool" : "charge_rebate_shop_group_4_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_4_pool_2_12",
+    "pool" : "charge_rebate_shop_group_4_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_4_pool_2_13",
+    "pool" : "charge_rebate_shop_group_4_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_4_pool_2_14",
+    "pool" : "charge_rebate_shop_group_4_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_4_pool_2_15",
+    "pool" : "charge_rebate_shop_group_4_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_4_pool_2_16",
+    "pool" : "charge_rebate_shop_group_4_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_4_pool_2_17",
+    "pool" : "charge_rebate_shop_group_4_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_4_pool_2_18",
+    "pool" : "charge_rebate_shop_group_4_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_4_pool_2_19",
+    "pool" : "charge_rebate_shop_group_4_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_4_pool_2_20",
+    "pool" : "charge_rebate_shop_group_4_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_4_pool_2_21",
+    "pool" : "charge_rebate_shop_group_4_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_4_pool_2_22",
+    "pool" : "charge_rebate_shop_group_4_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_4_pool_2_23",
+    "pool" : "charge_rebate_shop_group_4_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_4_pool_2_24",
+    "pool" : "charge_rebate_shop_group_4_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_4_pool_2_25",
+    "pool" : "charge_rebate_shop_group_4_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_4_pool_2_26",
+    "pool" : "charge_rebate_shop_group_4_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_4_pool_2_27",
+    "pool" : "charge_rebate_shop_group_4_pool_2",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_4_pool_3_1",
+    "pool" : "charge_rebate_shop_group_4_pool_3",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_4_pool_3_2",
+    "pool" : "charge_rebate_shop_group_4_pool_3",
+    "chance" : "101",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_4_pool_3_3",
+    "pool" : "charge_rebate_shop_group_4_pool_3",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_4_pool_3_4",
+    "pool" : "charge_rebate_shop_group_4_pool_3",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_4_pool_3_5",
+    "pool" : "charge_rebate_shop_group_4_pool_3",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_4_pool_3_6",
+    "pool" : "charge_rebate_shop_group_4_pool_3",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_4_pool_3_7",
+    "pool" : "charge_rebate_shop_group_4_pool_3",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_4_pool_3_8",
+    "pool" : "charge_rebate_shop_group_4_pool_3",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_4_pool_3_9",
+    "pool" : "charge_rebate_shop_group_4_pool_3",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_4_pool_3_10",
+    "pool" : "charge_rebate_shop_group_4_pool_3",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_4_pool_3_11",
+    "pool" : "charge_rebate_shop_group_4_pool_3",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_4_pool_3_12",
+    "pool" : "charge_rebate_shop_group_4_pool_3",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_4_pool_3_13",
+    "pool" : "charge_rebate_shop_group_4_pool_3",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_4_pool_3_14",
+    "pool" : "charge_rebate_shop_group_4_pool_3",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_4_pool_3_15",
+    "pool" : "charge_rebate_shop_group_4_pool_3",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_4_pool_3_16",
+    "pool" : "charge_rebate_shop_group_4_pool_3",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_4_pool_4_1",
+    "pool" : "charge_rebate_shop_group_4_pool_4",
+    "chance" : "101",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_4_pool_4_2",
+    "pool" : "charge_rebate_shop_group_4_pool_4",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_4_pool_4_3",
+    "pool" : "charge_rebate_shop_group_4_pool_4",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_4_pool_4_4",
+    "pool" : "charge_rebate_shop_group_4_pool_4",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_4_pool_4_5",
+    "pool" : "charge_rebate_shop_group_4_pool_4",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_4_pool_4_6",
+    "pool" : "charge_rebate_shop_group_4_pool_4",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_4_pool_4_7",
+    "pool" : "charge_rebate_shop_group_4_pool_4",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_4_pool_4_8",
+    "pool" : "charge_rebate_shop_group_4_pool_4",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_4_pool_4_9",
+    "pool" : "charge_rebate_shop_group_4_pool_4",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_4_pool_4_10",
+    "pool" : "charge_rebate_shop_group_4_pool_4",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_4_pool_4_11",
+    "pool" : "charge_rebate_shop_group_4_pool_4",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_4_pool_4_12",
+    "pool" : "charge_rebate_shop_group_4_pool_4",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_4_pool_4_13",
+    "pool" : "charge_rebate_shop_group_4_pool_4",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_4_pool_4_14",
+    "pool" : "charge_rebate_shop_group_4_pool_4",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_4_pool_4_15",
+    "pool" : "charge_rebate_shop_group_4_pool_4",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_4_pool_4_16",
+    "pool" : "charge_rebate_shop_group_4_pool_4",
+    "chance" : "100",
+    "item_id" : "item_gold_1",
+    "item_value" : "1"
+  } ]
+}

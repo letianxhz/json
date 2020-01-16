@@ -1,0 +1,248 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "activity_id" : "activity_id@activity_alliance_limit_main.id",
+    "personal_rank" : "personal_rank@int",
+    "if_final_chest" : "if_final_chest@int",
+    "reward_id_1" : "reward_id_1@itemlist.id",
+    "reward_value_1" : "reward_value_1@int",
+    "reward_id_2" : "reward_id_2@itemlist.id",
+    "reward_value_2" : "reward_value_2@int",
+    "reward_id_3" : "reward_id_3@itemlist.id",
+    "reward_value_3" : "reward_value_3@int",
+    "reward_id_4" : "reward_id_4@itemlist.id",
+    "reward_value_4" : "reward_value_4@int",
+    "reward_id_5" : "reward_id_5@itemlist.id",
+    "reward_value_5" : "reward_value_5@int",
+    "reward_id_6" : "reward_id_6@itemlist.id",
+    "reward_value_6" : "reward_value_6@int"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "activity_id" : "活动id",
+    "personal_rank" : "个人档位",
+    "if_final_chest" : "最终宝箱",
+    "reward_id_1" : "个人奖励1",
+    "reward_value_1" : "个人奖励数量1",
+    "reward_id_2" : "个人奖励2",
+    "reward_value_2" : "个人奖励数量2",
+    "reward_id_3" : "个人奖励3",
+    "reward_value_3" : "个人奖励数量3",
+    "reward_id_4" : "个人奖励4",
+    "reward_value_4" : "个人奖励数量4",
+    "reward_id_5" : "个人奖励5",
+    "reward_value_5" : "个人奖励数量5",
+    "reward_id_6" : "个人奖励6",
+    "reward_value_6" : "个人奖励数量6"
+  }, {
+    "id" : "1",
+    "activity_id" : "alliance_limit_1",
+    "personal_rank" : "50",
+    "if_final_chest" : "0",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "2",
+    "activity_id" : "alliance_limit_1",
+    "personal_rank" : "100",
+    "if_final_chest" : "0",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "3",
+    "activity_id" : "alliance_limit_1",
+    "personal_rank" : "200",
+    "if_final_chest" : "0",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "4",
+    "activity_id" : "alliance_limit_1",
+    "personal_rank" : "350",
+    "if_final_chest" : "0",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "5",
+    "activity_id" : "alliance_limit_1",
+    "personal_rank" : "500",
+    "if_final_chest" : "1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "6",
+    "activity_id" : "alliance_limit_2",
+    "personal_rank" : "100",
+    "if_final_chest" : "0",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "7",
+    "activity_id" : "alliance_limit_2",
+    "personal_rank" : "600",
+    "if_final_chest" : "0",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "8",
+    "activity_id" : "alliance_limit_2",
+    "personal_rank" : "1200",
+    "if_final_chest" : "0",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "9",
+    "activity_id" : "alliance_limit_2",
+    "personal_rank" : "2000",
+    "if_final_chest" : "0",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "10",
+    "activity_id" : "alliance_limit_2",
+    "personal_rank" : "3000",
+    "if_final_chest" : "1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "11",
+    "activity_id" : "alliance_limit_3",
+    "personal_rank" : "500",
+    "if_final_chest" : "0",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "12",
+    "activity_id" : "alliance_limit_3",
+    "personal_rank" : "1500",
+    "if_final_chest" : "0",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "13",
+    "activity_id" : "alliance_limit_3",
+    "personal_rank" : "3500",
+    "if_final_chest" : "0",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "14",
+    "activity_id" : "alliance_limit_3",
+    "personal_rank" : "6500",
+    "if_final_chest" : "0",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "15",
+    "activity_id" : "alliance_limit_3",
+    "personal_rank" : "10000",
+    "if_final_chest" : "1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "16",
+    "activity_id" : "alliance_limit_1_1",
+    "personal_rank" : "50",
+    "if_final_chest" : "0",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "17",
+    "activity_id" : "alliance_limit_1_1",
+    "personal_rank" : "100",
+    "if_final_chest" : "0",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "18",
+    "activity_id" : "alliance_limit_1_1",
+    "personal_rank" : "200",
+    "if_final_chest" : "0",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "19",
+    "activity_id" : "alliance_limit_1_1",
+    "personal_rank" : "350",
+    "if_final_chest" : "0",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "20",
+    "activity_id" : "alliance_limit_1_1",
+    "personal_rank" : "500",
+    "if_final_chest" : "1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "21",
+    "activity_id" : "alliance_limit_1_2",
+    "personal_rank" : "100",
+    "if_final_chest" : "0",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "22",
+    "activity_id" : "alliance_limit_1_2",
+    "personal_rank" : "600",
+    "if_final_chest" : "0",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "23",
+    "activity_id" : "alliance_limit_1_2",
+    "personal_rank" : "1500",
+    "if_final_chest" : "0",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "24",
+    "activity_id" : "alliance_limit_1_2",
+    "personal_rank" : "2500",
+    "if_final_chest" : "0",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "25",
+    "activity_id" : "alliance_limit_1_2",
+    "personal_rank" : "3500",
+    "if_final_chest" : "1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "26",
+    "activity_id" : "alliance_limit_1_3",
+    "personal_rank" : "500",
+    "if_final_chest" : "0",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "27",
+    "activity_id" : "alliance_limit_1_3",
+    "personal_rank" : "1500",
+    "if_final_chest" : "0",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "28",
+    "activity_id" : "alliance_limit_1_3",
+    "personal_rank" : "3500",
+    "if_final_chest" : "0",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "29",
+    "activity_id" : "alliance_limit_1_3",
+    "personal_rank" : "6500",
+    "if_final_chest" : "0",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "30",
+    "activity_id" : "alliance_limit_1_3",
+    "personal_rank" : "10000",
+    "if_final_chest" : "1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  } ]
+}

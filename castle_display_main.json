@@ -1,0 +1,814 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "group" : "group@castle_display_group.id",
+    "level" : "level@int",
+    "stronghold_appearance" : "stronghold_appearance@string"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "group" : "所属组",
+    "level" : "主城等级",
+    "stronghold_appearance" : "主城外观"
+  }, {
+    "id" : "activity_seven_day_1",
+    "group" : "activity_seven_day",
+    "level" : "1",
+    "stronghold_appearance" : "activity_seven_day_1"
+  }, {
+    "id" : "activity_seven_day_2",
+    "group" : "activity_seven_day",
+    "level" : "2",
+    "stronghold_appearance" : "activity_seven_day_1"
+  }, {
+    "id" : "activity_seven_day_3",
+    "group" : "activity_seven_day",
+    "level" : "3",
+    "stronghold_appearance" : "activity_seven_day_1"
+  }, {
+    "id" : "activity_seven_day_4",
+    "group" : "activity_seven_day",
+    "level" : "4",
+    "stronghold_appearance" : "activity_seven_day_1"
+  }, {
+    "id" : "activity_seven_day_5",
+    "group" : "activity_seven_day",
+    "level" : "5",
+    "stronghold_appearance" : "activity_seven_day_1"
+  }, {
+    "id" : "activity_seven_day_6",
+    "group" : "activity_seven_day",
+    "level" : "6",
+    "stronghold_appearance" : "activity_seven_day_1"
+  }, {
+    "id" : "activity_seven_day_7",
+    "group" : "activity_seven_day",
+    "level" : "7",
+    "stronghold_appearance" : "activity_seven_day_1"
+  }, {
+    "id" : "activity_seven_day_8",
+    "group" : "activity_seven_day",
+    "level" : "8",
+    "stronghold_appearance" : "activity_seven_day_1"
+  }, {
+    "id" : "activity_seven_day_9",
+    "group" : "activity_seven_day",
+    "level" : "9",
+    "stronghold_appearance" : "activity_seven_day_1"
+  }, {
+    "id" : "activity_seven_day_10",
+    "group" : "activity_seven_day",
+    "level" : "10",
+    "stronghold_appearance" : "activity_seven_day_1"
+  }, {
+    "id" : "activity_seven_day_11",
+    "group" : "activity_seven_day",
+    "level" : "11",
+    "stronghold_appearance" : "activity_seven_day_1"
+  }, {
+    "id" : "activity_seven_day_12",
+    "group" : "activity_seven_day",
+    "level" : "12",
+    "stronghold_appearance" : "activity_seven_day_1"
+  }, {
+    "id" : "activity_seven_day_13",
+    "group" : "activity_seven_day",
+    "level" : "13",
+    "stronghold_appearance" : "activity_seven_day_1"
+  }, {
+    "id" : "activity_seven_day_14",
+    "group" : "activity_seven_day",
+    "level" : "14",
+    "stronghold_appearance" : "activity_seven_day_1"
+  }, {
+    "id" : "activity_seven_day_15",
+    "group" : "activity_seven_day",
+    "level" : "15",
+    "stronghold_appearance" : "activity_seven_day_1"
+  }, {
+    "id" : "activity_seven_day_16",
+    "group" : "activity_seven_day",
+    "level" : "16",
+    "stronghold_appearance" : "activity_seven_day_1"
+  }, {
+    "id" : "activity_seven_day_17",
+    "group" : "activity_seven_day",
+    "level" : "17",
+    "stronghold_appearance" : "activity_seven_day_1"
+  }, {
+    "id" : "activity_seven_day_18",
+    "group" : "activity_seven_day",
+    "level" : "18",
+    "stronghold_appearance" : "activity_seven_day_1"
+  }, {
+    "id" : "activity_seven_day_19",
+    "group" : "activity_seven_day",
+    "level" : "19",
+    "stronghold_appearance" : "activity_seven_day_1"
+  }, {
+    "id" : "activity_seven_day_20",
+    "group" : "activity_seven_day",
+    "level" : "20",
+    "stronghold_appearance" : "activity_seven_day_1"
+  }, {
+    "id" : "activity_seven_day_21",
+    "group" : "activity_seven_day",
+    "level" : "21",
+    "stronghold_appearance" : "activity_seven_day_1"
+  }, {
+    "id" : "activity_seven_day_22",
+    "group" : "activity_seven_day",
+    "level" : "22",
+    "stronghold_appearance" : "activity_seven_day_1"
+  }, {
+    "id" : "activity_seven_day_23",
+    "group" : "activity_seven_day",
+    "level" : "23",
+    "stronghold_appearance" : "activity_seven_day_1"
+  }, {
+    "id" : "activity_seven_day_24",
+    "group" : "activity_seven_day",
+    "level" : "24",
+    "stronghold_appearance" : "activity_seven_day_1"
+  }, {
+    "id" : "activity_seven_day_25",
+    "group" : "activity_seven_day",
+    "level" : "25",
+    "stronghold_appearance" : "activity_seven_day_1"
+  }, {
+    "id" : "activity_seven_day_26",
+    "group" : "activity_seven_day",
+    "level" : "26",
+    "stronghold_appearance" : "activity_seven_day_1"
+  }, {
+    "id" : "activity_seven_day_27",
+    "group" : "activity_seven_day",
+    "level" : "27",
+    "stronghold_appearance" : "activity_seven_day_1"
+  }, {
+    "id" : "activity_seven_day_28",
+    "group" : "activity_seven_day",
+    "level" : "28",
+    "stronghold_appearance" : "activity_seven_day_1"
+  }, {
+    "id" : "activity_seven_day_29",
+    "group" : "activity_seven_day",
+    "level" : "29",
+    "stronghold_appearance" : "activity_seven_day_1"
+  }, {
+    "id" : "activity_seven_day_30",
+    "group" : "activity_seven_day",
+    "level" : "30",
+    "stronghold_appearance" : "activity_seven_day_1"
+  }, {
+    "id" : "activity_seven_day_31",
+    "group" : "activity_seven_day",
+    "level" : "31",
+    "stronghold_appearance" : "activity_seven_day_1"
+  }, {
+    "id" : "activity_seven_day_32",
+    "group" : "activity_seven_day",
+    "level" : "32",
+    "stronghold_appearance" : "activity_seven_day_1"
+  }, {
+    "id" : "activity_seven_day_33",
+    "group" : "activity_seven_day",
+    "level" : "33",
+    "stronghold_appearance" : "activity_seven_day_1"
+  }, {
+    "id" : "activity_seven_day_34",
+    "group" : "activity_seven_day",
+    "level" : "34",
+    "stronghold_appearance" : "activity_seven_day_1"
+  }, {
+    "id" : "activity_seven_day_35",
+    "group" : "activity_seven_day",
+    "level" : "35",
+    "stronghold_appearance" : "activity_seven_day_1"
+  }, {
+    "id" : "activity_seven_day_36",
+    "group" : "activity_seven_day",
+    "level" : "36",
+    "stronghold_appearance" : "activity_seven_day_1"
+  }, {
+    "id" : "activity_seven_day_37",
+    "group" : "activity_seven_day",
+    "level" : "37",
+    "stronghold_appearance" : "activity_seven_day_1"
+  }, {
+    "id" : "activity_seven_day_38",
+    "group" : "activity_seven_day",
+    "level" : "38",
+    "stronghold_appearance" : "activity_seven_day_1"
+  }, {
+    "id" : "activity_seven_day_39",
+    "group" : "activity_seven_day",
+    "level" : "39",
+    "stronghold_appearance" : "activity_seven_day_1"
+  }, {
+    "id" : "activity_seven_day_40",
+    "group" : "activity_seven_day",
+    "level" : "40",
+    "stronghold_appearance" : "activity_seven_day_1"
+  }, {
+    "id" : "falcon_the_firmament_1",
+    "group" : "activity_goldenEagle",
+    "level" : "1",
+    "stronghold_appearance" : "activity_goldenEagle_kingdom"
+  }, {
+    "id" : "falcon_the_firmament_2",
+    "group" : "activity_goldenEagle",
+    "level" : "2",
+    "stronghold_appearance" : "activity_goldenEagle_kingdom"
+  }, {
+    "id" : "falcon_the_firmament_3",
+    "group" : "activity_goldenEagle",
+    "level" : "3",
+    "stronghold_appearance" : "activity_goldenEagle_kingdom"
+  }, {
+    "id" : "falcon_the_firmament_4",
+    "group" : "activity_goldenEagle",
+    "level" : "4",
+    "stronghold_appearance" : "activity_goldenEagle_kingdom"
+  }, {
+    "id" : "falcon_the_firmament_5",
+    "group" : "activity_goldenEagle",
+    "level" : "5",
+    "stronghold_appearance" : "activity_goldenEagle_kingdom"
+  }, {
+    "id" : "falcon_the_firmament_6",
+    "group" : "activity_goldenEagle",
+    "level" : "6",
+    "stronghold_appearance" : "activity_goldenEagle_kingdom"
+  }, {
+    "id" : "falcon_the_firmament_7",
+    "group" : "activity_goldenEagle",
+    "level" : "7",
+    "stronghold_appearance" : "activity_goldenEagle_kingdom"
+  }, {
+    "id" : "falcon_the_firmament_8",
+    "group" : "activity_goldenEagle",
+    "level" : "8",
+    "stronghold_appearance" : "activity_goldenEagle_kingdom"
+  }, {
+    "id" : "falcon_the_firmament_9",
+    "group" : "activity_goldenEagle",
+    "level" : "9",
+    "stronghold_appearance" : "activity_goldenEagle_kingdom"
+  }, {
+    "id" : "falcon_the_firmament_10",
+    "group" : "activity_goldenEagle",
+    "level" : "10",
+    "stronghold_appearance" : "activity_goldenEagle_kingdom"
+  }, {
+    "id" : "falcon_the_firmament_11",
+    "group" : "activity_goldenEagle",
+    "level" : "11",
+    "stronghold_appearance" : "activity_goldenEagle_kingdom"
+  }, {
+    "id" : "falcon_the_firmament_12",
+    "group" : "activity_goldenEagle",
+    "level" : "12",
+    "stronghold_appearance" : "activity_goldenEagle_kingdom"
+  }, {
+    "id" : "falcon_the_firmament_13",
+    "group" : "activity_goldenEagle",
+    "level" : "13",
+    "stronghold_appearance" : "activity_goldenEagle_kingdom"
+  }, {
+    "id" : "falcon_the_firmament_14",
+    "group" : "activity_goldenEagle",
+    "level" : "14",
+    "stronghold_appearance" : "activity_goldenEagle_kingdom"
+  }, {
+    "id" : "falcon_the_firmament_15",
+    "group" : "activity_goldenEagle",
+    "level" : "15",
+    "stronghold_appearance" : "activity_goldenEagle_kingdom"
+  }, {
+    "id" : "falcon_the_firmament_16",
+    "group" : "activity_goldenEagle",
+    "level" : "16",
+    "stronghold_appearance" : "activity_goldenEagle_kingdom"
+  }, {
+    "id" : "falcon_the_firmament_17",
+    "group" : "activity_goldenEagle",
+    "level" : "17",
+    "stronghold_appearance" : "activity_goldenEagle_kingdom"
+  }, {
+    "id" : "falcon_the_firmament_18",
+    "group" : "activity_goldenEagle",
+    "level" : "18",
+    "stronghold_appearance" : "activity_goldenEagle_kingdom"
+  }, {
+    "id" : "falcon_the_firmament_19",
+    "group" : "activity_goldenEagle",
+    "level" : "19",
+    "stronghold_appearance" : "activity_goldenEagle_kingdom"
+  }, {
+    "id" : "falcon_the_firmament_20",
+    "group" : "activity_goldenEagle",
+    "level" : "20",
+    "stronghold_appearance" : "activity_goldenEagle_kingdom"
+  }, {
+    "id" : "falcon_the_firmament_21",
+    "group" : "activity_goldenEagle",
+    "level" : "21",
+    "stronghold_appearance" : "activity_goldenEagle_kingdom"
+  }, {
+    "id" : "falcon_the_firmament_22",
+    "group" : "activity_goldenEagle",
+    "level" : "22",
+    "stronghold_appearance" : "activity_goldenEagle_kingdom"
+  }, {
+    "id" : "falcon_the_firmament_23",
+    "group" : "activity_goldenEagle",
+    "level" : "23",
+    "stronghold_appearance" : "activity_goldenEagle_kingdom"
+  }, {
+    "id" : "falcon_the_firmament_24",
+    "group" : "activity_goldenEagle",
+    "level" : "24",
+    "stronghold_appearance" : "activity_goldenEagle_kingdom"
+  }, {
+    "id" : "falcon_the_firmament_25",
+    "group" : "activity_goldenEagle",
+    "level" : "25",
+    "stronghold_appearance" : "activity_goldenEagle_kingdom"
+  }, {
+    "id" : "falcon_the_firmament_26",
+    "group" : "activity_goldenEagle",
+    "level" : "26",
+    "stronghold_appearance" : "activity_goldenEagle_kingdom"
+  }, {
+    "id" : "falcon_the_firmament_27",
+    "group" : "activity_goldenEagle",
+    "level" : "27",
+    "stronghold_appearance" : "activity_goldenEagle_kingdom"
+  }, {
+    "id" : "falcon_the_firmament_28",
+    "group" : "activity_goldenEagle",
+    "level" : "28",
+    "stronghold_appearance" : "activity_goldenEagle_kingdom"
+  }, {
+    "id" : "falcon_the_firmament_29",
+    "group" : "activity_goldenEagle",
+    "level" : "29",
+    "stronghold_appearance" : "activity_goldenEagle_kingdom"
+  }, {
+    "id" : "falcon_the_firmament_30",
+    "group" : "activity_goldenEagle",
+    "level" : "30",
+    "stronghold_appearance" : "activity_goldenEagle_kingdom"
+  }, {
+    "id" : "falcon_the_firmament_31",
+    "group" : "activity_goldenEagle",
+    "level" : "31",
+    "stronghold_appearance" : "activity_goldenEagle_kingdom"
+  }, {
+    "id" : "falcon_the_firmament_32",
+    "group" : "activity_goldenEagle",
+    "level" : "32",
+    "stronghold_appearance" : "activity_goldenEagle_kingdom"
+  }, {
+    "id" : "falcon_the_firmament_33",
+    "group" : "activity_goldenEagle",
+    "level" : "33",
+    "stronghold_appearance" : "activity_goldenEagle_kingdom"
+  }, {
+    "id" : "falcon_the_firmament_34",
+    "group" : "activity_goldenEagle",
+    "level" : "34",
+    "stronghold_appearance" : "activity_goldenEagle_kingdom"
+  }, {
+    "id" : "falcon_the_firmament_35",
+    "group" : "activity_goldenEagle",
+    "level" : "35",
+    "stronghold_appearance" : "activity_goldenEagle_kingdom"
+  }, {
+    "id" : "falcon_the_firmament_36",
+    "group" : "activity_goldenEagle",
+    "level" : "36",
+    "stronghold_appearance" : "activity_goldenEagle_kingdom"
+  }, {
+    "id" : "falcon_the_firmament_37",
+    "group" : "activity_goldenEagle",
+    "level" : "37",
+    "stronghold_appearance" : "activity_goldenEagle_kingdom"
+  }, {
+    "id" : "falcon_the_firmament_38",
+    "group" : "activity_goldenEagle",
+    "level" : "38",
+    "stronghold_appearance" : "activity_goldenEagle_kingdom"
+  }, {
+    "id" : "falcon_the_firmament_39",
+    "group" : "activity_goldenEagle",
+    "level" : "39",
+    "stronghold_appearance" : "activity_goldenEagle_kingdom"
+  }, {
+    "id" : "falcon_the_firmament_40",
+    "group" : "activity_goldenEagle",
+    "level" : "40",
+    "stronghold_appearance" : "activity_goldenEagle_kingdom"
+  }, {
+    "id" : "activity_war_machine_1",
+    "group" : "activity_war_machine",
+    "level" : "1",
+    "stronghold_appearance" : "activity_war_machine_kingdom"
+  }, {
+    "id" : "activity_war_machine_2",
+    "group" : "activity_war_machine",
+    "level" : "2",
+    "stronghold_appearance" : "activity_war_machine_kingdom"
+  }, {
+    "id" : "activity_war_machine_3",
+    "group" : "activity_war_machine",
+    "level" : "3",
+    "stronghold_appearance" : "activity_war_machine_kingdom"
+  }, {
+    "id" : "activity_war_machine_4",
+    "group" : "activity_war_machine",
+    "level" : "4",
+    "stronghold_appearance" : "activity_war_machine_kingdom"
+  }, {
+    "id" : "activity_war_machine_5",
+    "group" : "activity_war_machine",
+    "level" : "5",
+    "stronghold_appearance" : "activity_war_machine_kingdom"
+  }, {
+    "id" : "activity_war_machine_6",
+    "group" : "activity_war_machine",
+    "level" : "6",
+    "stronghold_appearance" : "activity_war_machine_kingdom"
+  }, {
+    "id" : "activity_war_machine_7",
+    "group" : "activity_war_machine",
+    "level" : "7",
+    "stronghold_appearance" : "activity_war_machine_kingdom"
+  }, {
+    "id" : "activity_war_machine_8",
+    "group" : "activity_war_machine",
+    "level" : "8",
+    "stronghold_appearance" : "activity_war_machine_kingdom"
+  }, {
+    "id" : "activity_war_machine_9",
+    "group" : "activity_war_machine",
+    "level" : "9",
+    "stronghold_appearance" : "activity_war_machine_kingdom"
+  }, {
+    "id" : "activity_war_machine_10",
+    "group" : "activity_war_machine",
+    "level" : "10",
+    "stronghold_appearance" : "activity_war_machine_kingdom"
+  }, {
+    "id" : "activity_war_machine_11",
+    "group" : "activity_war_machine",
+    "level" : "11",
+    "stronghold_appearance" : "activity_war_machine_kingdom"
+  }, {
+    "id" : "activity_war_machine_12",
+    "group" : "activity_war_machine",
+    "level" : "12",
+    "stronghold_appearance" : "activity_war_machine_kingdom"
+  }, {
+    "id" : "activity_war_machine_13",
+    "group" : "activity_war_machine",
+    "level" : "13",
+    "stronghold_appearance" : "activity_war_machine_kingdom"
+  }, {
+    "id" : "activity_war_machine_14",
+    "group" : "activity_war_machine",
+    "level" : "14",
+    "stronghold_appearance" : "activity_war_machine_kingdom"
+  }, {
+    "id" : "activity_war_machine_15",
+    "group" : "activity_war_machine",
+    "level" : "15",
+    "stronghold_appearance" : "activity_war_machine_kingdom"
+  }, {
+    "id" : "activity_war_machine_16",
+    "group" : "activity_war_machine",
+    "level" : "16",
+    "stronghold_appearance" : "activity_war_machine_kingdom"
+  }, {
+    "id" : "activity_war_machine_17",
+    "group" : "activity_war_machine",
+    "level" : "17",
+    "stronghold_appearance" : "activity_war_machine_kingdom"
+  }, {
+    "id" : "activity_war_machine_18",
+    "group" : "activity_war_machine",
+    "level" : "18",
+    "stronghold_appearance" : "activity_war_machine_kingdom"
+  }, {
+    "id" : "activity_war_machine_19",
+    "group" : "activity_war_machine",
+    "level" : "19",
+    "stronghold_appearance" : "activity_war_machine_kingdom"
+  }, {
+    "id" : "activity_war_machine_20",
+    "group" : "activity_war_machine",
+    "level" : "20",
+    "stronghold_appearance" : "activity_war_machine_kingdom"
+  }, {
+    "id" : "activity_war_machine_21",
+    "group" : "activity_war_machine",
+    "level" : "21",
+    "stronghold_appearance" : "activity_war_machine_kingdom"
+  }, {
+    "id" : "activity_war_machine_22",
+    "group" : "activity_war_machine",
+    "level" : "22",
+    "stronghold_appearance" : "activity_war_machine_kingdom"
+  }, {
+    "id" : "activity_war_machine_23",
+    "group" : "activity_war_machine",
+    "level" : "23",
+    "stronghold_appearance" : "activity_war_machine_kingdom"
+  }, {
+    "id" : "activity_war_machine_24",
+    "group" : "activity_war_machine",
+    "level" : "24",
+    "stronghold_appearance" : "activity_war_machine_kingdom"
+  }, {
+    "id" : "activity_war_machine_25",
+    "group" : "activity_war_machine",
+    "level" : "25",
+    "stronghold_appearance" : "activity_war_machine_kingdom"
+  }, {
+    "id" : "activity_war_machine_26",
+    "group" : "activity_war_machine",
+    "level" : "26",
+    "stronghold_appearance" : "activity_war_machine_kingdom"
+  }, {
+    "id" : "activity_war_machine_27",
+    "group" : "activity_war_machine",
+    "level" : "27",
+    "stronghold_appearance" : "activity_war_machine_kingdom"
+  }, {
+    "id" : "activity_war_machine_28",
+    "group" : "activity_war_machine",
+    "level" : "28",
+    "stronghold_appearance" : "activity_war_machine_kingdom"
+  }, {
+    "id" : "activity_war_machine_29",
+    "group" : "activity_war_machine",
+    "level" : "29",
+    "stronghold_appearance" : "activity_war_machine_kingdom"
+  }, {
+    "id" : "activity_war_machine_30",
+    "group" : "activity_war_machine",
+    "level" : "30",
+    "stronghold_appearance" : "activity_war_machine_kingdom"
+  }, {
+    "id" : "activity_war_machine_31",
+    "group" : "activity_war_machine",
+    "level" : "31",
+    "stronghold_appearance" : "activity_war_machine_kingdom"
+  }, {
+    "id" : "activity_war_machine_32",
+    "group" : "activity_war_machine",
+    "level" : "32",
+    "stronghold_appearance" : "activity_war_machine_kingdom"
+  }, {
+    "id" : "activity_war_machine_33",
+    "group" : "activity_war_machine",
+    "level" : "33",
+    "stronghold_appearance" : "activity_war_machine_kingdom"
+  }, {
+    "id" : "activity_war_machine_34",
+    "group" : "activity_war_machine",
+    "level" : "34",
+    "stronghold_appearance" : "activity_war_machine_kingdom"
+  }, {
+    "id" : "activity_war_machine_35",
+    "group" : "activity_war_machine",
+    "level" : "35",
+    "stronghold_appearance" : "activity_war_machine_kingdom"
+  }, {
+    "id" : "activity_war_machine_36",
+    "group" : "activity_war_machine",
+    "level" : "36",
+    "stronghold_appearance" : "activity_war_machine_kingdom"
+  }, {
+    "id" : "activity_war_machine_37",
+    "group" : "activity_war_machine",
+    "level" : "37",
+    "stronghold_appearance" : "activity_war_machine_kingdom"
+  }, {
+    "id" : "activity_war_machine_38",
+    "group" : "activity_war_machine",
+    "level" : "38",
+    "stronghold_appearance" : "activity_war_machine_kingdom"
+  }, {
+    "id" : "activity_war_machine_39",
+    "group" : "activity_war_machine",
+    "level" : "39",
+    "stronghold_appearance" : "activity_war_machine_kingdom"
+  }, {
+    "id" : "activity_war_machine_40",
+    "group" : "activity_war_machine",
+    "level" : "40",
+    "stronghold_appearance" : "activity_war_machine_kingdom"
+  }, {
+    "id" : "activity_halloween_1",
+    "group" : "activity_halloween",
+    "level" : "1",
+    "stronghold_appearance" : "activity_halloween_kingdom"
+  }, {
+    "id" : "activity_halloween_2",
+    "group" : "activity_halloween",
+    "level" : "2",
+    "stronghold_appearance" : "activity_halloween_kingdom"
+  }, {
+    "id" : "activity_halloween_3",
+    "group" : "activity_halloween",
+    "level" : "3",
+    "stronghold_appearance" : "activity_halloween_kingdom"
+  }, {
+    "id" : "activity_halloween_4",
+    "group" : "activity_halloween",
+    "level" : "4",
+    "stronghold_appearance" : "activity_halloween_kingdom"
+  }, {
+    "id" : "activity_halloween_5",
+    "group" : "activity_halloween",
+    "level" : "5",
+    "stronghold_appearance" : "activity_halloween_kingdom"
+  }, {
+    "id" : "activity_halloween_6",
+    "group" : "activity_halloween",
+    "level" : "6",
+    "stronghold_appearance" : "activity_halloween_kingdom"
+  }, {
+    "id" : "activity_halloween_7",
+    "group" : "activity_halloween",
+    "level" : "7",
+    "stronghold_appearance" : "activity_halloween_kingdom"
+  }, {
+    "id" : "activity_halloween_8",
+    "group" : "activity_halloween",
+    "level" : "8",
+    "stronghold_appearance" : "activity_halloween_kingdom"
+  }, {
+    "id" : "activity_halloween_9",
+    "group" : "activity_halloween",
+    "level" : "9",
+    "stronghold_appearance" : "activity_halloween_kingdom"
+  }, {
+    "id" : "activity_halloween_10",
+    "group" : "activity_halloween",
+    "level" : "10",
+    "stronghold_appearance" : "activity_halloween_kingdom"
+  }, {
+    "id" : "activity_halloween_11",
+    "group" : "activity_halloween",
+    "level" : "11",
+    "stronghold_appearance" : "activity_halloween_kingdom"
+  }, {
+    "id" : "activity_halloween_12",
+    "group" : "activity_halloween",
+    "level" : "12",
+    "stronghold_appearance" : "activity_halloween_kingdom"
+  }, {
+    "id" : "activity_halloween_13",
+    "group" : "activity_halloween",
+    "level" : "13",
+    "stronghold_appearance" : "activity_halloween_kingdom"
+  }, {
+    "id" : "activity_halloween_14",
+    "group" : "activity_halloween",
+    "level" : "14",
+    "stronghold_appearance" : "activity_halloween_kingdom"
+  }, {
+    "id" : "activity_halloween_15",
+    "group" : "activity_halloween",
+    "level" : "15",
+    "stronghold_appearance" : "activity_halloween_kingdom"
+  }, {
+    "id" : "activity_halloween_16",
+    "group" : "activity_halloween",
+    "level" : "16",
+    "stronghold_appearance" : "activity_halloween_kingdom"
+  }, {
+    "id" : "activity_halloween_17",
+    "group" : "activity_halloween",
+    "level" : "17",
+    "stronghold_appearance" : "activity_halloween_kingdom"
+  }, {
+    "id" : "activity_halloween_18",
+    "group" : "activity_halloween",
+    "level" : "18",
+    "stronghold_appearance" : "activity_halloween_kingdom"
+  }, {
+    "id" : "activity_halloween_19",
+    "group" : "activity_halloween",
+    "level" : "19",
+    "stronghold_appearance" : "activity_halloween_kingdom"
+  }, {
+    "id" : "activity_halloween_20",
+    "group" : "activity_halloween",
+    "level" : "20",
+    "stronghold_appearance" : "activity_halloween_kingdom"
+  }, {
+    "id" : "activity_halloween_21",
+    "group" : "activity_halloween",
+    "level" : "21",
+    "stronghold_appearance" : "activity_halloween_kingdom"
+  }, {
+    "id" : "activity_halloween_22",
+    "group" : "activity_halloween",
+    "level" : "22",
+    "stronghold_appearance" : "activity_halloween_kingdom"
+  }, {
+    "id" : "activity_halloween_23",
+    "group" : "activity_halloween",
+    "level" : "23",
+    "stronghold_appearance" : "activity_halloween_kingdom"
+  }, {
+    "id" : "activity_halloween_24",
+    "group" : "activity_halloween",
+    "level" : "24",
+    "stronghold_appearance" : "activity_halloween_kingdom"
+  }, {
+    "id" : "activity_halloween_25",
+    "group" : "activity_halloween",
+    "level" : "25",
+    "stronghold_appearance" : "activity_halloween_kingdom"
+  }, {
+    "id" : "activity_halloween_26",
+    "group" : "activity_halloween",
+    "level" : "26",
+    "stronghold_appearance" : "activity_halloween_kingdom"
+  }, {
+    "id" : "activity_halloween_27",
+    "group" : "activity_halloween",
+    "level" : "27",
+    "stronghold_appearance" : "activity_halloween_kingdom"
+  }, {
+    "id" : "activity_halloween_28",
+    "group" : "activity_halloween",
+    "level" : "28",
+    "stronghold_appearance" : "activity_halloween_kingdom"
+  }, {
+    "id" : "activity_halloween_29",
+    "group" : "activity_halloween",
+    "level" : "29",
+    "stronghold_appearance" : "activity_halloween_kingdom"
+  }, {
+    "id" : "activity_halloween_30",
+    "group" : "activity_halloween",
+    "level" : "30",
+    "stronghold_appearance" : "activity_halloween_kingdom"
+  }, {
+    "id" : "activity_halloween_31",
+    "group" : "activity_halloween",
+    "level" : "31",
+    "stronghold_appearance" : "activity_halloween_kingdom"
+  }, {
+    "id" : "activity_halloween_32",
+    "group" : "activity_halloween",
+    "level" : "32",
+    "stronghold_appearance" : "activity_halloween_kingdom"
+  }, {
+    "id" : "activity_halloween_33",
+    "group" : "activity_halloween",
+    "level" : "33",
+    "stronghold_appearance" : "activity_halloween_kingdom"
+  }, {
+    "id" : "activity_halloween_34",
+    "group" : "activity_halloween",
+    "level" : "34",
+    "stronghold_appearance" : "activity_halloween_kingdom"
+  }, {
+    "id" : "activity_halloween_35",
+    "group" : "activity_halloween",
+    "level" : "35",
+    "stronghold_appearance" : "activity_halloween_kingdom"
+  }, {
+    "id" : "activity_halloween_36",
+    "group" : "activity_halloween",
+    "level" : "36",
+    "stronghold_appearance" : "activity_halloween_kingdom"
+  }, {
+    "id" : "activity_halloween_37",
+    "group" : "activity_halloween",
+    "level" : "37",
+    "stronghold_appearance" : "activity_halloween_kingdom"
+  }, {
+    "id" : "activity_halloween_38",
+    "group" : "activity_halloween",
+    "level" : "38",
+    "stronghold_appearance" : "activity_halloween_kingdom"
+  }, {
+    "id" : "activity_halloween_39",
+    "group" : "activity_halloween",
+    "level" : "39",
+    "stronghold_appearance" : "activity_halloween_kingdom"
+  }, {
+    "id" : "activity_halloween_40",
+    "group" : "activity_halloween",
+    "level" : "40",
+    "stronghold_appearance" : "activity_halloween_kingdom"
+  } ]
+}

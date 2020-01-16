@@ -1,0 +1,74 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "day" : "day@int",
+    "image" : "image@string^c",
+    "reward_id_1" : "reward_id_1@itemlist.id",
+    "reward_value_1" : "reward_value_1@int",
+    "reward_id_2" : "reward_id_2@itemlist.id",
+    "reward_value_2" : "reward_value_2@int"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "day" : "登录天数",
+    "image" : "图片",
+    "reward_id_1" : "奖励道具id_1",
+    "reward_value_1" : "奖励道具数量_1",
+    "reward_id_2" : "奖励道具id_2",
+    "reward_value_2" : "奖励道具数量_2"
+  }, {
+    "id" : "return_log_in_reward_1",
+    "day" : "1",
+    "image" : "image_return_log_in_reward",
+    "reward_id_1" : "item_speedup_5m",
+    "reward_value_1" : "2"
+  }, {
+    "id" : "return_log_in_reward_2",
+    "day" : "2",
+    "image" : "image_return_log_in_reward",
+    "reward_id_1" : "item_speedup_5m",
+    "reward_value_1" : "4"
+  }, {
+    "id" : "return_log_in_reward_3",
+    "day" : "4",
+    "image" : "image_return_log_in_reward",
+    "reward_id_1" : "item_speedup_5m",
+    "reward_value_1" : "6"
+  }, {
+    "id" : "return_log_in_reward_4",
+    "day" : "7",
+    "image" : "image_return_log_in_reward",
+    "reward_id_1" : "item_speedup_5m",
+    "reward_value_1" : "8"
+  }, {
+    "id" : "return_log_in_reward_5",
+    "day" : "10",
+    "image" : "image_return_log_in_reward",
+    "reward_id_1" : "item_speedup_5m",
+    "reward_value_1" : "10"
+  }, {
+    "id" : "return_log_in_reward_6",
+    "day" : "15",
+    "image" : "image_return_log_in_reward",
+    "reward_id_1" : "item_speedup_5m",
+    "reward_value_1" : "12"
+  }, {
+    "id" : "return_log_in_reward_7",
+    "day" : "20",
+    "image" : "image_return_log_in_reward",
+    "reward_id_1" : "item_speedup_5m",
+    "reward_value_1" : "14"
+  }, {
+    "id" : "return_log_in_reward_8",
+    "day" : "25",
+    "image" : "image_return_log_in_reward",
+    "reward_id_1" : "item_speedup_5m",
+    "reward_value_1" : "16"
+  }, {
+    "id" : "return_log_in_reward_9",
+    "day" : "30",
+    "image" : "image_return_log_in_reward",
+    "reward_id_1" : "item_speedup_5m",
+    "reward_value_1" : "18"
+  } ]
+}

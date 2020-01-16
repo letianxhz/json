@@ -1,0 +1,114 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "skill_order" : "skill_order@int",
+    "skill_level" : "skill_level@int",
+    "weight" : "weight@string"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "skill_order" : "技能的顺序",
+    "skill_level" : "技能当前等级，0表示未解锁",
+    "weight" : "权重"
+  }, {
+    "id" : "1",
+    "skill_order" : "1",
+    "skill_level" : "0",
+    "weight" : "0"
+  }, {
+    "id" : "2",
+    "skill_order" : "1",
+    "skill_level" : "1",
+    "weight" : "100"
+  }, {
+    "id" : "3",
+    "skill_order" : "1",
+    "skill_level" : "2",
+    "weight" : "100"
+  }, {
+    "id" : "4",
+    "skill_order" : "1",
+    "skill_level" : "3",
+    "weight" : "50"
+  }, {
+    "id" : "5",
+    "skill_order" : "1",
+    "skill_level" : "4",
+    "weight" : "25"
+  }, {
+    "id" : "6",
+    "skill_order" : "2",
+    "skill_level" : "0",
+    "weight" : "50"
+  }, {
+    "id" : "7",
+    "skill_order" : "2",
+    "skill_level" : "1",
+    "weight" : "200"
+  }, {
+    "id" : "8",
+    "skill_order" : "2",
+    "skill_level" : "2",
+    "weight" : "200"
+  }, {
+    "id" : "9",
+    "skill_order" : "2",
+    "skill_level" : "3",
+    "weight" : "50"
+  }, {
+    "id" : "10",
+    "skill_order" : "2",
+    "skill_level" : "4",
+    "weight" : "25"
+  }, {
+    "id" : "11",
+    "skill_order" : "3",
+    "skill_level" : "0",
+    "weight" : "50"
+  }, {
+    "id" : "12",
+    "skill_order" : "3",
+    "skill_level" : "1",
+    "weight" : "200"
+  }, {
+    "id" : "13",
+    "skill_order" : "3",
+    "skill_level" : "2",
+    "weight" : "200"
+  }, {
+    "id" : "14",
+    "skill_order" : "3",
+    "skill_level" : "3",
+    "weight" : "50"
+  }, {
+    "id" : "15",
+    "skill_order" : "3",
+    "skill_level" : "4",
+    "weight" : "25"
+  }, {
+    "id" : "16",
+    "skill_order" : "4",
+    "skill_level" : "0",
+    "weight" : "50"
+  }, {
+    "id" : "17",
+    "skill_order" : "4",
+    "skill_level" : "1",
+    "weight" : "200"
+  }, {
+    "id" : "18",
+    "skill_order" : "4",
+    "skill_level" : "2",
+    "weight" : "200"
+  }, {
+    "id" : "19",
+    "skill_order" : "4",
+    "skill_level" : "3",
+    "weight" : "50"
+  }, {
+    "id" : "20",
+    "skill_order" : "4",
+    "skill_level" : "4",
+    "weight" : "25"
+  } ]
+}

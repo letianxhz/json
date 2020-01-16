@@ -1,0 +1,376 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "type" : "type@string",
+    "value" : "value@int",
+    "score" : "score@int",
+    "score_max" : "score_max@int"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "type" : "类型",
+    "value" : "值",
+    "score" : "积分",
+    "score_max" : "最大积分"
+  }, {
+    "id" : "wonder_kill_1",
+    "type" : "kill",
+    "value" : "1",
+    "score" : "3"
+  }, {
+    "id" : "wonder_kill_2",
+    "type" : "kill",
+    "value" : "2",
+    "score" : "6"
+  }, {
+    "id" : "wonder_kill_3",
+    "type" : "kill",
+    "value" : "3",
+    "score" : "12"
+  }, {
+    "id" : "wonder_kill_4",
+    "type" : "kill",
+    "value" : "4",
+    "score" : "24"
+  }, {
+    "id" : "wonder_kill_5",
+    "type" : "kill",
+    "value" : "5",
+    "score" : "36"
+  }, {
+    "id" : "wonder_kill_6",
+    "type" : "kill",
+    "value" : "6",
+    "score" : "54"
+  }, {
+    "id" : "wonder_kill_7",
+    "type" : "kill",
+    "value" : "7",
+    "score" : "81"
+  }, {
+    "id" : "wonder_kill_8",
+    "type" : "kill",
+    "value" : "8",
+    "score" : "120"
+  }, {
+    "id" : "wonder_kill_9",
+    "type" : "kill",
+    "value" : "9",
+    "score" : "180"
+  }, {
+    "id" : "wonder_kill_10",
+    "type" : "kill",
+    "value" : "10",
+    "score" : "270"
+  }, {
+    "id" : "wonder_kill_11",
+    "type" : "kill",
+    "value" : "11",
+    "score" : "360"
+  }, {
+    "id" : "wonder_kill_12",
+    "type" : "kill",
+    "value" : "12",
+    "score" : "450"
+  }, {
+    "id" : "wonder_lose_1",
+    "type" : "lose",
+    "value" : "1",
+    "score" : "1"
+  }, {
+    "id" : "wonder_lose_2",
+    "type" : "lose",
+    "value" : "2",
+    "score" : "2"
+  }, {
+    "id" : "wonder_lose_3",
+    "type" : "lose",
+    "value" : "3",
+    "score" : "4"
+  }, {
+    "id" : "wonder_lose_4",
+    "type" : "lose",
+    "value" : "4",
+    "score" : "8"
+  }, {
+    "id" : "wonder_lose_5",
+    "type" : "lose",
+    "value" : "5",
+    "score" : "12"
+  }, {
+    "id" : "wonder_lose_6",
+    "type" : "lose",
+    "value" : "6",
+    "score" : "18"
+  }, {
+    "id" : "wonder_lose_7",
+    "type" : "lose",
+    "value" : "7",
+    "score" : "27"
+  }, {
+    "id" : "wonder_lose_8",
+    "type" : "lose",
+    "value" : "8",
+    "score" : "40"
+  }, {
+    "id" : "wonder_lose_9",
+    "type" : "lose",
+    "value" : "9",
+    "score" : "60"
+  }, {
+    "id" : "wonder_lose_10",
+    "type" : "lose",
+    "value" : "10",
+    "score" : "90"
+  }, {
+    "id" : "wonder_lose_11",
+    "type" : "lose",
+    "value" : "11",
+    "score" : "120"
+  }, {
+    "id" : "wonder_lose_12",
+    "type" : "lose",
+    "value" : "12",
+    "score" : "150"
+  }, {
+    "id" : "wonder_defense_1",
+    "type" : "defense",
+    "value" : "1",
+    "score" : "360",
+    "score_max" : "650000"
+  }, {
+    "id" : "wonder_defense_2",
+    "type" : "defense",
+    "value" : "2",
+    "score" : "360",
+    "score_max" : "690000"
+  }, {
+    "id" : "wonder_defense_3",
+    "type" : "defense",
+    "value" : "3",
+    "score" : "360",
+    "score_max" : "740000"
+  }, {
+    "id" : "wonder_defense_4",
+    "type" : "defense",
+    "value" : "4",
+    "score" : "360",
+    "score_max" : "790000"
+  }, {
+    "id" : "wonder_defense_5",
+    "type" : "defense",
+    "value" : "5",
+    "score" : "360",
+    "score_max" : "850000"
+  }, {
+    "id" : "wonder_defense_6",
+    "type" : "defense",
+    "value" : "6",
+    "score" : "360",
+    "score_max" : "910000"
+  }, {
+    "id" : "wonder_defense_7",
+    "type" : "defense",
+    "value" : "7",
+    "score" : "360",
+    "score_max" : "970000"
+  }, {
+    "id" : "wonder_defense_8",
+    "type" : "defense",
+    "value" : "8",
+    "score" : "360",
+    "score_max" : "1040000"
+  }, {
+    "id" : "wonder_defense_9",
+    "type" : "defense",
+    "value" : "9",
+    "score" : "360",
+    "score_max" : "1110000"
+  }, {
+    "id" : "wonder_defense_10",
+    "type" : "defense",
+    "value" : "10",
+    "score" : "360",
+    "score_max" : "1190000"
+  }, {
+    "id" : "wonder_defense_11",
+    "type" : "defense",
+    "value" : "11",
+    "score" : "360",
+    "score_max" : "1270000"
+  }, {
+    "id" : "wonder_defense_12",
+    "type" : "defense",
+    "value" : "12",
+    "score" : "360",
+    "score_max" : "1360000"
+  }, {
+    "id" : "wonder_defense_13",
+    "type" : "defense",
+    "value" : "13",
+    "score" : "360",
+    "score_max" : "1460000"
+  }, {
+    "id" : "wonder_defense_14",
+    "type" : "defense",
+    "value" : "14",
+    "score" : "360",
+    "score_max" : "1560000"
+  }, {
+    "id" : "wonder_defense_15",
+    "type" : "defense",
+    "value" : "15",
+    "score" : "360",
+    "score_max" : "1670000"
+  }, {
+    "id" : "wonder_defense_16",
+    "type" : "defense",
+    "value" : "16",
+    "score" : "360",
+    "score_max" : "1790000"
+  }, {
+    "id" : "wonder_defense_17",
+    "type" : "defense",
+    "value" : "17",
+    "score" : "360",
+    "score_max" : "1910000"
+  }, {
+    "id" : "wonder_defense_18",
+    "type" : "defense",
+    "value" : "18",
+    "score" : "360",
+    "score_max" : "2050000"
+  }, {
+    "id" : "wonder_defense_19",
+    "type" : "defense",
+    "value" : "19",
+    "score" : "360",
+    "score_max" : "2190000"
+  }, {
+    "id" : "wonder_defense_20",
+    "type" : "defense",
+    "value" : "20",
+    "score" : "360",
+    "score_max" : "2340000"
+  }, {
+    "id" : "wonder_defense_21",
+    "type" : "defense",
+    "value" : "21",
+    "score" : "360",
+    "score_max" : "2510000"
+  }, {
+    "id" : "wonder_defense_22",
+    "type" : "defense",
+    "value" : "22",
+    "score" : "360",
+    "score_max" : "2680000"
+  }, {
+    "id" : "wonder_defense_23",
+    "type" : "defense",
+    "value" : "23",
+    "score" : "360",
+    "score_max" : "2870000"
+  }, {
+    "id" : "wonder_defense_24",
+    "type" : "defense",
+    "value" : "24",
+    "score" : "360",
+    "score_max" : "3070000"
+  }, {
+    "id" : "wonder_defense_25",
+    "type" : "defense",
+    "value" : "25",
+    "score" : "360",
+    "score_max" : "3290000"
+  }, {
+    "id" : "wonder_defense_26",
+    "type" : "defense",
+    "value" : "26",
+    "score" : "360",
+    "score_max" : "3520000"
+  }, {
+    "id" : "wonder_defense_27",
+    "type" : "defense",
+    "value" : "27",
+    "score" : "360",
+    "score_max" : "3760000"
+  }, {
+    "id" : "wonder_defense_28",
+    "type" : "defense",
+    "value" : "28",
+    "score" : "360",
+    "score_max" : "4030000"
+  }, {
+    "id" : "wonder_defense_29",
+    "type" : "defense",
+    "value" : "29",
+    "score" : "360",
+    "score_max" : "4310000"
+  }, {
+    "id" : "wonder_defense_30",
+    "type" : "defense",
+    "value" : "30",
+    "score" : "360",
+    "score_max" : "4610000"
+  }, {
+    "id" : "wonder_defense_31",
+    "type" : "defense",
+    "value" : "31",
+    "score" : "360",
+    "score_max" : "4930000"
+  }, {
+    "id" : "wonder_defense_32",
+    "type" : "defense",
+    "value" : "32",
+    "score" : "360",
+    "score_max" : "5280000"
+  }, {
+    "id" : "wonder_defense_33",
+    "type" : "defense",
+    "value" : "33",
+    "score" : "360",
+    "score_max" : "5650000"
+  }, {
+    "id" : "wonder_defense_34",
+    "type" : "defense",
+    "value" : "34",
+    "score" : "360",
+    "score_max" : "6040000"
+  }, {
+    "id" : "wonder_defense_35",
+    "type" : "defense",
+    "value" : "35",
+    "score" : "360",
+    "score_max" : "6470000"
+  }, {
+    "id" : "wonder_defense_36",
+    "type" : "defense",
+    "value" : "36",
+    "score" : "360",
+    "score_max" : "6920000"
+  }, {
+    "id" : "wonder_defense_37",
+    "type" : "defense",
+    "value" : "37",
+    "score" : "360",
+    "score_max" : "7400000"
+  }, {
+    "id" : "wonder_defense_38",
+    "type" : "defense",
+    "value" : "38",
+    "score" : "360",
+    "score_max" : "7920000"
+  }, {
+    "id" : "wonder_defense_39",
+    "type" : "defense",
+    "value" : "39",
+    "score" : "360",
+    "score_max" : "8480000"
+  }, {
+    "id" : "wonder_defense_40",
+    "type" : "defense",
+    "value" : "40",
+    "score" : "360",
+    "score_max" : "9070000"
+  } ]
+}

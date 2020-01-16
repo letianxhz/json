@@ -1,0 +1,76 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "limit_level" : "limit_level@int",
+    "rebate_token_id" : "rebate_token_id@itemlist.id",
+    "score_ratio" : "score_ratio@int",
+    "name" : "name@string"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "limit_level" : "活动开启所需主城等级",
+    "rebate_token_id" : "代币道具id",
+    "score_ratio" : "每日礼包积分系数",
+    "name" : "显示名称"
+  }, {
+    "id" : "daily_rebate_1",
+    "limit_level" : "5",
+    "rebate_token_id" : "item_daily_rebate_token_1",
+    "score_ratio" : "1"
+  }, {
+    "id" : "daily_rebate_2",
+    "limit_level" : "5",
+    "rebate_token_id" : "item_daily_rebate_token_1",
+    "score_ratio" : "1"
+  }, {
+    "id" : "daily_rebate_3",
+    "limit_level" : "5",
+    "rebate_token_id" : "item_daily_rebate_token_1",
+    "score_ratio" : "1"
+  }, {
+    "id" : "daily_rebate_4",
+    "limit_level" : "5",
+    "rebate_token_id" : "item_daily_rebate_token_1",
+    "score_ratio" : "1"
+  }, {
+    "id" : "daily_rebate_5",
+    "limit_level" : "5",
+    "rebate_token_id" : "item_daily_rebate_token_1",
+    "score_ratio" : "1"
+  }, {
+    "id" : "daily_rebate_6",
+    "limit_level" : "5",
+    "rebate_token_id" : "item_daily_rebate_token_1",
+    "score_ratio" : "1"
+  }, {
+    "id" : "daily_rebate_7",
+    "limit_level" : "5",
+    "rebate_token_id" : "item_daily_rebate_token_1",
+    "score_ratio" : "1"
+  }, {
+    "id" : "daily_rebate_8",
+    "limit_level" : "5",
+    "rebate_token_id" : "item_daily_rebate_token_1",
+    "score_ratio" : "1"
+  }, {
+    "id" : "daily_rebate_9",
+    "limit_level" : "5",
+    "rebate_token_id" : "item_daily_rebate_token_1",
+    "score_ratio" : "1"
+  }, {
+    "id" : "daily_rebate_10",
+    "limit_level" : "5",
+    "rebate_token_id" : "item_daily_rebate_token_1",
+    "score_ratio" : "1"
+  }, {
+    "id" : "daily_rebate_11",
+    "limit_level" : "5",
+    "rebate_token_id" : "item_daily_rebate_token_1",
+    "score_ratio" : "1"
+  }, {
+    "id" : "daily_rebate_new_dragon",
+    "limit_level" : "5",
+    "rebate_token_id" : "item_daily_rebate_token_1",
+    "score_ratio" : "1"
+  } ]
+}

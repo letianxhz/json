@@ -1,0 +1,44 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "activity_id" : "activity_id@activity_main.id",
+    "name" : "name@string",
+    "duration" : "duration@string"
+  },
+  "rows" : [ {
+    "id" : "金币活动id",
+    "activity_id" : "活动组id",
+    "name" : "名称多语言key",
+    "duration" : "持续时间"
+  }, {
+    "id" : "activity_score_main_1",
+    "activity_id" : "activity_1",
+    "name" : "event_gathering_name",
+    "duration" : "24"
+  }, {
+    "id" : "activity_score_main_2",
+    "activity_id" : "activity_1",
+    "name" : "event_upgrade_name",
+    "duration" : "24"
+  }, {
+    "id" : "activity_score_main_3",
+    "activity_id" : "activity_1",
+    "name" : "event_monster_kill_name",
+    "duration" : "24"
+  }, {
+    "id" : "activity_score_main_4",
+    "activity_id" : "activity_1",
+    "name" : "event_troop_training_name",
+    "duration" : "24"
+  }, {
+    "id" : "activity_score_main_5",
+    "activity_id" : "activity_1",
+    "name" : "event_troop_kill_name",
+    "duration" : "72"
+  }, {
+    "id" : "activity_score_main_6",
+    "activity_id" : "activity_1",
+    "name" : "event_fortune_teller_name",
+    "duration" : "0"
+  } ]
+}

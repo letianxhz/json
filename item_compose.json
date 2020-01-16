@@ -1,0 +1,576 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "compose_result_item_id" : "compose_result_item_id@itemlist.id",
+    "compose_result_item_value" : "compose_result_item_value@int",
+    "compose_item_id_1" : "compose_item_id_1@itemlist.id",
+    "compose_item_value_1" : "compose_item_value_1@int",
+    "compose_item_id_2" : "compose_item_id_2@itemlist.id",
+    "compose_item_value_2" : "compose_item_value_2@int",
+    "compose_item_id_3" : "compose_item_id_3@itemlist.id",
+    "compose_item_value_3" : "compose_item_value_3@int",
+    "compose_item_id_4" : "compose_item_id_4@itemlist.id",
+    "compose_item_value_4" : "compose_item_value_4@int",
+    "compose_item_id_5" : "compose_item_id_5@itemlist.id",
+    "compose_item_value_5" : "compose_item_value_5@int",
+    "compose_item_id_6" : "compose_item_id_6@itemlist.id",
+    "compose_item_value_6" : "compose_item_value_6@int"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "compose_result_item_id" : "合成结果道具id",
+    "compose_result_item_value" : "合成结果道具数量",
+    "compose_item_id_1" : "合成需要道具id_1",
+    "compose_item_value_1" : "合成需要道具数量_1",
+    "compose_item_id_2" : "合成需要道具id_2",
+    "compose_item_value_2" : "合成需要道具数量_2",
+    "compose_item_id_3" : "合成需要道具id_3",
+    "compose_item_value_3" : "合成需要道具数量_3",
+    "compose_item_id_4" : "合成需要道具id_4",
+    "compose_item_value_4" : "合成需要道具数量_4",
+    "compose_item_id_5" : "合成需要道具id_5",
+    "compose_item_value_5" : "合成需要道具数量_5",
+    "compose_item_id_6" : "合成需要道具id_6",
+    "compose_item_value_6" : "合成需要道具数量_6"
+  }, {
+    "id" : "compose_item_festival_7_1",
+    "compose_result_item_id" : "item_festival_7_1_3",
+    "compose_result_item_value" : "1",
+    "compose_item_id_1" : "item_festival_7_1_1",
+    "compose_item_value_1" : "1",
+    "compose_item_id_2" : "item_festival_7_1_2",
+    "compose_item_value_2" : "5"
+  }, {
+    "id" : "compose_item_festival_10_1",
+    "compose_result_item_id" : "item_festival_10_1_3",
+    "compose_result_item_value" : "1",
+    "compose_item_id_1" : "item_festival_10_1_1",
+    "compose_item_value_1" : "8",
+    "compose_item_id_2" : "item_festival_10_1_2",
+    "compose_item_value_2" : "1"
+  }, {
+    "id" : "compose_item_festival_0_7_3",
+    "compose_result_item_id" : "item_festival_0_7_3",
+    "compose_result_item_value" : "1",
+    "compose_item_id_1" : "item_festival_0_7_1",
+    "compose_item_value_1" : "100",
+    "compose_item_id_2" : "item_festival_0_7_2",
+    "compose_item_value_2" : "100"
+  }, {
+    "id" : "compose_item_festival_0_8_2",
+    "compose_result_item_id" : "item_festival_0_8_2",
+    "compose_result_item_value" : "1",
+    "compose_item_id_1" : "item_festival_0_8_1",
+    "compose_item_value_1" : "50"
+  }, {
+    "id" : "compose_item_dragon_skill_enhance_2",
+    "compose_result_item_id" : "item_dragon_skill_enhance_2",
+    "compose_result_item_value" : "1",
+    "compose_item_id_1" : "item_dragon_skill_enhance_1",
+    "compose_item_value_1" : "8"
+  }, {
+    "id" : "compose_item_dragon_skill_enhance_3",
+    "compose_result_item_id" : "item_dragon_skill_enhance_3",
+    "compose_result_item_value" : "1",
+    "compose_item_id_1" : "item_dragon_skill_enhance_2",
+    "compose_item_value_1" : "8"
+  }, {
+    "id" : "compose_item_dragon_skill_enhance_4",
+    "compose_result_item_id" : "item_dragon_skill_enhance_4",
+    "compose_result_item_value" : "1",
+    "compose_item_id_1" : "item_dragon_skill_enhance_3",
+    "compose_item_value_1" : "8"
+  }, {
+    "id" : "compose_item_dragon_skill_enhance_5",
+    "compose_result_item_id" : "item_dragon_skill_enhance_5",
+    "compose_result_item_value" : "1",
+    "compose_item_id_1" : "item_dragon_skill_enhance_4",
+    "compose_item_value_1" : "8"
+  }, {
+    "id" : "compose_item_dragon_skill_enhance_6",
+    "compose_result_item_id" : "item_dragon_skill_enhance_6",
+    "compose_result_item_value" : "1",
+    "compose_item_id_1" : "item_dragon_skill_enhance_5",
+    "compose_item_value_1" : "8"
+  }, {
+    "id" : "compose_item_dragon_skill_enhance_7",
+    "compose_result_item_id" : "item_dragon_skill_enhance_7",
+    "compose_result_item_value" : "1",
+    "compose_item_id_1" : "item_dragon_skill_enhance_6",
+    "compose_item_value_1" : "8"
+  }, {
+    "id" : "compose_item_dragon_skill_enhance_8",
+    "compose_result_item_id" : "item_dragon_skill_enhance_8",
+    "compose_result_item_value" : "1",
+    "compose_item_id_1" : "item_dragon_skill_enhance_7",
+    "compose_item_value_1" : "8"
+  }, {
+    "id" : "compose_item_dragon_skill_enhance_9",
+    "compose_result_item_id" : "item_dragon_skill_enhance_9",
+    "compose_result_item_value" : "1",
+    "compose_item_id_1" : "item_dragon_skill_enhance_8",
+    "compose_item_value_1" : "8"
+  }, {
+    "id" : "compose_item_festival_12_1",
+    "compose_result_item_id" : "item_festival_12_1_2",
+    "compose_result_item_value" : "1",
+    "compose_item_id_1" : "item_festival_12_1_1",
+    "compose_item_value_1" : "10"
+  }, {
+    "id" : "compose_item_festival_1_1",
+    "compose_result_item_id" : "item_festival_1_1_3",
+    "compose_result_item_value" : "1",
+    "compose_item_id_1" : "item_festival_1_1_1",
+    "compose_item_value_1" : "8",
+    "compose_item_id_2" : "item_festival_1_1_2",
+    "compose_item_value_2" : "1"
+  }, {
+    "id" : "compose_item_lucky_archer_coin_17_02",
+    "compose_result_item_id" : "item_lucky_archer_coin_17_03",
+    "compose_result_item_value" : "1",
+    "compose_item_id_1" : "item_lucky_archer_coin_17_02",
+    "compose_item_value_1" : "1"
+  }, {
+    "id" : "compose_item_daily_activity_chest_open_1",
+    "compose_result_item_id" : "item_daily_activity_chest_open_1",
+    "compose_result_item_value" : "1",
+    "compose_item_id_1" : "item_daily_activity_chest_key",
+    "compose_item_value_1" : "1",
+    "compose_item_id_2" : "item_daily_activity_chest_1",
+    "compose_item_value_2" : "1"
+  }, {
+    "id" : "compose_item_daily_activity_chest_open_2",
+    "compose_result_item_id" : "item_daily_activity_chest_open_2",
+    "compose_result_item_value" : "1",
+    "compose_item_id_1" : "item_daily_activity_chest_key",
+    "compose_item_value_1" : "1",
+    "compose_item_id_2" : "item_daily_activity_chest_2",
+    "compose_item_value_2" : "1"
+  }, {
+    "id" : "compose_item_daily_activity_chest_open_3",
+    "compose_result_item_id" : "item_daily_activity_chest_open_3",
+    "compose_result_item_value" : "1",
+    "compose_item_id_1" : "item_daily_activity_chest_key",
+    "compose_item_value_1" : "1",
+    "compose_item_id_2" : "item_daily_activity_chest_3",
+    "compose_item_value_2" : "1"
+  }, {
+    "id" : "compose_item_daily_activity_chest_open_4",
+    "compose_result_item_id" : "item_daily_activity_chest_open_4",
+    "compose_result_item_value" : "1",
+    "compose_item_id_1" : "item_daily_activity_chest_key",
+    "compose_item_value_1" : "1",
+    "compose_item_id_2" : "item_daily_activity_chest_4",
+    "compose_item_value_2" : "1"
+  }, {
+    "id" : "compose_scroll_dragon_skill_all_def",
+    "compose_result_item_id" : "scroll_dragon_skill_all_def",
+    "compose_result_item_value" : "1",
+    "compose_item_id_1" : "scroll_chip_dragon_skill_all_def",
+    "compose_item_value_1" : "500"
+  }, {
+    "id" : "compose_scroll_dragon_skill_rewardadd_pve",
+    "compose_result_item_id" : "scroll_dragon_skill_rewardadd_pve",
+    "compose_result_item_value" : "1",
+    "compose_item_id_1" : "scroll_chip_dragon_skill_rewardadd_pve",
+    "compose_item_value_1" : "500"
+  }, {
+    "id" : "compose_scroll_dragon_skill_all_atk",
+    "compose_result_item_id" : "scroll_dragon_skill_all_atk",
+    "compose_result_item_value" : "1",
+    "compose_item_id_1" : "scroll_chip_dragon_skill_all_atk",
+    "compose_item_value_1" : "500"
+  }, {
+    "id" : "compose_scroll_dragon_skill_troop_aoe",
+    "compose_result_item_id" : "scroll_dragon_skill_troop_aoe",
+    "compose_result_item_value" : "1",
+    "compose_item_id_1" : "scroll_chip_dragon_skill_troop_aoe",
+    "compose_item_value_1" : "500"
+  }, {
+    "id" : "compose_item_lucky_archer_coin_17_08_2",
+    "compose_result_item_id" : "item_lucky_archer_coin_17_08",
+    "compose_result_item_value" : "1",
+    "compose_item_id_1" : "item_lucky_archer_coin_17_02",
+    "compose_item_value_1" : "2"
+  }, {
+    "id" : "compose_item_lucky_archer_coin_17_08_3",
+    "compose_result_item_id" : "item_lucky_archer_coin_17_08",
+    "compose_result_item_value" : "1",
+    "compose_item_id_1" : "item_lucky_archer_coin_17_03",
+    "compose_item_value_1" : "2"
+  }, {
+    "id" : "compose_item_lucky_archer_coin_17_08_4",
+    "compose_result_item_id" : "item_lucky_archer_coin_17_08",
+    "compose_result_item_value" : "1",
+    "compose_item_id_1" : "item_lucky_archer_coin_17_04",
+    "compose_item_value_1" : "2"
+  }, {
+    "id" : "compose_item_lucky_archer_coin_17_08_5",
+    "compose_result_item_id" : "item_lucky_archer_coin_17_08",
+    "compose_result_item_value" : "1",
+    "compose_item_id_1" : "item_lucky_archer_coin_17_05",
+    "compose_item_value_1" : "2"
+  }, {
+    "id" : "compose_item_lucky_archer_coin_17_08_6",
+    "compose_result_item_id" : "item_lucky_archer_coin_17_08",
+    "compose_result_item_value" : "1",
+    "compose_item_id_1" : "item_lucky_archer_coin_17_06",
+    "compose_item_value_1" : "2"
+  }, {
+    "id" : "compose_item_lucky_archer_coin_17_08_7",
+    "compose_result_item_id" : "item_lucky_archer_coin_17_08",
+    "compose_result_item_value" : "1",
+    "compose_item_id_1" : "item_lucky_archer_coin_17_07",
+    "compose_item_value_1" : "2"
+  }, {
+    "id" : "compose_item_lucky_archer_coin_17_08_9",
+    "compose_result_item_id" : "item_lucky_archer_coin_17_08",
+    "compose_result_item_value" : "1",
+    "compose_item_id_1" : "item_lucky_archer_coin_17_09",
+    "compose_item_value_1" : "2"
+  }, {
+    "id" : "compose_item_festival_10_3",
+    "compose_result_item_id" : "item_festival_10_3",
+    "compose_result_item_value" : "1",
+    "compose_item_id_1" : "item_festival_10_1",
+    "compose_item_value_1" : "3",
+    "compose_item_id_2" : "item_festival_10_2",
+    "compose_item_value_2" : "1"
+  }, {
+    "id" : "compose_item_altar_summon_scroll_equipment_7_5_0",
+    "compose_result_item_id" : "item_altar_summon_scroll_equipment_7_5_0",
+    "compose_result_item_value" : "1",
+    "compose_item_id_1" : "item_chip_altar_summon_scroll_equipment_7_5_0",
+    "compose_item_value_1" : "100"
+  }, {
+    "id" : "compose_item_altar_summon_scroll_equipment_6_5_0",
+    "compose_result_item_id" : "item_altar_summon_scroll_equipment_6_5_0",
+    "compose_result_item_value" : "1",
+    "compose_item_id_1" : "item_chip_altar_summon_scroll_equipment_6_5_0",
+    "compose_item_value_1" : "100"
+  }, {
+    "id" : "compose_item_altar_summon_scroll_equipment_5_5_0",
+    "compose_result_item_id" : "item_altar_summon_scroll_equipment_5_5_0",
+    "compose_result_item_value" : "1",
+    "compose_item_id_1" : "item_chip_altar_summon_scroll_equipment_5_5_0",
+    "compose_item_value_1" : "100"
+  }, {
+    "id" : "compose_item_altar_summon_gemstone_icr_percent_4",
+    "compose_result_item_id" : "item_altar_summon_gemstone_icr_percent_4",
+    "compose_result_item_value" : "1",
+    "compose_item_id_1" : "item_chip_altar_summon_gemstone_icr_percent_4",
+    "compose_item_value_1" : "100"
+  }, {
+    "id" : "compose_item_altar_summon_gemstone_icr_1_percent_4",
+    "compose_result_item_id" : "item_altar_summon_gemstone_icr_1_percent_4",
+    "compose_result_item_value" : "1",
+    "compose_item_id_1" : "item_chip_altar_summon_gemstone_icr_1_percent_4",
+    "compose_item_value_1" : "100"
+  }, {
+    "id" : "compose_item_altar_summon_gemstone_icr_1_percent_5",
+    "compose_result_item_id" : "item_altar_summon_gemstone_icr_1_percent_5",
+    "compose_result_item_value" : "1",
+    "compose_item_id_1" : "item_chip_altar_summon_gemstone_icr_1_percent_5",
+    "compose_item_value_1" : "100"
+  }, {
+    "id" : "compose_item_altar_summon_dragonknight_gemstone_10_4",
+    "compose_result_item_id" : "item_altar_summon_dragonknight_gemstone_10_4",
+    "compose_result_item_value" : "1",
+    "compose_item_id_1" : "item_chip_altar_summon_dragonknight_gemstone_10_4",
+    "compose_item_value_1" : "100"
+  }, {
+    "id" : "compose_item_kingdom_task_sealed_map",
+    "compose_result_item_id" : "item_kingdom_task_sealed_map",
+    "compose_result_item_value" : "1",
+    "compose_item_id_1" : "item_chip_kingdom_task_sealed_map",
+    "compose_item_value_1" : "10"
+  }, {
+    "id" : "compose_item_altar_summon_scroll_equipment_8_5_0",
+    "compose_result_item_id" : "item_altar_summon_scroll_equipment_8_5_0",
+    "compose_result_item_value" : "1",
+    "compose_item_id_1" : "item_chip_altar_summon_scroll_equipment_8_5_0",
+    "compose_item_value_1" : "100"
+  }, {
+    "id" : "compose_item_altar_summon_scroll_equipment_9_3_0",
+    "compose_result_item_id" : "item_altar_summon_scroll_equipment_9_3_0",
+    "compose_result_item_value" : "1",
+    "compose_item_id_1" : "item_chip_altar_summon_scroll_equipment_9_3_0",
+    "compose_item_value_1" : "100"
+  }, {
+    "id" : "compose_item_altar_summon_scroll_equipment_9_4_0",
+    "compose_result_item_id" : "item_altar_summon_scroll_equipment_9_4_0",
+    "compose_result_item_value" : "1",
+    "compose_item_id_1" : "item_chip_altar_summon_scroll_equipment_9_4_0",
+    "compose_item_value_1" : "100"
+  }, {
+    "id" : "compose_item_altar_summon_scroll_equipment_9_5_0",
+    "compose_result_item_id" : "item_altar_summon_scroll_equipment_9_5_0",
+    "compose_result_item_value" : "1",
+    "compose_item_id_1" : "item_chip_altar_summon_scroll_equipment_9_5_0",
+    "compose_item_value_1" : "100"
+  }, {
+    "id" : "compose_item_altar_summon_equipment_material_rare",
+    "compose_result_item_id" : "item_equipment_material_17",
+    "compose_result_item_value" : "1",
+    "compose_item_id_1" : "item_chip_altar_summon_equipment_material_rare",
+    "compose_item_value_1" : "100"
+  }, {
+    "id" : "compose_item_altar_summon_dragon_emblem_1_3_0_1",
+    "compose_result_item_id" : "item_altar_summon_dragon_emblem_1_3_0_1",
+    "compose_result_item_value" : "1",
+    "compose_item_id_1" : "item_chip_altar_summon_dragon_emblem_1_3_0_1",
+    "compose_item_value_1" : "100"
+  }, {
+    "id" : "compose_item_altar_summon_dragon_emblem_1_3_0_2",
+    "compose_result_item_id" : "item_altar_summon_dragon_emblem_1_3_0_2",
+    "compose_result_item_value" : "1",
+    "compose_item_id_1" : "item_chip_altar_summon_dragon_emblem_1_3_0_2",
+    "compose_item_value_1" : "100"
+  }, {
+    "id" : "compose_item_altar_summon_dragon_emblem_1_3_0_3",
+    "compose_result_item_id" : "item_altar_summon_dragon_emblem_1_3_0_3",
+    "compose_result_item_value" : "1",
+    "compose_item_id_1" : "item_chip_altar_summon_dragon_emblem_1_3_0_3",
+    "compose_item_value_1" : "100"
+  }, {
+    "id" : "compose_item_altar_summon_dragon_emblem_1_4_0_1",
+    "compose_result_item_id" : "item_altar_summon_dragon_emblem_1_4_0_1",
+    "compose_result_item_value" : "1",
+    "compose_item_id_1" : "item_chip_altar_summon_dragon_emblem_1_4_0_1",
+    "compose_item_value_1" : "100"
+  }, {
+    "id" : "compose_item_altar_summon_dragon_emblem_1_4_0_2",
+    "compose_result_item_id" : "item_altar_summon_dragon_emblem_1_4_0_2",
+    "compose_result_item_value" : "1",
+    "compose_item_id_1" : "item_chip_altar_summon_dragon_emblem_1_4_0_2",
+    "compose_item_value_1" : "100"
+  }, {
+    "id" : "compose_item_altar_summon_dragon_emblem_1_4_0_4",
+    "compose_result_item_id" : "item_altar_summon_dragon_emblem_1_4_0_4",
+    "compose_result_item_value" : "1",
+    "compose_item_id_1" : "item_chip_altar_summon_dragon_emblem_1_4_0_4",
+    "compose_item_value_1" : "100"
+  }, {
+    "id" : "compose_item_altar_summon_dragon_emblem_1_5_0_1",
+    "compose_result_item_id" : "item_altar_summon_dragon_emblem_1_5_0_1",
+    "compose_result_item_value" : "1",
+    "compose_item_id_1" : "item_chip_altar_summon_dragon_emblem_1_5_0_1",
+    "compose_item_value_1" : "100"
+  }, {
+    "id" : "compose_item_altar_summon_dragon_emblem_1_5_0_2",
+    "compose_result_item_id" : "item_altar_summon_dragon_emblem_1_5_0_2",
+    "compose_result_item_value" : "1",
+    "compose_item_id_1" : "item_chip_altar_summon_dragon_emblem_1_5_0_2",
+    "compose_item_value_1" : "100"
+  }, {
+    "id" : "compose_item_altar_summon_dragon_emblem_1_5_0_5",
+    "compose_result_item_id" : "item_altar_summon_dragon_emblem_1_5_0_5",
+    "compose_result_item_value" : "1",
+    "compose_item_id_1" : "item_chip_altar_summon_dragon_emblem_1_5_0_5",
+    "compose_item_value_1" : "100"
+  }, {
+    "id" : "compose_item_altar_summon_gemstone_soul_1_percent_4",
+    "compose_result_item_id" : "item_altar_summon_gemstone_soul_1_percent_4",
+    "compose_result_item_value" : "1",
+    "compose_item_id_1" : "item_chip_altar_summon_gemstone_soul_1_percent_4",
+    "compose_item_value_1" : "100"
+  }, {
+    "id" : "compose_item_altar_summon_gemstone_soul_2_percent_4",
+    "compose_result_item_id" : "item_altar_summon_gemstone_soul_2_percent_4",
+    "compose_result_item_value" : "1",
+    "compose_item_id_1" : "item_chip_altar_summon_gemstone_soul_2_percent_4",
+    "compose_item_value_1" : "100"
+  }, {
+    "id" : "compose_item_altar_summon_gemstone_soul_3_percent_4",
+    "compose_result_item_id" : "item_altar_summon_gemstone_soul_3_percent_4",
+    "compose_result_item_value" : "1",
+    "compose_item_id_1" : "item_chip_altar_summon_gemstone_soul_3_percent_4",
+    "compose_item_value_1" : "100"
+  }, {
+    "id" : "compose_item_king_arthur_will_lineage",
+    "compose_result_item_id" : "item_king_arthur_will_lineage",
+    "compose_result_item_value" : "1",
+    "compose_item_id_1" : "item_chip_king_arthur_will_lineage",
+    "compose_item_value_1" : "10"
+  }, {
+    "id" : "compose_item_altar_summon_building_statue_1_1_0_1",
+    "compose_result_item_id" : "item_altar_summon_building_statue_1_1_0_1",
+    "compose_result_item_value" : "1",
+    "compose_item_id_1" : "item_chip_altar_summon_building_statue_1_1_0_1",
+    "compose_item_value_1" : "100"
+  }, {
+    "id" : "compose_item_altar_summon_building_statue_1_2_0_1",
+    "compose_result_item_id" : "item_altar_summon_building_statue_1_2_0_1",
+    "compose_result_item_value" : "1",
+    "compose_item_id_1" : "item_chip_altar_summon_building_statue_1_2_0_1",
+    "compose_item_value_1" : "100"
+  }, {
+    "id" : "compose_item_altar_summon_building_statue_1_3_0_1",
+    "compose_result_item_id" : "item_altar_summon_building_statue_1_3_0_1",
+    "compose_result_item_value" : "1",
+    "compose_item_id_1" : "item_chip_altar_summon_building_statue_1_3_0_1",
+    "compose_item_value_1" : "100"
+  }, {
+    "id" : "compose_item_altar_summon_building_statue_1_3_0_2",
+    "compose_result_item_id" : "item_altar_summon_building_statue_1_3_0_2",
+    "compose_result_item_value" : "1",
+    "compose_item_id_1" : "item_chip_altar_summon_building_statue_1_3_0_2",
+    "compose_item_value_1" : "100"
+  }, {
+    "id" : "compose_item_altar_summon_building_statue_1_3_0_3",
+    "compose_result_item_id" : "item_altar_summon_building_statue_1_3_0_3",
+    "compose_result_item_value" : "1",
+    "compose_item_id_1" : "item_chip_altar_summon_building_statue_1_3_0_3",
+    "compose_item_value_1" : "100"
+  }, {
+    "id" : "compose_item_altar_summon_building_statue_1_4_0_1",
+    "compose_result_item_id" : "item_altar_summon_building_statue_1_4_0_1",
+    "compose_result_item_value" : "1",
+    "compose_item_id_1" : "item_chip_altar_summon_building_statue_1_4_0_1",
+    "compose_item_value_1" : "100"
+  }, {
+    "id" : "compose_item_altar_summon_building_statue_1_4_0_2",
+    "compose_result_item_id" : "item_altar_summon_building_statue_1_4_0_2",
+    "compose_result_item_value" : "1",
+    "compose_item_id_1" : "item_chip_altar_summon_building_statue_1_4_0_2",
+    "compose_item_value_1" : "100"
+  }, {
+    "id" : "compose_item_altar_summon_building_statue_1_4_0_4",
+    "compose_result_item_id" : "item_altar_summon_building_statue_1_4_0_4",
+    "compose_result_item_value" : "1",
+    "compose_item_id_1" : "item_chip_altar_summon_building_statue_1_4_0_4",
+    "compose_item_value_1" : "100"
+  }, {
+    "id" : "compose_item_altar_summon_building_statue_1_5_0_1",
+    "compose_result_item_id" : "item_altar_summon_building_statue_1_5_0_1",
+    "compose_result_item_value" : "1",
+    "compose_item_id_1" : "item_chip_altar_summon_building_statue_1_5_0_1",
+    "compose_item_value_1" : "100"
+  }, {
+    "id" : "compose_item_altar_summon_building_statue_1_5_0_2",
+    "compose_result_item_id" : "item_altar_summon_building_statue_1_5_0_2",
+    "compose_result_item_value" : "1",
+    "compose_item_id_1" : "item_chip_altar_summon_building_statue_1_5_0_2",
+    "compose_item_value_1" : "100"
+  }, {
+    "id" : "compose_item_altar_summon_building_statue_1_5_0_5",
+    "compose_result_item_id" : "item_altar_summon_building_statue_1_5_0_5",
+    "compose_result_item_value" : "1",
+    "compose_item_id_1" : "item_chip_altar_summon_building_statue_1_5_0_5",
+    "compose_item_value_1" : "100"
+  }, {
+    "id" : "compose_item_altar_summon_scroll_dk_equipment_1_0",
+    "compose_result_item_id" : "item_altar_summon_scroll_dk_equipment_1_0",
+    "compose_result_item_value" : "1",
+    "compose_item_id_1" : "item_chip_altar_summon_scroll_dk_equipment_1_0",
+    "compose_item_value_1" : "100"
+  }, {
+    "id" : "compose_item_altar_summon_scroll_dk_equipment_2_0",
+    "compose_result_item_id" : "item_altar_summon_scroll_dk_equipment_2_0",
+    "compose_result_item_value" : "1",
+    "compose_item_id_1" : "item_chip_altar_summon_scroll_dk_equipment_2_0",
+    "compose_item_value_1" : "100"
+  }, {
+    "id" : "compose_item_altar_summon_scroll_dk_equipment_3_0",
+    "compose_result_item_id" : "item_altar_summon_scroll_dk_equipment_3_0",
+    "compose_result_item_value" : "1",
+    "compose_item_id_1" : "item_chip_altar_summon_scroll_dk_equipment_3_0",
+    "compose_item_value_1" : "100"
+  }, {
+    "id" : "compose_item_altar_summon_scroll_dk_equipment_4_0",
+    "compose_result_item_id" : "item_altar_summon_scroll_dk_equipment_4_0",
+    "compose_result_item_value" : "1",
+    "compose_item_id_1" : "item_chip_altar_summon_scroll_dk_equipment_4_0",
+    "compose_item_value_1" : "100"
+  }, {
+    "id" : "compose_item_altar_summon_scroll_dk_equipment_5_0",
+    "compose_result_item_id" : "item_altar_summon_scroll_dk_equipment_5_0",
+    "compose_result_item_value" : "1",
+    "compose_item_id_1" : "item_chip_altar_summon_scroll_dk_equipment_5_0",
+    "compose_item_value_1" : "100"
+  }, {
+    "id" : "compose_item_festival_new_year_treasure",
+    "compose_result_item_id" : "item_festival_new_year_treasure",
+    "compose_result_item_value" : "1",
+    "compose_item_id_1" : "item_festival_chip_new_year_treasure",
+    "compose_item_value_1" : "10"
+  }, {
+    "id" : "compose_item_explore_slg_reward_chest_1_open",
+    "compose_result_item_id" : "item_explore_slg_reward_chest_1_open",
+    "compose_result_item_value" : "1",
+    "compose_item_id_1" : "item_explore_slg_reward_chest_1_close",
+    "compose_item_value_1" : "1",
+    "compose_item_id_2" : "item_explore_slg_reward_chest_1_key",
+    "compose_item_value_2" : "1"
+  }, {
+    "id" : "compose_item_explore_slg_reward_chest_2_open",
+    "compose_result_item_id" : "item_explore_slg_reward_chest_2_open",
+    "compose_result_item_value" : "1",
+    "compose_item_id_1" : "item_explore_slg_reward_chest_2_close",
+    "compose_item_value_1" : "1",
+    "compose_item_id_2" : "item_explore_slg_reward_chest_1_key",
+    "compose_item_value_2" : "1"
+  }, {
+    "id" : "compose_item_explore_slg_reward_chest_3_open",
+    "compose_result_item_id" : "item_explore_slg_reward_chest_3_open",
+    "compose_result_item_value" : "1",
+    "compose_item_id_1" : "item_explore_slg_reward_chest_3_close",
+    "compose_item_value_1" : "1",
+    "compose_item_id_2" : "item_explore_slg_reward_chest_1_key",
+    "compose_item_value_2" : "1"
+  }, {
+    "id" : "compose_item_easter_2019_super_egg_open",
+    "compose_result_item_id" : "item_easter_2019_super_egg_open",
+    "compose_result_item_value" : "1",
+    "compose_item_id_1" : "item_easter_2019_super_egg",
+    "compose_item_value_1" : "1",
+    "compose_item_id_2" : "item_easter_2019_super_egg_key",
+    "compose_item_value_2" : "1"
+  }, {
+    "id" : "compose_item_honor_pass_chest_treasure_open",
+    "compose_result_item_id" : "item_honor_pass_chest_treasure_open",
+    "compose_result_item_value" : "1",
+    "compose_item_id_1" : "item_honor_pass_chest_treasure",
+    "compose_item_value_1" : "1",
+    "compose_item_id_2" : "item_honor_pass_chest_treasure_key",
+    "compose_item_value_2" : "1"
+  }, {
+    "id" : "compose_item_chip_honor_pass_chest_treasure_key",
+    "compose_result_item_id" : "item_honor_pass_chest_treasure_key",
+    "compose_result_item_value" : "1",
+    "compose_item_id_1" : "item_chip_honor_pass_chest_treasure_key",
+    "compose_item_value_1" : "100"
+  }, {
+    "id" : "compose_item_honor_pass_chest_treasure_open_1",
+    "compose_result_item_id" : "item_honor_pass_chest_treasure_open_1",
+    "compose_result_item_value" : "1",
+    "compose_item_id_1" : "item_honor_pass_chest_treasure_1",
+    "compose_item_value_1" : "1",
+    "compose_item_id_2" : "item_honor_pass_chest_treasure_key",
+    "compose_item_value_2" : "1"
+  }, {
+    "id" : "compose_item_festival_dw_special_chest_open",
+    "compose_result_item_id" : "item_festival_dw_special_chest_open",
+    "compose_result_item_value" : "1",
+    "compose_item_id_1" : "item_festival_dw_special_chest",
+    "compose_item_value_1" : "1",
+    "compose_item_id_2" : "item_festival_dw_special_chest_key",
+    "compose_item_value_2" : "1"
+  }, {
+    "id" : "compose_item_festival_halloween_red_moon_chest_open",
+    "compose_result_item_id" : "item_festival_halloween_red_moon_chest_open",
+    "compose_result_item_value" : "1",
+    "compose_item_id_1" : "item_festival_halloween_red_moon_chest",
+    "compose_item_value_1" : "1",
+    "compose_item_id_2" : "item_festival_halloween_red_moon_chest_key",
+    "compose_item_value_2" : "1"
+  }, {
+    "id" : "compose_item_thanksg_pass_chest_treasure_open",
+    "compose_result_item_id" : "item_thanksg_pass_chest_treasure_open",
+    "compose_result_item_value" : "1",
+    "compose_item_id_1" : "item_thanksg_pass_chest_treasure",
+    "compose_item_value_1" : "1",
+    "compose_item_id_2" : "item_thanksg_pass_chest_treasure_key",
+    "compose_item_value_2" : "1"
+  } ]
+}

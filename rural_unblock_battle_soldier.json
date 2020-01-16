@@ -1,0 +1,70 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "type" : "type@string",
+    "one" : "one@int",
+    "two" : "two@int",
+    "three" : "three@int",
+    "four" : "four@int",
+    "five" : "five@int",
+    "six" : "six@int",
+    "seven" : "seven@int",
+    "eight" : "eight@int"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "type" : "兵种类型",
+    "one" : "1个模型",
+    "two" : "2个模型",
+    "three" : "3个模型",
+    "four" : "4个模型",
+    "five" : "5个模型",
+    "six" : "6个模型",
+    "seven" : "7个模型",
+    "eight" : "8个模型"
+  }, {
+    "id" : "1",
+    "type" : "siege",
+    "one" : "1",
+    "two" : "50",
+    "three" : "100",
+    "four" : "500",
+    "five" : "1000",
+    "six" : "2000",
+    "seven" : "3000",
+    "eight" : "-1"
+  }, {
+    "id" : "2",
+    "type" : "infantry",
+    "one" : "1",
+    "two" : "100",
+    "three" : "1000",
+    "four" : "3000",
+    "five" : "-1",
+    "six" : "-1",
+    "seven" : "-1",
+    "eight" : "-1"
+  }, {
+    "id" : "3",
+    "type" : "ranged",
+    "one" : "1",
+    "two" : "100",
+    "three" : "2000",
+    "four" : "-1",
+    "five" : "-1",
+    "six" : "-1",
+    "seven" : "-1",
+    "eight" : "-1"
+  }, {
+    "id" : "4",
+    "type" : "cavalry",
+    "one" : "1",
+    "two" : "1000",
+    "three" : "-1",
+    "four" : "-1",
+    "five" : "-1",
+    "six" : "-1",
+    "seven" : "-1",
+    "eight" : "-1"
+  } ]
+}

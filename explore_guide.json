@@ -1,0 +1,26 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "name" : "name@string",
+    "boss_chest_id" : "boss_chest_id@drop_group.id",
+    "asset_path" : "asset_path@string"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "name" : "名字",
+    "boss_chest_id" : "boss宝箱id",
+    "asset_path" : "场景装饰 程序用"
+  }, {
+    "id" : "explore_guide_1",
+    "name" : "explore_guide_1_name",
+    "asset_path" : "guide_1_asset_config"
+  }, {
+    "id" : "explore_guide_2",
+    "name" : "explore_guide_2_name",
+    "asset_path" : "guide_2_asset_config"
+  }, {
+    "id" : "explore_guide_3",
+    "name" : "explore_guide_3_name",
+    "asset_path" : "guide_3_asset_config"
+  } ]
+}
