@@ -1,0 +1,77 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "chapter" : "chapter@campaign_chapter.id",
+    "unlock_type_1" : "unlock_type_1@string",
+    "value_1" : "value_1@string",
+    "unlock_type_2" : "unlock_type_2@string",
+    "value_2" : "value_2@string",
+    "name" : "name@string",
+    "story" : "story@string"
+  },
+  "rows" : [ {
+    "id" : "区域id",
+    "chapter" : "所属战役章节",
+    "unlock_type_1" : "解锁条件",
+    "value_1" : "解锁参数1",
+    "unlock_type_2" : "解锁条件2",
+    "value_2" : "解锁参数2",
+    "name" : "区域名称",
+    "story" : "区域背景故事"
+  }, {
+    "id" : "campaign_area_1_1",
+    "chapter" : "campaign_chapter_1",
+    "unlock_type_1" : "default",
+    "value_1" : "0"
+  }, {
+    "id" : "campaign_area_1_2",
+    "chapter" : "campaign_chapter_1",
+    "unlock_type_1" : "pre_campaign_node",
+    "value_1" : "campaign_node_1_1"
+  }, {
+    "id" : "campaign_area_1_3",
+    "chapter" : "campaign_chapter_1",
+    "unlock_type_1" : "pre_campaign_node",
+    "value_1" : "campaign_node_1_2"
+  }, {
+    "id" : "campaign_area_1_4",
+    "chapter" : "campaign_chapter_1",
+    "unlock_type_1" : "pre_campaign_node",
+    "value_1" : "campaign_node_1_3"
+  }, {
+    "id" : "campaign_area_1_5",
+    "chapter" : "campaign_chapter_1",
+    "unlock_type_1" : "pre_campaign_node",
+    "value_1" : "campaign_node_1_4"
+  }, {
+    "id" : "campaign_area_1_6",
+    "chapter" : "campaign_chapter_1",
+    "unlock_type_1" : "pre_campaign_node",
+    "value_1" : "campaign_node_1_5"
+  }, {
+    "id" : "campaign_area_1_7",
+    "chapter" : "campaign_chapter_1",
+    "unlock_type_1" : "pre_campaign_node",
+    "value_1" : "campaign_node_1_6"
+  }, {
+    "id" : "campaign_area_1_8",
+    "chapter" : "campaign_chapter_1",
+    "unlock_type_1" : "pre_campaign_node",
+    "value_1" : "campaign_node_1_7"
+  }, {
+    "id" : "campaign_area_1_9",
+    "chapter" : "campaign_chapter_1",
+    "unlock_type_1" : "pre_campaign_node",
+    "value_1" : "campaign_node_1_8"
+  }, {
+    "id" : "campaign_area_1_10",
+    "chapter" : "campaign_chapter_1",
+    "unlock_type_1" : "pre_campaign_node",
+    "value_1" : "campaign_node_1_9"
+  }, {
+    "id" : "campaign_area_1_11",
+    "chapter" : "campaign_chapter_1",
+    "unlock_type_1" : "pre_campaign_node",
+    "value_1" : "campaign_node_1_10"
+  } ]
+}

@@ -1,0 +1,89 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "group" : "group@shoot_lottery_group.id",
+    "index" : "index@int",
+    "cost" : "cost@int",
+    "reward_id_1" : "reward_id_1@itemlist.id",
+    "reward_value_1" : "reward_value_1@int",
+    "reward_id_2" : "reward_id_2@itemlist.id",
+    "reward_value_2" : "reward_value_2@int",
+    "reward_id_3" : "reward_id_3@itemlist.id",
+    "reward_value_3" : "reward_value_3@int"
+  },
+  "rows" : [ {
+    "id" : "宝箱id",
+    "group" : "所属活动id",
+    "index" : "序列",
+    "cost" : "消耗点数",
+    "reward_id_1" : "奖励",
+    "reward_value_1" : "奖励",
+    "reward_id_2" : "奖励",
+    "reward_value_2" : "奖励",
+    "reward_id_3" : "奖励",
+    "reward_value_3" : "奖励"
+  }, {
+    "id" : "1",
+    "group" : "shoot_lottery_group_1",
+    "index" : "1",
+    "cost" : "1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "2",
+    "group" : "shoot_lottery_group_1",
+    "index" : "2",
+    "cost" : "1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "3",
+    "group" : "shoot_lottery_group_1",
+    "index" : "3",
+    "cost" : "1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "4",
+    "group" : "shoot_lottery_group_1",
+    "index" : "4",
+    "cost" : "2",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "5",
+    "group" : "shoot_lottery_group_1",
+    "index" : "5",
+    "cost" : "2",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "6",
+    "group" : "shoot_lottery_group_1",
+    "index" : "6",
+    "cost" : "3",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "7",
+    "group" : "shoot_lottery_group_1",
+    "index" : "7",
+    "cost" : "3",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "8",
+    "group" : "shoot_lottery_group_1",
+    "index" : "8",
+    "cost" : "3",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "9",
+    "group" : "shoot_lottery_group_1",
+    "index" : "9",
+    "cost" : "4",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  } ]
+}

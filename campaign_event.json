@@ -1,0 +1,60 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "chapter" : "chapter@campaign_chapter.id",
+    "type" : "type@string",
+    "day" : "day@int",
+    "trigger_node" : "trigger_node@campaign_node.id",
+    "effect_day" : "effect_day@int",
+    "target_node" : "target_node@campaign_node.id",
+    "effect_type" : "effect_type@string",
+    "value" : "value@string",
+    "name" : "name@string",
+    "desc" : "desc@string",
+    "dialogue" : "dialogue@npc_dialogue.id",
+    "" : ""
+  },
+  "rows" : [ {
+    "id" : "id",
+    "chapter" : "关联战役章节",
+    "type" : "触发类型",
+    "day" : "触发天数",
+    "trigger_node" : "触发地块",
+    "effect_day" : "有效天数",
+    "target_node" : "目标地块",
+    "effect_type" : "生效类型",
+    "value" : "触发事件卡",
+    "name" : "效果名称",
+    "desc" : "效果描述",
+    "dialogue" : "引导对话"
+  }, {
+    "id" : "1",
+    "chapter" : "campaign_chapter_1",
+    "type" : "arrive_node_id",
+    "trigger_node" : "campaign_node_1_3",
+    "effect_day" : "2",
+    "target_node" : "campaign_node_1_5",
+    "effect_type" : "tactic_group",
+    "value" : "campaign_tactic_7",
+    "name" : "第一目标",
+    "desc" : "战场局势紧张，总部特意空投的[00FF00]补给物资[-]，物资是战争中最重要的物品，可以用来恢复在战争中丧失战斗力的部队，让他们重新投入战争，陷阵冲锋！"
+  }, {
+    "id" : "2",
+    "chapter" : "campaign_chapter_1",
+    "type" : "occupy_node_id",
+    "trigger_node" : "campaign_node_1_3",
+    "effect_day" : "5",
+    "target_node" : "campaign_node_1_5",
+    "effect_type" : "tactic_effect",
+    "value" : "campaign_effect_7"
+  }, {
+    "id" : "3",
+    "chapter" : "campaign_chapter_1",
+    "type" : "by_time",
+    "day" : "3",
+    "effect_day" : "5",
+    "target_node" : "campaign_node_1_5",
+    "effect_type" : "tactic_effect",
+    "value" : "campaign_effect_7"
+  } ]
+}

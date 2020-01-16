@@ -1,0 +1,31 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "type" : "type@string",
+    "image" : "image@string",
+    "name" : "name@string",
+    "prefab" : "prefab@string",
+    "init_effect" : "init_effect@string",
+    "active_effect" : "active_effect@string",
+    "up_effect" : "up_effect@string",
+    "info" : "info@string"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "type" : "对应表名",
+    "image" : "图",
+    "name" : "名字",
+    "prefab" : "模型",
+    "info" : "介绍"
+  }, {
+    "id" : "cannon",
+    "type" : "explore_theme_elements_level",
+    "image" : "army_cannon",
+    "name" : "cannon_name",
+    "prefab" : "army_cannon",
+    "init_effect" : "fx_tansuonew_duolapaoweixiu_01",
+    "active_effect" : "fx_tansuonew_duolapaojihuo_01",
+    "up_effect" : "fx_tansuonew_duolapaoshengji_01",
+    "info" : "cannon_description"
+  } ]
+}

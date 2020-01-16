@@ -1,0 +1,74 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "payment_level" : "payment_level@int",
+    "pay_id" : "pay_id@string",
+    "cm_env_pay_id" : "cm_env_pay_id@string"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "payment_level" : "支付等级",
+    "pay_id" : "支付id",
+    "cm_env_pay_id" : "根据环境取得支付id配置"
+  }, {
+    "id" : "payment_level_1_1",
+    "payment_level" : "1",
+    "pay_id" : "com.funplus.koa.gold0",
+    "cm_env_pay_id" : "koa_global_default|com.funplus.koa.gold0,koa_37_default|com.funplus.koa.gold0,gog_global_default|com.diandian.gog.gold0,gog_cn_default|com.diandian.gog.gold0,gog_ly_default|com.diandian.gog.gold0,ww2_global_default|com.funplus.koa.gold0,ww2_cn_default|com.funplus.koa.gold0"
+  }, {
+    "id" : "payment_level_2_1",
+    "payment_level" : "2",
+    "pay_id" : "com.funplus.koa.gold1",
+    "cm_env_pay_id" : "koa_global_default|com.funplus.koa.gold1,koa_37_default|com.funplus.koa.gold1,gog_global_default|com.diandian.gog.gold1,gog_cn_default|com.diandian.gog.gold1,gog_ly_default|com.diandian.gog.gold1,ww2_global_default|com.funplus.koa.gold1,ww2_cn_default|com.funplus.koa.gold1"
+  }, {
+    "id" : "payment_level_3_1",
+    "payment_level" : "3",
+    "pay_id" : "com.funplus.koa.gold2",
+    "cm_env_pay_id" : "koa_global_default|com.funplus.koa.gold2,koa_37_default|com.funplus.koa.gold2,gog_global_default|com.diandian.gog.gold2,gog_cn_default|com.diandian.gog.gold2,gog_ly_default|com.diandian.gog.gold2,ww2_global_default|com.funplus.koa.gold2,ww2_cn_default|com.funplus.koa.gold2"
+  }, {
+    "id" : "payment_level_3_2",
+    "payment_level" : "3",
+    "pay_id" : "com.funplus.koa.limitedspecial0",
+    "cm_env_pay_id" : "koa_global_default|com.funplus.koa.limitedspecial0,koa_37_default|com.funplus.koa.limitedspecial0,gog_global_default|com.diandian.gog.limitedspecial0,gog_cn_default|com.diandian.gog.limitedspecial0,gog_ly_default|com.diandian.gog.limitedspecial0,ww2_global_default|com.funplus.koa.limitedspecial0,ww2_cn_default|com.funplus.koa.limitedspecial0"
+  }, {
+    "id" : "payment_level_4_1",
+    "payment_level" : "4",
+    "pay_id" : "com.funplus.koa.gold3",
+    "cm_env_pay_id" : "koa_global_default|com.funplus.koa.gold3,koa_37_default|com.funplus.koa.gold3,gog_global_default|com.diandian.gog.gold3,gog_cn_default|com.diandian.gog.gold3,gog_ly_default|com.diandian.gog.gold3,ww2_global_default|com.funplus.koa.gold3,ww2_cn_default|com.funplus.koa.gold3"
+  }, {
+    "id" : "payment_level_5_1",
+    "payment_level" : "5",
+    "pay_id" : "com.funplus.koa.gold4",
+    "cm_env_pay_id" : "koa_global_default|com.funplus.koa.gold4,koa_37_default|com.funplus.koa.gold4,gog_global_default|com.diandian.gog.gold4,gog_cn_default|com.diandian.gog.gold4,gog_ly_default|com.diandian.gog.gold4,ww2_global_default|com.funplus.koa.gold4,ww2_cn_default|com.funplus.koa.gold4"
+  }, {
+    "id" : "payment_level_6_1",
+    "payment_level" : "6",
+    "pay_id" : "com.funplus.koa.gold5",
+    "cm_env_pay_id" : "koa_global_default|com.funplus.koa.gold5,koa_37_default|com.funplus.koa.gold5,gog_global_default|com.diandian.gog.gold5,gog_cn_default|com.diandian.gog.gold5,gog_ly_default|com.diandian.gog.gold5,ww2_global_default|com.funplus.koa.gold5,ww2_cn_default|com.funplus.koa.gold5"
+  }, {
+    "id" : "payment_level_2_2",
+    "payment_level" : "1",
+    "pay_id" : "com.funplus.koa.sale1",
+    "cm_env_pay_id" : "ww2_global_default|com.funplus.koa.sale1,ww2_cn_default|com.funplus.koa.sale1"
+  }, {
+    "id" : "payment_level_3_3",
+    "payment_level" : "2",
+    "pay_id" : "com.funplus.koa.sale2",
+    "cm_env_pay_id" : "ww2_global_default|com.funplus.koa.sale2,ww2_cn_default|com.funplus.koa.sale2"
+  }, {
+    "id" : "payment_level_4_2",
+    "payment_level" : "3",
+    "pay_id" : "com.funplus.koa.sale3",
+    "cm_env_pay_id" : "ww2_global_default|com.funplus.koa.sale3,ww2_cn_default|com.funplus.koa.sale3"
+  }, {
+    "id" : "payment_level_5_2",
+    "payment_level" : "4",
+    "pay_id" : "com.funplus.koa.sale4",
+    "cm_env_pay_id" : "ww2_global_default|com.funplus.koa.sale4,ww2_cn_default|com.funplus.koa.sale4"
+  }, {
+    "id" : "payment_level_6_2",
+    "payment_level" : "5",
+    "pay_id" : "com.funplus.koa.sale5",
+    "cm_env_pay_id" : "ww2_global_default|com.funplus.koa.sale5,ww2_cn_default|com.funplus.koa.sale5"
+  } ]
+}

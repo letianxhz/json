@@ -1,0 +1,74 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "fund_type" : "fund_type@fund_main.type",
+    "param" : "param@string",
+    "icon" : "icon@string",
+    "reward_id_1" : "reward_id_1@itemlist.id",
+    "reward_value_1" : "reward_value_1@int"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "fund_type" : "基金类型",
+    "param" : "需求参数",
+    "icon" : "显示图标",
+    "reward_id_1" : "奖励道具1",
+    "reward_value_1" : "奖励数量1"
+  }, {
+    "id" : "1",
+    "fund_type" : "fund_city_level",
+    "param" : "6",
+    "icon" : "operating_icon_gold_1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1200"
+  }, {
+    "id" : "2",
+    "fund_type" : "fund_city_level",
+    "param" : "8",
+    "icon" : "operating_icon_gold_2",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1800"
+  }, {
+    "id" : "3",
+    "fund_type" : "fund_city_level",
+    "param" : "10",
+    "icon" : "operating_icon_gold_3",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "2400"
+  }, {
+    "id" : "4",
+    "fund_type" : "fund_city_level",
+    "param" : "12",
+    "icon" : "operating_icon_gold_4",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "3000"
+  }, {
+    "id" : "5",
+    "fund_type" : "fund_city_level",
+    "param" : "14",
+    "icon" : "operating_icon_gold_5",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "3600"
+  }, {
+    "id" : "6",
+    "fund_type" : "fund_city_level",
+    "param" : "16",
+    "icon" : "operating_icon_gold_6",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "4800"
+  }, {
+    "id" : "7",
+    "fund_type" : "fund_city_level",
+    "param" : "18",
+    "icon" : "operating_icon_gold_7",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "6000"
+  }, {
+    "id" : "8",
+    "fund_type" : "fund_city_level",
+    "param" : "20",
+    "icon" : "operating_icon_gold_8",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "7200"
+  } ]
+}

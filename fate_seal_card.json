@@ -1,0 +1,81 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "step" : "step@int",
+    "card_num" : "card_num@int",
+    "weight_1" : "weight_1@int",
+    "weight_2" : "weight_2@int",
+    "weight_3" : "weight_3@int"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "step" : "第n步",
+    "card_num" : "卡池牌数量",
+    "weight_1" : "1步权重",
+    "weight_2" : "2步权重",
+    "weight_3" : "3步权重"
+  }, {
+    "id" : "card_step_1",
+    "step" : "1",
+    "card_num" : "10",
+    "weight_1" : "7200",
+    "weight_2" : "2700",
+    "weight_3" : "100"
+  }, {
+    "id" : "card_step_2",
+    "step" : "2",
+    "card_num" : "10",
+    "weight_1" : "7200",
+    "weight_2" : "2700",
+    "weight_3" : "100"
+  }, {
+    "id" : "card_step_3",
+    "step" : "3",
+    "card_num" : "10",
+    "weight_1" : "7200",
+    "weight_2" : "2700",
+    "weight_3" : "100"
+  }, {
+    "id" : "card_step_4",
+    "step" : "4",
+    "card_num" : "15",
+    "weight_1" : "8089",
+    "weight_2" : "1867",
+    "weight_3" : "44"
+  }, {
+    "id" : "card_step_5",
+    "step" : "5",
+    "card_num" : "15",
+    "weight_1" : "8089",
+    "weight_2" : "1867",
+    "weight_3" : "44"
+  }, {
+    "id" : "card_step_6",
+    "step" : "6",
+    "card_num" : "15",
+    "weight_1" : "8089",
+    "weight_2" : "1867",
+    "weight_3" : "44"
+  }, {
+    "id" : "card_step_7",
+    "step" : "7",
+    "card_num" : "20",
+    "weight_1" : "8550",
+    "weight_2" : "1425",
+    "weight_3" : "25"
+  }, {
+    "id" : "card_step_8",
+    "step" : "8",
+    "card_num" : "20",
+    "weight_1" : "8550",
+    "weight_2" : "1425",
+    "weight_3" : "25"
+  }, {
+    "id" : "card_step_9",
+    "step" : "9",
+    "card_num" : "20",
+    "weight_1" : "8550",
+    "weight_2" : "1425",
+    "weight_3" : "25"
+  } ]
+}

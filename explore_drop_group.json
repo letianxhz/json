@@ -1,0 +1,3200 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "type" : "type@int",
+    "pseudo_random_times" : "pseudo_random_times@explore_pseudo_group.id"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "type" : "1-互斥权重；2-独立概率（万分位）;） 3-互斥权重和,和可以不是10000",
+    "pseudo_random_times" : "所属伪随机组"
+  }, {
+    "id" : "explore_1_1_1_1_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_1_2_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_1_3_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_2_1_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_2_2_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_2_3_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_2_4_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_2_5_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_3_1_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_3_2_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_3_3_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_3_4_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_3_5_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_3_6_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_3_7_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_3_8_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_3_9_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_3_10_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_4_1_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_4_2_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_4_3_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_4_4_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_4_5_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_4_6_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_4_7_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_4_8_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_4_9_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_4_10_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_4_11_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_4_12_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_4_13_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_4_14_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_4_15_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_4_16_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_4_17_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_4_18_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_4_19_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_4_20_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_1_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_2_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_3_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_4_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_5_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_6_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_7_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_8_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_9_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_10_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_11_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_12_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_13_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_14_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_15_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_16_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_17_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_18_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_19_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_20_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_21_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_22_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_23_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_24_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_25_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_26_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_27_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_28_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_29_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_30_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_31_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_32_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_33_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_34_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_35_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_36_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_37_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_38_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_39_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_40_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_41_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_42_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_43_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_44_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_45_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_46_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_47_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_48_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_49_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_50_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_51_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_52_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_53_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_54_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_55_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_56_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_57_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_58_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_59_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_60_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_61_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_62_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_63_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_64_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_65_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_66_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_67_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_68_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_69_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_70_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_71_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_72_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_73_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_74_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_75_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_76_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_77_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_78_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_79_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_80_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_81_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_82_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_83_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_84_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_85_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_86_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_87_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_88_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_89_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_90_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_91_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_92_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_93_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_94_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_95_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_96_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_97_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_98_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_99_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_100_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_101_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_102_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_103_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_104_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_105_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_106_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_107_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_108_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_109_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_110_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_111_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_112_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_113_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_114_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_115_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_116_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_117_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_118_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_119_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_120_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_121_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_122_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_123_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_124_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_125_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_126_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_127_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_128_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_129_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_130_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_131_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_132_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_133_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_134_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_135_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_136_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_137_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_138_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_139_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_140_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_141_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_142_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_143_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_144_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_145_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_146_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_147_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_148_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_149_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_150_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_151_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_152_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_153_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_154_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_155_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_156_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_157_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_158_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_159_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_160_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_161_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_162_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_163_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_164_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_165_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_166_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_167_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_168_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_169_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_170_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_171_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_172_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_173_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_174_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_175_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_176_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_177_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_178_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_179_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_180_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_181_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_182_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_183_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_184_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_185_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_186_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_187_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_188_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_189_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_190_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_191_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_192_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_193_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_194_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_195_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_196_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_197_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_198_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_199_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_200_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_1_1_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_1_2_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_1_3_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_2_1_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_2_2_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_2_3_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_2_4_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_2_5_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_3_1_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_3_2_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_3_3_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_3_4_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_3_5_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_3_6_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_3_7_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_3_8_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_3_9_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_3_10_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_4_1_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_4_2_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_4_3_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_4_4_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_4_5_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_4_6_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_4_7_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_4_8_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_4_9_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_4_10_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_4_11_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_4_12_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_4_13_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_4_14_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_4_15_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_4_16_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_4_17_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_4_18_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_4_19_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_4_20_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_1_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_2_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_3_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_4_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_5_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_6_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_7_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_8_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_9_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_10_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_11_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_12_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_13_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_14_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_15_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_16_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_17_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_18_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_19_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_20_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_21_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_22_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_23_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_24_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_25_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_26_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_27_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_28_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_29_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_30_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_31_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_32_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_33_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_34_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_35_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_36_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_37_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_38_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_39_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_40_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_41_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_42_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_43_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_44_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_45_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_46_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_47_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_48_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_49_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_50_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_51_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_52_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_53_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_54_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_55_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_56_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_57_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_58_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_59_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_60_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_61_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_62_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_63_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_64_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_65_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_66_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_67_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_68_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_69_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_70_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_71_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_72_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_73_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_74_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_75_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_76_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_77_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_78_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_79_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_80_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_81_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_82_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_83_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_84_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_85_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_86_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_87_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_88_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_89_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_90_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_91_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_92_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_93_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_94_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_95_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_96_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_97_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_98_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_99_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_100_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_101_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_102_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_103_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_104_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_105_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_106_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_107_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_108_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_109_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_110_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_111_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_112_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_113_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_114_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_115_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_116_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_117_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_118_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_119_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_120_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_121_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_122_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_123_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_124_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_125_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_126_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_127_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_128_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_129_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_130_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_131_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_132_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_133_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_134_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_135_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_136_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_137_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_138_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_139_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_140_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_141_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_142_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_143_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_144_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_145_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_146_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_147_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_148_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_149_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_150_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_151_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_152_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_153_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_154_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_155_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_156_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_157_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_158_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_159_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_160_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_161_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_162_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_163_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_164_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_165_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_166_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_167_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_168_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_169_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_170_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_171_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_172_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_173_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_174_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_175_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_176_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_177_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_178_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_179_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_180_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_181_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_182_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_183_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_184_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_185_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_186_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_187_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_188_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_189_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_190_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_191_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_192_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_193_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_194_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_195_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_196_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_197_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_198_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_199_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_200_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_1_1_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_1_1_2_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_1_1_3_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_1_2_1_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_1_2_2_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_1_2_3_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_1_2_4_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_1_2_5_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_1_3_1_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_1_3_2_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_1_3_3_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_1_3_4_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_1_3_5_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_1_3_6_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_1_3_7_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_1_3_8_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_1_3_9_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_1_3_10_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_1_4_1_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_1_4_2_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_1_4_3_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_1_4_4_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_1_4_5_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_1_4_6_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_1_4_7_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_1_4_8_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_1_4_9_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_1_4_10_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_1_4_11_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_1_4_12_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_1_4_13_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_1_4_14_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_1_4_15_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_1_4_16_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_1_4_17_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_1_4_18_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_1_4_19_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_1_4_20_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_1_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_2_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_3_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_4_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_5_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_6_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_7_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_8_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_9_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_10_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_11_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_12_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_13_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_14_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_15_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_16_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_17_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_18_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_19_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_20_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_21_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_22_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_23_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_24_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_25_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_26_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_27_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_28_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_29_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_30_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_31_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_32_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_33_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_34_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_35_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_36_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_37_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_38_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_39_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_40_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_41_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_42_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_43_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_44_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_45_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_46_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_47_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_48_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_49_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_50_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_51_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_52_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_53_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_54_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_55_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_56_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_57_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_58_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_59_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_60_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_61_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_62_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_63_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_64_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_65_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_66_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_67_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_68_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_69_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_70_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_71_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_72_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_73_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_74_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_75_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_76_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_77_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_78_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_79_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_80_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_81_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_82_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_83_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_84_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_85_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_86_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_87_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_88_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_89_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_90_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_91_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_92_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_93_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_94_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_95_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_96_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_97_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_98_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_99_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_100_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_101_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_102_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_103_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_104_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_105_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_106_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_107_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_108_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_109_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_110_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_111_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_112_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_113_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_114_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_115_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_116_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_117_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_118_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_119_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_120_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_121_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_122_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_123_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_124_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_125_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_126_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_127_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_128_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_129_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_130_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_131_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_132_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_133_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_134_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_135_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_136_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_137_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_138_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_139_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_140_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_141_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_142_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_143_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_144_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_145_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_146_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_147_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_148_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_149_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_150_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_151_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_152_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_153_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_154_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_155_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_156_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_157_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_158_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_159_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_160_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_161_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_162_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_163_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_164_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_165_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_166_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_167_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_168_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_169_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_170_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_171_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_172_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_173_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_174_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_175_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_176_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_177_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_178_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_179_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_180_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_181_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_182_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_183_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_184_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_185_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_186_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_187_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_188_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_189_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_190_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_191_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_192_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_193_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_194_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_195_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_196_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_197_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_198_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_199_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_1_2_1_200_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "explore_floor_equip_chest_1_1",
+    "type" : "2",
+    "pseudo_random_times" : "explore_pseudo_group_equip_chest_1"
+  }, {
+    "id" : "explore_floor_equip_chest_2_1",
+    "type" : "2",
+    "pseudo_random_times" : "explore_pseudo_group_equip_chest_2"
+  }, {
+    "id" : "explore_floor_equip_chest_3_1",
+    "type" : "2",
+    "pseudo_random_times" : "explore_pseudo_group_equip_chest_3"
+  }, {
+    "id" : "explore_floor_equip_chest_4_1",
+    "type" : "2",
+    "pseudo_random_times" : "explore_pseudo_group_equip_chest_4"
+  }, {
+    "id" : "explore_floor_equip_chest_5_1",
+    "type" : "2",
+    "pseudo_random_times" : "explore_pseudo_group_equip_chest_5"
+  }, {
+    "id" : "explore_drop_group_explore_item_equip_chest_1",
+    "type" : "3"
+  }, {
+    "id" : "explore_drop_group_explore_item_equip_chest_2",
+    "type" : "3"
+  }, {
+    "id" : "explore_drop_group_explore_item_equip_chest_3",
+    "type" : "3"
+  }, {
+    "id" : "explore_drop_group_explore_item_equip_chest_4",
+    "type" : "3"
+  }, {
+    "id" : "explore_drop_group_explore_item_equip_chest_5",
+    "type" : "3"
+  }, {
+    "id" : "explore_drop_group_explore_item_equip_chest_1_special",
+    "type" : "3"
+  }, {
+    "id" : "explore_1_1_1_1_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_1_2_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_1_3_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_2_1_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_2_2_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_2_3_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_2_4_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_2_5_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_3_1_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_3_2_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_3_3_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_3_4_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_3_5_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_3_6_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_3_7_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_3_8_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_3_9_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_3_10_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_4_1_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_4_2_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_4_3_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_4_4_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_4_5_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_4_6_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_4_7_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_4_8_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_4_9_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_4_10_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_4_11_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_4_12_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_4_13_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_4_14_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_4_15_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_4_16_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_4_17_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_4_18_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_4_19_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_1_4_20_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_1_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_2_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_3_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_4_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_5_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_6_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_7_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_8_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_9_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_10_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_11_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_12_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_13_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_14_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_15_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_16_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_17_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_18_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_19_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_20_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_21_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_22_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_23_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_24_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_25_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_26_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_27_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_28_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_29_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_30_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_31_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_32_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_33_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_34_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_35_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_36_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_37_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_38_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_39_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_40_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_41_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_42_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_43_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_44_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_45_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_46_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_47_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_48_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_49_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_50_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_51_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_52_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_53_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_54_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_55_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_56_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_57_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_58_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_59_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_60_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_61_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_62_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_63_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_64_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_65_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_66_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_67_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_68_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_69_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_70_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_71_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_72_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_73_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_74_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_75_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_76_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_77_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_78_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_79_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_80_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_81_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_82_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_83_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_84_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_85_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_86_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_87_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_88_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_89_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_90_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_91_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_92_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_93_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_94_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_95_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_96_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_97_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_98_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_99_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_100_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_101_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_102_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_103_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_104_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_105_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_106_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_107_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_108_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_109_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_110_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_111_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_112_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_113_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_114_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_115_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_116_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_117_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_118_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_119_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_120_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_121_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_122_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_123_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_124_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_125_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_126_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_127_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_128_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_129_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_130_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_131_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_132_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_133_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_134_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_135_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_136_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_137_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_138_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_139_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_140_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_141_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_142_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_143_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_144_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_145_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_146_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_147_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_148_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_149_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_150_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_151_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_152_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_153_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_154_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_155_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_156_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_157_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_158_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_159_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_160_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_161_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_162_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_163_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_164_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_165_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_166_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_167_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_168_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_169_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_170_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_171_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_172_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_173_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_174_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_175_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_176_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_177_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_178_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_179_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_180_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_181_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_182_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_183_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_184_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_185_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_186_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_187_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_188_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_189_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_190_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_191_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_192_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_193_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_194_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_195_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_196_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_197_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_198_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_199_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_1_2_1_200_cannon_material",
+    "type" : "2"
+  }, {
+    "id" : "explore_pseudo_pool_equip_chest_special_1_1",
+    "type" : "2",
+    "pseudo_random_times" : "explore_pseudo_pool_equip_chest_special_1"
+  }, {
+    "id" : "activity_explore_1_1_1_1_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "activity_explore_1_1_1_2_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "activity_explore_1_1_1_3_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "activity_explore_1_1_1_4_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "activity_explore_1_1_1_5_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "activity_explore_1_1_1_6_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "activity_explore_1_1_1_7_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "activity_explore_1_1_1_8_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "activity_explore_1_1_1_9_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "activity_explore_1_1_1_10_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "activity_explore_1_1_1_11_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "activity_explore_1_1_1_12_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "activity_explore_1_1_1_13_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "activity_explore_1_1_1_14_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "activity_explore_1_1_1_15_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "activity_explore_1_1_1_16_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "activity_explore_1_1_1_17_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "activity_explore_1_1_1_18_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "activity_explore_1_1_1_19_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "activity_explore_1_1_1_20_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "activity_explore_1_1_1_21_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "activity_explore_1_1_1_22_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "activity_explore_1_1_1_23_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "activity_explore_1_1_1_24_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "activity_explore_1_1_1_25_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "activity_explore_1_1_1_26_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "activity_explore_1_1_1_27_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "activity_explore_1_1_1_28_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "activity_explore_1_1_1_29_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "activity_explore_1_1_1_30_blood_bottle",
+    "type" : "2"
+  }, {
+    "id" : "activity_explore_1_1_1_1_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "activity_explore_1_1_1_2_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "activity_explore_1_1_1_3_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "activity_explore_1_1_1_4_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "activity_explore_1_1_1_5_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "activity_explore_1_1_1_6_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "activity_explore_1_1_1_7_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "activity_explore_1_1_1_8_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "activity_explore_1_1_1_9_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "activity_explore_1_1_1_10_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "activity_explore_1_1_1_11_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "activity_explore_1_1_1_12_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "activity_explore_1_1_1_13_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "activity_explore_1_1_1_14_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "activity_explore_1_1_1_15_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "activity_explore_1_1_1_16_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "activity_explore_1_1_1_17_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "activity_explore_1_1_1_18_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "activity_explore_1_1_1_19_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "activity_explore_1_1_1_20_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "activity_explore_1_1_1_21_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "activity_explore_1_1_1_22_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "activity_explore_1_1_1_23_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "activity_explore_1_1_1_24_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "activity_explore_1_1_1_25_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "activity_explore_1_1_1_26_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "activity_explore_1_1_1_27_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "activity_explore_1_1_1_28_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "activity_explore_1_1_1_29_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "activity_explore_1_1_1_30_cartridge_clip",
+    "type" : "2"
+  }, {
+    "id" : "activity_explore_1_1_1_1_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "activity_explore_1_1_1_2_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "activity_explore_1_1_1_3_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "activity_explore_1_1_1_4_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "activity_explore_1_1_1_5_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "activity_explore_1_1_1_6_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "activity_explore_1_1_1_7_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "activity_explore_1_1_1_8_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "activity_explore_1_1_1_9_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "activity_explore_1_1_1_10_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "activity_explore_1_1_1_11_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "activity_explore_1_1_1_12_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "activity_explore_1_1_1_13_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "activity_explore_1_1_1_14_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "activity_explore_1_1_1_15_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "activity_explore_1_1_1_16_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "activity_explore_1_1_1_17_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "activity_explore_1_1_1_18_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "activity_explore_1_1_1_19_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "activity_explore_1_1_1_20_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "activity_explore_1_1_1_21_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "activity_explore_1_1_1_22_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "activity_explore_1_1_1_23_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "activity_explore_1_1_1_24_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "activity_explore_1_1_1_25_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "activity_explore_1_1_1_26_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "activity_explore_1_1_1_27_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "activity_explore_1_1_1_28_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "activity_explore_1_1_1_29_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "activity_explore_1_1_1_30_energy_point",
+    "type" : "1"
+  }, {
+    "id" : "activity_explore_floor_equip_chest_1_1",
+    "type" : "2",
+    "pseudo_random_times" : "activity_explore_pseudo_group_equip_chest_1"
+  }, {
+    "id" : "activity_explore_floor_equip_chest_1_2",
+    "type" : "2",
+    "pseudo_random_times" : "activity_explore_pseudo_group_equip_chest_2"
+  }, {
+    "id" : "activity_explore_floor_equip_chest_1_3",
+    "type" : "2",
+    "pseudo_random_times" : "activity_explore_pseudo_group_equip_chest_3"
+  }, {
+    "id" : "activity_explore_floor_equip_chest_1_4",
+    "type" : "2",
+    "pseudo_random_times" : "activity_explore_pseudo_group_equip_chest_4"
+  }, {
+    "id" : "activity_explore_floor_equip_chest_1_5",
+    "type" : "2",
+    "pseudo_random_times" : "activity_explore_pseudo_group_equip_chest_5"
+  } ]
+}

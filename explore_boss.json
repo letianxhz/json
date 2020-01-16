@@ -1,0 +1,34 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "first_step" : "first_step@explore_boss_step.id",
+    "asset_path" : "asset_path@string",
+    "type" : "type@string"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "first_step" : "初始阶段",
+    "asset_path" : "场景装饰",
+    "type" : "类型"
+  }, {
+    "id" : "explore_boss_1",
+    "first_step" : "explore_boss_1_1",
+    "asset_path" : "boss_1_asset_config",
+    "type" : "normal"
+  }, {
+    "id" : "activity_explore_1_boss_1",
+    "first_step" : "activity_explore_1_boss_1_1",
+    "asset_path" : "midsummer_boss_1_asset_config",
+    "type" : "midsummer"
+  }, {
+    "id" : "activity_explore_1_boss_2",
+    "first_step" : "activity_explore_1_boss_2_1",
+    "asset_path" : "midsummer_boss_1_asset_config",
+    "type" : "midsummer"
+  }, {
+    "id" : "activity_explore_1_boss_3",
+    "first_step" : "activity_explore_1_boss_3_1",
+    "asset_path" : "midsummer_boss_1_asset_config",
+    "type" : "midsummer"
+  } ]
+}

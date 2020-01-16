@@ -1,0 +1,326 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "group" : "group@super_log_in_group.id",
+    "day" : "day@int",
+    "reward_id_1" : "reward_id_1@itemlist.id",
+    "reward_value_1" : "reward_value_1@int",
+    "reward_id_2" : "reward_id_2@itemlist.id",
+    "reward_value_2" : "reward_value_2@int",
+    "reward_id_3" : "reward_id_3@itemlist.id",
+    "reward_value_3" : "reward_value_3@int",
+    "reward_icon" : "reward_icon@string^c",
+    "description" : "description@string^c"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "group" : "活动组id",
+    "day" : "登录天数",
+    "reward_id_1" : "奖励道具id_1",
+    "reward_value_1" : "奖励道具数量_1",
+    "reward_id_2" : "奖励道具id_2",
+    "reward_value_2" : "奖励道具数量_2",
+    "reward_id_3" : "奖励道具id_3",
+    "reward_value_3" : "奖励道具数量_3",
+    "reward_icon" : "奖励图标",
+    "description" : "描述"
+  }, {
+    "id" : "super_log_in_1",
+    "group" : "super_log_in_christmas",
+    "day" : "1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "reward_icon" : "item_advent_gift_1",
+    "description" : "event_festival_christmas_calendar_1"
+  }, {
+    "id" : "super_log_in_2",
+    "group" : "super_log_in_christmas",
+    "day" : "2",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "reward_icon" : "item_advent_gift_2",
+    "description" : "event_festival_christmas_calendar_2"
+  }, {
+    "id" : "super_log_in_3",
+    "group" : "super_log_in_christmas",
+    "day" : "3",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "reward_icon" : "item_advent_gift_3",
+    "description" : "event_festival_christmas_calendar_3"
+  }, {
+    "id" : "super_log_in_4",
+    "group" : "super_log_in_christmas",
+    "day" : "4",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "reward_icon" : "item_advent_gift_4",
+    "description" : "event_festival_christmas_calendar_4"
+  }, {
+    "id" : "super_log_in_5",
+    "group" : "super_log_in_christmas",
+    "day" : "5",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "reward_icon" : "item_advent_gift_5",
+    "description" : "event_festival_christmas_calendar_5"
+  }, {
+    "id" : "super_log_in_6",
+    "group" : "super_log_in_christmas",
+    "day" : "6",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "reward_icon" : "item_advent_gift_6",
+    "description" : "event_festival_christmas_calendar_6"
+  }, {
+    "id" : "super_log_in_7",
+    "group" : "super_log_in_christmas",
+    "day" : "7",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "reward_icon" : "item_advent_gift_1",
+    "description" : "event_festival_christmas_calendar_7"
+  }, {
+    "id" : "super_log_in_8",
+    "group" : "super_log_in_christmas",
+    "day" : "8",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "reward_icon" : "item_advent_gift_2",
+    "description" : "event_festival_christmas_calendar_8"
+  }, {
+    "id" : "super_log_in_9",
+    "group" : "super_log_in_christmas",
+    "day" : "9",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "reward_icon" : "item_advent_gift_3",
+    "description" : "event_festival_christmas_calendar_9"
+  }, {
+    "id" : "super_log_in_10",
+    "group" : "super_log_in_christmas",
+    "day" : "10",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "reward_icon" : "item_advent_gift_4",
+    "description" : "event_festival_christmas_calendar_10"
+  }, {
+    "id" : "super_log_in_11",
+    "group" : "super_log_in_christmas",
+    "day" : "11",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "reward_icon" : "item_advent_gift_5",
+    "description" : "event_festival_christmas_calendar_11"
+  }, {
+    "id" : "super_log_in_12",
+    "group" : "super_log_in_christmas",
+    "day" : "12",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "reward_icon" : "item_advent_gift_6",
+    "description" : "event_festival_christmas_calendar_12"
+  }, {
+    "id" : "super_log_in_13",
+    "group" : "super_log_in_christmas",
+    "day" : "13",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "reward_icon" : "item_advent_gift_1",
+    "description" : "event_festival_christmas_calendar_13"
+  }, {
+    "id" : "super_log_in_14",
+    "group" : "super_log_in_christmas",
+    "day" : "14",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "reward_icon" : "item_advent_gift_2",
+    "description" : "event_festival_christmas_calendar_14"
+  }, {
+    "id" : "super_log_in_15",
+    "group" : "super_log_in_christmas",
+    "day" : "15",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "reward_icon" : "item_advent_gift_3",
+    "description" : "event_festival_christmas_calendar_15"
+  }, {
+    "id" : "super_log_in_16",
+    "group" : "super_log_in_christmas",
+    "day" : "16",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "reward_icon" : "item_advent_gift_4",
+    "description" : "event_festival_christmas_calendar_16"
+  }, {
+    "id" : "super_log_in_17",
+    "group" : "super_log_in_christmas",
+    "day" : "17",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "reward_icon" : "item_advent_gift_5",
+    "description" : "event_festival_christmas_calendar_17"
+  }, {
+    "id" : "super_log_in_18",
+    "group" : "super_log_in_christmas",
+    "day" : "18",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "reward_icon" : "item_advent_gift_6",
+    "description" : "event_festival_christmas_calendar_18"
+  }, {
+    "id" : "super_log_in_19",
+    "group" : "super_log_in_christmas",
+    "day" : "19",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "reward_icon" : "item_advent_gift_1",
+    "description" : "event_festival_christmas_calendar_19"
+  }, {
+    "id" : "super_log_in_20",
+    "group" : "super_log_in_christmas",
+    "day" : "20",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "reward_icon" : "item_advent_gift_2",
+    "description" : "event_festival_christmas_calendar_20"
+  }, {
+    "id" : "super_log_in_21",
+    "group" : "super_log_in_christmas",
+    "day" : "21",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "reward_icon" : "item_advent_gift_3",
+    "description" : "event_festival_christmas_calendar_21"
+  }, {
+    "id" : "super_log_in_22",
+    "group" : "super_log_in_christmas",
+    "day" : "22",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "reward_icon" : "item_advent_gift_4",
+    "description" : "event_festival_christmas_calendar_22"
+  }, {
+    "id" : "super_log_in_23",
+    "group" : "super_log_in_christmas",
+    "day" : "23",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "reward_icon" : "item_advent_gift_5",
+    "description" : "event_festival_christmas_calendar_23"
+  }, {
+    "id" : "super_log_in_24",
+    "group" : "super_log_in_christmas",
+    "day" : "24",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "reward_icon" : "item_advent_gift_6",
+    "description" : "event_festival_christmas_calendar_24"
+  }, {
+    "id" : "super_log_in_25",
+    "group" : "super_log_in_christmas",
+    "day" : "25",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "reward_icon" : "item_advent_gift_7",
+    "description" : "event_festival_christmas_calendar_25"
+  }, {
+    "id" : "super_log_in_26",
+    "group" : "super_log_in_1_year_celebration",
+    "day" : "1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "description" : "event_1_year_celebration_calendar_1"
+  }, {
+    "id" : "super_log_in_27",
+    "group" : "super_log_in_1_year_celebration",
+    "day" : "2",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "description" : "event_1_year_celebration_calendar_2"
+  }, {
+    "id" : "super_log_in_28",
+    "group" : "super_log_in_1_year_celebration",
+    "day" : "3",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "description" : "event_1_year_celebration_calendar_3"
+  }, {
+    "id" : "super_log_in_29",
+    "group" : "super_log_in_1_year_celebration",
+    "day" : "4",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "description" : "event_1_year_celebration_calendar_4"
+  }, {
+    "id" : "super_log_in_30",
+    "group" : "super_log_in_1_year_celebration",
+    "day" : "5",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "description" : "event_1_year_celebration_calendar_5"
+  }, {
+    "id" : "super_log_in_31",
+    "group" : "super_log_in_1_year_celebration",
+    "day" : "6",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "description" : "event_1_year_celebration_calendar_6"
+  }, {
+    "id" : "super_log_in_32",
+    "group" : "super_log_in_1_year_celebration",
+    "day" : "7",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "description" : "event_1_year_celebration_calendar_7"
+  }, {
+    "id" : "super_log_in_anniversary_2_1",
+    "group" : "super_log_in_anniversary_2",
+    "day" : "1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "description" : "event_2_year_celebration_calendar_1"
+  }, {
+    "id" : "super_log_in_anniversary_2_2",
+    "group" : "super_log_in_anniversary_2",
+    "day" : "2",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "description" : "event_2_year_celebration_calendar_2"
+  }, {
+    "id" : "super_log_in_anniversary_2_3",
+    "group" : "super_log_in_anniversary_2",
+    "day" : "3",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "description" : "event_2_year_celebration_calendar_3"
+  }, {
+    "id" : "super_log_in_anniversary_2_4",
+    "group" : "super_log_in_anniversary_2",
+    "day" : "4",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "description" : "event_2_year_celebration_calendar_4"
+  }, {
+    "id" : "super_log_in_anniversary_2_5",
+    "group" : "super_log_in_anniversary_2",
+    "day" : "5",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "description" : "event_2_year_celebration_calendar_5"
+  }, {
+    "id" : "super_log_in_anniversary_2_6",
+    "group" : "super_log_in_anniversary_2",
+    "day" : "6",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "description" : "event_2_year_celebration_calendar_6"
+  }, {
+    "id" : "super_log_in_anniversary_2_7",
+    "group" : "super_log_in_anniversary_2",
+    "day" : "7",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "description" : "event_2_year_celebration_calendar_7"
+  } ]
+}

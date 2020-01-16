@@ -1,0 +1,68 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "score_req" : "score_req@int",
+    "reward_id_1" : "reward_id_1@itemlist.id",
+    "reward_value_1" : "reward_value_1@int",
+    "reward_id_2" : "reward_id_2@itemlist.id",
+    "reward_value_2" : "reward_value_2@int"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "score_req" : "需求积分",
+    "reward_id_1" : "奖励道具id_1",
+    "reward_value_1" : "奖励道具数量_1",
+    "reward_id_2" : "奖励道具id_2",
+    "reward_value_2" : "奖励道具数量_2"
+  }, {
+    "id" : "1",
+    "score_req" : "3000",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "2",
+    "score_req" : "5000",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "3",
+    "score_req" : "8000",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "4",
+    "score_req" : "12000",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "5",
+    "score_req" : "18000",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "6",
+    "score_req" : "24000",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "7",
+    "score_req" : "32000",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "8",
+    "score_req" : "45000",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "9",
+    "score_req" : "60000",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "10",
+    "score_req" : "80000",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  } ]
+}

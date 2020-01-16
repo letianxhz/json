@@ -1,0 +1,4112 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "group_id" : "group_id@lord_quest_group.id",
+    "condition" : "condition@string",
+    "para_1" : "para_1@string",
+    "max_num" : "max_num@int",
+    "tier" : "tier@string^c",
+    "priority" : "priority@int^c",
+    "score" : "score@int"
+  },
+  "rows" : [ {
+    "id" : "任务条件id",
+    "group_id" : "任务组id",
+    "condition" : "条件",
+    "para_1" : "参数1\n装备：强化等级\n英雄：星级",
+    "max_num" : "最大数量",
+    "tier" : "左右位置",
+    "priority" : "上下排序优先级",
+    "score" : "积分"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_1_2_dragon_emblem_1_1_1_1",
+    "group_id" : "lord_quest_group_dragon_emblem_1_2",
+    "condition" : "dragon_emblem_1_1_1_1",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "80",
+    "score" : "1"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_1_2_dragon_emblem_1_1_1_2",
+    "group_id" : "lord_quest_group_dragon_emblem_1_2",
+    "condition" : "dragon_emblem_1_1_1_2",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "79",
+    "score" : "6"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_1_2_dragon_emblem_1_1_2_1",
+    "group_id" : "lord_quest_group_dragon_emblem_1_2",
+    "condition" : "dragon_emblem_1_1_2_1",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "78",
+    "score" : "1"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_1_2_dragon_emblem_1_1_2_2",
+    "group_id" : "lord_quest_group_dragon_emblem_1_2",
+    "condition" : "dragon_emblem_1_1_2_2",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "77",
+    "score" : "6"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_1_2_dragon_emblem_1_1_3_1",
+    "group_id" : "lord_quest_group_dragon_emblem_1_2",
+    "condition" : "dragon_emblem_1_1_3_1",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "76",
+    "score" : "1"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_1_2_dragon_emblem_1_1_3_2",
+    "group_id" : "lord_quest_group_dragon_emblem_1_2",
+    "condition" : "dragon_emblem_1_1_3_2",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "75",
+    "score" : "6"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_1_2_dragon_emblem_1_1_4_1",
+    "group_id" : "lord_quest_group_dragon_emblem_1_2",
+    "condition" : "dragon_emblem_1_1_4_1",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "74",
+    "score" : "1"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_1_2_dragon_emblem_1_1_4_2",
+    "group_id" : "lord_quest_group_dragon_emblem_1_2",
+    "condition" : "dragon_emblem_1_1_4_2",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "73",
+    "score" : "6"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_1_2_dragon_emblem_1_2_1_1",
+    "group_id" : "lord_quest_group_dragon_emblem_1_2",
+    "condition" : "dragon_emblem_1_2_1_1",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "72",
+    "score" : "2"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_1_2_dragon_emblem_1_2_1_2",
+    "group_id" : "lord_quest_group_dragon_emblem_1_2",
+    "condition" : "dragon_emblem_1_2_1_2",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "71",
+    "score" : "19"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_1_2_dragon_emblem_1_2_1_3",
+    "group_id" : "lord_quest_group_dragon_emblem_1_2",
+    "condition" : "dragon_emblem_1_2_1_3",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "70",
+    "score" : "56"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_1_2_dragon_emblem_1_2_2_1",
+    "group_id" : "lord_quest_group_dragon_emblem_1_2",
+    "condition" : "dragon_emblem_1_2_2_1",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "69",
+    "score" : "2"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_1_2_dragon_emblem_1_2_2_2",
+    "group_id" : "lord_quest_group_dragon_emblem_1_2",
+    "condition" : "dragon_emblem_1_2_2_2",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "68",
+    "score" : "19"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_1_2_dragon_emblem_1_2_2_3",
+    "group_id" : "lord_quest_group_dragon_emblem_1_2",
+    "condition" : "dragon_emblem_1_2_2_3",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "67",
+    "score" : "56"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_1_2_dragon_emblem_1_2_3_1",
+    "group_id" : "lord_quest_group_dragon_emblem_1_2",
+    "condition" : "dragon_emblem_1_2_3_1",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "66",
+    "score" : "2"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_1_2_dragon_emblem_1_2_3_2",
+    "group_id" : "lord_quest_group_dragon_emblem_1_2",
+    "condition" : "dragon_emblem_1_2_3_2",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "65",
+    "score" : "19"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_1_2_dragon_emblem_1_2_3_3",
+    "group_id" : "lord_quest_group_dragon_emblem_1_2",
+    "condition" : "dragon_emblem_1_2_3_3",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "64",
+    "score" : "56"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_1_2_dragon_emblem_1_2_4_1",
+    "group_id" : "lord_quest_group_dragon_emblem_1_2",
+    "condition" : "dragon_emblem_1_2_4_1",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "63",
+    "score" : "2"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_1_2_dragon_emblem_1_2_4_2",
+    "group_id" : "lord_quest_group_dragon_emblem_1_2",
+    "condition" : "dragon_emblem_1_2_4_2",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "62",
+    "score" : "19"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_1_2_dragon_emblem_1_2_4_3",
+    "group_id" : "lord_quest_group_dragon_emblem_1_2",
+    "condition" : "dragon_emblem_1_2_4_3",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "61",
+    "score" : "56"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_1_2_dragon_emblem_1_3_1_1",
+    "group_id" : "lord_quest_group_dragon_emblem_1_2",
+    "condition" : "dragon_emblem_1_3_1_1",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "60",
+    "score" : "4"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_1_2_dragon_emblem_1_3_1_2",
+    "group_id" : "lord_quest_group_dragon_emblem_1_2",
+    "condition" : "dragon_emblem_1_3_1_2",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "59",
+    "score" : "38"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_1_2_dragon_emblem_1_3_1_3",
+    "group_id" : "lord_quest_group_dragon_emblem_1_2",
+    "condition" : "dragon_emblem_1_3_1_3",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "58",
+    "score" : "113"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_1_2_dragon_emblem_1_3_1_4",
+    "group_id" : "lord_quest_group_dragon_emblem_1_2",
+    "condition" : "dragon_emblem_1_3_1_4",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "57",
+    "score" : "250"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_1_2_dragon_emblem_1_3_2_1",
+    "group_id" : "lord_quest_group_dragon_emblem_1_2",
+    "condition" : "dragon_emblem_1_3_2_1",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "56",
+    "score" : "4"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_1_2_dragon_emblem_1_3_2_2",
+    "group_id" : "lord_quest_group_dragon_emblem_1_2",
+    "condition" : "dragon_emblem_1_3_2_2",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "55",
+    "score" : "38"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_1_2_dragon_emblem_1_3_2_3",
+    "group_id" : "lord_quest_group_dragon_emblem_1_2",
+    "condition" : "dragon_emblem_1_3_2_3",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "54",
+    "score" : "113"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_1_2_dragon_emblem_1_3_2_4",
+    "group_id" : "lord_quest_group_dragon_emblem_1_2",
+    "condition" : "dragon_emblem_1_3_2_4",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "53",
+    "score" : "250"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_1_2_dragon_emblem_1_3_3_1",
+    "group_id" : "lord_quest_group_dragon_emblem_1_2",
+    "condition" : "dragon_emblem_1_3_3_1",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "52",
+    "score" : "4"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_1_2_dragon_emblem_1_3_3_2",
+    "group_id" : "lord_quest_group_dragon_emblem_1_2",
+    "condition" : "dragon_emblem_1_3_3_2",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "51",
+    "score" : "38"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_1_2_dragon_emblem_1_3_3_3",
+    "group_id" : "lord_quest_group_dragon_emblem_1_2",
+    "condition" : "dragon_emblem_1_3_3_3",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "50",
+    "score" : "113"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_1_2_dragon_emblem_1_3_3_4",
+    "group_id" : "lord_quest_group_dragon_emblem_1_2",
+    "condition" : "dragon_emblem_1_3_3_4",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "49",
+    "score" : "250"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_1_2_dragon_emblem_1_3_4_1",
+    "group_id" : "lord_quest_group_dragon_emblem_1_2",
+    "condition" : "dragon_emblem_1_3_4_1",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "48",
+    "score" : "4"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_1_2_dragon_emblem_1_3_4_2",
+    "group_id" : "lord_quest_group_dragon_emblem_1_2",
+    "condition" : "dragon_emblem_1_3_4_2",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "47",
+    "score" : "38"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_1_2_dragon_emblem_1_3_4_3",
+    "group_id" : "lord_quest_group_dragon_emblem_1_2",
+    "condition" : "dragon_emblem_1_3_4_3",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "46",
+    "score" : "113"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_1_2_dragon_emblem_1_3_4_4",
+    "group_id" : "lord_quest_group_dragon_emblem_1_2",
+    "condition" : "dragon_emblem_1_3_4_4",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "45",
+    "score" : "250"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_1_2_dragon_emblem_1_4_1_1",
+    "group_id" : "lord_quest_group_dragon_emblem_1_2",
+    "condition" : "dragon_emblem_1_4_1_1",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "44",
+    "score" : "6"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_1_2_dragon_emblem_1_4_1_2",
+    "group_id" : "lord_quest_group_dragon_emblem_1_2",
+    "condition" : "dragon_emblem_1_4_1_2",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "43",
+    "score" : "56"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_1_2_dragon_emblem_1_4_1_3",
+    "group_id" : "lord_quest_group_dragon_emblem_1_2",
+    "condition" : "dragon_emblem_1_4_1_3",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "42",
+    "score" : "169"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_1_2_dragon_emblem_1_4_1_4",
+    "group_id" : "lord_quest_group_dragon_emblem_1_2",
+    "condition" : "dragon_emblem_1_4_1_4",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "41",
+    "score" : "338"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_1_2_dragon_emblem_1_4_1_5",
+    "group_id" : "lord_quest_group_dragon_emblem_1_2",
+    "condition" : "dragon_emblem_1_4_1_5",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "40",
+    "score" : "506"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_1_2_dragon_emblem_1_4_2_1",
+    "group_id" : "lord_quest_group_dragon_emblem_1_2",
+    "condition" : "dragon_emblem_1_4_2_1",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "39",
+    "score" : "6"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_1_2_dragon_emblem_1_4_2_2",
+    "group_id" : "lord_quest_group_dragon_emblem_1_2",
+    "condition" : "dragon_emblem_1_4_2_2",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "38",
+    "score" : "56"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_1_2_dragon_emblem_1_4_2_3",
+    "group_id" : "lord_quest_group_dragon_emblem_1_2",
+    "condition" : "dragon_emblem_1_4_2_3",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "37",
+    "score" : "169"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_1_2_dragon_emblem_1_4_2_4",
+    "group_id" : "lord_quest_group_dragon_emblem_1_2",
+    "condition" : "dragon_emblem_1_4_2_4",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "36",
+    "score" : "338"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_1_2_dragon_emblem_1_4_2_5",
+    "group_id" : "lord_quest_group_dragon_emblem_1_2",
+    "condition" : "dragon_emblem_1_4_2_5",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "35",
+    "score" : "506"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_1_2_dragon_emblem_1_4_3_1",
+    "group_id" : "lord_quest_group_dragon_emblem_1_2",
+    "condition" : "dragon_emblem_1_4_3_1",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "34",
+    "score" : "6"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_1_2_dragon_emblem_1_4_3_2",
+    "group_id" : "lord_quest_group_dragon_emblem_1_2",
+    "condition" : "dragon_emblem_1_4_3_2",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "33",
+    "score" : "56"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_1_2_dragon_emblem_1_4_3_3",
+    "group_id" : "lord_quest_group_dragon_emblem_1_2",
+    "condition" : "dragon_emblem_1_4_3_3",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "32",
+    "score" : "169"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_1_2_dragon_emblem_1_4_3_4",
+    "group_id" : "lord_quest_group_dragon_emblem_1_2",
+    "condition" : "dragon_emblem_1_4_3_4",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "31",
+    "score" : "338"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_1_2_dragon_emblem_1_4_3_5",
+    "group_id" : "lord_quest_group_dragon_emblem_1_2",
+    "condition" : "dragon_emblem_1_4_3_5",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "30",
+    "score" : "506"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_1_2_dragon_emblem_1_4_4_1",
+    "group_id" : "lord_quest_group_dragon_emblem_1_2",
+    "condition" : "dragon_emblem_1_4_4_1",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "29",
+    "score" : "6"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_1_2_dragon_emblem_1_4_4_2",
+    "group_id" : "lord_quest_group_dragon_emblem_1_2",
+    "condition" : "dragon_emblem_1_4_4_2",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "28",
+    "score" : "56"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_1_2_dragon_emblem_1_4_4_3",
+    "group_id" : "lord_quest_group_dragon_emblem_1_2",
+    "condition" : "dragon_emblem_1_4_4_3",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "27",
+    "score" : "169"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_1_2_dragon_emblem_1_4_4_4",
+    "group_id" : "lord_quest_group_dragon_emblem_1_2",
+    "condition" : "dragon_emblem_1_4_4_4",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "26",
+    "score" : "338"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_1_2_dragon_emblem_1_4_4_5",
+    "group_id" : "lord_quest_group_dragon_emblem_1_2",
+    "condition" : "dragon_emblem_1_4_4_5",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "25",
+    "score" : "506"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_1_2_dragon_emblem_1_5_1_1",
+    "group_id" : "lord_quest_group_dragon_emblem_1_2",
+    "condition" : "dragon_emblem_1_5_1_1",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "24",
+    "score" : "8"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_1_2_dragon_emblem_1_5_1_2",
+    "group_id" : "lord_quest_group_dragon_emblem_1_2",
+    "condition" : "dragon_emblem_1_5_1_2",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "23",
+    "score" : "75"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_1_2_dragon_emblem_1_5_1_3",
+    "group_id" : "lord_quest_group_dragon_emblem_1_2",
+    "condition" : "dragon_emblem_1_5_1_3",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "22",
+    "score" : "225"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_1_2_dragon_emblem_1_5_1_4",
+    "group_id" : "lord_quest_group_dragon_emblem_1_2",
+    "condition" : "dragon_emblem_1_5_1_4",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "21",
+    "score" : "450"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_1_2_dragon_emblem_1_5_1_5",
+    "group_id" : "lord_quest_group_dragon_emblem_1_2",
+    "condition" : "dragon_emblem_1_5_1_5",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "20",
+    "score" : "675"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_1_2_dragon_emblem_1_5_1_6",
+    "group_id" : "lord_quest_group_dragon_emblem_1_2",
+    "condition" : "dragon_emblem_1_5_1_6",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "19",
+    "score" : "1250"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_1_2_dragon_emblem_1_5_2_1",
+    "group_id" : "lord_quest_group_dragon_emblem_1_2",
+    "condition" : "dragon_emblem_1_5_2_1",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "18",
+    "score" : "8"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_1_2_dragon_emblem_1_5_2_2",
+    "group_id" : "lord_quest_group_dragon_emblem_1_2",
+    "condition" : "dragon_emblem_1_5_2_2",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "17",
+    "score" : "75"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_1_2_dragon_emblem_1_5_2_3",
+    "group_id" : "lord_quest_group_dragon_emblem_1_2",
+    "condition" : "dragon_emblem_1_5_2_3",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "16",
+    "score" : "225"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_1_2_dragon_emblem_1_5_2_4",
+    "group_id" : "lord_quest_group_dragon_emblem_1_2",
+    "condition" : "dragon_emblem_1_5_2_4",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "15",
+    "score" : "450"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_1_2_dragon_emblem_1_5_2_5",
+    "group_id" : "lord_quest_group_dragon_emblem_1_2",
+    "condition" : "dragon_emblem_1_5_2_5",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "14",
+    "score" : "675"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_1_2_dragon_emblem_1_5_2_6",
+    "group_id" : "lord_quest_group_dragon_emblem_1_2",
+    "condition" : "dragon_emblem_1_5_2_6",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "13",
+    "score" : "1250"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_1_2_dragon_emblem_1_5_3_1",
+    "group_id" : "lord_quest_group_dragon_emblem_1_2",
+    "condition" : "dragon_emblem_1_5_3_1",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "12",
+    "score" : "8"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_1_2_dragon_emblem_1_5_3_2",
+    "group_id" : "lord_quest_group_dragon_emblem_1_2",
+    "condition" : "dragon_emblem_1_5_3_2",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "11",
+    "score" : "75"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_1_2_dragon_emblem_1_5_3_3",
+    "group_id" : "lord_quest_group_dragon_emblem_1_2",
+    "condition" : "dragon_emblem_1_5_3_3",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "10",
+    "score" : "225"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_1_2_dragon_emblem_1_5_3_4",
+    "group_id" : "lord_quest_group_dragon_emblem_1_2",
+    "condition" : "dragon_emblem_1_5_3_4",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "9",
+    "score" : "450"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_1_2_dragon_emblem_1_5_3_5",
+    "group_id" : "lord_quest_group_dragon_emblem_1_2",
+    "condition" : "dragon_emblem_1_5_3_5",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "8",
+    "score" : "675"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_1_2_dragon_emblem_1_5_3_6",
+    "group_id" : "lord_quest_group_dragon_emblem_1_2",
+    "condition" : "dragon_emblem_1_5_3_6",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "7",
+    "score" : "1250"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_1_2_dragon_emblem_1_5_4_1",
+    "group_id" : "lord_quest_group_dragon_emblem_1_2",
+    "condition" : "dragon_emblem_1_5_4_1",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "6",
+    "score" : "8"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_1_2_dragon_emblem_1_5_4_2",
+    "group_id" : "lord_quest_group_dragon_emblem_1_2",
+    "condition" : "dragon_emblem_1_5_4_2",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "5",
+    "score" : "75"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_1_2_dragon_emblem_1_5_4_3",
+    "group_id" : "lord_quest_group_dragon_emblem_1_2",
+    "condition" : "dragon_emblem_1_5_4_3",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "4",
+    "score" : "225"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_1_2_dragon_emblem_1_5_4_4",
+    "group_id" : "lord_quest_group_dragon_emblem_1_2",
+    "condition" : "dragon_emblem_1_5_4_4",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "3",
+    "score" : "450"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_1_2_dragon_emblem_1_5_4_5",
+    "group_id" : "lord_quest_group_dragon_emblem_1_2",
+    "condition" : "dragon_emblem_1_5_4_5",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "2",
+    "score" : "675"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_1_2_dragon_emblem_1_5_4_6",
+    "group_id" : "lord_quest_group_dragon_emblem_1_2",
+    "condition" : "dragon_emblem_1_5_4_6",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "1",
+    "score" : "1250"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_8_5_0_1_0",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_8_5_0_1",
+    "para_1" : "0",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "120",
+    "score" : "326"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_8_5_0_2_0",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_8_5_0_2",
+    "para_1" : "0",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "119",
+    "score" : "326"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_8_5_0_3_0",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_8_5_0_3",
+    "para_1" : "0",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "118",
+    "score" : "326"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_8_5_0_4_0",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_8_5_0_4",
+    "para_1" : "0",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "117",
+    "score" : "326"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_8_5_0_5_0",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_8_5_0_5",
+    "para_1" : "0",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "116",
+    "score" : "326"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_8_5_0_6_0",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_8_5_0_6",
+    "para_1" : "0",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "115",
+    "score" : "326"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_8_5_0_1_1",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_8_5_0_1",
+    "para_1" : "1",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "114",
+    "score" : "364"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_8_5_0_2_1",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_8_5_0_2",
+    "para_1" : "1",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "113",
+    "score" : "364"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_8_5_0_3_1",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_8_5_0_3",
+    "para_1" : "1",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "112",
+    "score" : "364"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_8_5_0_4_1",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_8_5_0_4",
+    "para_1" : "1",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "111",
+    "score" : "364"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_8_5_0_5_1",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_8_5_0_5",
+    "para_1" : "1",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "110",
+    "score" : "364"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_8_5_0_6_1",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_8_5_0_6",
+    "para_1" : "1",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "109",
+    "score" : "364"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_8_5_0_1_2",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_8_5_0_1",
+    "para_1" : "2",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "108",
+    "score" : "416"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_8_5_0_2_2",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_8_5_0_2",
+    "para_1" : "2",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "107",
+    "score" : "416"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_8_5_0_3_2",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_8_5_0_3",
+    "para_1" : "2",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "106",
+    "score" : "416"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_8_5_0_4_2",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_8_5_0_4",
+    "para_1" : "2",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "105",
+    "score" : "416"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_8_5_0_5_2",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_8_5_0_5",
+    "para_1" : "2",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "104",
+    "score" : "416"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_8_5_0_6_2",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_8_5_0_6",
+    "para_1" : "2",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "103",
+    "score" : "416"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_8_5_0_1_3",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_8_5_0_1",
+    "para_1" : "3",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "102",
+    "score" : "487"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_8_5_0_2_3",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_8_5_0_2",
+    "para_1" : "3",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "101",
+    "score" : "487"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_8_5_0_3_3",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_8_5_0_3",
+    "para_1" : "3",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "100",
+    "score" : "487"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_8_5_0_4_3",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_8_5_0_4",
+    "para_1" : "3",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "99",
+    "score" : "487"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_8_5_0_5_3",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_8_5_0_5",
+    "para_1" : "3",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "98",
+    "score" : "487"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_8_5_0_6_3",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_8_5_0_6",
+    "para_1" : "3",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "97",
+    "score" : "487"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_8_5_0_1_4",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_8_5_0_1",
+    "para_1" : "4",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "96",
+    "score" : "577"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_8_5_0_2_4",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_8_5_0_2",
+    "para_1" : "4",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "95",
+    "score" : "577"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_8_5_0_3_4",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_8_5_0_3",
+    "para_1" : "4",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "94",
+    "score" : "577"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_8_5_0_4_4",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_8_5_0_4",
+    "para_1" : "4",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "93",
+    "score" : "577"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_8_5_0_5_4",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_8_5_0_5",
+    "para_1" : "4",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "92",
+    "score" : "577"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_8_5_0_6_4",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_8_5_0_6",
+    "para_1" : "4",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "91",
+    "score" : "577"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_8_5_0_1_5",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_8_5_0_1",
+    "para_1" : "5",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "90",
+    "score" : "682"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_8_5_0_2_5",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_8_5_0_2",
+    "para_1" : "5",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "89",
+    "score" : "682"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_8_5_0_3_5",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_8_5_0_3",
+    "para_1" : "5",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "88",
+    "score" : "682"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_8_5_0_4_5",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_8_5_0_4",
+    "para_1" : "5",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "87",
+    "score" : "682"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_8_5_0_5_5",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_8_5_0_5",
+    "para_1" : "5",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "86",
+    "score" : "682"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_8_5_0_6_5",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_8_5_0_6",
+    "para_1" : "5",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "85",
+    "score" : "682"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_9_3_0_1_0",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_9_3_0_1",
+    "para_1" : "0",
+    "max_num" : "1",
+    "tier" : "left",
+    "priority" : "84",
+    "score" : "1667"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_9_3_0_2_0",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_9_3_0_2",
+    "para_1" : "0",
+    "max_num" : "1",
+    "tier" : "left",
+    "priority" : "83",
+    "score" : "1667"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_9_3_0_3_0",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_9_3_0_3",
+    "para_1" : "0",
+    "max_num" : "1",
+    "tier" : "left",
+    "priority" : "82",
+    "score" : "1667"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_9_3_0_4_0",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_9_3_0_4",
+    "para_1" : "0",
+    "max_num" : "1",
+    "tier" : "left",
+    "priority" : "81",
+    "score" : "1667"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_9_3_0_5_0",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_9_3_0_5",
+    "para_1" : "0",
+    "max_num" : "1",
+    "tier" : "left",
+    "priority" : "80",
+    "score" : "1667"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_9_3_0_6_0",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_9_3_0_6",
+    "para_1" : "0",
+    "max_num" : "1",
+    "tier" : "left",
+    "priority" : "79",
+    "score" : "1667"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_7_5_0_1_0",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_7_5_0_1",
+    "para_1" : "0",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "78",
+    "score" : "95"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_7_5_0_2_0",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_7_5_0_2",
+    "para_1" : "0",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "77",
+    "score" : "95"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_7_5_0_3_0",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_7_5_0_3",
+    "para_1" : "0",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "76",
+    "score" : "95"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_7_5_0_4_0",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_7_5_0_4",
+    "para_1" : "0",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "75",
+    "score" : "95"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_7_5_0_5_0",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_7_5_0_5",
+    "para_1" : "0",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "74",
+    "score" : "95"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_7_5_0_6_0",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_7_5_0_6",
+    "para_1" : "0",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "73",
+    "score" : "95"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_7_5_0_1_1",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_7_5_0_1",
+    "para_1" : "1",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "72",
+    "score" : "110"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_7_5_0_2_1",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_7_5_0_2",
+    "para_1" : "1",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "71",
+    "score" : "110"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_7_5_0_3_1",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_7_5_0_3",
+    "para_1" : "1",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "70",
+    "score" : "110"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_7_5_0_4_1",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_7_5_0_4",
+    "para_1" : "1",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "69",
+    "score" : "110"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_7_5_0_5_1",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_7_5_0_5",
+    "para_1" : "1",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "68",
+    "score" : "110"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_7_5_0_6_1",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_7_5_0_6",
+    "para_1" : "1",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "67",
+    "score" : "110"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_7_5_0_1_2",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_7_5_0_1",
+    "para_1" : "2",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "66",
+    "score" : "126"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_7_5_0_2_2",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_7_5_0_2",
+    "para_1" : "2",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "65",
+    "score" : "126"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_7_5_0_3_2",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_7_5_0_3",
+    "para_1" : "2",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "64",
+    "score" : "126"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_7_5_0_4_2",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_7_5_0_4",
+    "para_1" : "2",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "63",
+    "score" : "126"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_7_5_0_5_2",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_7_5_0_5",
+    "para_1" : "2",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "62",
+    "score" : "126"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_7_5_0_6_2",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_7_5_0_6",
+    "para_1" : "2",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "61",
+    "score" : "126"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_7_5_0_1_3",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_7_5_0_1",
+    "para_1" : "3",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "60",
+    "score" : "150"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_7_5_0_2_3",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_7_5_0_2",
+    "para_1" : "3",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "59",
+    "score" : "150"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_7_5_0_3_3",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_7_5_0_3",
+    "para_1" : "3",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "58",
+    "score" : "150"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_7_5_0_4_3",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_7_5_0_4",
+    "para_1" : "3",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "57",
+    "score" : "150"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_7_5_0_5_3",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_7_5_0_5",
+    "para_1" : "3",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "56",
+    "score" : "150"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_7_5_0_6_3",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_7_5_0_6",
+    "para_1" : "3",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "55",
+    "score" : "150"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_7_5_0_1_4",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_7_5_0_1",
+    "para_1" : "4",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "54",
+    "score" : "180"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_7_5_0_2_4",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_7_5_0_2",
+    "para_1" : "4",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "53",
+    "score" : "180"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_7_5_0_3_4",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_7_5_0_3",
+    "para_1" : "4",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "52",
+    "score" : "180"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_7_5_0_4_4",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_7_5_0_4",
+    "para_1" : "4",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "51",
+    "score" : "180"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_7_5_0_5_4",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_7_5_0_5",
+    "para_1" : "4",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "50",
+    "score" : "180"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_7_5_0_6_4",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_7_5_0_6",
+    "para_1" : "4",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "49",
+    "score" : "180"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_7_5_0_1_5",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_7_5_0_1",
+    "para_1" : "5",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "48",
+    "score" : "217"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_7_5_0_2_5",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_7_5_0_2",
+    "para_1" : "5",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "47",
+    "score" : "217"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_7_5_0_3_5",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_7_5_0_3",
+    "para_1" : "5",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "46",
+    "score" : "217"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_7_5_0_4_5",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_7_5_0_4",
+    "para_1" : "5",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "45",
+    "score" : "217"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_7_5_0_5_5",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_7_5_0_5",
+    "para_1" : "5",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "44",
+    "score" : "217"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_7_5_0_6_5",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_7_5_0_6",
+    "para_1" : "5",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "43",
+    "score" : "217"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_9_3_0_1_1",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_9_3_0_1",
+    "para_1" : "1",
+    "max_num" : "1",
+    "tier" : "left",
+    "priority" : "42",
+    "score" : "1905"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_9_3_0_2_1",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_9_3_0_2",
+    "para_1" : "1",
+    "max_num" : "1",
+    "tier" : "left",
+    "priority" : "41",
+    "score" : "1905"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_9_3_0_3_1",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_9_3_0_3",
+    "para_1" : "1",
+    "max_num" : "1",
+    "tier" : "left",
+    "priority" : "40",
+    "score" : "1905"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_9_3_0_4_1",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_9_3_0_4",
+    "para_1" : "1",
+    "max_num" : "1",
+    "tier" : "left",
+    "priority" : "39",
+    "score" : "1905"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_9_3_0_5_1",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_9_3_0_5",
+    "para_1" : "1",
+    "max_num" : "1",
+    "tier" : "left",
+    "priority" : "38",
+    "score" : "1905"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_9_3_0_6_1",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_9_3_0_6",
+    "para_1" : "1",
+    "max_num" : "1",
+    "tier" : "left",
+    "priority" : "37",
+    "score" : "1905"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_9_3_0_1_2",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_9_3_0_1",
+    "para_1" : "2",
+    "max_num" : "1",
+    "tier" : "left",
+    "priority" : "36",
+    "score" : "2177"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_9_3_0_2_2",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_9_3_0_2",
+    "para_1" : "2",
+    "max_num" : "1",
+    "tier" : "left",
+    "priority" : "35",
+    "score" : "2177"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_9_3_0_3_2",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_9_3_0_3",
+    "para_1" : "2",
+    "max_num" : "1",
+    "tier" : "left",
+    "priority" : "34",
+    "score" : "2177"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_9_3_0_4_2",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_9_3_0_4",
+    "para_1" : "2",
+    "max_num" : "1",
+    "tier" : "left",
+    "priority" : "33",
+    "score" : "2177"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_9_3_0_5_2",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_9_3_0_5",
+    "para_1" : "2",
+    "max_num" : "1",
+    "tier" : "left",
+    "priority" : "32",
+    "score" : "2177"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_9_3_0_6_2",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_9_3_0_6",
+    "para_1" : "2",
+    "max_num" : "1",
+    "tier" : "left",
+    "priority" : "31",
+    "score" : "2177"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_9_3_0_1_3",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_9_3_0_1",
+    "para_1" : "3",
+    "max_num" : "1",
+    "tier" : "left",
+    "priority" : "30",
+    "score" : "2487"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_9_3_0_2_3",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_9_3_0_2",
+    "para_1" : "3",
+    "max_num" : "1",
+    "tier" : "left",
+    "priority" : "29",
+    "score" : "2487"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_9_3_0_3_3",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_9_3_0_3",
+    "para_1" : "3",
+    "max_num" : "1",
+    "tier" : "left",
+    "priority" : "28",
+    "score" : "2487"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_9_3_0_4_3",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_9_3_0_4",
+    "para_1" : "3",
+    "max_num" : "1",
+    "tier" : "left",
+    "priority" : "27",
+    "score" : "2487"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_9_3_0_5_3",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_9_3_0_5",
+    "para_1" : "3",
+    "max_num" : "1",
+    "tier" : "left",
+    "priority" : "26",
+    "score" : "2487"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_9_3_0_6_3",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_9_3_0_6",
+    "para_1" : "3",
+    "max_num" : "1",
+    "tier" : "left",
+    "priority" : "25",
+    "score" : "2487"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_9_3_0_1_4",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_9_3_0_1",
+    "para_1" : "4",
+    "max_num" : "1",
+    "tier" : "left",
+    "priority" : "24",
+    "score" : "2842"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_9_3_0_2_4",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_9_3_0_2",
+    "para_1" : "4",
+    "max_num" : "1",
+    "tier" : "left",
+    "priority" : "23",
+    "score" : "2842"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_9_3_0_3_4",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_9_3_0_3",
+    "para_1" : "4",
+    "max_num" : "1",
+    "tier" : "left",
+    "priority" : "22",
+    "score" : "2842"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_9_3_0_4_4",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_9_3_0_4",
+    "para_1" : "4",
+    "max_num" : "1",
+    "tier" : "left",
+    "priority" : "21",
+    "score" : "2842"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_9_3_0_5_4",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_9_3_0_5",
+    "para_1" : "4",
+    "max_num" : "1",
+    "tier" : "left",
+    "priority" : "20",
+    "score" : "2842"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_9_3_0_6_4",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_9_3_0_6",
+    "para_1" : "4",
+    "max_num" : "1",
+    "tier" : "left",
+    "priority" : "19",
+    "score" : "2842"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_9_3_0_1_5",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_9_3_0_1",
+    "para_1" : "5",
+    "max_num" : "1",
+    "tier" : "left",
+    "priority" : "18",
+    "score" : "3243"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_9_3_0_2_5",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_9_3_0_2",
+    "para_1" : "5",
+    "max_num" : "1",
+    "tier" : "left",
+    "priority" : "17",
+    "score" : "3243"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_9_3_0_3_5",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_9_3_0_3",
+    "para_1" : "5",
+    "max_num" : "1",
+    "tier" : "left",
+    "priority" : "16",
+    "score" : "3243"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_9_3_0_4_5",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_9_3_0_4",
+    "para_1" : "5",
+    "max_num" : "1",
+    "tier" : "left",
+    "priority" : "15",
+    "score" : "3243"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_9_3_0_5_5",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_9_3_0_5",
+    "para_1" : "5",
+    "max_num" : "1",
+    "tier" : "left",
+    "priority" : "14",
+    "score" : "3243"
+  }, {
+    "id" : "lord_quest_group_equipment_1_equipment_9_3_0_6_5",
+    "group_id" : "lord_quest_group_equipment_1",
+    "condition" : "equipment_9_3_0_6",
+    "para_1" : "5",
+    "max_num" : "1",
+    "tier" : "left",
+    "priority" : "13",
+    "score" : "3243"
+  }, {
+    "id" : "lord_quest_group_parliament_hero_1_1_parliament_hero_03_13_1",
+    "group_id" : "lord_quest_group_parliament_hero_1_1",
+    "condition" : "parliament_hero_03_13",
+    "para_1" : "1",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "90",
+    "score" : "7"
+  }, {
+    "id" : "lord_quest_group_parliament_hero_1_1_parliament_hero_03_14_1",
+    "group_id" : "lord_quest_group_parliament_hero_1_1",
+    "condition" : "parliament_hero_03_14",
+    "para_1" : "1",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "89",
+    "score" : "7"
+  }, {
+    "id" : "lord_quest_group_parliament_hero_1_1_parliament_hero_03_101_1",
+    "group_id" : "lord_quest_group_parliament_hero_1_1",
+    "condition" : "parliament_hero_03_101",
+    "para_1" : "1",
+    "max_num" : "1",
+    "tier" : "left",
+    "priority" : "88",
+    "score" : "17"
+  }, {
+    "id" : "lord_quest_group_parliament_hero_1_1_parliament_hero_03_102_1",
+    "group_id" : "lord_quest_group_parliament_hero_1_1",
+    "condition" : "parliament_hero_03_102",
+    "para_1" : "1",
+    "max_num" : "1",
+    "tier" : "left",
+    "priority" : "87",
+    "score" : "14"
+  }, {
+    "id" : "lord_quest_group_parliament_hero_1_1_parliament_hero_03_103_1",
+    "group_id" : "lord_quest_group_parliament_hero_1_1",
+    "condition" : "parliament_hero_03_103",
+    "para_1" : "1",
+    "max_num" : "1",
+    "tier" : "left",
+    "priority" : "86",
+    "score" : "14"
+  }, {
+    "id" : "lord_quest_group_parliament_hero_1_1_parliament_hero_03_13_2",
+    "group_id" : "lord_quest_group_parliament_hero_1_1",
+    "condition" : "parliament_hero_03_13",
+    "para_1" : "2",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "85",
+    "score" : "67"
+  }, {
+    "id" : "lord_quest_group_parliament_hero_1_1_parliament_hero_03_14_2",
+    "group_id" : "lord_quest_group_parliament_hero_1_1",
+    "condition" : "parliament_hero_03_14",
+    "para_1" : "2",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "84",
+    "score" : "67"
+  }, {
+    "id" : "lord_quest_group_parliament_hero_1_1_parliament_hero_03_101_2",
+    "group_id" : "lord_quest_group_parliament_hero_1_1",
+    "condition" : "parliament_hero_03_101",
+    "para_1" : "2",
+    "max_num" : "1",
+    "tier" : "left",
+    "priority" : "83",
+    "score" : "180"
+  }, {
+    "id" : "lord_quest_group_parliament_hero_1_1_parliament_hero_03_102_2",
+    "group_id" : "lord_quest_group_parliament_hero_1_1",
+    "condition" : "parliament_hero_03_102",
+    "para_1" : "2",
+    "max_num" : "1",
+    "tier" : "left",
+    "priority" : "82",
+    "score" : "149"
+  }, {
+    "id" : "lord_quest_group_parliament_hero_1_1_parliament_hero_03_103_2",
+    "group_id" : "lord_quest_group_parliament_hero_1_1",
+    "condition" : "parliament_hero_03_103",
+    "para_1" : "2",
+    "max_num" : "1",
+    "tier" : "left",
+    "priority" : "81",
+    "score" : "149"
+  }, {
+    "id" : "lord_quest_group_parliament_hero_1_1_parliament_hero_03_13_3",
+    "group_id" : "lord_quest_group_parliament_hero_1_1",
+    "condition" : "parliament_hero_03_13",
+    "para_1" : "3",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "80",
+    "score" : "189"
+  }, {
+    "id" : "lord_quest_group_parliament_hero_1_1_parliament_hero_03_14_3",
+    "group_id" : "lord_quest_group_parliament_hero_1_1",
+    "condition" : "parliament_hero_03_14",
+    "para_1" : "3",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "79",
+    "score" : "189"
+  }, {
+    "id" : "lord_quest_group_parliament_hero_1_1_parliament_hero_03_101_3",
+    "group_id" : "lord_quest_group_parliament_hero_1_1",
+    "condition" : "parliament_hero_03_101",
+    "para_1" : "3",
+    "max_num" : "1",
+    "tier" : "left",
+    "priority" : "78",
+    "score" : "507"
+  }, {
+    "id" : "lord_quest_group_parliament_hero_1_1_parliament_hero_03_102_3",
+    "group_id" : "lord_quest_group_parliament_hero_1_1",
+    "condition" : "parliament_hero_03_102",
+    "para_1" : "3",
+    "max_num" : "1",
+    "tier" : "left",
+    "priority" : "77",
+    "score" : "418"
+  }, {
+    "id" : "lord_quest_group_parliament_hero_1_1_parliament_hero_03_103_3",
+    "group_id" : "lord_quest_group_parliament_hero_1_1",
+    "condition" : "parliament_hero_03_103",
+    "para_1" : "3",
+    "max_num" : "1",
+    "tier" : "left",
+    "priority" : "76",
+    "score" : "418"
+  }, {
+    "id" : "lord_quest_group_parliament_hero_1_1_parliament_hero_03_13_4",
+    "group_id" : "lord_quest_group_parliament_hero_1_1",
+    "condition" : "parliament_hero_03_13",
+    "para_1" : "4",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "75",
+    "score" : "431"
+  }, {
+    "id" : "lord_quest_group_parliament_hero_1_1_parliament_hero_03_14_4",
+    "group_id" : "lord_quest_group_parliament_hero_1_1",
+    "condition" : "parliament_hero_03_14",
+    "para_1" : "4",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "74",
+    "score" : "431"
+  }, {
+    "id" : "lord_quest_group_parliament_hero_1_1_parliament_hero_03_101_4",
+    "group_id" : "lord_quest_group_parliament_hero_1_1",
+    "condition" : "parliament_hero_03_101",
+    "para_1" : "4",
+    "max_num" : "1",
+    "tier" : "left",
+    "priority" : "73",
+    "score" : "1161"
+  }, {
+    "id" : "lord_quest_group_parliament_hero_1_1_parliament_hero_03_102_4",
+    "group_id" : "lord_quest_group_parliament_hero_1_1",
+    "condition" : "parliament_hero_03_102",
+    "para_1" : "4",
+    "max_num" : "1",
+    "tier" : "left",
+    "priority" : "72",
+    "score" : "956"
+  }, {
+    "id" : "lord_quest_group_parliament_hero_1_1_parliament_hero_03_103_4",
+    "group_id" : "lord_quest_group_parliament_hero_1_1",
+    "condition" : "parliament_hero_03_103",
+    "para_1" : "4",
+    "max_num" : "1",
+    "tier" : "left",
+    "priority" : "71",
+    "score" : "956"
+  }, {
+    "id" : "lord_quest_group_parliament_hero_1_1_parliament_hero_03_13_5",
+    "group_id" : "lord_quest_group_parliament_hero_1_1",
+    "condition" : "parliament_hero_03_13",
+    "para_1" : "5",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "70",
+    "score" : "917"
+  }, {
+    "id" : "lord_quest_group_parliament_hero_1_1_parliament_hero_03_14_5",
+    "group_id" : "lord_quest_group_parliament_hero_1_1",
+    "condition" : "parliament_hero_03_14",
+    "para_1" : "5",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "69",
+    "score" : "917"
+  }, {
+    "id" : "lord_quest_group_parliament_hero_1_1_parliament_hero_03_101_5",
+    "group_id" : "lord_quest_group_parliament_hero_1_1",
+    "condition" : "parliament_hero_03_101",
+    "para_1" : "5",
+    "max_num" : "1",
+    "tier" : "left",
+    "priority" : "68",
+    "score" : "2468"
+  }, {
+    "id" : "lord_quest_group_parliament_hero_1_1_parliament_hero_03_102_5",
+    "group_id" : "lord_quest_group_parliament_hero_1_1",
+    "condition" : "parliament_hero_03_102",
+    "para_1" : "5",
+    "max_num" : "1",
+    "tier" : "left",
+    "priority" : "67",
+    "score" : "2033"
+  }, {
+    "id" : "lord_quest_group_parliament_hero_1_1_parliament_hero_03_103_5",
+    "group_id" : "lord_quest_group_parliament_hero_1_1",
+    "condition" : "parliament_hero_03_103",
+    "para_1" : "5",
+    "max_num" : "1",
+    "tier" : "left",
+    "priority" : "66",
+    "score" : "2033"
+  }, {
+    "id" : "lord_quest_group_parliament_hero_1_1_parliament_hero_03_101_6",
+    "group_id" : "lord_quest_group_parliament_hero_1_1",
+    "condition" : "parliament_hero_03_101",
+    "para_1" : "6",
+    "max_num" : "1",
+    "tier" : "left",
+    "priority" : "65",
+    "score" : "4102"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_1_equip_gemstone_icr_attack_1_percent_4",
+    "group_id" : "lord_quest_group_equipment_gem_1_1",
+    "condition" : "equip_gemstone_icr_attack_1_percent_4",
+    "max_num" : "4",
+    "tier" : "right",
+    "priority" : "100",
+    "score" : "9"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_1_equip_gemstone_icr_defense_1_percent_4",
+    "group_id" : "lord_quest_group_equipment_gem_1_1",
+    "condition" : "equip_gemstone_icr_defense_1_percent_4",
+    "max_num" : "6",
+    "tier" : "right",
+    "priority" : "99",
+    "score" : "9"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_1_equip_gemstone_icr_health_1_percent_4",
+    "group_id" : "lord_quest_group_equipment_gem_1_1",
+    "condition" : "equip_gemstone_icr_health_1_percent_4",
+    "max_num" : "6",
+    "tier" : "right",
+    "priority" : "98",
+    "score" : "9"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_1_equip_gemstone_army_adefh_1_percent_4",
+    "group_id" : "lord_quest_group_equipment_gem_1_1",
+    "condition" : "equip_gemstone_army_adefh_1_percent_4",
+    "max_num" : "2",
+    "tier" : "right",
+    "priority" : "97",
+    "score" : "9"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_1_equip_gemstone_icr_attack_1_percent_5",
+    "group_id" : "lord_quest_group_equipment_gem_1_1",
+    "condition" : "equip_gemstone_icr_attack_1_percent_5",
+    "max_num" : "4",
+    "tier" : "right",
+    "priority" : "96",
+    "score" : "16"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_1_equip_gemstone_icr_defense_1_percent_5",
+    "group_id" : "lord_quest_group_equipment_gem_1_1",
+    "condition" : "equip_gemstone_icr_defense_1_percent_5",
+    "max_num" : "6",
+    "tier" : "right",
+    "priority" : "95",
+    "score" : "16"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_1_equip_gemstone_icr_health_1_percent_5",
+    "group_id" : "lord_quest_group_equipment_gem_1_1",
+    "condition" : "equip_gemstone_icr_health_1_percent_5",
+    "max_num" : "6",
+    "tier" : "right",
+    "priority" : "94",
+    "score" : "16"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_1_equip_gemstone_army_adefh_1_percent_5",
+    "group_id" : "lord_quest_group_equipment_gem_1_1",
+    "condition" : "equip_gemstone_army_adefh_1_percent_5",
+    "max_num" : "2",
+    "tier" : "right",
+    "priority" : "93",
+    "score" : "16"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_1_equip_gemstone_icr_attack_1_percent_6",
+    "group_id" : "lord_quest_group_equipment_gem_1_1",
+    "condition" : "equip_gemstone_icr_attack_1_percent_6",
+    "max_num" : "4",
+    "tier" : "right",
+    "priority" : "92",
+    "score" : "39"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_1_equip_gemstone_icr_defense_1_percent_6",
+    "group_id" : "lord_quest_group_equipment_gem_1_1",
+    "condition" : "equip_gemstone_icr_defense_1_percent_6",
+    "max_num" : "6",
+    "tier" : "right",
+    "priority" : "91",
+    "score" : "39"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_1_equip_gemstone_icr_health_1_percent_6",
+    "group_id" : "lord_quest_group_equipment_gem_1_1",
+    "condition" : "equip_gemstone_icr_health_1_percent_6",
+    "max_num" : "6",
+    "tier" : "right",
+    "priority" : "90",
+    "score" : "39"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_1_equip_gemstone_army_adefh_1_percent_6",
+    "group_id" : "lord_quest_group_equipment_gem_1_1",
+    "condition" : "equip_gemstone_army_adefh_1_percent_6",
+    "max_num" : "2",
+    "tier" : "right",
+    "priority" : "89",
+    "score" : "39"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_1_equip_gemstone_soul_1_icr_attack_percent_4",
+    "group_id" : "lord_quest_group_equipment_gem_1_1",
+    "condition" : "equip_gemstone_soul_1_icr_attack_percent_4",
+    "max_num" : "4",
+    "tier" : "left",
+    "priority" : "88",
+    "score" : "19"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_1_equip_gemstone_soul_1_icr_defense_percent_4",
+    "group_id" : "lord_quest_group_equipment_gem_1_1",
+    "condition" : "equip_gemstone_soul_1_icr_defense_percent_4",
+    "max_num" : "6",
+    "tier" : "left",
+    "priority" : "87",
+    "score" : "19"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_1_equip_gemstone_soul_1_icr_health_percent_4",
+    "group_id" : "lord_quest_group_equipment_gem_1_1",
+    "condition" : "equip_gemstone_soul_1_icr_health_percent_4",
+    "max_num" : "6",
+    "tier" : "left",
+    "priority" : "86",
+    "score" : "19"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_1_equip_gemstone_soul_1_army_adefh_percent_4",
+    "group_id" : "lord_quest_group_equipment_gem_1_1",
+    "condition" : "equip_gemstone_soul_1_army_adefh_percent_4",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "85",
+    "score" : "19"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_1_equip_gemstone_soul_1_icr_attack_percent_5",
+    "group_id" : "lord_quest_group_equipment_gem_1_1",
+    "condition" : "equip_gemstone_soul_1_icr_attack_percent_5",
+    "max_num" : "4",
+    "tier" : "left",
+    "priority" : "84",
+    "score" : "33"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_1_equip_gemstone_soul_1_icr_defense_percent_5",
+    "group_id" : "lord_quest_group_equipment_gem_1_1",
+    "condition" : "equip_gemstone_soul_1_icr_defense_percent_5",
+    "max_num" : "6",
+    "tier" : "left",
+    "priority" : "83",
+    "score" : "33"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_1_equip_gemstone_soul_1_icr_health_percent_5",
+    "group_id" : "lord_quest_group_equipment_gem_1_1",
+    "condition" : "equip_gemstone_soul_1_icr_health_percent_5",
+    "max_num" : "6",
+    "tier" : "left",
+    "priority" : "82",
+    "score" : "33"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_1_equip_gemstone_soul_1_army_adefh_percent_5",
+    "group_id" : "lord_quest_group_equipment_gem_1_1",
+    "condition" : "equip_gemstone_soul_1_army_adefh_percent_5",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "81",
+    "score" : "33"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_1_equip_gemstone_soul_1_icr_attack_percent_6",
+    "group_id" : "lord_quest_group_equipment_gem_1_1",
+    "condition" : "equip_gemstone_soul_1_icr_attack_percent_6",
+    "max_num" : "4",
+    "tier" : "left",
+    "priority" : "80",
+    "score" : "153"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_1_equip_gemstone_soul_1_icr_defense_percent_6",
+    "group_id" : "lord_quest_group_equipment_gem_1_1",
+    "condition" : "equip_gemstone_soul_1_icr_defense_percent_6",
+    "max_num" : "6",
+    "tier" : "left",
+    "priority" : "79",
+    "score" : "153"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_1_equip_gemstone_soul_1_icr_health_percent_6",
+    "group_id" : "lord_quest_group_equipment_gem_1_1",
+    "condition" : "equip_gemstone_soul_1_icr_health_percent_6",
+    "max_num" : "6",
+    "tier" : "left",
+    "priority" : "78",
+    "score" : "153"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_1_equip_gemstone_soul_1_army_adefh_percent_6",
+    "group_id" : "lord_quest_group_equipment_gem_1_1",
+    "condition" : "equip_gemstone_soul_1_army_adefh_percent_6",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "77",
+    "score" : "153"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_1_equip_gemstone_soul_2_icr_attack_percent_4",
+    "group_id" : "lord_quest_group_equipment_gem_1_1",
+    "condition" : "equip_gemstone_soul_2_icr_attack_percent_4",
+    "max_num" : "4",
+    "tier" : "left",
+    "priority" : "76",
+    "score" : "30"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_1_equip_gemstone_soul_2_icr_defense_percent_4",
+    "group_id" : "lord_quest_group_equipment_gem_1_1",
+    "condition" : "equip_gemstone_soul_2_icr_defense_percent_4",
+    "max_num" : "6",
+    "tier" : "left",
+    "priority" : "75",
+    "score" : "30"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_1_equip_gemstone_soul_2_icr_health_percent_4",
+    "group_id" : "lord_quest_group_equipment_gem_1_1",
+    "condition" : "equip_gemstone_soul_2_icr_health_percent_4",
+    "max_num" : "6",
+    "tier" : "left",
+    "priority" : "74",
+    "score" : "30"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_1_equip_gemstone_soul_2_army_adefh_percent_4",
+    "group_id" : "lord_quest_group_equipment_gem_1_1",
+    "condition" : "equip_gemstone_soul_2_army_adefh_percent_4",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "73",
+    "score" : "30"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_1_equip_gemstone_soul_2_icr_attack_percent_5",
+    "group_id" : "lord_quest_group_equipment_gem_1_1",
+    "condition" : "equip_gemstone_soul_2_icr_attack_percent_5",
+    "max_num" : "4",
+    "tier" : "left",
+    "priority" : "72",
+    "score" : "70"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_1_equip_gemstone_soul_2_icr_defense_percent_5",
+    "group_id" : "lord_quest_group_equipment_gem_1_1",
+    "condition" : "equip_gemstone_soul_2_icr_defense_percent_5",
+    "max_num" : "6",
+    "tier" : "left",
+    "priority" : "71",
+    "score" : "70"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_1_equip_gemstone_soul_2_icr_health_percent_5",
+    "group_id" : "lord_quest_group_equipment_gem_1_1",
+    "condition" : "equip_gemstone_soul_2_icr_health_percent_5",
+    "max_num" : "6",
+    "tier" : "left",
+    "priority" : "70",
+    "score" : "70"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_1_equip_gemstone_soul_2_army_adefh_percent_5",
+    "group_id" : "lord_quest_group_equipment_gem_1_1",
+    "condition" : "equip_gemstone_soul_2_army_adefh_percent_5",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "69",
+    "score" : "70"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_1_equip_gemstone_soul_2_icr_attack_percent_6",
+    "group_id" : "lord_quest_group_equipment_gem_1_1",
+    "condition" : "equip_gemstone_soul_2_icr_attack_percent_6",
+    "max_num" : "4",
+    "tier" : "left",
+    "priority" : "68",
+    "score" : "278"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_1_equip_gemstone_soul_2_icr_defense_percent_6",
+    "group_id" : "lord_quest_group_equipment_gem_1_1",
+    "condition" : "equip_gemstone_soul_2_icr_defense_percent_6",
+    "max_num" : "6",
+    "tier" : "left",
+    "priority" : "67",
+    "score" : "278"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_1_equip_gemstone_soul_2_icr_health_percent_6",
+    "group_id" : "lord_quest_group_equipment_gem_1_1",
+    "condition" : "equip_gemstone_soul_2_icr_health_percent_6",
+    "max_num" : "6",
+    "tier" : "left",
+    "priority" : "66",
+    "score" : "278"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_1_equip_gemstone_soul_2_army_adefh_percent_6",
+    "group_id" : "lord_quest_group_equipment_gem_1_1",
+    "condition" : "equip_gemstone_soul_2_army_adefh_percent_6",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "65",
+    "score" : "278"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_1_equip_gemstone_soul_3_icr_attack_percent_4",
+    "group_id" : "lord_quest_group_equipment_gem_1_1",
+    "condition" : "equip_gemstone_soul_3_icr_attack_percent_4",
+    "max_num" : "4",
+    "tier" : "left",
+    "priority" : "64",
+    "score" : "63"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_1_equip_gemstone_soul_3_icr_defense_percent_4",
+    "group_id" : "lord_quest_group_equipment_gem_1_1",
+    "condition" : "equip_gemstone_soul_3_icr_defense_percent_4",
+    "max_num" : "6",
+    "tier" : "left",
+    "priority" : "63",
+    "score" : "63"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_1_equip_gemstone_soul_3_icr_health_percent_4",
+    "group_id" : "lord_quest_group_equipment_gem_1_1",
+    "condition" : "equip_gemstone_soul_3_icr_health_percent_4",
+    "max_num" : "6",
+    "tier" : "left",
+    "priority" : "62",
+    "score" : "63"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_1_equip_gemstone_soul_3_army_adefh_percent_4",
+    "group_id" : "lord_quest_group_equipment_gem_1_1",
+    "condition" : "equip_gemstone_soul_3_army_adefh_percent_4",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "61",
+    "score" : "63"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_1_equip_gemstone_soul_3_icr_attack_percent_5",
+    "group_id" : "lord_quest_group_equipment_gem_1_1",
+    "condition" : "equip_gemstone_soul_3_icr_attack_percent_5",
+    "max_num" : "4",
+    "tier" : "left",
+    "priority" : "60",
+    "score" : "138"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_1_equip_gemstone_soul_3_icr_defense_percent_5",
+    "group_id" : "lord_quest_group_equipment_gem_1_1",
+    "condition" : "equip_gemstone_soul_3_icr_defense_percent_5",
+    "max_num" : "6",
+    "tier" : "left",
+    "priority" : "59",
+    "score" : "138"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_1_equip_gemstone_soul_3_icr_health_percent_5",
+    "group_id" : "lord_quest_group_equipment_gem_1_1",
+    "condition" : "equip_gemstone_soul_3_icr_health_percent_5",
+    "max_num" : "6",
+    "tier" : "left",
+    "priority" : "58",
+    "score" : "138"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_1_equip_gemstone_soul_3_army_adefh_percent_5",
+    "group_id" : "lord_quest_group_equipment_gem_1_1",
+    "condition" : "equip_gemstone_soul_3_army_adefh_percent_5",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "57",
+    "score" : "138"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_1_equip_gemstone_soul_3_icr_attack_percent_6",
+    "group_id" : "lord_quest_group_equipment_gem_1_1",
+    "condition" : "equip_gemstone_soul_3_icr_attack_percent_6",
+    "max_num" : "4",
+    "tier" : "left",
+    "priority" : "56",
+    "score" : "556"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_1_equip_gemstone_soul_3_icr_defense_percent_6",
+    "group_id" : "lord_quest_group_equipment_gem_1_1",
+    "condition" : "equip_gemstone_soul_3_icr_defense_percent_6",
+    "max_num" : "6",
+    "tier" : "left",
+    "priority" : "55",
+    "score" : "556"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_1_equip_gemstone_soul_3_icr_health_percent_6",
+    "group_id" : "lord_quest_group_equipment_gem_1_1",
+    "condition" : "equip_gemstone_soul_3_icr_health_percent_6",
+    "max_num" : "6",
+    "tier" : "left",
+    "priority" : "54",
+    "score" : "556"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_1_equip_gemstone_soul_3_army_adefh_percent_6",
+    "group_id" : "lord_quest_group_equipment_gem_1_1",
+    "condition" : "equip_gemstone_soul_3_army_adefh_percent_6",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "53",
+    "score" : "556"
+  }, {
+    "id" : "lord_quest_group_building_statue_1building_statue_1_3_1_1",
+    "group_id" : "lord_quest_group_building_statue_1",
+    "condition" : "building_statue_1_3_1_1",
+    "max_num" : "4",
+    "tier" : "left",
+    "priority" : "48",
+    "score" : "7"
+  }, {
+    "id" : "lord_quest_group_building_statue_1building_statue_1_3_1_2",
+    "group_id" : "lord_quest_group_building_statue_1",
+    "condition" : "building_statue_1_3_1_2",
+    "max_num" : "4",
+    "tier" : "left",
+    "priority" : "47",
+    "score" : "63"
+  }, {
+    "id" : "lord_quest_group_building_statue_1building_statue_1_3_1_3",
+    "group_id" : "lord_quest_group_building_statue_1",
+    "condition" : "building_statue_1_3_1_3",
+    "max_num" : "4",
+    "tier" : "left",
+    "priority" : "46",
+    "score" : "125"
+  }, {
+    "id" : "lord_quest_group_building_statue_1building_statue_1_3_2_1",
+    "group_id" : "lord_quest_group_building_statue_1",
+    "condition" : "building_statue_1_3_2_1",
+    "max_num" : "4",
+    "tier" : "left",
+    "priority" : "45",
+    "score" : "7"
+  }, {
+    "id" : "lord_quest_group_building_statue_1building_statue_1_3_2_2",
+    "group_id" : "lord_quest_group_building_statue_1",
+    "condition" : "building_statue_1_3_2_2",
+    "max_num" : "4",
+    "tier" : "left",
+    "priority" : "44",
+    "score" : "63"
+  }, {
+    "id" : "lord_quest_group_building_statue_1building_statue_1_3_2_3",
+    "group_id" : "lord_quest_group_building_statue_1",
+    "condition" : "building_statue_1_3_2_3",
+    "max_num" : "4",
+    "tier" : "left",
+    "priority" : "43",
+    "score" : "125"
+  }, {
+    "id" : "lord_quest_group_building_statue_1building_statue_1_3_3_1",
+    "group_id" : "lord_quest_group_building_statue_1",
+    "condition" : "building_statue_1_3_3_1",
+    "max_num" : "4",
+    "tier" : "left",
+    "priority" : "42",
+    "score" : "7"
+  }, {
+    "id" : "lord_quest_group_building_statue_1building_statue_1_3_3_2",
+    "group_id" : "lord_quest_group_building_statue_1",
+    "condition" : "building_statue_1_3_3_2",
+    "max_num" : "4",
+    "tier" : "left",
+    "priority" : "41",
+    "score" : "63"
+  }, {
+    "id" : "lord_quest_group_building_statue_1building_statue_1_3_3_3",
+    "group_id" : "lord_quest_group_building_statue_1",
+    "condition" : "building_statue_1_3_3_3",
+    "max_num" : "4",
+    "tier" : "left",
+    "priority" : "40",
+    "score" : "125"
+  }, {
+    "id" : "lord_quest_group_building_statue_1building_statue_1_3_4_1",
+    "group_id" : "lord_quest_group_building_statue_1",
+    "condition" : "building_statue_1_3_4_1",
+    "max_num" : "4",
+    "tier" : "left",
+    "priority" : "39",
+    "score" : "7"
+  }, {
+    "id" : "lord_quest_group_building_statue_1building_statue_1_3_4_2",
+    "group_id" : "lord_quest_group_building_statue_1",
+    "condition" : "building_statue_1_3_4_2",
+    "max_num" : "4",
+    "tier" : "left",
+    "priority" : "38",
+    "score" : "63"
+  }, {
+    "id" : "lord_quest_group_building_statue_1building_statue_1_3_4_3",
+    "group_id" : "lord_quest_group_building_statue_1",
+    "condition" : "building_statue_1_3_4_3",
+    "max_num" : "4",
+    "tier" : "left",
+    "priority" : "37",
+    "score" : "125"
+  }, {
+    "id" : "lord_quest_group_building_statue_1building_statue_1_4_1_1",
+    "group_id" : "lord_quest_group_building_statue_1",
+    "condition" : "building_statue_1_4_1_1",
+    "max_num" : "4",
+    "tier" : "left",
+    "priority" : "36",
+    "score" : "9"
+  }, {
+    "id" : "lord_quest_group_building_statue_1building_statue_1_4_1_2",
+    "group_id" : "lord_quest_group_building_statue_1",
+    "condition" : "building_statue_1_4_1_2",
+    "max_num" : "4",
+    "tier" : "left",
+    "priority" : "35",
+    "score" : "75"
+  }, {
+    "id" : "lord_quest_group_building_statue_1building_statue_1_4_1_3",
+    "group_id" : "lord_quest_group_building_statue_1",
+    "condition" : "building_statue_1_4_1_3",
+    "max_num" : "4",
+    "tier" : "left",
+    "priority" : "34",
+    "score" : "149"
+  }, {
+    "id" : "lord_quest_group_building_statue_1building_statue_1_4_1_4",
+    "group_id" : "lord_quest_group_building_statue_1",
+    "condition" : "building_statue_1_4_1_4",
+    "max_num" : "4",
+    "tier" : "left",
+    "priority" : "33",
+    "score" : "250"
+  }, {
+    "id" : "lord_quest_group_building_statue_1building_statue_1_4_2_1",
+    "group_id" : "lord_quest_group_building_statue_1",
+    "condition" : "building_statue_1_4_2_1",
+    "max_num" : "4",
+    "tier" : "left",
+    "priority" : "32",
+    "score" : "9"
+  }, {
+    "id" : "lord_quest_group_building_statue_1building_statue_1_4_2_2",
+    "group_id" : "lord_quest_group_building_statue_1",
+    "condition" : "building_statue_1_4_2_2",
+    "max_num" : "4",
+    "tier" : "left",
+    "priority" : "31",
+    "score" : "75"
+  }, {
+    "id" : "lord_quest_group_building_statue_1building_statue_1_4_2_3",
+    "group_id" : "lord_quest_group_building_statue_1",
+    "condition" : "building_statue_1_4_2_3",
+    "max_num" : "4",
+    "tier" : "left",
+    "priority" : "30",
+    "score" : "149"
+  }, {
+    "id" : "lord_quest_group_building_statue_1building_statue_1_4_2_4",
+    "group_id" : "lord_quest_group_building_statue_1",
+    "condition" : "building_statue_1_4_2_4",
+    "max_num" : "4",
+    "tier" : "left",
+    "priority" : "29",
+    "score" : "250"
+  }, {
+    "id" : "lord_quest_group_building_statue_1building_statue_1_4_3_1",
+    "group_id" : "lord_quest_group_building_statue_1",
+    "condition" : "building_statue_1_4_3_1",
+    "max_num" : "4",
+    "tier" : "left",
+    "priority" : "28",
+    "score" : "9"
+  }, {
+    "id" : "lord_quest_group_building_statue_1building_statue_1_4_3_2",
+    "group_id" : "lord_quest_group_building_statue_1",
+    "condition" : "building_statue_1_4_3_2",
+    "max_num" : "4",
+    "tier" : "left",
+    "priority" : "27",
+    "score" : "75"
+  }, {
+    "id" : "lord_quest_group_building_statue_1building_statue_1_4_3_3",
+    "group_id" : "lord_quest_group_building_statue_1",
+    "condition" : "building_statue_1_4_3_3",
+    "max_num" : "4",
+    "tier" : "left",
+    "priority" : "26",
+    "score" : "149"
+  }, {
+    "id" : "lord_quest_group_building_statue_1building_statue_1_4_3_4",
+    "group_id" : "lord_quest_group_building_statue_1",
+    "condition" : "building_statue_1_4_3_4",
+    "max_num" : "4",
+    "tier" : "left",
+    "priority" : "25",
+    "score" : "250"
+  }, {
+    "id" : "lord_quest_group_building_statue_1building_statue_1_4_4_1",
+    "group_id" : "lord_quest_group_building_statue_1",
+    "condition" : "building_statue_1_4_4_1",
+    "max_num" : "4",
+    "tier" : "left",
+    "priority" : "24",
+    "score" : "9"
+  }, {
+    "id" : "lord_quest_group_building_statue_1building_statue_1_4_4_2",
+    "group_id" : "lord_quest_group_building_statue_1",
+    "condition" : "building_statue_1_4_4_2",
+    "max_num" : "4",
+    "tier" : "left",
+    "priority" : "23",
+    "score" : "75"
+  }, {
+    "id" : "lord_quest_group_building_statue_1building_statue_1_4_4_3",
+    "group_id" : "lord_quest_group_building_statue_1",
+    "condition" : "building_statue_1_4_4_3",
+    "max_num" : "4",
+    "tier" : "left",
+    "priority" : "22",
+    "score" : "149"
+  }, {
+    "id" : "lord_quest_group_building_statue_1building_statue_1_4_4_4",
+    "group_id" : "lord_quest_group_building_statue_1",
+    "condition" : "building_statue_1_4_4_4",
+    "max_num" : "4",
+    "tier" : "left",
+    "priority" : "21",
+    "score" : "250"
+  }, {
+    "id" : "lord_quest_group_building_statue_1building_statue_1_5_1_1",
+    "group_id" : "lord_quest_group_building_statue_1",
+    "condition" : "building_statue_1_5_1_1",
+    "max_num" : "4",
+    "tier" : "left",
+    "priority" : "20",
+    "score" : "13"
+  }, {
+    "id" : "lord_quest_group_building_statue_1building_statue_1_5_1_2",
+    "group_id" : "lord_quest_group_building_statue_1",
+    "condition" : "building_statue_1_5_1_2",
+    "max_num" : "4",
+    "tier" : "left",
+    "priority" : "19",
+    "score" : "100"
+  }, {
+    "id" : "lord_quest_group_building_statue_1building_statue_1_5_1_3",
+    "group_id" : "lord_quest_group_building_statue_1",
+    "condition" : "building_statue_1_5_1_3",
+    "max_num" : "4",
+    "tier" : "left",
+    "priority" : "18",
+    "score" : "200"
+  }, {
+    "id" : "lord_quest_group_building_statue_1building_statue_1_5_1_4",
+    "group_id" : "lord_quest_group_building_statue_1",
+    "condition" : "building_statue_1_5_1_4",
+    "max_num" : "4",
+    "tier" : "left",
+    "priority" : "17",
+    "score" : "300"
+  }, {
+    "id" : "lord_quest_group_building_statue_1building_statue_1_5_1_5",
+    "group_id" : "lord_quest_group_building_statue_1",
+    "condition" : "building_statue_1_5_1_5",
+    "max_num" : "4",
+    "tier" : "left",
+    "priority" : "16",
+    "score" : "625"
+  }, {
+    "id" : "lord_quest_group_building_statue_1building_statue_1_5_2_1",
+    "group_id" : "lord_quest_group_building_statue_1",
+    "condition" : "building_statue_1_5_2_1",
+    "max_num" : "4",
+    "tier" : "left",
+    "priority" : "15",
+    "score" : "13"
+  }, {
+    "id" : "lord_quest_group_building_statue_1building_statue_1_5_2_2",
+    "group_id" : "lord_quest_group_building_statue_1",
+    "condition" : "building_statue_1_5_2_2",
+    "max_num" : "4",
+    "tier" : "left",
+    "priority" : "14",
+    "score" : "100"
+  }, {
+    "id" : "lord_quest_group_building_statue_1building_statue_1_5_2_3",
+    "group_id" : "lord_quest_group_building_statue_1",
+    "condition" : "building_statue_1_5_2_3",
+    "max_num" : "4",
+    "tier" : "left",
+    "priority" : "13",
+    "score" : "200"
+  }, {
+    "id" : "lord_quest_group_building_statue_1building_statue_1_5_2_4",
+    "group_id" : "lord_quest_group_building_statue_1",
+    "condition" : "building_statue_1_5_2_4",
+    "max_num" : "4",
+    "tier" : "left",
+    "priority" : "12",
+    "score" : "300"
+  }, {
+    "id" : "lord_quest_group_building_statue_1building_statue_1_5_2_5",
+    "group_id" : "lord_quest_group_building_statue_1",
+    "condition" : "building_statue_1_5_2_5",
+    "max_num" : "4",
+    "tier" : "left",
+    "priority" : "11",
+    "score" : "625"
+  }, {
+    "id" : "lord_quest_group_building_statue_1building_statue_1_5_3_1",
+    "group_id" : "lord_quest_group_building_statue_1",
+    "condition" : "building_statue_1_5_3_1",
+    "max_num" : "4",
+    "tier" : "left",
+    "priority" : "10",
+    "score" : "13"
+  }, {
+    "id" : "lord_quest_group_building_statue_1building_statue_1_5_3_2",
+    "group_id" : "lord_quest_group_building_statue_1",
+    "condition" : "building_statue_1_5_3_2",
+    "max_num" : "4",
+    "tier" : "left",
+    "priority" : "9",
+    "score" : "100"
+  }, {
+    "id" : "lord_quest_group_building_statue_1building_statue_1_5_3_3",
+    "group_id" : "lord_quest_group_building_statue_1",
+    "condition" : "building_statue_1_5_3_3",
+    "max_num" : "4",
+    "tier" : "left",
+    "priority" : "8",
+    "score" : "200"
+  }, {
+    "id" : "lord_quest_group_building_statue_1building_statue_1_5_3_4",
+    "group_id" : "lord_quest_group_building_statue_1",
+    "condition" : "building_statue_1_5_3_4",
+    "max_num" : "4",
+    "tier" : "left",
+    "priority" : "7",
+    "score" : "300"
+  }, {
+    "id" : "lord_quest_group_building_statue_1building_statue_1_5_3_5",
+    "group_id" : "lord_quest_group_building_statue_1",
+    "condition" : "building_statue_1_5_3_5",
+    "max_num" : "4",
+    "tier" : "left",
+    "priority" : "6",
+    "score" : "625"
+  }, {
+    "id" : "lord_quest_group_building_statue_1building_statue_1_5_4_1",
+    "group_id" : "lord_quest_group_building_statue_1",
+    "condition" : "building_statue_1_5_4_1",
+    "max_num" : "4",
+    "tier" : "left",
+    "priority" : "5",
+    "score" : "13"
+  }, {
+    "id" : "lord_quest_group_building_statue_1building_statue_1_5_4_2",
+    "group_id" : "lord_quest_group_building_statue_1",
+    "condition" : "building_statue_1_5_4_2",
+    "max_num" : "4",
+    "tier" : "left",
+    "priority" : "4",
+    "score" : "100"
+  }, {
+    "id" : "lord_quest_group_building_statue_1building_statue_1_5_4_3",
+    "group_id" : "lord_quest_group_building_statue_1",
+    "condition" : "building_statue_1_5_4_3",
+    "max_num" : "4",
+    "tier" : "left",
+    "priority" : "3",
+    "score" : "200"
+  }, {
+    "id" : "lord_quest_group_building_statue_1building_statue_1_5_4_4",
+    "group_id" : "lord_quest_group_building_statue_1",
+    "condition" : "building_statue_1_5_4_4",
+    "max_num" : "4",
+    "tier" : "left",
+    "priority" : "2",
+    "score" : "300"
+  }, {
+    "id" : "lord_quest_group_building_statue_1building_statue_1_5_4_5",
+    "group_id" : "lord_quest_group_building_statue_1",
+    "condition" : "building_statue_1_5_4_5",
+    "max_num" : "4",
+    "tier" : "left",
+    "priority" : "1",
+    "score" : "625"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_2_equip_gemstone_icr_attack_1_percent_4",
+    "group_id" : "lord_quest_group_equipment_gem_1_2",
+    "condition" : "equip_gemstone_icr_attack_1_percent_4",
+    "max_num" : "4",
+    "tier" : "right",
+    "priority" : "100",
+    "score" : "9"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_2_equip_gemstone_icr_defense_1_percent_4",
+    "group_id" : "lord_quest_group_equipment_gem_1_2",
+    "condition" : "equip_gemstone_icr_defense_1_percent_4",
+    "max_num" : "6",
+    "tier" : "right",
+    "priority" : "99",
+    "score" : "9"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_2_equip_gemstone_icr_health_1_percent_4",
+    "group_id" : "lord_quest_group_equipment_gem_1_2",
+    "condition" : "equip_gemstone_icr_health_1_percent_4",
+    "max_num" : "6",
+    "tier" : "right",
+    "priority" : "98",
+    "score" : "9"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_2_equip_gemstone_army_adefh_1_percent_4",
+    "group_id" : "lord_quest_group_equipment_gem_1_2",
+    "condition" : "equip_gemstone_army_adefh_1_percent_4",
+    "max_num" : "2",
+    "tier" : "right",
+    "priority" : "97",
+    "score" : "9"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_2_equip_gemstone_icr_attack_1_percent_5",
+    "group_id" : "lord_quest_group_equipment_gem_1_2",
+    "condition" : "equip_gemstone_icr_attack_1_percent_5",
+    "max_num" : "4",
+    "tier" : "right",
+    "priority" : "96",
+    "score" : "16"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_2_equip_gemstone_icr_defense_1_percent_5",
+    "group_id" : "lord_quest_group_equipment_gem_1_2",
+    "condition" : "equip_gemstone_icr_defense_1_percent_5",
+    "max_num" : "6",
+    "tier" : "right",
+    "priority" : "95",
+    "score" : "16"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_2_equip_gemstone_icr_health_1_percent_5",
+    "group_id" : "lord_quest_group_equipment_gem_1_2",
+    "condition" : "equip_gemstone_icr_health_1_percent_5",
+    "max_num" : "6",
+    "tier" : "right",
+    "priority" : "94",
+    "score" : "16"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_2_equip_gemstone_army_adefh_1_percent_5",
+    "group_id" : "lord_quest_group_equipment_gem_1_2",
+    "condition" : "equip_gemstone_army_adefh_1_percent_5",
+    "max_num" : "2",
+    "tier" : "right",
+    "priority" : "93",
+    "score" : "16"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_2_equip_gemstone_icr_attack_1_percent_6",
+    "group_id" : "lord_quest_group_equipment_gem_1_2",
+    "condition" : "equip_gemstone_icr_attack_1_percent_6",
+    "max_num" : "4",
+    "tier" : "right",
+    "priority" : "92",
+    "score" : "39"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_2_equip_gemstone_icr_defense_1_percent_6",
+    "group_id" : "lord_quest_group_equipment_gem_1_2",
+    "condition" : "equip_gemstone_icr_defense_1_percent_6",
+    "max_num" : "6",
+    "tier" : "right",
+    "priority" : "91",
+    "score" : "39"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_2_equip_gemstone_icr_health_1_percent_6",
+    "group_id" : "lord_quest_group_equipment_gem_1_2",
+    "condition" : "equip_gemstone_icr_health_1_percent_6",
+    "max_num" : "6",
+    "tier" : "right",
+    "priority" : "90",
+    "score" : "39"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_2_equip_gemstone_army_adefh_1_percent_6",
+    "group_id" : "lord_quest_group_equipment_gem_1_2",
+    "condition" : "equip_gemstone_army_adefh_1_percent_6",
+    "max_num" : "2",
+    "tier" : "right",
+    "priority" : "89",
+    "score" : "39"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_2_equip_gemstone_soul_1_icr_attack_percent_4",
+    "group_id" : "lord_quest_group_equipment_gem_1_2",
+    "condition" : "equip_gemstone_soul_1_icr_attack_percent_4",
+    "max_num" : "4",
+    "tier" : "left",
+    "priority" : "88",
+    "score" : "19"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_2_equip_gemstone_soul_1_icr_defense_percent_4",
+    "group_id" : "lord_quest_group_equipment_gem_1_2",
+    "condition" : "equip_gemstone_soul_1_icr_defense_percent_4",
+    "max_num" : "6",
+    "tier" : "left",
+    "priority" : "87",
+    "score" : "19"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_2_equip_gemstone_soul_1_icr_health_percent_4",
+    "group_id" : "lord_quest_group_equipment_gem_1_2",
+    "condition" : "equip_gemstone_soul_1_icr_health_percent_4",
+    "max_num" : "6",
+    "tier" : "left",
+    "priority" : "86",
+    "score" : "19"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_2_equip_gemstone_soul_1_army_adefh_percent_4",
+    "group_id" : "lord_quest_group_equipment_gem_1_2",
+    "condition" : "equip_gemstone_soul_1_army_adefh_percent_4",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "85",
+    "score" : "19"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_2_equip_gemstone_soul_1_icr_attack_percent_5",
+    "group_id" : "lord_quest_group_equipment_gem_1_2",
+    "condition" : "equip_gemstone_soul_1_icr_attack_percent_5",
+    "max_num" : "4",
+    "tier" : "left",
+    "priority" : "84",
+    "score" : "33"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_2_equip_gemstone_soul_1_icr_defense_percent_5",
+    "group_id" : "lord_quest_group_equipment_gem_1_2",
+    "condition" : "equip_gemstone_soul_1_icr_defense_percent_5",
+    "max_num" : "6",
+    "tier" : "left",
+    "priority" : "83",
+    "score" : "33"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_2_equip_gemstone_soul_1_icr_health_percent_5",
+    "group_id" : "lord_quest_group_equipment_gem_1_2",
+    "condition" : "equip_gemstone_soul_1_icr_health_percent_5",
+    "max_num" : "6",
+    "tier" : "left",
+    "priority" : "82",
+    "score" : "33"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_2_equip_gemstone_soul_1_army_adefh_percent_5",
+    "group_id" : "lord_quest_group_equipment_gem_1_2",
+    "condition" : "equip_gemstone_soul_1_army_adefh_percent_5",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "81",
+    "score" : "33"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_2_equip_gemstone_soul_1_icr_attack_percent_6",
+    "group_id" : "lord_quest_group_equipment_gem_1_2",
+    "condition" : "equip_gemstone_soul_1_icr_attack_percent_6",
+    "max_num" : "4",
+    "tier" : "left",
+    "priority" : "80",
+    "score" : "153"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_2_equip_gemstone_soul_1_icr_defense_percent_6",
+    "group_id" : "lord_quest_group_equipment_gem_1_2",
+    "condition" : "equip_gemstone_soul_1_icr_defense_percent_6",
+    "max_num" : "6",
+    "tier" : "left",
+    "priority" : "79",
+    "score" : "153"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_2_equip_gemstone_soul_1_icr_health_percent_6",
+    "group_id" : "lord_quest_group_equipment_gem_1_2",
+    "condition" : "equip_gemstone_soul_1_icr_health_percent_6",
+    "max_num" : "6",
+    "tier" : "left",
+    "priority" : "78",
+    "score" : "153"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_2_equip_gemstone_soul_1_army_adefh_percent_6",
+    "group_id" : "lord_quest_group_equipment_gem_1_2",
+    "condition" : "equip_gemstone_soul_1_army_adefh_percent_6",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "77",
+    "score" : "153"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_2_equip_gemstone_soul_2_icr_attack_percent_4",
+    "group_id" : "lord_quest_group_equipment_gem_1_2",
+    "condition" : "equip_gemstone_soul_2_icr_attack_percent_4",
+    "max_num" : "4",
+    "tier" : "left",
+    "priority" : "76",
+    "score" : "30"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_2_equip_gemstone_soul_2_icr_defense_percent_4",
+    "group_id" : "lord_quest_group_equipment_gem_1_2",
+    "condition" : "equip_gemstone_soul_2_icr_defense_percent_4",
+    "max_num" : "6",
+    "tier" : "left",
+    "priority" : "75",
+    "score" : "30"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_2_equip_gemstone_soul_2_icr_health_percent_4",
+    "group_id" : "lord_quest_group_equipment_gem_1_2",
+    "condition" : "equip_gemstone_soul_2_icr_health_percent_4",
+    "max_num" : "6",
+    "tier" : "left",
+    "priority" : "74",
+    "score" : "30"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_2_equip_gemstone_soul_2_army_adefh_percent_4",
+    "group_id" : "lord_quest_group_equipment_gem_1_2",
+    "condition" : "equip_gemstone_soul_2_army_adefh_percent_4",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "73",
+    "score" : "30"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_2_equip_gemstone_soul_2_icr_attack_percent_5",
+    "group_id" : "lord_quest_group_equipment_gem_1_2",
+    "condition" : "equip_gemstone_soul_2_icr_attack_percent_5",
+    "max_num" : "4",
+    "tier" : "left",
+    "priority" : "72",
+    "score" : "70"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_2_equip_gemstone_soul_2_icr_defense_percent_5",
+    "group_id" : "lord_quest_group_equipment_gem_1_2",
+    "condition" : "equip_gemstone_soul_2_icr_defense_percent_5",
+    "max_num" : "6",
+    "tier" : "left",
+    "priority" : "71",
+    "score" : "70"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_2_equip_gemstone_soul_2_icr_health_percent_5",
+    "group_id" : "lord_quest_group_equipment_gem_1_2",
+    "condition" : "equip_gemstone_soul_2_icr_health_percent_5",
+    "max_num" : "6",
+    "tier" : "left",
+    "priority" : "70",
+    "score" : "70"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_2_equip_gemstone_soul_2_army_adefh_percent_5",
+    "group_id" : "lord_quest_group_equipment_gem_1_2",
+    "condition" : "equip_gemstone_soul_2_army_adefh_percent_5",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "69",
+    "score" : "70"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_2_equip_gemstone_soul_2_icr_attack_percent_6",
+    "group_id" : "lord_quest_group_equipment_gem_1_2",
+    "condition" : "equip_gemstone_soul_2_icr_attack_percent_6",
+    "max_num" : "4",
+    "tier" : "left",
+    "priority" : "68",
+    "score" : "278"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_2_equip_gemstone_soul_2_icr_defense_percent_6",
+    "group_id" : "lord_quest_group_equipment_gem_1_2",
+    "condition" : "equip_gemstone_soul_2_icr_defense_percent_6",
+    "max_num" : "6",
+    "tier" : "left",
+    "priority" : "67",
+    "score" : "278"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_2_equip_gemstone_soul_2_icr_health_percent_6",
+    "group_id" : "lord_quest_group_equipment_gem_1_2",
+    "condition" : "equip_gemstone_soul_2_icr_health_percent_6",
+    "max_num" : "6",
+    "tier" : "left",
+    "priority" : "66",
+    "score" : "278"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_2_equip_gemstone_soul_2_army_adefh_percent_6",
+    "group_id" : "lord_quest_group_equipment_gem_1_2",
+    "condition" : "equip_gemstone_soul_2_army_adefh_percent_6",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "65",
+    "score" : "278"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_2_equip_gemstone_soul_3_icr_attack_percent_4",
+    "group_id" : "lord_quest_group_equipment_gem_1_2",
+    "condition" : "equip_gemstone_soul_3_icr_attack_percent_4",
+    "max_num" : "4",
+    "tier" : "left",
+    "priority" : "64",
+    "score" : "63"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_2_equip_gemstone_soul_3_icr_defense_percent_4",
+    "group_id" : "lord_quest_group_equipment_gem_1_2",
+    "condition" : "equip_gemstone_soul_3_icr_defense_percent_4",
+    "max_num" : "6",
+    "tier" : "left",
+    "priority" : "63",
+    "score" : "63"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_2_equip_gemstone_soul_3_icr_health_percent_4",
+    "group_id" : "lord_quest_group_equipment_gem_1_2",
+    "condition" : "equip_gemstone_soul_3_icr_health_percent_4",
+    "max_num" : "6",
+    "tier" : "left",
+    "priority" : "62",
+    "score" : "63"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_2_equip_gemstone_soul_3_army_adefh_percent_4",
+    "group_id" : "lord_quest_group_equipment_gem_1_2",
+    "condition" : "equip_gemstone_soul_3_army_adefh_percent_4",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "61",
+    "score" : "63"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_2_equip_gemstone_soul_3_icr_attack_percent_5",
+    "group_id" : "lord_quest_group_equipment_gem_1_2",
+    "condition" : "equip_gemstone_soul_3_icr_attack_percent_5",
+    "max_num" : "4",
+    "tier" : "left",
+    "priority" : "60",
+    "score" : "138"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_2_equip_gemstone_soul_3_icr_defense_percent_5",
+    "group_id" : "lord_quest_group_equipment_gem_1_2",
+    "condition" : "equip_gemstone_soul_3_icr_defense_percent_5",
+    "max_num" : "6",
+    "tier" : "left",
+    "priority" : "59",
+    "score" : "138"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_2_equip_gemstone_soul_3_icr_health_percent_5",
+    "group_id" : "lord_quest_group_equipment_gem_1_2",
+    "condition" : "equip_gemstone_soul_3_icr_health_percent_5",
+    "max_num" : "6",
+    "tier" : "left",
+    "priority" : "58",
+    "score" : "138"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_2_equip_gemstone_soul_3_army_adefh_percent_5",
+    "group_id" : "lord_quest_group_equipment_gem_1_2",
+    "condition" : "equip_gemstone_soul_3_army_adefh_percent_5",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "57",
+    "score" : "138"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_2_equip_gemstone_soul_3_icr_attack_percent_6",
+    "group_id" : "lord_quest_group_equipment_gem_1_2",
+    "condition" : "equip_gemstone_soul_3_icr_attack_percent_6",
+    "max_num" : "4",
+    "tier" : "left",
+    "priority" : "56",
+    "score" : "556"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_2_equip_gemstone_soul_3_icr_defense_percent_6",
+    "group_id" : "lord_quest_group_equipment_gem_1_2",
+    "condition" : "equip_gemstone_soul_3_icr_defense_percent_6",
+    "max_num" : "6",
+    "tier" : "left",
+    "priority" : "55",
+    "score" : "556"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_2_equip_gemstone_soul_3_icr_health_percent_6",
+    "group_id" : "lord_quest_group_equipment_gem_1_2",
+    "condition" : "equip_gemstone_soul_3_icr_health_percent_6",
+    "max_num" : "6",
+    "tier" : "left",
+    "priority" : "54",
+    "score" : "556"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_2_equip_gemstone_soul_3_army_adefh_percent_6",
+    "group_id" : "lord_quest_group_equipment_gem_1_2",
+    "condition" : "equip_gemstone_soul_3_army_adefh_percent_6",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "53",
+    "score" : "556"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_2_dragon_emblem_2_3_1_0",
+    "group_id" : "lord_quest_group_dragon_emblem_2",
+    "condition" : "dragon_emblem_2_3_1_0",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "100",
+    "score" : "100"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_2_dragon_emblem_2_4_1_1",
+    "group_id" : "lord_quest_group_dragon_emblem_2",
+    "condition" : "dragon_emblem_2_4_1_1",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "99",
+    "score" : "350"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_2_dragon_emblem_2_5_1_2",
+    "group_id" : "lord_quest_group_dragon_emblem_2",
+    "condition" : "dragon_emblem_2_5_1_2",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "98",
+    "score" : "1150"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_2_dragon_emblem_2_6_1_3",
+    "group_id" : "lord_quest_group_dragon_emblem_2",
+    "condition" : "dragon_emblem_2_6_1_3",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "97",
+    "score" : "2900"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_2_dragon_emblem_2_6_1_4",
+    "group_id" : "lord_quest_group_dragon_emblem_2",
+    "condition" : "dragon_emblem_2_6_1_4",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "96",
+    "score" : "6200"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_2_dragon_emblem_2_6_1_5",
+    "group_id" : "lord_quest_group_dragon_emblem_2",
+    "condition" : "dragon_emblem_2_6_1_5",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "95",
+    "score" : "15850"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_2_dragon_emblem_2_3_2_0",
+    "group_id" : "lord_quest_group_dragon_emblem_2",
+    "condition" : "dragon_emblem_2_3_2_0",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "94",
+    "score" : "100"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_2_dragon_emblem_2_4_2_1",
+    "group_id" : "lord_quest_group_dragon_emblem_2",
+    "condition" : "dragon_emblem_2_4_2_1",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "93",
+    "score" : "350"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_2_dragon_emblem_2_5_2_2",
+    "group_id" : "lord_quest_group_dragon_emblem_2",
+    "condition" : "dragon_emblem_2_5_2_2",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "92",
+    "score" : "1150"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_2_dragon_emblem_2_6_2_3",
+    "group_id" : "lord_quest_group_dragon_emblem_2",
+    "condition" : "dragon_emblem_2_6_2_3",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "91",
+    "score" : "2900"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_2_dragon_emblem_2_6_2_4",
+    "group_id" : "lord_quest_group_dragon_emblem_2",
+    "condition" : "dragon_emblem_2_6_2_4",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "90",
+    "score" : "6200"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_2_dragon_emblem_2_6_2_5",
+    "group_id" : "lord_quest_group_dragon_emblem_2",
+    "condition" : "dragon_emblem_2_6_2_5",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "89",
+    "score" : "15850"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_2_dragon_emblem_2_3_3_0",
+    "group_id" : "lord_quest_group_dragon_emblem_2",
+    "condition" : "dragon_emblem_2_3_3_0",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "88",
+    "score" : "100"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_2_dragon_emblem_2_4_3_1",
+    "group_id" : "lord_quest_group_dragon_emblem_2",
+    "condition" : "dragon_emblem_2_4_3_1",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "87",
+    "score" : "350"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_2_dragon_emblem_2_5_3_2",
+    "group_id" : "lord_quest_group_dragon_emblem_2",
+    "condition" : "dragon_emblem_2_5_3_2",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "86",
+    "score" : "1150"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_2_dragon_emblem_2_6_3_3",
+    "group_id" : "lord_quest_group_dragon_emblem_2",
+    "condition" : "dragon_emblem_2_6_3_3",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "85",
+    "score" : "2900"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_2_dragon_emblem_2_6_3_4",
+    "group_id" : "lord_quest_group_dragon_emblem_2",
+    "condition" : "dragon_emblem_2_6_3_4",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "84",
+    "score" : "6200"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_2_dragon_emblem_2_6_3_5",
+    "group_id" : "lord_quest_group_dragon_emblem_2",
+    "condition" : "dragon_emblem_2_6_3_5",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "83",
+    "score" : "15850"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_2_dragon_emblem_2_3_4_0",
+    "group_id" : "lord_quest_group_dragon_emblem_2",
+    "condition" : "dragon_emblem_2_3_4_0",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "82",
+    "score" : "100"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_2_dragon_emblem_2_4_4_1",
+    "group_id" : "lord_quest_group_dragon_emblem_2",
+    "condition" : "dragon_emblem_2_4_4_1",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "81",
+    "score" : "350"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_2_dragon_emblem_2_5_4_2",
+    "group_id" : "lord_quest_group_dragon_emblem_2",
+    "condition" : "dragon_emblem_2_5_4_2",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "80",
+    "score" : "1150"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_2_dragon_emblem_2_6_4_3",
+    "group_id" : "lord_quest_group_dragon_emblem_2",
+    "condition" : "dragon_emblem_2_6_4_3",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "79",
+    "score" : "2900"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_2_dragon_emblem_2_6_4_4",
+    "group_id" : "lord_quest_group_dragon_emblem_2",
+    "condition" : "dragon_emblem_2_6_4_4",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "78",
+    "score" : "6200"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_2_dragon_emblem_2_6_4_5",
+    "group_id" : "lord_quest_group_dragon_emblem_2",
+    "condition" : "dragon_emblem_2_6_4_5",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "77",
+    "score" : "15850"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_3_equip_gemstone_icr_attack_1_percent_4",
+    "group_id" : "lord_quest_group_equipment_gem_1_3",
+    "condition" : "equip_gemstone_icr_attack_1_percent_4",
+    "max_num" : "4",
+    "tier" : "right",
+    "priority" : "100",
+    "score" : "9"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_3_equip_gemstone_icr_defense_1_percent_4",
+    "group_id" : "lord_quest_group_equipment_gem_1_3",
+    "condition" : "equip_gemstone_icr_defense_1_percent_4",
+    "max_num" : "6",
+    "tier" : "right",
+    "priority" : "99",
+    "score" : "9"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_3_equip_gemstone_icr_health_1_percent_4",
+    "group_id" : "lord_quest_group_equipment_gem_1_3",
+    "condition" : "equip_gemstone_icr_health_1_percent_4",
+    "max_num" : "6",
+    "tier" : "right",
+    "priority" : "98",
+    "score" : "9"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_3_equip_gemstone_army_adefh_1_percent_4",
+    "group_id" : "lord_quest_group_equipment_gem_1_3",
+    "condition" : "equip_gemstone_army_adefh_1_percent_4",
+    "max_num" : "2",
+    "tier" : "right",
+    "priority" : "97",
+    "score" : "9"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_3_equip_gemstone_icr_attack_1_percent_5",
+    "group_id" : "lord_quest_group_equipment_gem_1_3",
+    "condition" : "equip_gemstone_icr_attack_1_percent_5",
+    "max_num" : "4",
+    "tier" : "right",
+    "priority" : "96",
+    "score" : "16"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_3_equip_gemstone_icr_defense_1_percent_5",
+    "group_id" : "lord_quest_group_equipment_gem_1_3",
+    "condition" : "equip_gemstone_icr_defense_1_percent_5",
+    "max_num" : "6",
+    "tier" : "right",
+    "priority" : "95",
+    "score" : "16"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_3_equip_gemstone_icr_health_1_percent_5",
+    "group_id" : "lord_quest_group_equipment_gem_1_3",
+    "condition" : "equip_gemstone_icr_health_1_percent_5",
+    "max_num" : "6",
+    "tier" : "right",
+    "priority" : "94",
+    "score" : "16"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_3_equip_gemstone_army_adefh_1_percent_5",
+    "group_id" : "lord_quest_group_equipment_gem_1_3",
+    "condition" : "equip_gemstone_army_adefh_1_percent_5",
+    "max_num" : "2",
+    "tier" : "right",
+    "priority" : "93",
+    "score" : "16"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_3_equip_gemstone_icr_attack_1_percent_6",
+    "group_id" : "lord_quest_group_equipment_gem_1_3",
+    "condition" : "equip_gemstone_icr_attack_1_percent_6",
+    "max_num" : "4",
+    "tier" : "right",
+    "priority" : "92",
+    "score" : "39"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_3_equip_gemstone_icr_defense_1_percent_6",
+    "group_id" : "lord_quest_group_equipment_gem_1_3",
+    "condition" : "equip_gemstone_icr_defense_1_percent_6",
+    "max_num" : "6",
+    "tier" : "right",
+    "priority" : "91",
+    "score" : "39"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_3_equip_gemstone_icr_health_1_percent_6",
+    "group_id" : "lord_quest_group_equipment_gem_1_3",
+    "condition" : "equip_gemstone_icr_health_1_percent_6",
+    "max_num" : "6",
+    "tier" : "right",
+    "priority" : "90",
+    "score" : "39"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_3_equip_gemstone_army_adefh_1_percent_6",
+    "group_id" : "lord_quest_group_equipment_gem_1_3",
+    "condition" : "equip_gemstone_army_adefh_1_percent_6",
+    "max_num" : "2",
+    "tier" : "right",
+    "priority" : "89",
+    "score" : "39"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_3_equip_gemstone_soul_1_icr_attack_percent_4",
+    "group_id" : "lord_quest_group_equipment_gem_1_3",
+    "condition" : "equip_gemstone_soul_1_icr_attack_percent_4",
+    "max_num" : "4",
+    "tier" : "left",
+    "priority" : "88",
+    "score" : "19"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_3_equip_gemstone_soul_1_icr_defense_percent_4",
+    "group_id" : "lord_quest_group_equipment_gem_1_3",
+    "condition" : "equip_gemstone_soul_1_icr_defense_percent_4",
+    "max_num" : "6",
+    "tier" : "left",
+    "priority" : "87",
+    "score" : "19"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_3_equip_gemstone_soul_1_icr_health_percent_4",
+    "group_id" : "lord_quest_group_equipment_gem_1_3",
+    "condition" : "equip_gemstone_soul_1_icr_health_percent_4",
+    "max_num" : "6",
+    "tier" : "left",
+    "priority" : "86",
+    "score" : "19"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_3_equip_gemstone_soul_1_army_adefh_percent_4",
+    "group_id" : "lord_quest_group_equipment_gem_1_3",
+    "condition" : "equip_gemstone_soul_1_army_adefh_percent_4",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "85",
+    "score" : "19"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_3_equip_gemstone_soul_1_icr_attack_percent_5",
+    "group_id" : "lord_quest_group_equipment_gem_1_3",
+    "condition" : "equip_gemstone_soul_1_icr_attack_percent_5",
+    "max_num" : "4",
+    "tier" : "left",
+    "priority" : "84",
+    "score" : "33"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_3_equip_gemstone_soul_1_icr_defense_percent_5",
+    "group_id" : "lord_quest_group_equipment_gem_1_3",
+    "condition" : "equip_gemstone_soul_1_icr_defense_percent_5",
+    "max_num" : "6",
+    "tier" : "left",
+    "priority" : "83",
+    "score" : "33"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_3_equip_gemstone_soul_1_icr_health_percent_5",
+    "group_id" : "lord_quest_group_equipment_gem_1_3",
+    "condition" : "equip_gemstone_soul_1_icr_health_percent_5",
+    "max_num" : "6",
+    "tier" : "left",
+    "priority" : "82",
+    "score" : "33"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_3_equip_gemstone_soul_1_army_adefh_percent_5",
+    "group_id" : "lord_quest_group_equipment_gem_1_3",
+    "condition" : "equip_gemstone_soul_1_army_adefh_percent_5",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "81",
+    "score" : "33"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_3_equip_gemstone_soul_1_icr_attack_percent_6",
+    "group_id" : "lord_quest_group_equipment_gem_1_3",
+    "condition" : "equip_gemstone_soul_1_icr_attack_percent_6",
+    "max_num" : "4",
+    "tier" : "left",
+    "priority" : "80",
+    "score" : "153"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_3_equip_gemstone_soul_1_icr_defense_percent_6",
+    "group_id" : "lord_quest_group_equipment_gem_1_3",
+    "condition" : "equip_gemstone_soul_1_icr_defense_percent_6",
+    "max_num" : "6",
+    "tier" : "left",
+    "priority" : "79",
+    "score" : "153"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_3_equip_gemstone_soul_1_icr_health_percent_6",
+    "group_id" : "lord_quest_group_equipment_gem_1_3",
+    "condition" : "equip_gemstone_soul_1_icr_health_percent_6",
+    "max_num" : "6",
+    "tier" : "left",
+    "priority" : "78",
+    "score" : "153"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_3_equip_gemstone_soul_1_army_adefh_percent_6",
+    "group_id" : "lord_quest_group_equipment_gem_1_3",
+    "condition" : "equip_gemstone_soul_1_army_adefh_percent_6",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "77",
+    "score" : "153"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_3_equip_gemstone_soul_2_icr_attack_percent_4",
+    "group_id" : "lord_quest_group_equipment_gem_1_3",
+    "condition" : "equip_gemstone_soul_2_icr_attack_percent_4",
+    "max_num" : "4",
+    "tier" : "left",
+    "priority" : "76",
+    "score" : "30"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_3_equip_gemstone_soul_2_icr_defense_percent_4",
+    "group_id" : "lord_quest_group_equipment_gem_1_3",
+    "condition" : "equip_gemstone_soul_2_icr_defense_percent_4",
+    "max_num" : "6",
+    "tier" : "left",
+    "priority" : "75",
+    "score" : "30"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_3_equip_gemstone_soul_2_icr_health_percent_4",
+    "group_id" : "lord_quest_group_equipment_gem_1_3",
+    "condition" : "equip_gemstone_soul_2_icr_health_percent_4",
+    "max_num" : "6",
+    "tier" : "left",
+    "priority" : "74",
+    "score" : "30"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_3_equip_gemstone_soul_2_army_adefh_percent_4",
+    "group_id" : "lord_quest_group_equipment_gem_1_3",
+    "condition" : "equip_gemstone_soul_2_army_adefh_percent_4",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "73",
+    "score" : "30"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_3_equip_gemstone_soul_2_icr_attack_percent_5",
+    "group_id" : "lord_quest_group_equipment_gem_1_3",
+    "condition" : "equip_gemstone_soul_2_icr_attack_percent_5",
+    "max_num" : "4",
+    "tier" : "left",
+    "priority" : "72",
+    "score" : "70"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_3_equip_gemstone_soul_2_icr_defense_percent_5",
+    "group_id" : "lord_quest_group_equipment_gem_1_3",
+    "condition" : "equip_gemstone_soul_2_icr_defense_percent_5",
+    "max_num" : "6",
+    "tier" : "left",
+    "priority" : "71",
+    "score" : "70"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_3_equip_gemstone_soul_2_icr_health_percent_5",
+    "group_id" : "lord_quest_group_equipment_gem_1_3",
+    "condition" : "equip_gemstone_soul_2_icr_health_percent_5",
+    "max_num" : "6",
+    "tier" : "left",
+    "priority" : "70",
+    "score" : "70"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_3_equip_gemstone_soul_2_army_adefh_percent_5",
+    "group_id" : "lord_quest_group_equipment_gem_1_3",
+    "condition" : "equip_gemstone_soul_2_army_adefh_percent_5",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "69",
+    "score" : "70"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_3_equip_gemstone_soul_2_icr_attack_percent_6",
+    "group_id" : "lord_quest_group_equipment_gem_1_3",
+    "condition" : "equip_gemstone_soul_2_icr_attack_percent_6",
+    "max_num" : "4",
+    "tier" : "left",
+    "priority" : "68",
+    "score" : "278"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_3_equip_gemstone_soul_2_icr_defense_percent_6",
+    "group_id" : "lord_quest_group_equipment_gem_1_3",
+    "condition" : "equip_gemstone_soul_2_icr_defense_percent_6",
+    "max_num" : "6",
+    "tier" : "left",
+    "priority" : "67",
+    "score" : "278"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_3_equip_gemstone_soul_2_icr_health_percent_6",
+    "group_id" : "lord_quest_group_equipment_gem_1_3",
+    "condition" : "equip_gemstone_soul_2_icr_health_percent_6",
+    "max_num" : "6",
+    "tier" : "left",
+    "priority" : "66",
+    "score" : "278"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_3_equip_gemstone_soul_2_army_adefh_percent_6",
+    "group_id" : "lord_quest_group_equipment_gem_1_3",
+    "condition" : "equip_gemstone_soul_2_army_adefh_percent_6",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "65",
+    "score" : "278"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_3_equip_gemstone_soul_3_icr_attack_percent_4",
+    "group_id" : "lord_quest_group_equipment_gem_1_3",
+    "condition" : "equip_gemstone_soul_3_icr_attack_percent_4",
+    "max_num" : "4",
+    "tier" : "left",
+    "priority" : "64",
+    "score" : "63"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_3_equip_gemstone_soul_3_icr_defense_percent_4",
+    "group_id" : "lord_quest_group_equipment_gem_1_3",
+    "condition" : "equip_gemstone_soul_3_icr_defense_percent_4",
+    "max_num" : "6",
+    "tier" : "left",
+    "priority" : "63",
+    "score" : "63"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_3_equip_gemstone_soul_3_icr_health_percent_4",
+    "group_id" : "lord_quest_group_equipment_gem_1_3",
+    "condition" : "equip_gemstone_soul_3_icr_health_percent_4",
+    "max_num" : "6",
+    "tier" : "left",
+    "priority" : "62",
+    "score" : "63"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_3_equip_gemstone_soul_3_army_adefh_percent_4",
+    "group_id" : "lord_quest_group_equipment_gem_1_3",
+    "condition" : "equip_gemstone_soul_3_army_adefh_percent_4",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "61",
+    "score" : "63"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_3_equip_gemstone_soul_3_icr_attack_percent_5",
+    "group_id" : "lord_quest_group_equipment_gem_1_3",
+    "condition" : "equip_gemstone_soul_3_icr_attack_percent_5",
+    "max_num" : "4",
+    "tier" : "left",
+    "priority" : "60",
+    "score" : "138"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_3_equip_gemstone_soul_3_icr_defense_percent_5",
+    "group_id" : "lord_quest_group_equipment_gem_1_3",
+    "condition" : "equip_gemstone_soul_3_icr_defense_percent_5",
+    "max_num" : "6",
+    "tier" : "left",
+    "priority" : "59",
+    "score" : "138"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_3_equip_gemstone_soul_3_icr_health_percent_5",
+    "group_id" : "lord_quest_group_equipment_gem_1_3",
+    "condition" : "equip_gemstone_soul_3_icr_health_percent_5",
+    "max_num" : "6",
+    "tier" : "left",
+    "priority" : "58",
+    "score" : "138"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_3_equip_gemstone_soul_3_army_adefh_percent_5",
+    "group_id" : "lord_quest_group_equipment_gem_1_3",
+    "condition" : "equip_gemstone_soul_3_army_adefh_percent_5",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "57",
+    "score" : "138"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_3_equip_gemstone_soul_3_icr_attack_percent_6",
+    "group_id" : "lord_quest_group_equipment_gem_1_3",
+    "condition" : "equip_gemstone_soul_3_icr_attack_percent_6",
+    "max_num" : "4",
+    "tier" : "left",
+    "priority" : "56",
+    "score" : "556"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_3_equip_gemstone_soul_3_icr_defense_percent_6",
+    "group_id" : "lord_quest_group_equipment_gem_1_3",
+    "condition" : "equip_gemstone_soul_3_icr_defense_percent_6",
+    "max_num" : "6",
+    "tier" : "left",
+    "priority" : "55",
+    "score" : "556"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_3_equip_gemstone_soul_3_icr_health_percent_6",
+    "group_id" : "lord_quest_group_equipment_gem_1_3",
+    "condition" : "equip_gemstone_soul_3_icr_health_percent_6",
+    "max_num" : "6",
+    "tier" : "left",
+    "priority" : "54",
+    "score" : "556"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_3_equip_gemstone_soul_3_army_adefh_percent_6",
+    "group_id" : "lord_quest_group_equipment_gem_1_3",
+    "condition" : "equip_gemstone_soul_3_army_adefh_percent_6",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "53",
+    "score" : "556"
+  }, {
+    "id" : "lord_quest_group_equipment_2_equipment_10_3_1_0_0",
+    "group_id" : "lord_quest_group_equipment_2",
+    "condition" : "equipment_10_3_1_0",
+    "para_1" : "0",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "120",
+    "score" : "100"
+  }, {
+    "id" : "lord_quest_group_equipment_2_equipment_10_3_2_0_0",
+    "group_id" : "lord_quest_group_equipment_2",
+    "condition" : "equipment_10_3_2_0",
+    "para_1" : "0",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "119",
+    "score" : "100"
+  }, {
+    "id" : "lord_quest_group_equipment_2_equipment_10_3_3_0_0",
+    "group_id" : "lord_quest_group_equipment_2",
+    "condition" : "equipment_10_3_3_0",
+    "para_1" : "0",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "118",
+    "score" : "100"
+  }, {
+    "id" : "lord_quest_group_equipment_2_equipment_10_3_4_0_0",
+    "group_id" : "lord_quest_group_equipment_2",
+    "condition" : "equipment_10_3_4_0",
+    "para_1" : "0",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "117",
+    "score" : "100"
+  }, {
+    "id" : "lord_quest_group_equipment_2_equipment_10_3_5_0_0",
+    "group_id" : "lord_quest_group_equipment_2",
+    "condition" : "equipment_10_3_5_0",
+    "para_1" : "0",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "116",
+    "score" : "100"
+  }, {
+    "id" : "lord_quest_group_equipment_2_equipment_10_3_6_0_0",
+    "group_id" : "lord_quest_group_equipment_2",
+    "condition" : "equipment_10_3_6_0",
+    "para_1" : "0",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "115",
+    "score" : "100"
+  }, {
+    "id" : "lord_quest_group_equipment_2_equipment_10_3_1_0_1",
+    "group_id" : "lord_quest_group_equipment_2",
+    "condition" : "equipment_10_3_1_0",
+    "para_1" : "1",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "114",
+    "score" : "350"
+  }, {
+    "id" : "lord_quest_group_equipment_2_equipment_10_3_2_0_1",
+    "group_id" : "lord_quest_group_equipment_2",
+    "condition" : "equipment_10_3_2_0",
+    "para_1" : "1",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "113",
+    "score" : "350"
+  }, {
+    "id" : "lord_quest_group_equipment_2_equipment_10_3_3_0_1",
+    "group_id" : "lord_quest_group_equipment_2",
+    "condition" : "equipment_10_3_3_0",
+    "para_1" : "1",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "112",
+    "score" : "350"
+  }, {
+    "id" : "lord_quest_group_equipment_2_equipment_10_3_4_0_1",
+    "group_id" : "lord_quest_group_equipment_2",
+    "condition" : "equipment_10_3_4_0",
+    "para_1" : "1",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "111",
+    "score" : "350"
+  }, {
+    "id" : "lord_quest_group_equipment_2_equipment_10_3_5_0_1",
+    "group_id" : "lord_quest_group_equipment_2",
+    "condition" : "equipment_10_3_5_0",
+    "para_1" : "1",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "110",
+    "score" : "350"
+  }, {
+    "id" : "lord_quest_group_equipment_2_equipment_10_3_6_0_1",
+    "group_id" : "lord_quest_group_equipment_2",
+    "condition" : "equipment_10_3_6_0",
+    "para_1" : "1",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "109",
+    "score" : "350"
+  }, {
+    "id" : "lord_quest_group_equipment_2_equipment_10_3_1_0_2",
+    "group_id" : "lord_quest_group_equipment_2",
+    "condition" : "equipment_10_3_1_0",
+    "para_1" : "2",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "108",
+    "score" : "1150"
+  }, {
+    "id" : "lord_quest_group_equipment_2_equipment_10_3_2_0_2",
+    "group_id" : "lord_quest_group_equipment_2",
+    "condition" : "equipment_10_3_2_0",
+    "para_1" : "2",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "107",
+    "score" : "1150"
+  }, {
+    "id" : "lord_quest_group_equipment_2_equipment_10_3_3_0_2",
+    "group_id" : "lord_quest_group_equipment_2",
+    "condition" : "equipment_10_3_3_0",
+    "para_1" : "2",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "106",
+    "score" : "1150"
+  }, {
+    "id" : "lord_quest_group_equipment_2_equipment_10_3_4_0_2",
+    "group_id" : "lord_quest_group_equipment_2",
+    "condition" : "equipment_10_3_4_0",
+    "para_1" : "2",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "105",
+    "score" : "1150"
+  }, {
+    "id" : "lord_quest_group_equipment_2_equipment_10_3_5_0_2",
+    "group_id" : "lord_quest_group_equipment_2",
+    "condition" : "equipment_10_3_5_0",
+    "para_1" : "2",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "104",
+    "score" : "1150"
+  }, {
+    "id" : "lord_quest_group_equipment_2_equipment_10_3_6_0_2",
+    "group_id" : "lord_quest_group_equipment_2",
+    "condition" : "equipment_10_3_6_0",
+    "para_1" : "2",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "103",
+    "score" : "1150"
+  }, {
+    "id" : "lord_quest_group_equipment_2_equipment_10_3_1_0_3",
+    "group_id" : "lord_quest_group_equipment_2",
+    "condition" : "equipment_10_3_1_0",
+    "para_1" : "3",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "102",
+    "score" : "2900"
+  }, {
+    "id" : "lord_quest_group_equipment_2_equipment_10_3_2_0_3",
+    "group_id" : "lord_quest_group_equipment_2",
+    "condition" : "equipment_10_3_2_0",
+    "para_1" : "3",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "101",
+    "score" : "2900"
+  }, {
+    "id" : "lord_quest_group_equipment_2_equipment_10_3_3_0_3",
+    "group_id" : "lord_quest_group_equipment_2",
+    "condition" : "equipment_10_3_3_0",
+    "para_1" : "3",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "100",
+    "score" : "2900"
+  }, {
+    "id" : "lord_quest_group_equipment_2_equipment_10_3_4_0_3",
+    "group_id" : "lord_quest_group_equipment_2",
+    "condition" : "equipment_10_3_4_0",
+    "para_1" : "3",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "99",
+    "score" : "2900"
+  }, {
+    "id" : "lord_quest_group_equipment_2_equipment_10_3_5_0_3",
+    "group_id" : "lord_quest_group_equipment_2",
+    "condition" : "equipment_10_3_5_0",
+    "para_1" : "3",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "98",
+    "score" : "2900"
+  }, {
+    "id" : "lord_quest_group_equipment_2_equipment_10_3_6_0_3",
+    "group_id" : "lord_quest_group_equipment_2",
+    "condition" : "equipment_10_3_6_0",
+    "para_1" : "3",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "97",
+    "score" : "2900"
+  }, {
+    "id" : "lord_quest_group_equipment_2_equipment_10_3_1_0_4",
+    "group_id" : "lord_quest_group_equipment_2",
+    "condition" : "equipment_10_3_1_0",
+    "para_1" : "4",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "96",
+    "score" : "6200"
+  }, {
+    "id" : "lord_quest_group_equipment_2_equipment_10_3_2_0_4",
+    "group_id" : "lord_quest_group_equipment_2",
+    "condition" : "equipment_10_3_2_0",
+    "para_1" : "4",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "95",
+    "score" : "6200"
+  }, {
+    "id" : "lord_quest_group_equipment_2_equipment_10_3_3_0_4",
+    "group_id" : "lord_quest_group_equipment_2",
+    "condition" : "equipment_10_3_3_0",
+    "para_1" : "4",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "94",
+    "score" : "6200"
+  }, {
+    "id" : "lord_quest_group_equipment_2_equipment_10_3_4_0_4",
+    "group_id" : "lord_quest_group_equipment_2",
+    "condition" : "equipment_10_3_4_0",
+    "para_1" : "4",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "93",
+    "score" : "6200"
+  }, {
+    "id" : "lord_quest_group_equipment_2_equipment_10_3_5_0_4",
+    "group_id" : "lord_quest_group_equipment_2",
+    "condition" : "equipment_10_3_5_0",
+    "para_1" : "4",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "92",
+    "score" : "6200"
+  }, {
+    "id" : "lord_quest_group_equipment_2_equipment_10_3_6_0_4",
+    "group_id" : "lord_quest_group_equipment_2",
+    "condition" : "equipment_10_3_6_0",
+    "para_1" : "4",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "91",
+    "score" : "6200"
+  }, {
+    "id" : "lord_quest_group_equipment_2_equipment_10_3_1_0_5",
+    "group_id" : "lord_quest_group_equipment_2",
+    "condition" : "equipment_10_3_1_0",
+    "para_1" : "5",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "90",
+    "score" : "15850"
+  }, {
+    "id" : "lord_quest_group_equipment_2_equipment_10_3_2_0_5",
+    "group_id" : "lord_quest_group_equipment_2",
+    "condition" : "equipment_10_3_2_0",
+    "para_1" : "5",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "89",
+    "score" : "15850"
+  }, {
+    "id" : "lord_quest_group_equipment_2_equipment_10_3_3_0_5",
+    "group_id" : "lord_quest_group_equipment_2",
+    "condition" : "equipment_10_3_3_0",
+    "para_1" : "5",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "88",
+    "score" : "15850"
+  }, {
+    "id" : "lord_quest_group_equipment_2_equipment_10_3_4_0_5",
+    "group_id" : "lord_quest_group_equipment_2",
+    "condition" : "equipment_10_3_4_0",
+    "para_1" : "5",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "87",
+    "score" : "15850"
+  }, {
+    "id" : "lord_quest_group_equipment_2_equipment_10_3_5_0_5",
+    "group_id" : "lord_quest_group_equipment_2",
+    "condition" : "equipment_10_3_5_0",
+    "para_1" : "5",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "86",
+    "score" : "15850"
+  }, {
+    "id" : "lord_quest_group_equipment_2_equipment_10_3_6_0_5",
+    "group_id" : "lord_quest_group_equipment_2",
+    "condition" : "equipment_10_3_6_0",
+    "para_1" : "5",
+    "max_num" : "1",
+    "tier" : "right",
+    "priority" : "85",
+    "score" : "15850"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_4_equip_gemstone_4_3_1_0",
+    "group_id" : "lord_quest_group_equipment_gem_1_4",
+    "condition" : "equip_gemstone_4_3_1_0",
+    "max_num" : "4",
+    "tier" : "left",
+    "priority" : "100",
+    "score" : "100"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_4_equip_gemstone_4_3_2_0",
+    "group_id" : "lord_quest_group_equipment_gem_1_4",
+    "condition" : "equip_gemstone_4_3_2_0",
+    "max_num" : "6",
+    "tier" : "left",
+    "priority" : "99",
+    "score" : "100"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_4_equip_gemstone_4_3_3_0",
+    "group_id" : "lord_quest_group_equipment_gem_1_4",
+    "condition" : "equip_gemstone_4_3_3_0",
+    "max_num" : "6",
+    "tier" : "left",
+    "priority" : "98",
+    "score" : "100"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_4_equip_gemstone_4_3_4_0",
+    "group_id" : "lord_quest_group_equipment_gem_1_4",
+    "condition" : "equip_gemstone_4_3_4_0",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "97",
+    "score" : "100"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_4_equip_gemstone_4_4_1_1",
+    "group_id" : "lord_quest_group_equipment_gem_1_4",
+    "condition" : "equip_gemstone_4_4_1_1",
+    "max_num" : "4",
+    "tier" : "left",
+    "priority" : "96",
+    "score" : "350"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_4_equip_gemstone_4_4_2_1",
+    "group_id" : "lord_quest_group_equipment_gem_1_4",
+    "condition" : "equip_gemstone_4_4_2_1",
+    "max_num" : "6",
+    "tier" : "left",
+    "priority" : "95",
+    "score" : "350"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_4_equip_gemstone_4_4_3_1",
+    "group_id" : "lord_quest_group_equipment_gem_1_4",
+    "condition" : "equip_gemstone_4_4_3_1",
+    "max_num" : "6",
+    "tier" : "left",
+    "priority" : "94",
+    "score" : "350"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_4_equip_gemstone_4_4_4_1",
+    "group_id" : "lord_quest_group_equipment_gem_1_4",
+    "condition" : "equip_gemstone_4_4_4_1",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "93",
+    "score" : "350"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_4_equip_gemstone_4_5_1_2",
+    "group_id" : "lord_quest_group_equipment_gem_1_4",
+    "condition" : "equip_gemstone_4_5_1_2",
+    "max_num" : "4",
+    "tier" : "left",
+    "priority" : "92",
+    "score" : "1150"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_4_equip_gemstone_4_5_2_2",
+    "group_id" : "lord_quest_group_equipment_gem_1_4",
+    "condition" : "equip_gemstone_4_5_2_2",
+    "max_num" : "6",
+    "tier" : "left",
+    "priority" : "91",
+    "score" : "1150"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_4_equip_gemstone_4_5_3_2",
+    "group_id" : "lord_quest_group_equipment_gem_1_4",
+    "condition" : "equip_gemstone_4_5_3_2",
+    "max_num" : "6",
+    "tier" : "left",
+    "priority" : "90",
+    "score" : "1150"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_4_equip_gemstone_4_5_4_2",
+    "group_id" : "lord_quest_group_equipment_gem_1_4",
+    "condition" : "equip_gemstone_4_5_4_2",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "89",
+    "score" : "1150"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_4_equip_gemstone_4_6_1_3",
+    "group_id" : "lord_quest_group_equipment_gem_1_4",
+    "condition" : "equip_gemstone_4_6_1_3",
+    "max_num" : "4",
+    "tier" : "left",
+    "priority" : "88",
+    "score" : "2900"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_4_equip_gemstone_4_6_2_3",
+    "group_id" : "lord_quest_group_equipment_gem_1_4",
+    "condition" : "equip_gemstone_4_6_2_3",
+    "max_num" : "6",
+    "tier" : "left",
+    "priority" : "87",
+    "score" : "2900"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_4_equip_gemstone_4_6_3_3",
+    "group_id" : "lord_quest_group_equipment_gem_1_4",
+    "condition" : "equip_gemstone_4_6_3_3",
+    "max_num" : "6",
+    "tier" : "left",
+    "priority" : "86",
+    "score" : "2900"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_4_equip_gemstone_4_6_4_3",
+    "group_id" : "lord_quest_group_equipment_gem_1_4",
+    "condition" : "equip_gemstone_4_6_4_3",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "85",
+    "score" : "2900"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_4_equip_gemstone_4_6_1_4",
+    "group_id" : "lord_quest_group_equipment_gem_1_4",
+    "condition" : "equip_gemstone_4_6_1_4",
+    "max_num" : "4",
+    "tier" : "left",
+    "priority" : "84",
+    "score" : "6200"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_4_equip_gemstone_4_6_2_4",
+    "group_id" : "lord_quest_group_equipment_gem_1_4",
+    "condition" : "equip_gemstone_4_6_2_4",
+    "max_num" : "6",
+    "tier" : "left",
+    "priority" : "83",
+    "score" : "6200"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_4_equip_gemstone_4_6_3_4",
+    "group_id" : "lord_quest_group_equipment_gem_1_4",
+    "condition" : "equip_gemstone_4_6_3_4",
+    "max_num" : "6",
+    "tier" : "left",
+    "priority" : "82",
+    "score" : "6200"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_4_equip_gemstone_4_6_4_4",
+    "group_id" : "lord_quest_group_equipment_gem_1_4",
+    "condition" : "equip_gemstone_4_6_4_4",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "81",
+    "score" : "6200"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_4_equip_gemstone_4_6_1_5",
+    "group_id" : "lord_quest_group_equipment_gem_1_4",
+    "condition" : "equip_gemstone_4_6_1_5",
+    "max_num" : "4",
+    "tier" : "left",
+    "priority" : "80",
+    "score" : "15850"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_4_equip_gemstone_4_6_2_5",
+    "group_id" : "lord_quest_group_equipment_gem_1_4",
+    "condition" : "equip_gemstone_4_6_2_5",
+    "max_num" : "6",
+    "tier" : "left",
+    "priority" : "79",
+    "score" : "15850"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_4_equip_gemstone_4_6_3_5",
+    "group_id" : "lord_quest_group_equipment_gem_1_4",
+    "condition" : "equip_gemstone_4_6_3_5",
+    "max_num" : "6",
+    "tier" : "left",
+    "priority" : "78",
+    "score" : "15850"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_4_equip_gemstone_4_6_4_5",
+    "group_id" : "lord_quest_group_equipment_gem_1_4",
+    "condition" : "equip_gemstone_4_6_4_5",
+    "max_num" : "2",
+    "tier" : "left",
+    "priority" : "77",
+    "score" : "15850"
+  } ]
+}

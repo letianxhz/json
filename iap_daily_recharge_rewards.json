@@ -1,0 +1,180 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "reward_id_1" : "reward_id_1@itemlist.id",
+    "reward_value_1" : "reward_value_1@int",
+    "reward_id_2" : "reward_id_2@itemlist.id",
+    "reward_value_2" : "reward_value_2@int",
+    "reward_id_3" : "reward_id_3@itemlist.id",
+    "reward_value_3" : "reward_value_3@int",
+    "reward_id_4" : "reward_id_4@itemlist.id",
+    "reward_value_4" : "reward_value_4@int",
+    "reward_id_5" : "reward_id_5@itemlist.id",
+    "reward_value_5" : "reward_value_5@int",
+    "reward_id_6" : "reward_id_6@itemlist.id",
+    "reward_value_6" : "reward_value_6@int",
+    "reward_id_7" : "reward_id_7@itemlist.id",
+    "reward_value_7" : "reward_value_7@int",
+    "reward_id_8" : "reward_id_8@itemlist.id",
+    "reward_value_8" : "reward_value_8@int",
+    "reward_id_9" : "reward_id_9@itemlist.id",
+    "reward_value_9" : "reward_value_9@int",
+    "reward_id_10" : "reward_id_10@itemlist.id",
+    "reward_value_10" : "reward_value_10@int",
+    "reward_id_11" : "reward_id_11@itemlist.id",
+    "reward_value_11" : "reward_value_11@int",
+    "reward_id_12" : "reward_id_12@itemlist.id",
+    "reward_value_12" : "reward_value_12@int",
+    "reward_id_13" : "reward_id_13@itemlist.id",
+    "reward_value_13" : "reward_value_13@int",
+    "reward_id_14" : "reward_id_14@itemlist.id",
+    "reward_value_14" : "reward_value_14@int",
+    "reward_id_15" : "reward_id_15@itemlist.id",
+    "reward_value_15" : "reward_value_15@int"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "reward_id_1" : "奖励道具id_1",
+    "reward_value_1" : "奖励道具数量_1",
+    "reward_id_2" : "奖励道具id_2",
+    "reward_value_2" : "奖励道具数量_2",
+    "reward_id_3" : "奖励道具id_3",
+    "reward_value_3" : "奖励道具数量_3",
+    "reward_id_4" : "奖励道具id_4",
+    "reward_value_4" : "奖励道具数量_4",
+    "reward_id_5" : "奖励道具id_5",
+    "reward_value_5" : "奖励道具数量_5",
+    "reward_id_6" : "奖励道具id_6",
+    "reward_value_6" : "奖励道具数量_6",
+    "reward_id_7" : "奖励道具id_7",
+    "reward_value_7" : "奖励道具数量_7",
+    "reward_id_8" : "奖励道具id_8",
+    "reward_value_8" : "奖励道具数量_8",
+    "reward_id_9" : "奖励道具id_9",
+    "reward_value_9" : "奖励道具数量_9",
+    "reward_id_10" : "奖励道具id_10",
+    "reward_value_10" : "奖励道具数量_10",
+    "reward_id_11" : "奖励道具id_11",
+    "reward_value_11" : "奖励道具数量_11",
+    "reward_id_12" : "奖励道具id_12",
+    "reward_value_12" : "奖励道具数量_12",
+    "reward_id_13" : "奖励道具id_13",
+    "reward_value_13" : "奖励道具数量_13",
+    "reward_id_14" : "奖励道具id_14",
+    "reward_value_14" : "奖励道具数量_14",
+    "reward_id_15" : "奖励道具id_15",
+    "reward_value_15" : "奖励道具数量_15"
+  }, {
+    "id" : "iap_daily_recharge_0_1_reward",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "iap_daily_recharge_0_2_reward",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "iap_daily_recharge_0_3_reward",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "iap_daily_recharge_0_4_reward",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "iap_daily_recharge_0_5_reward",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "iap_daily_recharge_0_6_reward",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "iap_daily_recharge_0_7_reward",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "iap_daily_recharge_1_1_reward",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "iap_daily_recharge_1_2_reward",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "iap_daily_recharge_1_3_reward",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "iap_daily_recharge_1_4_reward",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "iap_daily_recharge_1_5_reward",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "iap_daily_recharge_1_6_reward",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "iap_daily_recharge_1_7_reward",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "iap_daily_recharge_2_1_reward",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "iap_daily_recharge_2_2_reward",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "iap_daily_recharge_2_3_reward",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "iap_daily_recharge_2_4_reward",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "iap_daily_recharge_2_5_reward",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "iap_daily_recharge_2_6_reward",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "iap_daily_recharge_2_7_reward",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "iap_daily_recharge_3_1_reward",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "iap_daily_recharge_3_2_reward",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "iap_daily_recharge_3_3_reward",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "iap_daily_recharge_3_4_reward",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "iap_daily_recharge_3_5_reward",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "iap_daily_recharge_3_6_reward",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "iap_daily_recharge_3_7_reward",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  } ]
+}

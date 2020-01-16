@@ -1,0 +1,49 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "score_req" : "score_req@long",
+    "reward_id_1" : "reward_id_1@itemlist.id",
+    "reward_value_1" : "reward_value_1@int"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "score_req" : "积分",
+    "reward_id_1" : "奖励道具id_1",
+    "reward_value_1" : "奖励道具值_1"
+  }, {
+    "id" : "1",
+    "score_req" : "1200000",
+    "reward_id_1" : "equip_gemstone_exp_1",
+    "reward_value_1" : "40"
+  }, {
+    "id" : "2",
+    "score_req" : "2400000",
+    "reward_id_1" : "item_building_glory_material_1",
+    "reward_value_1" : "175"
+  }, {
+    "id" : "3",
+    "score_req" : "4600000",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "300"
+  }, {
+    "id" : "4",
+    "score_req" : "9000000",
+    "reward_id_1" : "item_chip_altar_summon_equipment_material_rare",
+    "reward_value_1" : "6"
+  }, {
+    "id" : "5",
+    "score_req" : "17500000",
+    "reward_id_1" : "item_parliament_hero_summon_coin",
+    "reward_value_1" : "15"
+  }, {
+    "id" : "6",
+    "score_req" : "34000000",
+    "reward_id_1" : "dragon_emblem_1_2_1_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "7",
+    "score_req" : "66000000",
+    "reward_id_1" : "item_building_statue_essence",
+    "reward_value_1" : "80"
+  } ]
+}

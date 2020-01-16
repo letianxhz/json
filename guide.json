@@ -1,0 +1,22 @@
+{
+  "header" : {
+    "shoot_lottery_group,shoot_lottery_main,shoot_lottery_step_cost,shoot_lottery_group_chest,festival_daily_reward_step_drop" : "shoot_lottery_group,shoot_lottery_main,shoot_lottery_step_cost,shoot_lottery_group_chest,festival_daily_reward_step_drop"
+  },
+  "rows" : [ {
+    "shoot_lottery_group,shoot_lottery_main,shoot_lottery_step_cost,shoot_lottery_group_chest,festival_daily_reward_step_drop" : "itemlist"
+  }, {
+    "shoot_lottery_group,shoot_lottery_main,shoot_lottery_step_cost,shoot_lottery_group_chest,festival_daily_reward_step_drop" : "festival_monster_drop"
+  }, {
+    "shoot_lottery_group,shoot_lottery_main,shoot_lottery_step_cost,shoot_lottery_group_chest,festival_daily_reward_step_drop" : "festival_gve_boss_drop"
+  }, {
+    "shoot_lottery_group,shoot_lottery_main,shoot_lottery_step_cost,shoot_lottery_group_chest,festival_daily_reward_step_drop" : "festival_resource_drop"
+  }, {
+    "shoot_lottery_group,shoot_lottery_main,shoot_lottery_step_cost,shoot_lottery_group_chest,festival_daily_reward_step_drop" : "festival_collect_drop"
+  }, {
+    "shoot_lottery_group,shoot_lottery_main,shoot_lottery_step_cost,shoot_lottery_group_chest,festival_daily_reward_step_drop" : "quests"
+  }, {
+    "shoot_lottery_group,shoot_lottery_main,shoot_lottery_step_cost,shoot_lottery_group_chest,festival_daily_reward_step_drop" : "quest_group_main"
+  }, {
+    "shoot_lottery_group,shoot_lottery_main,shoot_lottery_step_cost,shoot_lottery_group_chest,festival_daily_reward_step_drop" : "activity_seven_day_quest_main"
+  } ]
+}

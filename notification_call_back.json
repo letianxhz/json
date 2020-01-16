@@ -1,0 +1,34 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "days" : "days@int",
+    "description" : "description@string^p",
+    "localization" : "localization@string"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "days" : "天数",
+    "description" : "描述",
+    "localization" : "多语言id"
+  }, {
+    "id" : "1",
+    "days" : "2",
+    "localization" : "notification_call_back"
+  }, {
+    "id" : "2",
+    "days" : "5",
+    "localization" : "notification_call_back"
+  }, {
+    "id" : "3",
+    "days" : "10",
+    "localization" : "notification_call_back"
+  }, {
+    "id" : "4",
+    "days" : "15",
+    "localization" : "notification_call_back"
+  }, {
+    "id" : "5",
+    "days" : "20",
+    "localization" : "notification_call_back"
+  } ]
+}

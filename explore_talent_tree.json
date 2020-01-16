@@ -1,0 +1,25 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "name" : "name@string",
+    "image" : "image@string",
+    "description" : "description@string",
+    "position" : "position@int"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "name" : "名字",
+    "image" : "图片",
+    "description" : "描述",
+    "position" : "位置"
+  }, {
+    "id" : "explore",
+    "position" : "3"
+  }, {
+    "id" : "attack",
+    "position" : "1"
+  }, {
+    "id" : "hp",
+    "position" : "2"
+  } ]
+}

@@ -1,0 +1,64 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "local_key" : "local_key@string^c",
+    "icon" : "icon@string",
+    "remark" : "remark@string^p"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "local_key" : "多语言key",
+    "icon" : "图标",
+    "remark" : "备注"
+  }, {
+    "id" : "alliance_donate",
+    "local_key" : "honor_pass_challenge_category_alliance_donate",
+    "icon" : "honor_pass_challenge_category_alliance_donate",
+    "remark" : "联盟捐献"
+  }, {
+    "id" : "alliance_help",
+    "local_key" : "honor_pass_challenge_category_alliance_help",
+    "icon" : "honor_pass_challenge_category_alliance_help",
+    "remark" : "帮助盟友"
+  }, {
+    "id" : "npc_store",
+    "local_key" : "honor_pass_challenge_category_npc_store",
+    "icon" : "honor_pass_challenge_category_npc_store",
+    "remark" : "市集"
+  }, {
+    "id" : "gather_resource",
+    "local_key" : "honor_pass_challenge_category_gather_resource",
+    "icon" : "honor_pass_challenge_category_gather_resource",
+    "remark" : "采集资源"
+  }, {
+    "id" : "use_lord_spirit",
+    "local_key" : "honor_pass_challenge_category_use_lord_spirit",
+    "icon" : "honor_pass_challenge_category_use_lord_spirit",
+    "remark" : "使用领主体力"
+  }, {
+    "id" : "train_troops",
+    "local_key" : "honor_pass_challenge_category_train_troops",
+    "icon" : "honor_pass_challenge_category_train_troops",
+    "remark" : "训练部队"
+  }, {
+    "id" : "use_speedups",
+    "local_key" : "honor_pass_challenge_category_use_speedups",
+    "icon" : "honor_pass_challenge_category_use_speedups",
+    "remark" : "使用加速道具"
+  }, {
+    "id" : "collect_timer_chest",
+    "local_key" : "honor_pass_challenge_category_collect_timer_chest",
+    "icon" : "honor_pass_challenge_category_collect_timer_chest",
+    "remark" : "收集礼物"
+  }, {
+    "id" : "open_alliance_chest",
+    "local_key" : "honor_pass_challenge_category_open_alliance_chest",
+    "icon" : "honor_pass_challenge_category_open_alliance_chest",
+    "remark" : "开启联盟宝箱"
+  }, {
+    "id" : "roguelike_stamina",
+    "local_key" : "honor_pass_challenge_category_roguelike_stamina",
+    "icon" : "honor_pass_challenge_category_roguelike_stamina",
+    "remark" : "roguelike消耗体力"
+  } ]
+}

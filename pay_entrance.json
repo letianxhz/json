@@ -1,0 +1,145 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "type" : "type@string",
+    "iap_type" : "iap_type@string",
+    "title" : "title@string",
+    "image" : "image@string",
+    "chest_group" : "chest_group@iap_shop_package_group.id",
+    "chest_group_2" : "chest_group_2@iap_shop_package_group.id"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "type" : "类别",
+    "iap_type" : "iap类别",
+    "title" : "标题",
+    "image" : "背景图",
+    "chest_group" : "礼包链id",
+    "chest_group_2" : "备用礼包链id"
+  }, {
+    "id" : "1",
+    "type" : "food",
+    "iap_type" : "iap_package",
+    "title" : "id_get_more_resources",
+    "image" : "BgGetRes1",
+    "chest_group" : "iap_package_food"
+  }, {
+    "id" : "2",
+    "type" : "wood",
+    "iap_type" : "iap_package",
+    "title" : "id_get_more_resources",
+    "image" : "BgGetRes2",
+    "chest_group" : "iap_package_wood"
+  }, {
+    "id" : "3",
+    "type" : "ore",
+    "iap_type" : "iap_package",
+    "title" : "id_get_more_resources",
+    "image" : "BgGetRes3",
+    "chest_group" : "iap_package_iron"
+  }, {
+    "id" : "4",
+    "type" : "silver",
+    "iap_type" : "iap_package",
+    "title" : "id_get_more_resources",
+    "image" : "BgGetRes4",
+    "chest_group" : "iap_package_silver"
+  }, {
+    "id" : "5",
+    "type" : "TIMER_CONSTRUCT",
+    "iap_type" : "iap_package",
+    "title" : "id_uppercase_speedup",
+    "image" : "backbgspeedup",
+    "chest_group" : "iap_package_speedup"
+  }, {
+    "id" : "6",
+    "type" : "TIMER_RESEARCH",
+    "iap_type" : "iap_package",
+    "title" : "id_uppercase_speedup",
+    "image" : "backbgspeedup",
+    "chest_group" : "iap_package_speedup"
+  }, {
+    "id" : "7",
+    "type" : "TIMER_TRAIN",
+    "iap_type" : "iap_package",
+    "title" : "id_uppercase_speedup",
+    "image" : "backbgspeedup",
+    "chest_group" : "iap_package_speedup"
+  }, {
+    "id" : "8",
+    "type" : "TIMER_HEAL",
+    "iap_type" : "iap_package",
+    "title" : "id_uppercase_speedup",
+    "image" : "backbgspeedup",
+    "chest_group" : "iap_package_speedup"
+  }, {
+    "id" : "9",
+    "type" : "TIMER_FORGE",
+    "iap_type" : "iap_package",
+    "title" : "id_uppercase_speedup",
+    "image" : "backbgspeedup",
+    "chest_group" : "iap_package_speedup"
+  }, {
+    "id" : "10",
+    "type" : "TIMER_DK_FORGE",
+    "iap_type" : "iap_package",
+    "title" : "id_uppercase_speedup",
+    "image" : "backbgspeedup",
+    "chest_group" : "iap_package_speedup"
+  }, {
+    "id" : "11",
+    "type" : "TIMER_UPGRADE",
+    "iap_type" : "iap_package",
+    "title" : "id_uppercase_speedup",
+    "image" : "backbgspeedup",
+    "chest_group" : "iap_package_speedup"
+  }, {
+    "id" : "12",
+    "type" : "food_month_type_card",
+    "iap_type" : "month_type_card",
+    "title" : "id_get_more_resources",
+    "image" : "banner_month_type_card_food",
+    "chest_group" : "iap_package_food"
+  }, {
+    "id" : "13",
+    "type" : "wood_month_type_card",
+    "iap_type" : "month_type_card",
+    "title" : "id_get_more_resources",
+    "image" : "banner_month_type_card_wood",
+    "chest_group" : "iap_package_wood"
+  }, {
+    "id" : "14",
+    "type" : "ore_month_type_card",
+    "iap_type" : "month_type_card",
+    "title" : "id_get_more_resources",
+    "image" : "banner_month_type_card_ore",
+    "chest_group" : "iap_package_iron"
+  }, {
+    "id" : "15",
+    "type" : "silver_month_type_card",
+    "iap_type" : "month_type_card",
+    "title" : "id_get_more_resources",
+    "image" : "banner_month_type_card_silver",
+    "chest_group" : "iap_package_silver"
+  }, {
+    "id" : "16",
+    "type" : "TIMER_CONSTRUCT_month_type_card",
+    "iap_type" : "month_type_card",
+    "title" : "id_uppercase_speedup",
+    "image" : "banner_month_type_card_speedup_building",
+    "chest_group" : "iap_package_speedup"
+  }, {
+    "id" : "17",
+    "type" : "TIMER_TRAIN_month_type_card",
+    "iap_type" : "month_type_card",
+    "title" : "id_uppercase_speedup",
+    "image" : "banner_month_type_card_speedup_training",
+    "chest_group" : "iap_package_speedup"
+  }, {
+    "id" : "18",
+    "type" : "shoot_lottery",
+    "iap_type" : "iap_package",
+    "title" : "id_shoot_lottery",
+    "image" : "banner_shoot_lottery_coin"
+  } ]
+}

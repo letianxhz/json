@@ -1,0 +1,36 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "unlock_type_1" : "unlock_type_1@string",
+    "unlock_value_1" : "unlock_value_1@string",
+    "unlock_type_2" : "unlock_type_2@string",
+    "unlock_value_2" : "unlock_value_2@string",
+    "entrance_img" : "entrance_img@string",
+    "name" : "name@string",
+    "desc" : "desc@string",
+    "asset_config_path" : "asset_config_path@string"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "unlock_type_1" : "解锁条件1",
+    "unlock_value_1" : "解锁条件（上一关卡打完最终战役）",
+    "unlock_type_2" : "解锁条件2",
+    "unlock_value_2" : "解锁条件（上一关卡打完最终战役）",
+    "entrance_img" : "入口图片",
+    "name" : "战役名称",
+    "desc" : "战役描述",
+    "asset_config_path" : "关联文件（prefab）"
+  }, {
+    "id" : "campaign_chapter_1",
+    "unlock_type_1" : "buidings_level",
+    "unlock_value_1" : "stronghold_0",
+    "unlock_type_2" : "0",
+    "unlock_value_2" : "0"
+  }, {
+    "id" : "campaign_chapter_2",
+    "unlock_type_1" : "buidings_level",
+    "unlock_value_1" : "stronghold_1",
+    "unlock_type_2" : "pre_campaign_chapter_progress",
+    "unlock_value_2" : "50"
+  } ]
+}

@@ -1,0 +1,62 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "order_1" : "order_1@battle_target_order.id",
+    "round_1" : "round_1@int",
+    "order_2" : "order_2@battle_target_order.id",
+    "round_2" : "round_2@int",
+    "order_3" : "order_3@battle_target_order.id",
+    "round_3" : "round_3@int",
+    "order_4" : "order_4@battle_target_order.id",
+    "round_4" : "round_4@int"
+  },
+  "rows" : [ {
+    "id" : "部队类型id",
+    "order_1" : "counter id",
+    "round_1" : "回合",
+    "order_2" : "counter id",
+    "round_2" : "回合",
+    "order_3" : "counter id",
+    "round_3" : "回合",
+    "order_4" : "counter id",
+    "round_4" : "回合"
+  }, {
+    "id" : "class_infantry_spearman",
+    "order_1" : "order_2",
+    "round_1" : "1",
+    "order_2" : "order_6",
+    "round_2" : "1",
+    "order_3" : "order_3",
+    "round_3" : "1",
+    "order_4" : "order_4",
+    "round_4" : "1"
+  }, {
+    "id" : "class_cavalry_heavycavalry",
+    "order_1" : "order_3",
+    "round_1" : "1",
+    "order_2" : "order_7",
+    "round_2" : "1",
+    "order_3" : "order_4",
+    "round_3" : "1",
+    "order_4" : "order_2",
+    "round_4" : "1"
+  }, {
+    "id" : "class_ranged_archer",
+    "order_1" : "order_4",
+    "round_1" : "1",
+    "order_2" : "order_8",
+    "round_2" : "1",
+    "order_3" : "order_2",
+    "round_3" : "1",
+    "order_4" : "order_3",
+    "round_4" : "1"
+  }, {
+    "id" : "class_siege_batteringram",
+    "order_1" : "order_1_1",
+    "round_1" : "1",
+    "order_2" : "order_1_2",
+    "round_2" : "1",
+    "order_3" : "order_1_3",
+    "round_3" : "1"
+  } ]
+}

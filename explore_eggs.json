@@ -1,0 +1,39 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "level" : "level@explore_level.id",
+    "eggs_type" : "eggs_type@string",
+    "eggs_param" : "eggs_param@string",
+    "reward_id_1" : "reward_id_1@itemlist.id",
+    "reward_value_1" : "reward_value_1@int"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "level" : "所属level",
+    "eggs_type" : "类型",
+    "eggs_param" : "参数",
+    "reward_id_1" : "奖励道具id",
+    "reward_value_1" : "奖励道具数量"
+  }, {
+    "id" : "1",
+    "level" : "activity_explore_1_2_1",
+    "eggs_type" : "single_kill",
+    "eggs_param" : "20",
+    "reward_id_1" : "item_activity_explore_single_chest",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "2",
+    "level" : "activity_explore_1_2_1",
+    "eggs_type" : "scout_special_kill",
+    "eggs_param" : "4",
+    "reward_id_1" : "item_activity_explore_scout_chest",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "3",
+    "level" : "activity_explore_1_2_1",
+    "eggs_type" : "perfect_clear",
+    "eggs_param" : "20",
+    "reward_id_1" : "item_activity_explore_perfect_clear_chest",
+    "reward_value_1" : "1"
+  } ]
+}

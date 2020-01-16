@@ -1,0 +1,169 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "stronghold_level" : "stronghold_level@int",
+    "road_prefab" : "road_prefab@string"
+  },
+  "rows" : [ {
+    "id" : "id@string",
+    "stronghold_level" : "主城等级",
+    "road_prefab" : "道路资源"
+  }, {
+    "id" : "1",
+    "stronghold_level" : "1"
+  }, {
+    "id" : "2",
+    "stronghold_level" : "2"
+  }, {
+    "id" : "3",
+    "stronghold_level" : "3"
+  }, {
+    "id" : "4",
+    "stronghold_level" : "4",
+    "road_prefab" : "brick_road"
+  }, {
+    "id" : "5",
+    "stronghold_level" : "5",
+    "road_prefab" : "brick_road"
+  }, {
+    "id" : "6",
+    "stronghold_level" : "6",
+    "road_prefab" : "brick_road"
+  }, {
+    "id" : "7",
+    "stronghold_level" : "7",
+    "road_prefab" : "brick_road"
+  }, {
+    "id" : "8",
+    "stronghold_level" : "8",
+    "road_prefab" : "sement_road"
+  }, {
+    "id" : "9",
+    "stronghold_level" : "9",
+    "road_prefab" : "sement_road"
+  }, {
+    "id" : "10",
+    "stronghold_level" : "10",
+    "road_prefab" : "sement_road"
+  }, {
+    "id" : "11",
+    "stronghold_level" : "11",
+    "road_prefab" : "sement_road"
+  }, {
+    "id" : "12",
+    "stronghold_level" : "12",
+    "road_prefab" : "sement_road"
+  }, {
+    "id" : "13",
+    "stronghold_level" : "13",
+    "road_prefab" : "sement_road"
+  }, {
+    "id" : "14",
+    "stronghold_level" : "14",
+    "road_prefab" : "sement_road"
+  }, {
+    "id" : "15",
+    "stronghold_level" : "15",
+    "road_prefab" : "sement_road"
+  }, {
+    "id" : "16",
+    "stronghold_level" : "16",
+    "road_prefab" : "sement_road"
+  }, {
+    "id" : "17",
+    "stronghold_level" : "17",
+    "road_prefab" : "sement_road"
+  }, {
+    "id" : "18",
+    "stronghold_level" : "18",
+    "road_prefab" : "sement_road"
+  }, {
+    "id" : "19",
+    "stronghold_level" : "19",
+    "road_prefab" : "sement_road"
+  }, {
+    "id" : "20",
+    "stronghold_level" : "20",
+    "road_prefab" : "sement_road"
+  }, {
+    "id" : "21",
+    "stronghold_level" : "21",
+    "road_prefab" : "sement_road"
+  }, {
+    "id" : "22",
+    "stronghold_level" : "22",
+    "road_prefab" : "sement_road"
+  }, {
+    "id" : "23",
+    "stronghold_level" : "23",
+    "road_prefab" : "sement_road"
+  }, {
+    "id" : "24",
+    "stronghold_level" : "24",
+    "road_prefab" : "sement_road"
+  }, {
+    "id" : "25",
+    "stronghold_level" : "25",
+    "road_prefab" : "sement_road"
+  }, {
+    "id" : "26",
+    "stronghold_level" : "26",
+    "road_prefab" : "sement_road"
+  }, {
+    "id" : "27",
+    "stronghold_level" : "27",
+    "road_prefab" : "sement_road"
+  }, {
+    "id" : "28",
+    "stronghold_level" : "28",
+    "road_prefab" : "sement_road"
+  }, {
+    "id" : "29",
+    "stronghold_level" : "29",
+    "road_prefab" : "sement_road"
+  }, {
+    "id" : "30",
+    "stronghold_level" : "30",
+    "road_prefab" : "sement_road"
+  }, {
+    "id" : "31",
+    "stronghold_level" : "31",
+    "road_prefab" : "sement_road"
+  }, {
+    "id" : "32",
+    "stronghold_level" : "32",
+    "road_prefab" : "sement_road"
+  }, {
+    "id" : "33",
+    "stronghold_level" : "33",
+    "road_prefab" : "sement_road"
+  }, {
+    "id" : "34",
+    "stronghold_level" : "34",
+    "road_prefab" : "sement_road"
+  }, {
+    "id" : "35",
+    "stronghold_level" : "35",
+    "road_prefab" : "sement_road"
+  }, {
+    "id" : "36",
+    "stronghold_level" : "36",
+    "road_prefab" : "sement_road"
+  }, {
+    "id" : "37",
+    "stronghold_level" : "37",
+    "road_prefab" : "sement_road"
+  }, {
+    "id" : "38",
+    "stronghold_level" : "38",
+    "road_prefab" : "sement_road"
+  }, {
+    "id" : "39",
+    "stronghold_level" : "39",
+    "road_prefab" : "sement_road"
+  }, {
+    "id" : "40",
+    "stronghold_level" : "40",
+    "road_prefab" : "sement_road"
+  } ]
+}

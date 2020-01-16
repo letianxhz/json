@@ -1,0 +1,97 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "condition1" : "condition1@explore_chapter.id",
+    "condition2" : "condition2@explore_level.id",
+    "condition3" : "condition3@explore_floor.id",
+    "appear_time" : "appear_time@string",
+    "priority" : "priority@int",
+    "standing_time" : "standing_time@int",
+    "description" : "description@string",
+    "language_param" : "language_param@string"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "condition1" : "章节id",
+    "condition2" : "关数id\n0:所有关数",
+    "condition3" : "层数id\n0:所有层数",
+    "appear_time" : "出现时机\nenter_map:进入该层地图时\ncannon_interface_closed:狂怒界面关闭时\ncannon_update_first:狂怒首次升级时\ncannon_parts_get_first:首次获得狂怒零件时",
+    "priority" : "优先级\n数字越小优先级越高",
+    "standing_time" : "停留时间",
+    "description" : "气泡内容",
+    "language_param" : "多语言参数"
+  }, {
+    "id" : "1",
+    "condition1" : "explore_1",
+    "condition2" : "explore_explore_1_1_2",
+    "condition3" : "explore_explore_1_1_2_floor_2",
+    "appear_time" : "enter_map",
+    "priority" : "1",
+    "standing_time" : "3",
+    "description" : "explore_Nicole_tips_encourage"
+  }, {
+    "id" : "2",
+    "condition1" : "explore_1",
+    "condition2" : "explore_explore_1_1_2",
+    "condition3" : "explore_explore_1_1_2_floor_3",
+    "appear_time" : "enter_map",
+    "priority" : "1",
+    "standing_time" : "3",
+    "description" : "explore_Nicole_tips_skills_kill_immediately"
+  }, {
+    "id" : "3",
+    "condition1" : "explore_1",
+    "condition2" : "explore_explore_1_1_2",
+    "condition3" : "explore_explore_1_1_2_floor_4",
+    "appear_time" : "enter_map",
+    "priority" : "1",
+    "standing_time" : "3",
+    "description" : "explore_Nicole_tips_finish_epicmission",
+    "language_param" : "6"
+  }, {
+    "id" : "4",
+    "condition1" : "explore_1",
+    "condition2" : "explore_explore_1_1_3",
+    "condition3" : "0",
+    "appear_time" : "cannon_parts_get_first",
+    "priority" : "1",
+    "standing_time" : "3",
+    "description" : "explore_Nicole_tips_cannon_parts"
+  }, {
+    "id" : "5",
+    "condition1" : "explore_1",
+    "condition2" : "explore_explore_1_1_3",
+    "condition3" : "0",
+    "appear_time" : "cannon_update_first",
+    "priority" : "1",
+    "standing_time" : "3",
+    "description" : "explore_Nicole_tips_cannon_upgraded"
+  }, {
+    "id" : "6",
+    "condition1" : "explore_1",
+    "condition2" : "explore_explore_1_1_3",
+    "condition3" : "explore_explore_1_1_3_floor_1",
+    "appear_time" : "cannon_interface_closed",
+    "priority" : "1",
+    "standing_time" : "3",
+    "description" : "explore_Nicole_tips_carpet_bombing"
+  }, {
+    "id" : "7",
+    "condition1" : "explore_1",
+    "condition2" : "explore_explore_1_1_3",
+    "condition3" : "explore_explore_1_1_3_floor_5",
+    "appear_time" : "enter_map",
+    "priority" : "1",
+    "standing_time" : "3",
+    "description" : "explore_Nicole_tips_remind_use_skills"
+  }, {
+    "id" : "8",
+    "condition1" : "explore_1",
+    "condition2" : "explore_explore_1_1_3",
+    "condition3" : "explore_explore_1_1_3_floor_10",
+    "appear_time" : "enter_map",
+    "priority" : "1",
+    "standing_time" : "3",
+    "description" : "explore_Nicole_tips_kill_boss"
+  } ]
+}

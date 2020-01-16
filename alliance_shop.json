@@ -1,0 +1,132 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "itemid" : "itemid@itemlist.id",
+    "allianceLv" : "allianceLv@int",
+    "fund_price" : "fund_price@int",
+    "honor_price" : "honor_price@int",
+    "image" : "image@string^c",
+    "is_use" : "is_use@int"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "itemid" : "道具id",
+    "allianceLv" : "联盟等级",
+    "fund_price" : "联盟信誉价格",
+    "honor_price" : "联盟荣誉价格",
+    "image" : "图片",
+    "is_use" : "是否生效"
+  }, {
+    "id" : "shopitem_speedup_5m",
+    "itemid" : "item_speedup_5m",
+    "allianceLv" : "1",
+    "fund_price" : "1500",
+    "honor_price" : "1500",
+    "image" : "item_speedup_5m",
+    "is_use" : "1"
+  }, {
+    "id" : "shopitem_speedup_60m",
+    "itemid" : "item_speedup_60m",
+    "allianceLv" : "1",
+    "fund_price" : "18000",
+    "honor_price" : "18000",
+    "image" : "item_speedup_60m",
+    "is_use" : "1"
+  }, {
+    "id" : "shopitem_speedup_3h",
+    "itemid" : "item_speedup_3h",
+    "allianceLv" : "2",
+    "fund_price" : "54000",
+    "honor_price" : "54000",
+    "image" : "item_speedup_3h",
+    "is_use" : "1"
+  }, {
+    "id" : "shopitem_randomtele",
+    "itemid" : "item_randomtele",
+    "allianceLv" : "2",
+    "fund_price" : "50000",
+    "honor_price" : "50000",
+    "image" : "item_randomtele",
+    "is_use" : "1"
+  }, {
+    "id" : "shopitem_targettele",
+    "itemid" : "item_targettele",
+    "allianceLv" : "3",
+    "fund_price" : "200000",
+    "honor_price" : "200000",
+    "image" : "item_targettele",
+    "is_use" : "1"
+  }, {
+    "id" : "shopitem_marchrecall",
+    "itemid" : "item_marchrecall",
+    "allianceLv" : "1",
+    "fund_price" : "40000",
+    "honor_price" : "40000",
+    "image" : "item_marchrecall",
+    "is_use" : "1"
+  }, {
+    "id" : "shopitem_boost_gatherspeed_8h",
+    "itemid" : "item_boost_gatherspeed_8h",
+    "allianceLv" : "2",
+    "fund_price" : "25000",
+    "honor_price" : "25000",
+    "image" : "item_boost_gatherspeed_8h",
+    "is_use" : "1"
+  }, {
+    "id" : "shopitem_boost_peaceshield_12h",
+    "itemid" : "item_boost_peaceshield_12h",
+    "allianceLv" : "2",
+    "fund_price" : "60000",
+    "honor_price" : "60000",
+    "image" : "item_boost_peaceshield_12h",
+    "is_use" : "1"
+  }, {
+    "id" : "shopitem_boost_lessattack_12h",
+    "itemid" : "item_boost_lessattack_12h",
+    "allianceLv" : "1",
+    "fund_price" : "10000",
+    "honor_price" : "10000",
+    "image" : "item_boost_lessattack_12h",
+    "is_use" : "1"
+  }, {
+    "id" : "shopitem_boost_lessdefense_12h",
+    "itemid" : "item_boost_lessdefense_12h",
+    "allianceLv" : "1",
+    "fund_price" : "10000",
+    "honor_price" : "10000",
+    "image" : "item_boost_lessdefense_12h",
+    "is_use" : "1"
+  }, {
+    "id" : "shopitem_player_rename",
+    "itemid" : "item_player_rename",
+    "allianceLv" : "1",
+    "fund_price" : "20000",
+    "honor_price" : "20000",
+    "image" : "item_player_rename",
+    "is_use" : "1"
+  }, {
+    "id" : "shopitem_player_profile_change",
+    "itemid" : "item_player_profile_change",
+    "allianceLv" : "2",
+    "fund_price" : "40000",
+    "honor_price" : "40000",
+    "image" : "item_player_profile_change",
+    "is_use" : "1"
+  }, {
+    "id" : "shopitem_rally_recall",
+    "itemid" : "item_rally_recall",
+    "allianceLv" : "4",
+    "fund_price" : "100000",
+    "honor_price" : "100000",
+    "image" : "item_marchrecall_advanced",
+    "is_use" : "1"
+  }, {
+    "id" : "shopitem_fortress_teleport",
+    "itemid" : "item_fortress_teleport",
+    "allianceLv" : "2",
+    "fund_price" : "150000",
+    "honor_price" : "150000",
+    "image" : "item_fortress_teleport",
+    "is_use" : "1"
+  } ]
+}

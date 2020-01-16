@@ -1,0 +1,148 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "group" : "group@charge_rebate_shop_group.id",
+    "index" : "index@int",
+    "daily_times" : "daily_times@int",
+    "item_cost_value" : "item_cost_value@int",
+    "energy_chance" : "energy_chance@float",
+    "energy_value" : "energy_value@int"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "group" : "所属组",
+    "index" : "排序",
+    "daily_times" : "每日次数",
+    "item_cost_value" : "消耗货币数量",
+    "energy_chance" : "获取能量概率",
+    "energy_value" : "获取能量数量"
+  }, {
+    "id" : "charge_rebate_shop_group_1_pool_1",
+    "group" : "charge_rebate_shop_group_1",
+    "index" : "1",
+    "daily_times" : "20",
+    "item_cost_value" : "1",
+    "energy_chance" : "0.1",
+    "energy_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_1_pool_2",
+    "group" : "charge_rebate_shop_group_1",
+    "index" : "2",
+    "daily_times" : "15",
+    "item_cost_value" : "2",
+    "energy_chance" : "0.2",
+    "energy_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_1_pool_3",
+    "group" : "charge_rebate_shop_group_1",
+    "index" : "3",
+    "daily_times" : "10",
+    "item_cost_value" : "5",
+    "energy_chance" : "0.5",
+    "energy_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_1_pool_4",
+    "group" : "charge_rebate_shop_group_1",
+    "index" : "4",
+    "daily_times" : "-1",
+    "item_cost_value" : "10",
+    "energy_chance" : "1",
+    "energy_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_2_pool_1",
+    "group" : "charge_rebate_shop_group_2",
+    "index" : "1",
+    "daily_times" : "20",
+    "item_cost_value" : "1",
+    "energy_chance" : "0.1",
+    "energy_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_2_pool_2",
+    "group" : "charge_rebate_shop_group_2",
+    "index" : "2",
+    "daily_times" : "15",
+    "item_cost_value" : "2",
+    "energy_chance" : "0.2",
+    "energy_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_2_pool_3",
+    "group" : "charge_rebate_shop_group_2",
+    "index" : "3",
+    "daily_times" : "10",
+    "item_cost_value" : "5",
+    "energy_chance" : "0.5",
+    "energy_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_2_pool_4",
+    "group" : "charge_rebate_shop_group_2",
+    "index" : "4",
+    "daily_times" : "-1",
+    "item_cost_value" : "10",
+    "energy_chance" : "1",
+    "energy_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_3_pool_1",
+    "group" : "charge_rebate_shop_group_3",
+    "index" : "1",
+    "daily_times" : "20",
+    "item_cost_value" : "1",
+    "energy_chance" : "0.1",
+    "energy_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_3_pool_2",
+    "group" : "charge_rebate_shop_group_3",
+    "index" : "2",
+    "daily_times" : "15",
+    "item_cost_value" : "2",
+    "energy_chance" : "0.2",
+    "energy_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_3_pool_3",
+    "group" : "charge_rebate_shop_group_3",
+    "index" : "3",
+    "daily_times" : "10",
+    "item_cost_value" : "5",
+    "energy_chance" : "0.5",
+    "energy_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_3_pool_4",
+    "group" : "charge_rebate_shop_group_3",
+    "index" : "4",
+    "daily_times" : "-1",
+    "item_cost_value" : "10",
+    "energy_chance" : "1",
+    "energy_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_4_pool_1",
+    "group" : "charge_rebate_shop_group_4",
+    "index" : "1",
+    "daily_times" : "20",
+    "item_cost_value" : "1",
+    "energy_chance" : "0.1",
+    "energy_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_4_pool_2",
+    "group" : "charge_rebate_shop_group_4",
+    "index" : "2",
+    "daily_times" : "15",
+    "item_cost_value" : "2",
+    "energy_chance" : "0.2",
+    "energy_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_4_pool_3",
+    "group" : "charge_rebate_shop_group_4",
+    "index" : "3",
+    "daily_times" : "10",
+    "item_cost_value" : "5",
+    "energy_chance" : "0.5",
+    "energy_value" : "1"
+  }, {
+    "id" : "charge_rebate_shop_group_4_pool_4",
+    "group" : "charge_rebate_shop_group_4",
+    "index" : "4",
+    "daily_times" : "-1",
+    "item_cost_value" : "10",
+    "energy_chance" : "1",
+    "energy_value" : "1"
+  } ]
+}

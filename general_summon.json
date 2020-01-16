@@ -1,0 +1,236 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "summon_pool_id" : "summon_pool_id@general_summon_pool.id",
+    "item_id" : "item_id@itemlist.id",
+    "reward_num" : "reward_num@int",
+    "weight" : "weight@int",
+    "type" : "type@string",
+    "prefab" : "prefab@string"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "summon_pool_id" : "奖池id",
+    "item_id" : "道具id",
+    "reward_num" : "道具数量",
+    "weight" : "权重",
+    "type" : "类型",
+    "prefab" : "文件夹样式"
+  }, {
+    "id" : "10101",
+    "summon_pool_id" : "101",
+    "item_id" : "item_general_card_5001_id",
+    "reward_num" : "1",
+    "weight" : "10000"
+  }, {
+    "id" : "10102",
+    "summon_pool_id" : "101",
+    "item_id" : "item_general_card_5002_id",
+    "reward_num" : "1",
+    "weight" : "10000"
+  }, {
+    "id" : "10103",
+    "summon_pool_id" : "101",
+    "item_id" : "item_general_card_5005_id",
+    "reward_num" : "1",
+    "weight" : "50000"
+  }, {
+    "id" : "10104",
+    "summon_pool_id" : "101",
+    "item_id" : "item_general_card_5008_id",
+    "reward_num" : "1",
+    "weight" : "10000"
+  }, {
+    "id" : "10201",
+    "summon_pool_id" : "102",
+    "item_id" : "item_general_card_4003_id",
+    "reward_num" : "1",
+    "weight" : "10000"
+  }, {
+    "id" : "10202",
+    "summon_pool_id" : "102",
+    "item_id" : "item_general_card_4005_id",
+    "reward_num" : "1",
+    "weight" : "30000"
+  }, {
+    "id" : "10203",
+    "summon_pool_id" : "102",
+    "item_id" : "item_general_card_4007_id",
+    "reward_num" : "1",
+    "weight" : "10000"
+  }, {
+    "id" : "10301",
+    "summon_pool_id" : "103",
+    "item_id" : "item_general_chip_5001_id",
+    "reward_num" : "1",
+    "weight" : "10000"
+  }, {
+    "id" : "10302",
+    "summon_pool_id" : "103",
+    "item_id" : "item_general_chip_5002_id",
+    "reward_num" : "1",
+    "weight" : "10000"
+  }, {
+    "id" : "10303",
+    "summon_pool_id" : "103",
+    "item_id" : "item_general_chip_5005_id",
+    "reward_num" : "1",
+    "weight" : "50000"
+  }, {
+    "id" : "10304",
+    "summon_pool_id" : "103",
+    "item_id" : "item_general_chip_5008_id",
+    "reward_num" : "1",
+    "weight" : "10000"
+  }, {
+    "id" : "10401",
+    "summon_pool_id" : "104",
+    "item_id" : "item_general_chip_4003_id",
+    "reward_num" : "2",
+    "weight" : "3333"
+  }, {
+    "id" : "10402",
+    "summon_pool_id" : "104",
+    "item_id" : "item_general_chip_4003_id",
+    "reward_num" : "3",
+    "weight" : "3333"
+  }, {
+    "id" : "10403",
+    "summon_pool_id" : "104",
+    "item_id" : "item_general_chip_4003_id",
+    "reward_num" : "4",
+    "weight" : "3333"
+  }, {
+    "id" : "10404",
+    "summon_pool_id" : "104",
+    "item_id" : "item_general_chip_4005_id",
+    "reward_num" : "2",
+    "weight" : "10000"
+  }, {
+    "id" : "10405",
+    "summon_pool_id" : "104",
+    "item_id" : "item_general_chip_4005_id",
+    "reward_num" : "3",
+    "weight" : "10000"
+  }, {
+    "id" : "10406",
+    "summon_pool_id" : "104",
+    "item_id" : "item_general_chip_4005_id",
+    "reward_num" : "4",
+    "weight" : "10000"
+  }, {
+    "id" : "10407",
+    "summon_pool_id" : "104",
+    "item_id" : "item_general_chip_4007_id",
+    "reward_num" : "2",
+    "weight" : "3333"
+  }, {
+    "id" : "10408",
+    "summon_pool_id" : "104",
+    "item_id" : "item_general_chip_4007_id",
+    "reward_num" : "3",
+    "weight" : "3333"
+  }, {
+    "id" : "10409",
+    "summon_pool_id" : "104",
+    "item_id" : "item_general_chip_4007_id",
+    "reward_num" : "4",
+    "weight" : "3333"
+  }, {
+    "id" : "10501",
+    "summon_pool_id" : "105",
+    "item_id" : "item_general_medal_cheng_id",
+    "reward_num" : "1",
+    "weight" : "10000"
+  }, {
+    "id" : "10502",
+    "summon_pool_id" : "105",
+    "item_id" : "item_general_medal_zi_id",
+    "reward_num" : "1",
+    "weight" : "15000"
+  }, {
+    "id" : "10503",
+    "summon_pool_id" : "105",
+    "item_id" : "item_general_exp_1000_id",
+    "reward_num" : "1",
+    "weight" : "9750"
+  }, {
+    "id" : "10504",
+    "summon_pool_id" : "105",
+    "item_id" : "item_general_exp_5000_id",
+    "reward_num" : "1",
+    "weight" : "29250"
+  }, {
+    "id" : "20101",
+    "summon_pool_id" : "201",
+    "item_id" : "item_general_card_3003_id",
+    "reward_num" : "1",
+    "weight" : "10000"
+  }, {
+    "id" : "20201",
+    "summon_pool_id" : "202",
+    "item_id" : "item_general_card_2001_id",
+    "reward_num" : "1",
+    "weight" : "10000"
+  }, {
+    "id" : "20301",
+    "summon_pool_id" : "203",
+    "item_id" : "item_general_chip_4003_id",
+    "reward_num" : "1",
+    "weight" : "50000"
+  }, {
+    "id" : "20302",
+    "summon_pool_id" : "203",
+    "item_id" : "item_general_chip_4005_id",
+    "reward_num" : "1",
+    "weight" : "10000"
+  }, {
+    "id" : "20303",
+    "summon_pool_id" : "203",
+    "item_id" : "item_general_chip_4007_id",
+    "reward_num" : "1",
+    "weight" : "10000"
+  }, {
+    "id" : "20401",
+    "summon_pool_id" : "204",
+    "item_id" : "item_general_chip_3003_id",
+    "reward_num" : "3",
+    "weight" : "10000"
+  }, {
+    "id" : "20501",
+    "summon_pool_id" : "205",
+    "item_id" : "item_general_chip_2001_id",
+    "reward_num" : "3",
+    "weight" : "10000"
+  }, {
+    "id" : "20601",
+    "summon_pool_id" : "206",
+    "item_id" : "item_general_medal_zi_id",
+    "reward_num" : "1",
+    "weight" : "15000"
+  }, {
+    "id" : "20602",
+    "summon_pool_id" : "206",
+    "item_id" : "item_general_medal_lan_id",
+    "reward_num" : "1",
+    "weight" : "15000"
+  }, {
+    "id" : "20603",
+    "summon_pool_id" : "206",
+    "item_id" : "item_general_medal_lv_id",
+    "reward_num" : "2",
+    "weight" : "15000"
+  }, {
+    "id" : "20604",
+    "summon_pool_id" : "206",
+    "item_id" : "item_general_exp_1000_id",
+    "reward_num" : "2",
+    "weight" : "20000"
+  }, {
+    "id" : "100101",
+    "summon_pool_id" : "1001",
+    "item_id" : "item_general_card_4005_id",
+    "reward_num" : "1",
+    "weight" : "10000"
+  } ]
+}

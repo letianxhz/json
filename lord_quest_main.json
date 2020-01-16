@@ -1,0 +1,416 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "group_id" : "group_id@lord_quest_group.id",
+    "score" : "score@int",
+    "reward_id_1" : "reward_id_1@itemlist.id",
+    "reward_value_1" : "reward_value_1@int",
+    "reward_id_2" : "reward_id_2@itemlist.id",
+    "reward_value_2" : "reward_value_2@int"
+  },
+  "rows" : [ {
+    "id" : "任务id",
+    "group_id" : "任务组id",
+    "score" : "积分",
+    "reward_id_1" : "奖励道具id_1",
+    "reward_value_1" : "奖励道具数量_1",
+    "reward_id_2" : "奖励道具id_2",
+    "reward_value_2" : "奖励道具数量_2"
+  }, {
+    "id" : "lord_quest_group_equipment_1_1",
+    "group_id" : "lord_quest_group_equipment_1",
+    "score" : "570",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "lord_quest_group_equipment_1_2",
+    "group_id" : "lord_quest_group_equipment_1",
+    "score" : "1300",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "lord_quest_group_equipment_1_3",
+    "group_id" : "lord_quest_group_equipment_1",
+    "score" : "1950",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "lord_quest_group_equipment_1_4",
+    "group_id" : "lord_quest_group_equipment_1",
+    "score" : "4000",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "lord_quest_group_equipment_1_5",
+    "group_id" : "lord_quest_group_equipment_1",
+    "score" : "7000",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "lord_quest_group_equipment_1_6",
+    "group_id" : "lord_quest_group_equipment_1",
+    "score" : "10000",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_1_2_1",
+    "group_id" : "lord_quest_group_dragon_emblem_1_2",
+    "score" : "1250",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_1_2_2",
+    "group_id" : "lord_quest_group_dragon_emblem_1_2",
+    "score" : "2500",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_1_2_3",
+    "group_id" : "lord_quest_group_dragon_emblem_1_2",
+    "score" : "4000",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_1_2_4",
+    "group_id" : "lord_quest_group_dragon_emblem_1_2",
+    "score" : "5750",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_1_2_5",
+    "group_id" : "lord_quest_group_dragon_emblem_1_2",
+    "score" : "7700",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_1_2_6",
+    "group_id" : "lord_quest_group_dragon_emblem_1_2",
+    "score" : "10000",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "lord_quest_group_parliament_hero_1_1_1",
+    "group_id" : "lord_quest_group_parliament_hero_1_1",
+    "score" : "860",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "lord_quest_group_parliament_hero_1_1_2",
+    "group_id" : "lord_quest_group_parliament_hero_1_1",
+    "score" : "1830",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "lord_quest_group_parliament_hero_1_1_3",
+    "group_id" : "lord_quest_group_parliament_hero_1_1",
+    "score" : "3170",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "lord_quest_group_parliament_hero_1_1_4",
+    "group_id" : "lord_quest_group_parliament_hero_1_1",
+    "score" : "4900",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "lord_quest_group_parliament_hero_1_1_5",
+    "group_id" : "lord_quest_group_parliament_hero_1_1",
+    "score" : "7000",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "lord_quest_group_parliament_hero_1_1_6",
+    "group_id" : "lord_quest_group_parliament_hero_1_1",
+    "score" : "10000",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_1_1",
+    "group_id" : "lord_quest_group_equipment_gem_1_1",
+    "score" : "400",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_1_2",
+    "group_id" : "lord_quest_group_equipment_gem_1_1",
+    "score" : "700",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_1_3",
+    "group_id" : "lord_quest_group_equipment_gem_1_1",
+    "score" : "1400",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_1_4",
+    "group_id" : "lord_quest_group_equipment_gem_1_1",
+    "score" : "2700",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_1_5",
+    "group_id" : "lord_quest_group_equipment_gem_1_1",
+    "score" : "6000",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_1_6",
+    "group_id" : "lord_quest_group_equipment_gem_1_1",
+    "score" : "10000",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "lord_quest_group_building_statue_1_1",
+    "group_id" : "lord_quest_group_building_statue_1",
+    "score" : "600",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "lord_quest_group_building_statue_1_2",
+    "group_id" : "lord_quest_group_building_statue_1",
+    "score" : "1800",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "lord_quest_group_building_statue_1_3",
+    "group_id" : "lord_quest_group_building_statue_1",
+    "score" : "3000",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "lord_quest_group_building_statue_1_4",
+    "group_id" : "lord_quest_group_building_statue_1",
+    "score" : "4500",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "lord_quest_group_building_statue_1_5",
+    "group_id" : "lord_quest_group_building_statue_1",
+    "score" : "7500",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "lord_quest_group_building_statue_1_6",
+    "group_id" : "lord_quest_group_building_statue_1",
+    "score" : "10000",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_2_1",
+    "group_id" : "lord_quest_group_equipment_gem_1_2",
+    "score" : "500",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_2_2",
+    "group_id" : "lord_quest_group_equipment_gem_1_2",
+    "score" : "1500",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_2_3",
+    "group_id" : "lord_quest_group_equipment_gem_1_2",
+    "score" : "2500",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_2_4",
+    "group_id" : "lord_quest_group_equipment_gem_1_2",
+    "score" : "3500",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_2_5",
+    "group_id" : "lord_quest_group_equipment_gem_1_2",
+    "score" : "6000",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_2_6",
+    "group_id" : "lord_quest_group_equipment_gem_1_2",
+    "score" : "10000",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_2_1",
+    "group_id" : "lord_quest_group_dragon_emblem_2",
+    "score" : "100",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_2_2",
+    "group_id" : "lord_quest_group_dragon_emblem_2",
+    "score" : "200",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_2_3",
+    "group_id" : "lord_quest_group_dragon_emblem_2",
+    "score" : "300",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_2_4",
+    "group_id" : "lord_quest_group_dragon_emblem_2",
+    "score" : "500",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_2_5",
+    "group_id" : "lord_quest_group_dragon_emblem_2",
+    "score" : "800",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_2_6",
+    "group_id" : "lord_quest_group_dragon_emblem_2",
+    "score" : "2800",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_2_7",
+    "group_id" : "lord_quest_group_dragon_emblem_2",
+    "score" : "4600",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "lord_quest_group_dragon_emblem_2_8",
+    "group_id" : "lord_quest_group_dragon_emblem_2",
+    "score" : "9200",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_3_1",
+    "group_id" : "lord_quest_group_equipment_gem_1_3",
+    "score" : "500",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_3_2",
+    "group_id" : "lord_quest_group_equipment_gem_1_3",
+    "score" : "2000",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_3_3",
+    "group_id" : "lord_quest_group_equipment_gem_1_3",
+    "score" : "3500",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_3_4",
+    "group_id" : "lord_quest_group_equipment_gem_1_3",
+    "score" : "5000",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_3_5",
+    "group_id" : "lord_quest_group_equipment_gem_1_3",
+    "score" : "7500",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_3_6",
+    "group_id" : "lord_quest_group_equipment_gem_1_3",
+    "score" : "10000",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "lord_quest_group_equipment_2_1",
+    "group_id" : "lord_quest_group_equipment_2",
+    "score" : "100",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "lord_quest_group_equipment_2_2",
+    "group_id" : "lord_quest_group_equipment_2",
+    "score" : "300",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "lord_quest_group_equipment_2_3",
+    "group_id" : "lord_quest_group_equipment_2",
+    "score" : "600",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "lord_quest_group_equipment_2_4",
+    "group_id" : "lord_quest_group_equipment_2",
+    "score" : "1400",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "lord_quest_group_equipment_2_5",
+    "group_id" : "lord_quest_group_equipment_2",
+    "score" : "1750",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "lord_quest_group_equipment_2_6",
+    "group_id" : "lord_quest_group_equipment_2",
+    "score" : "2100",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "lord_quest_group_equipment_2_7",
+    "group_id" : "lord_quest_group_equipment_2",
+    "score" : "4400",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "lord_quest_group_equipment_2_8",
+    "group_id" : "lord_quest_group_equipment_2",
+    "score" : "6900",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_4_1",
+    "group_id" : "lord_quest_group_equipment_gem_1_4",
+    "score" : "100",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_4_2",
+    "group_id" : "lord_quest_group_equipment_gem_1_4",
+    "score" : "300",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_4_3",
+    "group_id" : "lord_quest_group_equipment_gem_1_4",
+    "score" : "600",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_4_4",
+    "group_id" : "lord_quest_group_equipment_gem_1_4",
+    "score" : "1200",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_4_5",
+    "group_id" : "lord_quest_group_equipment_gem_1_4",
+    "score" : "2100",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_4_6",
+    "group_id" : "lord_quest_group_equipment_gem_1_4",
+    "score" : "6300",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_4_7",
+    "group_id" : "lord_quest_group_equipment_gem_1_4",
+    "score" : "13000",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "lord_quest_group_equipment_gem_1_4_8",
+    "group_id" : "lord_quest_group_equipment_gem_1_4",
+    "score" : "20000",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  } ]
+}

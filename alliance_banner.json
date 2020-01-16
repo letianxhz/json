@@ -1,0 +1,81 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "type" : "type@int",
+    "banner_id" : "banner_id@string",
+    "icon" : "icon@string^c",
+    "prestige" : "prestige@int",
+    "priority" : "priority@int^c"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "type" : "类型",
+    "banner_id" : "旗帜id",
+    "icon" : "图标",
+    "prestige" : "解锁需要声望",
+    "priority" : "优先级"
+  }, {
+    "id" : "alliance_banner_1_10",
+    "type" : "1",
+    "banner_id" : "10",
+    "icon" : "icon_alliance_flag_11",
+    "prestige" : "0",
+    "priority" : "1"
+  }, {
+    "id" : "alliance_banner_1_11",
+    "type" : "1",
+    "banner_id" : "11",
+    "icon" : "icon_alliance_flag_12",
+    "prestige" : "0",
+    "priority" : "4"
+  }, {
+    "id" : "alliance_banner_1_12",
+    "type" : "1",
+    "banner_id" : "12",
+    "icon" : "icon_alliance_flag_13",
+    "prestige" : "0",
+    "priority" : "7"
+  }, {
+    "id" : "alliance_banner_2_10",
+    "type" : "2",
+    "banner_id" : "10",
+    "icon" : "icon_alliance_shield_11 ",
+    "prestige" : "0",
+    "priority" : "2"
+  }, {
+    "id" : "alliance_banner_2_11",
+    "type" : "2",
+    "banner_id" : "11",
+    "icon" : "icon_alliance_shield_12",
+    "prestige" : "0",
+    "priority" : "5"
+  }, {
+    "id" : "alliance_banner_2_12",
+    "type" : "2",
+    "banner_id" : "12",
+    "icon" : "icon_alliance_shield_13",
+    "prestige" : "0",
+    "priority" : "8"
+  }, {
+    "id" : "alliance_banner_3_10",
+    "type" : "3",
+    "banner_id" : "10",
+    "icon" : "icon_alliance_pattern_11",
+    "prestige" : "0",
+    "priority" : "3"
+  }, {
+    "id" : "alliance_banner_3_11",
+    "type" : "3",
+    "banner_id" : "11",
+    "icon" : "icon_alliance_pattern_12",
+    "prestige" : "0",
+    "priority" : "6"
+  }, {
+    "id" : "alliance_banner_3_12",
+    "type" : "3",
+    "banner_id" : "12",
+    "icon" : "icon_alliance_pattern_13",
+    "prestige" : "0",
+    "priority" : "9"
+  } ]
+}

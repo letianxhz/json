@@ -1,0 +1,38 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "quality" : "quality@string",
+    "name" : "name@string",
+    "desc" : "desc@string",
+    "detail" : "detail@string",
+    "icon" : "icon@string",
+    "object" : "object@string"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "quality" : "品质",
+    "name" : "战术名称",
+    "desc" : "战术简介",
+    "detail" : "战术详情",
+    "icon" : "战术图标",
+    "object" : "生效对象图片"
+  }, {
+    "id" : "campaign_tactic_1",
+    "quality" : "1"
+  }, {
+    "id" : "campaign_tactic_2",
+    "quality" : "2"
+  }, {
+    "id" : "campaign_tactic_3",
+    "quality" : "3"
+  }, {
+    "id" : "campaign_tactic_4",
+    "quality" : "4"
+  }, {
+    "id" : "campaign_tactic_5",
+    "quality" : "5"
+  }, {
+    "id" : "campaign_tactic_6",
+    "quality" : "1"
+  } ]
+}

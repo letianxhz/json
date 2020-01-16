@@ -1,0 +1,548 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "title" : "title@string",
+    "description" : "description@string"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "title" : "标题",
+    "description" : "描述"
+  }, {
+    "id" : "help_dragon_skills",
+    "title" : "help_dragon_skills_info_title",
+    "description" : "help_dragon_skills_info_description"
+  }, {
+    "id" : "help_dragon_assign_skills",
+    "title" : "help_dragon_assign_skills_info_title",
+    "description" : "help_dragon_assign_skills_info_description"
+  }, {
+    "id" : "help_wishing_well",
+    "title" : "help_wishing_well_info_title",
+    "description" : "help_wishing_well_info_description"
+  }, {
+    "id" : "help_alliance_store",
+    "title" : "help_alliance_store_info_title",
+    "description" : "help_alliance_store_info_description"
+  }, {
+    "id" : "help_alliance_store_item_list",
+    "title" : "help_alliance_store_item_list_info_title",
+    "description" : "help_alliance_store_item_list_info_description"
+  }, {
+    "id" : "help_alliance_tech",
+    "title" : "help_alliance_tech_info_title",
+    "description" : "help_alliance_tech_info_description"
+  }, {
+    "id" : "help_alliance_help",
+    "title" : "help_alliance_help_info_title",
+    "description" : "help_alliance_help_info_description"
+  }, {
+    "id" : "help_alliance_reinforce",
+    "title" : "help_alliance_reinforce_info_title",
+    "description" : "help_alliance_reinforce_info_description"
+  }, {
+    "id" : "help_alliance_war_rally",
+    "title" : "help_alliance_war_rally_info_title",
+    "description" : "help_alliance_war_rally_info_description"
+  }, {
+    "id" : "help_alliance_trading",
+    "title" : "help_alliance_trading_info_title",
+    "description" : "help_alliance_trading_info_description"
+  }, {
+    "id" : "help_resource_building",
+    "title" : "help_resource_building_info_title",
+    "description" : "help_resource_building_info_description"
+  }, {
+    "id" : "help_military_tent",
+    "title" : "help_military_tent_info_title",
+    "description" : "help_military_tent_info_description"
+  }, {
+    "id" : "help_hospital_info",
+    "title" : "help_hospital_info_title",
+    "description" : "help_hospital_info_description"
+  }, {
+    "id" : "help_hospital_heal",
+    "title" : "help_hospital_heal_info_title",
+    "description" : "help_hospital_heal_info_description"
+  }, {
+    "id" : "help_vip",
+    "title" : "help_vip_info_title",
+    "description" : "vip_points_description"
+  }, {
+    "id" : "help_daily_event_stage_rank",
+    "title" : "help_daily_event_stage_rank_info_title",
+    "description" : "help_daily_event_stage_rank_info_description"
+  }, {
+    "id" : "help_daily_event_total_rank",
+    "title" : "help_daily_event_total_rank_info_title",
+    "description" : "help_daily_event_total_rank_info_description"
+  }, {
+    "id" : "help_daily_event_earn_points",
+    "title" : "help_daily_event_earn_points_info_title",
+    "description" : "help_daily_event_earn_points_info_description"
+  }, {
+    "id" : "help_daily_event_integral_goal",
+    "title" : "help_daily_event_integral_goal_info_title",
+    "description" : "help_daily_event_integral_goal_info_description"
+  }, {
+    "id" : "help_daily_rewards",
+    "title" : "help_daily_rewards_info_title",
+    "description" : "help_daily_rewards_info_description"
+  }, {
+    "id" : "help_alliance_overview",
+    "title" : "help_alliance_overview_info_title",
+    "description" : "help_alliance_overview_info_description"
+  }, {
+    "id" : "help_alliance_donation_rankings",
+    "title" : "help_alliance_donation_rankings_info_title",
+    "description" : "help_alliance_donation_rankings_info_description"
+  }, {
+    "id" : "help_alliance_fort",
+    "title" : "help_alliance_territory_title",
+    "description" : "help_alliance_territory_description"
+  }, {
+    "id" : "help_daily_delivery",
+    "title" : "help_daily_delivery_title",
+    "description" : "help_daily_delivery_description"
+  }, {
+    "id" : "help_fallen_knight",
+    "title" : "help_event_fallen_knight_title",
+    "description" : "help_event_fallen_knight_description"
+  }, {
+    "id" : "help_casino_roulette",
+    "title" : "help_casino_roulette_title",
+    "description" : "help_casino_roulette_description"
+  }, {
+    "id" : "help_casino_chest",
+    "title" : "help_casino_chest_title",
+    "description" : "help_casino_chest_description"
+  }, {
+    "id" : "help_alliance_storehouse",
+    "title" : "help_alliance_storehouse_title",
+    "description" : "help_alliance_storehouse_description"
+  }, {
+    "id" : "help_alliance_hospital",
+    "title" : "help_alliance_hospital_title",
+    "description" : "help_alliance_hospital_description"
+  }, {
+    "id" : "help_recharge_return",
+    "title" : "help_recharge_return_title",
+    "description" : "help_recharge_return_description"
+  }, {
+    "id" : "help_alliance_altar",
+    "title" : "help_alliance_altar_title",
+    "description" : "help_alliance_altar_description"
+  }, {
+    "id" : "help_jackpot",
+    "title" : "help_jackpot_title",
+    "description" : "help_jackpot_description"
+  }, {
+    "id" : "help_event_solo",
+    "title" : "help_event_solo_title",
+    "description" : "help_event_solo_description"
+  }, {
+    "id" : "help_throne",
+    "title" : "help_throne_title",
+    "description" : "help_throne_description"
+  }, {
+    "id" : "help_throne_royal_package",
+    "title" : "help_throne_royal_package_title",
+    "description" : "help_throne_royal_package_description"
+  }, {
+    "id" : "help_titles",
+    "title" : "help_titles_title",
+    "description" : "help_titles_description"
+  }, {
+    "id" : "help_auction_hidden",
+    "title" : "help_auction_hidden_title",
+    "description" : "help_auction_hidden_description"
+  }, {
+    "id" : "help_auction_normal",
+    "title" : "help_auction_normal_title",
+    "description" : "help_auction_normal_description"
+  }, {
+    "id" : "help_artifact",
+    "title" : "help_artifact_title",
+    "description" : "help_artifact_description"
+  }, {
+    "id" : "help_dragon_skill_enhance",
+    "title" : "help_dragon_skill_enhance_title",
+    "description" : "help_dragon_skill_enhance_description"
+  }, {
+    "id" : "help_event_lucky_draw",
+    "title" : "help_event_lucky_draw_title",
+    "description" : "help_event_lucky_draw_description"
+  }, {
+    "id" : "help_dragon_knight_skills",
+    "title" : "help_dragon_knight_skills_title",
+    "description" : "help_dragon_knight_skills_description"
+  }, {
+    "id" : "help_treasure_map",
+    "title" : "help_treasure_map_title",
+    "description" : "help_treasure_map_description"
+  }, {
+    "id" : "help_dragon_knight_dungeon",
+    "title" : "help_dragon_knight_dungeon_title",
+    "description" : "help_dragon_knight_dungeon_description"
+  }, {
+    "id" : "help_equipment_quick_equip",
+    "title" : "help_equipment_quick_equip_title",
+    "description" : "help_equipment_quick_equip_description"
+  }, {
+    "id" : "help_tavern_lucky_archer",
+    "title" : "help_tavern_lucky_archer_title",
+    "description" : "help_tavern_lucky_archer_description"
+  }, {
+    "id" : "help_forge_refine_gemstone",
+    "title" : "help_forge_refine_gemstone_title",
+    "description" : "help_forge_refine_gemstone_description"
+  }, {
+    "id" : "help_forge_embed_gemstone",
+    "title" : "help_forge_embed_gemstone_title",
+    "description" : "help_forge_embed_gemstone_description"
+  }, {
+    "id" : "help_equipment_set_enhancement",
+    "title" : "help_equipment_set_enhancement_title",
+    "description" : "help_equipment_set_enhancement_description"
+  }, {
+    "id" : "help_hero_council",
+    "title" : "help_hero_council_title",
+    "description" : "help_hero_council_description"
+  }, {
+    "id" : "help_hero_summon",
+    "title" : "help_hero_summon_title",
+    "description" : "help_hero_summon_description"
+  }, {
+    "id" : "help_throne_royal_package_rewards",
+    "title" : "help_throne_royal_package_rewards_title",
+    "description" : "help_throne_royal_package_rewards_description"
+  }, {
+    "id" : "help_throne_treasury",
+    "title" : "help_throne_treasury_title",
+    "description" : "help_throne_treasury_description"
+  }, {
+    "id" : "help_talents_quick_talents",
+    "title" : "help_talents_quick_talents_title",
+    "description" : "help_talents_quick_talents_description"
+  }, {
+    "id" : "help_subscription",
+    "title" : "help_subscription_title",
+    "description" : "help_subscription_description"
+  }, {
+    "id" : "help_subscription_apple",
+    "title" : "help_subscription_title",
+    "description" : "help_subscription_apple_description"
+  }, {
+    "id" : "help_dragon_knight_arena",
+    "title" : "help_dragon_knight_arena_title",
+    "description" : "help_dragon_knight_arena_description"
+  }, {
+    "id" : "help_tavern_dice",
+    "title" : "help_tavern_dice_title",
+    "description" : "help_tavern_dice_description"
+  }, {
+    "id" : "help_forge_dk_embed_runestone",
+    "title" : "help_forge_dk_embed_runestone_title",
+    "description" : "help_forge_dk_embed_runestone_description"
+  }, {
+    "id" : "help_forge_dk_refine_runestone",
+    "title" : "help_forge_dk_refine_runestone_title",
+    "description" : "help_forge_dk_refine_runestone_description"
+  }, {
+    "id" : "help_summon_rewards_altar",
+    "title" : "help_summon_rewards_altar_title",
+    "description" : "help_summon_rewards_altar_description"
+  }, {
+    "id" : "help_alliance_giftbox",
+    "title" : "help_alliance_giftbox_title",
+    "description" : "help_alliance_giftbox_description"
+  }, {
+    "id" : "help_alliance_giftbox_personal",
+    "title" : "help_alliance_giftbox_personal_title",
+    "description" : "help_alliance_giftbox_personal_description"
+  }, {
+    "id" : "help_alliance_giftbox_storage",
+    "title" : "help_alliance_giftbox_storage_title",
+    "description" : "help_alliance_giftbox_storage_description"
+  }, {
+    "id" : "help_fire_kingdom",
+    "title" : "help_fire_kingdom_title",
+    "description" : "help_fire_kingdom_description"
+  }, {
+    "id" : "help_exchange_hall",
+    "title" : "help_exchange_hall_title",
+    "description" : "help_exchange_hall_description"
+  }, {
+    "id" : "help_event_1_year_tournament",
+    "title" : "help_event_1_year_tournament_title",
+    "description" : "help_event_1_year_tournament_description"
+  }, {
+    "id" : "help_world_auction",
+    "title" : "help_world_auction_title",
+    "description" : "help_world_auction_description"
+  }, {
+    "id" : "help_worldboss_reward",
+    "title" : "help_worldboss_reward_title",
+    "description" : "help_worldboss_reward_description"
+  }, {
+    "id" : "help_construction_prestige",
+    "title" : "construction_prestige_title",
+    "description" : "help_prestige_description"
+  }, {
+    "id" : "help_trial",
+    "title" : "help_trial_title",
+    "description" : "help_trial_description"
+  }, {
+    "id" : "help_trial_ranking",
+    "title" : "help_trial_ranking_title",
+    "description" : "help_trial_ranking_description"
+  }, {
+    "id" : "help_alliance_warfare_description",
+    "title" : "help_alliance_warfare_title",
+    "description" : "help_alliance_warfare_description"
+  }, {
+    "id" : "help_dragon_knight_raid_enter",
+    "title" : "help_dragon_knight_raid_enter_title",
+    "description" : "help_dragon_knight_raid_enter_description"
+  }, {
+    "id" : "help_dragon_knight_raid_vip",
+    "title" : "help_dragon_knight_raid_vip_title",
+    "description" : "help_dragon_knight_raid_vip_description"
+  }, {
+    "id" : "help_tavern_chance",
+    "title" : "help_tavern_chance_title",
+    "description" : "help_tavern_chance_description"
+  }, {
+    "id" : "help_magic_tower",
+    "title" : "help_magic_tower_title",
+    "description" : "help_magic_tower_description"
+  }, {
+    "id" : "help_magic_tower_ranking",
+    "title" : "help_tower_ranking_title",
+    "description" : "help_tower_ranking_description"
+  }, {
+    "id" : "help_alliance_hero_hall",
+    "title" : "id_help",
+    "description" : "help_alliance_hero_hall_description"
+  }, {
+    "id" : "help_alliance_hero_hall_ceremony",
+    "title" : "id_help",
+    "description" : "help_alliance_hero_hall_ceremony_description"
+  }, {
+    "id" : "help_alliance_hero_hall_accomplishments",
+    "title" : "id_help",
+    "description" : "help_alliance_hero_hall_accomplishments_description"
+  }, {
+    "id" : "help_alliance_hero_chest",
+    "title" : "id_help",
+    "description" : "help_alliance_hero_chest_description"
+  }, {
+    "id" : "help_alliance_hero_hall_store",
+    "title" : "id_help",
+    "description" : "help_alliance_hero_hall_store_description"
+  }, {
+    "id" : "help_kingdom_task",
+    "title" : "help_kingdom_task_title",
+    "description" : "help_kingdom_task_description"
+  }, {
+    "id" : "help_verification_jigsaw",
+    "title" : "help_verification_jigsaw_title",
+    "description" : "help_verification_jigsaw_description"
+  }, {
+    "id" : "help_verification_phone",
+    "title" : "help_verification_phone_title",
+    "description" : "help_verification_phone_description"
+  }, {
+    "id" : "help_dragon_shadow",
+    "title" : "help_dragon_shadow_title",
+    "description" : "help_dragon_shadow_description"
+  }, {
+    "id" : "help_dragon_emblem_embed",
+    "title" : "help_dragon_emblem_embed_title",
+    "description" : "help_dragon_emblem_embed_description"
+  }, {
+    "id" : "help_sanctum",
+    "title" : "help_sanctum_title",
+    "description" : "help_sanctum_description"
+  }, {
+    "id" : "help_event_prestige",
+    "title" : "help_event_prestige_title",
+    "description" : "help_event_prestige_description"
+  }, {
+    "id" : "help_event_return",
+    "title" : "help_event_return_title",
+    "description" : "help_event_return_description"
+  }, {
+    "id" : "help_event_return_progress",
+    "title" : "help_event_return_progress_title",
+    "description" : "help_event_return_progress_description"
+  }, {
+    "id" : "help_kingdom_conquest",
+    "title" : "id_uppercase_help",
+    "description" : "help_kingdom_conquest_description"
+  }, {
+    "id" : "help_kingdom_conquest_support",
+    "title" : "id_uppercase_help",
+    "description" : "help_kingdom_conquest_support_description"
+  }, {
+    "id" : "help_kingdom_conquest_signup",
+    "title" : "id_uppercase_help",
+    "description" : "help_kingdom_conquest_signup_description"
+  }, {
+    "id" : "help_destiny_seal",
+    "title" : "help_destiny_seal_title",
+    "description" : "help_destiny_seal_description"
+  }, {
+    "id" : "help_service_announcement",
+    "title" : "settings_uppercase_terms_of_service",
+    "description" : "settings_terms_of_service_description"
+  }, {
+    "id" : "help_secret_announcement",
+    "title" : "settings_uppercase_privacy_policy",
+    "description" : "settings_privacy_policy_description"
+  }, {
+    "id" : "help_event_relocate",
+    "title" : "help_event_relocate_title",
+    "description" : "help_event_relocate_description"
+  }, {
+    "id" : "help_event_relocate_return",
+    "title" : "help_event_relocate_return_title",
+    "description" : "help_event_relocate_return_description"
+  }, {
+    "id" : "help_item_trade",
+    "title" : "help_item_trade_title",
+    "description" : "help_item_trade_description"
+  }, {
+    "id" : "help_throne_invasion",
+    "title" : "help_throne_invasion_title",
+    "description" : "help_throne_invasion_description"
+  }, {
+    "id" : "help_embed_remove_statue",
+    "title" : "help_embed_remove_statue_title",
+    "description" : "help_embed_remove_statue_description"
+  }, {
+    "id" : "help_building_statue",
+    "title" : "help_building_statue_title",
+    "description" : "help_building_statue_description"
+  }, {
+    "id" : "help_smith_blessing",
+    "title" : "help_smith_blessing_title",
+    "description" : "help_smith_blessing_description"
+  }, {
+    "id" : "help_event_limits",
+    "title" : "help_event_limits_title",
+    "description" : "help_event_limits_description"
+  }, {
+    "id" : "help_activity_seven_day",
+    "title" : "event_seven_days_mission",
+    "description" : "help_seven_days_mission"
+  }, {
+    "id" : "help_alliance_gift",
+    "title" : "help_alliance_gift_title",
+    "description" : "help_alliance_gift_description"
+  }, {
+    "id" : "help_raid_enemy",
+    "title" : "raid_enemy_title",
+    "description" : "raid_enemy_description"
+  }, {
+    "id" : "help_raid_enemy_get_stronger",
+    "title" : "raid_enemy_title",
+    "description" : "raid_enemy_get_stronger_tips"
+  }, {
+    "id" : "help_wonder_pve_new",
+    "title" : "help_throne_warfare_title",
+    "description" : "help_throne_warfare_description_for_new_kingdom"
+  }, {
+    "id" : "help_wonder_pve_old",
+    "title" : "help_throne_warfare_title",
+    "description" : "help_throne_warfare_description_for_old_kingdom"
+  }, {
+    "id" : "help_avalon_artifact",
+    "title" : "help_avalon_artifact_title",
+    "description" : "help_avalon_artifact_description"
+  }, {
+    "id" : "help_daily_rebate",
+    "title" : "help_daily_rebate_title",
+    "description" : "help_daily_rebate_description"
+  }, {
+    "id" : "help_seven_days_login",
+    "title" : "help_seven_days_login_title",
+    "description" : "help_seven_days_login_description"
+  }, {
+    "id" : "help_seven_days_mission",
+    "title" : "help_seven_days_mission_title",
+    "description" : "help_seven_days_mission_description"
+  }, {
+    "id" : "help_personal_activity",
+    "title" : "help_personal_activity_title",
+    "description" : "help_personal_activity_description"
+  }, {
+    "id" : "help_stronghold_appearance",
+    "title" : "help_stronghold_appearance_name",
+    "description" : "help_stronghold_appearance_description"
+  }, {
+    "id" : "help_daily_rewards_new",
+    "title" : "help_daily_rewards_info_title",
+    "description" : "help_daily_rewards_new_description"
+  }, {
+    "id" : "help_event_merlin_trials_ranking",
+    "title" : "help_event_merlin_trials_ranking_title",
+    "description" : "help_event_merlin_trials_ranking_description"
+  }, {
+    "id" : "help_event_season_pass_exp_bonus",
+    "title" : "help_event_season_pass_exp_bonus_title",
+    "description" : "help_event_season_pass_exp_bonus_description"
+  }, {
+    "id" : "help_event_season_pass",
+    "title" : "help_event_season_pass_title",
+    "description" : "help_event_season_pass_description"
+  }, {
+    "id" : "help_event_activity_pve_1",
+    "title" : "event_kill_boss_points_rule_title",
+    "description" : "event_kill_boss_points_rule_1"
+  }, {
+    "id" : "help_event_activity_pve_2",
+    "title" : "event_kill_boss_points_rule_title",
+    "description" : "event_kill_boss_points_rule_2"
+  }, {
+    "id" : "help_event_seven_day_power",
+    "title" : "help_event_seven_day_power_title",
+    "description" : "help_event_seven_day_power_description"
+  }, {
+    "id" : "help_alliance_login_giftbox",
+    "title" : "help_alliance_login_giftbox_title",
+    "description" : "help_alliance_login_giftbox_description"
+  }, {
+    "id" : "help_war_symphony_tactics",
+    "title" : "war_handbook_strategy_rule",
+    "description" : "war_handbook_strategy_rule_description"
+  }, {
+    "id" : "help_tactics_rule",
+    "title" : "help_tactics_rule_title",
+    "description" : "help_tactics_rule_description"
+  }, {
+    "id" : "help_event_hurricane_action",
+    "title" : "help_event_hurricane_action_title",
+    "description" : "help_event_hurricane_action_description"
+  }, {
+    "id" : "help_general_defend_city",
+    "title" : "walls_information_name",
+    "description" : "walls_information_description"
+  }, {
+    "id" : "help_event_harvest_season_instruction",
+    "title" : "id_help",
+    "description" : "event_harvest_season_description_1"
+  }, {
+    "id" : "help_event_activity_pve_christmas_01",
+    "title" : "id_help",
+    "description" : "event_christmas_pve_monster_background"
+  }, {
+    "id" : "help_event_activity_pve_christmas_02",
+    "title" : "id_help",
+    "description" : "event_christmas_pve_boss_01_description"
+  }, {
+    "id" : "help_event_activity_pve_christmas_03",
+    "title" : "id_help",
+    "description" : "event_christmas_pve_boss_02_description"
+  } ]
+}

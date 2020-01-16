@@ -1,0 +1,86 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "rank_min" : "rank_min@int",
+    "rank_max" : "rank_max@int",
+    "reward_id_1" : "reward_id_1@itemlist.id",
+    "reward_value_1" : "reward_value_1@int",
+    "reward_id_2" : "reward_id_2@itemlist.id",
+    "reward_value_2" : "reward_value_2@int",
+    "reward_id_3" : "reward_id_3@itemlist.id",
+    "reward_value_3" : "reward_value_3@int",
+    "reward_id_4" : "reward_id_4@itemlist.id",
+    "reward_value_4" : "reward_value_4@int",
+    "reward_id_5" : "reward_id_5@itemlist.id",
+    "reward_value_5" : "reward_value_5@int"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "rank_min" : "排位下限",
+    "rank_max" : "排位上限",
+    "reward_id_1" : "奖励道具id_1",
+    "reward_value_1" : "奖励道具数量_1",
+    "reward_id_2" : "奖励道具id_2",
+    "reward_value_2" : "奖励道具数量_2",
+    "reward_id_3" : "奖励道具id_3",
+    "reward_value_3" : "奖励道具数量_3",
+    "reward_id_4" : "奖励道具id_4",
+    "reward_value_4" : "奖励道具数量_4",
+    "reward_id_5" : "奖励道具id_5",
+    "reward_value_5" : "奖励道具数量_5"
+  }, {
+    "id" : "1",
+    "rank_min" : "1",
+    "rank_max" : "1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "2",
+    "rank_min" : "2",
+    "rank_max" : "2",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "2"
+  }, {
+    "id" : "3",
+    "rank_min" : "3",
+    "rank_max" : "3",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "3"
+  }, {
+    "id" : "4",
+    "rank_min" : "4",
+    "rank_max" : "10",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "4"
+  }, {
+    "id" : "5",
+    "rank_min" : "11",
+    "rank_max" : "50",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "5"
+  }, {
+    "id" : "6",
+    "rank_min" : "51",
+    "rank_max" : "100",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "6"
+  }, {
+    "id" : "7",
+    "rank_min" : "101",
+    "rank_max" : "500",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "7"
+  }, {
+    "id" : "8",
+    "rank_min" : "501",
+    "rank_max" : "1000",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "8"
+  }, {
+    "id" : "9",
+    "rank_min" : "1001",
+    "rank_max" : "2000",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "9"
+  } ]
+}

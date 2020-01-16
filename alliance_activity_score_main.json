@@ -1,0 +1,44 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "alliance_activity_id" : "alliance_activity_id@activity_main.id",
+    "name" : "name@string",
+    "duration" : "duration@int"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "alliance_activity_id" : "联盟活动id",
+    "name" : "名称",
+    "duration" : "持续时间"
+  }, {
+    "id" : "alliance_activity_score_main_1",
+    "alliance_activity_id" : "alliance_activity_1",
+    "name" : "event_alliance_gathering_name",
+    "duration" : "48"
+  }, {
+    "id" : "alliance_activity_score_main_2",
+    "alliance_activity_id" : "alliance_activity_1",
+    "name" : "event_alliance_upgrade_name",
+    "duration" : "48"
+  }, {
+    "id" : "alliance_activity_score_main_3",
+    "alliance_activity_id" : "alliance_activity_1",
+    "name" : "event_alliance_monster_kill_name",
+    "duration" : "24"
+  }, {
+    "id" : "alliance_activity_score_main_4",
+    "alliance_activity_id" : "alliance_activity_1",
+    "name" : "event_alliance_troop_training_name",
+    "duration" : "48"
+  }, {
+    "id" : "alliance_activity_score_main_5",
+    "alliance_activity_id" : "alliance_activity_1",
+    "name" : "event_alliance_troop_kill_name",
+    "duration" : "0"
+  }, {
+    "id" : "alliance_activity_score_main_6",
+    "alliance_activity_id" : "alliance_activity_1",
+    "name" : "event_alliance_fortune_teller_name",
+    "duration" : "0"
+  } ]
+}

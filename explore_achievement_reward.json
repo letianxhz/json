@@ -1,0 +1,58 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "achievement_point_limit" : "achievement_point_limit@int",
+    "chapter_id" : "chapter_id@explore_chapter.id",
+    "reward_id_1" : "reward_id_1@itemlist.id",
+    "reward_value_1" : "reward_value_1@int",
+    "reward_id_2" : "reward_id_2@itemlist.id",
+    "reward_value_2" : "reward_value_2@int",
+    "reward_id_3" : "reward_id_3@itemlist.id",
+    "reward_value_3" : "reward_value_3@int",
+    "reward_id_4" : "reward_id_4@itemlist.id",
+    "reward_value_4" : "reward_value_4@int"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "achievement_point_limit" : "成就点数",
+    "chapter_id" : "探索主题",
+    "reward_id_1" : "道具1",
+    "reward_value_1" : "道具1数量",
+    "reward_id_2" : "道具2",
+    "reward_value_2" : "道具2数量",
+    "reward_id_3" : "道具3",
+    "reward_value_3" : "道具3数量",
+    "reward_id_4" : "道具4",
+    "reward_value_4" : "道具4数量"
+  }, {
+    "id" : "1",
+    "achievement_point_limit" : "20",
+    "chapter_id" : "explore_1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "2",
+    "achievement_point_limit" : "40",
+    "chapter_id" : "explore_1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "3",
+    "achievement_point_limit" : "60",
+    "chapter_id" : "explore_1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "4",
+    "achievement_point_limit" : "80",
+    "chapter_id" : "explore_1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "5",
+    "achievement_point_limit" : "100",
+    "chapter_id" : "explore_1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  } ]
+}

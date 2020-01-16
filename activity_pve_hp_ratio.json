@@ -1,0 +1,164 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "activity_id" : "activity_id@activity_pve_main.id",
+    "time" : "time@int",
+    "ratio" : "ratio@string"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "activity_id" : "活动id",
+    "time" : "开服时间",
+    "ratio" : "生命系数"
+  }, {
+    "id" : "1",
+    "activity_id" : "activity_pve_1",
+    "time" : "6",
+    "ratio" : "0.95"
+  }, {
+    "id" : "2",
+    "activity_id" : "activity_pve_1",
+    "time" : "7",
+    "ratio" : "0.95"
+  }, {
+    "id" : "3",
+    "activity_id" : "activity_pve_1",
+    "time" : "8",
+    "ratio" : "0.96"
+  }, {
+    "id" : "4",
+    "activity_id" : "activity_pve_1",
+    "time" : "9",
+    "ratio" : "0.96"
+  }, {
+    "id" : "5",
+    "activity_id" : "activity_pve_1",
+    "time" : "10",
+    "ratio" : "0.97"
+  }, {
+    "id" : "6",
+    "activity_id" : "activity_pve_1",
+    "time" : "11",
+    "ratio" : "0.98"
+  }, {
+    "id" : "7",
+    "activity_id" : "activity_pve_1",
+    "time" : "12",
+    "ratio" : "0.99"
+  }, {
+    "id" : "8",
+    "activity_id" : "activity_pve_1",
+    "time" : "13",
+    "ratio" : "1"
+  }, {
+    "id" : "9",
+    "activity_id" : "activity_pve_1",
+    "time" : "14",
+    "ratio" : "1.01"
+  }, {
+    "id" : "10",
+    "activity_id" : "activity_pve_1",
+    "time" : "15",
+    "ratio" : "1.03"
+  }, {
+    "id" : "11",
+    "activity_id" : "activity_pve_2",
+    "time" : "30",
+    "ratio" : "3.71"
+  }, {
+    "id" : "12",
+    "activity_id" : "activity_pve_2",
+    "time" : "60",
+    "ratio" : "6.42"
+  }, {
+    "id" : "13",
+    "activity_id" : "activity_pve_2",
+    "time" : "90",
+    "ratio" : "9.13"
+  }, {
+    "id" : "14",
+    "activity_id" : "activity_pve_2",
+    "time" : "120",
+    "ratio" : "11.85"
+  }, {
+    "id" : "15",
+    "activity_id" : "activity_pve_2",
+    "time" : "180",
+    "ratio" : "17.27"
+  }, {
+    "id" : "16",
+    "activity_id" : "activity_pve_2",
+    "time" : "240",
+    "ratio" : "22.69"
+  }, {
+    "id" : "17",
+    "activity_id" : "activity_pve_2",
+    "time" : "300",
+    "ratio" : "28.12"
+  }, {
+    "id" : "18",
+    "activity_id" : "activity_pve_2",
+    "time" : "360",
+    "ratio" : "33.54"
+  }, {
+    "id" : "19",
+    "activity_id" : "activity_pve_2",
+    "time" : "480",
+    "ratio" : "44.4"
+  }, {
+    "id" : "20",
+    "activity_id" : "activity_pve_2",
+    "time" : "600",
+    "ratio" : "55.25"
+  }, {
+    "id" : "21",
+    "activity_id" : "activity_pve_christmas",
+    "time" : "30",
+    "ratio" : "3.71"
+  }, {
+    "id" : "22",
+    "activity_id" : "activity_pve_christmas",
+    "time" : "60",
+    "ratio" : "6.42"
+  }, {
+    "id" : "23",
+    "activity_id" : "activity_pve_christmas",
+    "time" : "90",
+    "ratio" : "9.13"
+  }, {
+    "id" : "24",
+    "activity_id" : "activity_pve_christmas",
+    "time" : "120",
+    "ratio" : "11.85"
+  }, {
+    "id" : "25",
+    "activity_id" : "activity_pve_christmas",
+    "time" : "180",
+    "ratio" : "17.27"
+  }, {
+    "id" : "26",
+    "activity_id" : "activity_pve_christmas",
+    "time" : "240",
+    "ratio" : "22.69"
+  }, {
+    "id" : "27",
+    "activity_id" : "activity_pve_christmas",
+    "time" : "300",
+    "ratio" : "28.12"
+  }, {
+    "id" : "28",
+    "activity_id" : "activity_pve_christmas",
+    "time" : "360",
+    "ratio" : "33.54"
+  }, {
+    "id" : "29",
+    "activity_id" : "activity_pve_christmas",
+    "time" : "480",
+    "ratio" : "44.4"
+  }, {
+    "id" : "30",
+    "activity_id" : "activity_pve_christmas",
+    "time" : "600",
+    "ratio" : "55.25"
+  } ]
+}

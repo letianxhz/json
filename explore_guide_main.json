@@ -1,0 +1,398 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "explore_guide" : "explore_guide@explore_guide.id",
+    "grid" : "grid@int",
+    "status" : "status@string",
+    "type" : "type@string",
+    "monster" : "monster@explore_monster.id",
+    "boss" : "boss@explore_boss.id",
+    "elements" : "elements@explore_theme_elements.id",
+    "drop_group" : "drop_group@drop_group.id",
+    "explore_itemlist" : "explore_itemlist@explore_itemlist.id",
+    "explore_itemlist_value" : "explore_itemlist_value@int",
+    "key" : "key@int"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "explore_guide" : "所属的guide_id",
+    "grid" : "格子",
+    "status" : "    -- 未探开\n Unexplored = 0,\n    -- 未翻开\n    Explored = 1,\n    -- 已翻开\n    Active = 2,\n    -- 已清理\n    Clean = 3,\n    -- 默认翻开但没有通路: 远程怪\n    Deactive = 4",
+    "type" : "  -怪物\n Monster = 1,\n\n    --道具\n    Item = 2,\n\n    --空地\n    Blank = 3,\n\n    --深坑\n    Ruin = 4,\n\n    -- 起点/终点\n    Door = 5,\n    -- 钥匙\n    Key = 6,\n\n    --boss\n    Boss = 7,\n    -- boss关联格\n    BossRefer = 8,\n    -- 主题元素\n    Theme = 9\n    -- 怪物and道具奖励\n     = 99",
+    "monster" : "怪物id",
+    "boss" : "bossid",
+    "elements" : "主题元素id",
+    "drop_group" : "slg道具id",
+    "explore_itemlist" : "explore道具id",
+    "explore_itemlist_value" : "explore道具数量",
+    "key" : "是否有钥匙"
+  }, {
+    "id" : "1",
+    "explore_guide" : "explore_guide_1",
+    "grid" : "0"
+  }, {
+    "id" : "2",
+    "explore_guide" : "explore_guide_1",
+    "grid" : "1"
+  }, {
+    "id" : "3",
+    "explore_guide" : "explore_guide_1",
+    "grid" : "2",
+    "status" : "2",
+    "type" : "5"
+  }, {
+    "id" : "4",
+    "explore_guide" : "explore_guide_1",
+    "grid" : "3"
+  }, {
+    "id" : "5",
+    "explore_guide" : "explore_guide_1",
+    "grid" : "4"
+  }, {
+    "id" : "6",
+    "explore_guide" : "explore_guide_1",
+    "grid" : "5"
+  }, {
+    "id" : "7",
+    "explore_guide" : "explore_guide_1",
+    "grid" : "6",
+    "status" : "0"
+  }, {
+    "id" : "8",
+    "explore_guide" : "explore_guide_1",
+    "grid" : "7",
+    "status" : "1"
+  }, {
+    "id" : "9",
+    "explore_guide" : "explore_guide_1",
+    "grid" : "8",
+    "status" : "0"
+  }, {
+    "id" : "10",
+    "explore_guide" : "explore_guide_1",
+    "grid" : "9"
+  }, {
+    "id" : "11",
+    "explore_guide" : "explore_guide_1",
+    "grid" : "10"
+  }, {
+    "id" : "12",
+    "explore_guide" : "explore_guide_1",
+    "grid" : "11",
+    "status" : "0"
+  }, {
+    "id" : "13",
+    "explore_guide" : "explore_guide_1",
+    "grid" : "12",
+    "type" : "1",
+    "monster" : "explore_guide_monster_1"
+  }, {
+    "id" : "14",
+    "explore_guide" : "explore_guide_1",
+    "grid" : "13",
+    "status" : "0"
+  }, {
+    "id" : "15",
+    "explore_guide" : "explore_guide_1",
+    "grid" : "14"
+  }, {
+    "id" : "16",
+    "explore_guide" : "explore_guide_1",
+    "grid" : "15"
+  }, {
+    "id" : "17",
+    "explore_guide" : "explore_guide_1",
+    "grid" : "16",
+    "status" : "0"
+  }, {
+    "id" : "18",
+    "explore_guide" : "explore_guide_1",
+    "grid" : "17",
+    "type" : "2",
+    "explore_itemlist" : "explore_item_blood_bottle_1",
+    "explore_itemlist_value" : "10"
+  }, {
+    "id" : "19",
+    "explore_guide" : "explore_guide_1",
+    "grid" : "18",
+    "status" : "0"
+  }, {
+    "id" : "20",
+    "explore_guide" : "explore_guide_1",
+    "grid" : "19"
+  }, {
+    "id" : "21",
+    "explore_guide" : "explore_guide_1",
+    "grid" : "20"
+  }, {
+    "id" : "22",
+    "explore_guide" : "explore_guide_1",
+    "grid" : "21",
+    "status" : "0"
+  }, {
+    "id" : "23",
+    "explore_guide" : "explore_guide_1",
+    "grid" : "22",
+    "type" : "1",
+    "monster" : "explore_guide_monster_2",
+    "key" : "1"
+  }, {
+    "id" : "24",
+    "explore_guide" : "explore_guide_1",
+    "grid" : "23",
+    "status" : "0"
+  }, {
+    "id" : "25",
+    "explore_guide" : "explore_guide_1",
+    "grid" : "24"
+  }, {
+    "id" : "26",
+    "explore_guide" : "explore_guide_2",
+    "grid" : "0",
+    "type" : "2",
+    "explore_itemlist" : "explore_item_cartridge_clip_1",
+    "explore_itemlist_value" : "1"
+  }, {
+    "id" : "27",
+    "explore_guide" : "explore_guide_2",
+    "grid" : "1",
+    "type" : "1",
+    "monster" : "explore_guide_monster_4"
+  }, {
+    "id" : "28",
+    "explore_guide" : "explore_guide_2",
+    "grid" : "2",
+    "type" : "2",
+    "explore_itemlist" : "explore_item_blood_bottle_1",
+    "explore_itemlist_value" : "5"
+  }, {
+    "id" : "29",
+    "explore_guide" : "explore_guide_2",
+    "grid" : "3",
+    "type" : "1",
+    "monster" : "explore_guide_monster_3"
+  }, {
+    "id" : "30",
+    "explore_guide" : "explore_guide_2",
+    "grid" : "4",
+    "type" : "5"
+  }, {
+    "id" : "31",
+    "explore_guide" : "explore_guide_2",
+    "grid" : "5",
+    "type" : "2",
+    "explore_itemlist" : "explore_item_blood_bottle_1",
+    "explore_itemlist_value" : "5"
+  }, {
+    "id" : "32",
+    "explore_guide" : "explore_guide_2",
+    "grid" : "6"
+  }, {
+    "id" : "33",
+    "explore_guide" : "explore_guide_2",
+    "grid" : "7"
+  }, {
+    "id" : "34",
+    "explore_guide" : "explore_guide_2",
+    "grid" : "8"
+  }, {
+    "id" : "35",
+    "explore_guide" : "explore_guide_2",
+    "grid" : "9"
+  }, {
+    "id" : "36",
+    "explore_guide" : "explore_guide_2",
+    "grid" : "10",
+    "type" : "2",
+    "explore_itemlist" : "explore_item_cartridge_clip_1",
+    "explore_itemlist_value" : "1"
+  }, {
+    "id" : "37",
+    "explore_guide" : "explore_guide_2",
+    "grid" : "11",
+    "type" : "1",
+    "monster" : "explore_guide_monster_5"
+  }, {
+    "id" : "38",
+    "explore_guide" : "explore_guide_2",
+    "grid" : "12"
+  }, {
+    "id" : "39",
+    "explore_guide" : "explore_guide_2",
+    "grid" : "13"
+  }, {
+    "id" : "40",
+    "explore_guide" : "explore_guide_2",
+    "grid" : "14"
+  }, {
+    "id" : "41",
+    "explore_guide" : "explore_guide_2",
+    "grid" : "15"
+  }, {
+    "id" : "42",
+    "explore_guide" : "explore_guide_2",
+    "grid" : "16",
+    "type" : "2",
+    "explore_itemlist" : "explore_item_blood_bottle_1",
+    "explore_itemlist_value" : "5"
+  }, {
+    "id" : "43",
+    "explore_guide" : "explore_guide_2",
+    "grid" : "17",
+    "type" : "2",
+    "explore_itemlist" : "explore_item_energy_point_1",
+    "explore_itemlist_value" : "70"
+  }, {
+    "id" : "44",
+    "explore_guide" : "explore_guide_2",
+    "grid" : "18",
+    "type" : "1",
+    "monster" : "explore_guide_monster_6",
+    "key" : "1"
+  }, {
+    "id" : "45",
+    "explore_guide" : "explore_guide_2",
+    "grid" : "19",
+    "type" : "2",
+    "explore_itemlist" : "explore_item_blood_bottle_1",
+    "explore_itemlist_value" : "5"
+  }, {
+    "id" : "46",
+    "explore_guide" : "explore_guide_2",
+    "grid" : "20"
+  }, {
+    "id" : "47",
+    "explore_guide" : "explore_guide_2",
+    "grid" : "21"
+  }, {
+    "id" : "48",
+    "explore_guide" : "explore_guide_2",
+    "grid" : "22"
+  }, {
+    "id" : "49",
+    "explore_guide" : "explore_guide_2",
+    "grid" : "23"
+  }, {
+    "id" : "50",
+    "explore_guide" : "explore_guide_2",
+    "grid" : "24",
+    "type" : "2",
+    "explore_itemlist" : "explore_item_cartridge_clip_1",
+    "explore_itemlist_value" : "1"
+  }, {
+    "id" : "51",
+    "explore_guide" : "explore_guide_3",
+    "grid" : "0"
+  }, {
+    "id" : "52",
+    "explore_guide" : "explore_guide_3",
+    "grid" : "1"
+  }, {
+    "id" : "53",
+    "explore_guide" : "explore_guide_3",
+    "grid" : "2",
+    "type" : "5"
+  }, {
+    "id" : "54",
+    "explore_guide" : "explore_guide_3",
+    "grid" : "3"
+  }, {
+    "id" : "55",
+    "explore_guide" : "explore_guide_3",
+    "grid" : "4"
+  }, {
+    "id" : "56",
+    "explore_guide" : "explore_guide_3",
+    "grid" : "5"
+  }, {
+    "id" : "57",
+    "explore_guide" : "explore_guide_3",
+    "grid" : "6"
+  }, {
+    "id" : "58",
+    "explore_guide" : "explore_guide_3",
+    "grid" : "7",
+    "type" : "99",
+    "monster" : "explore_guide_monster_4",
+    "explore_itemlist" : "explore_item_blood_bottle_1",
+    "explore_itemlist_value" : "5"
+  }, {
+    "id" : "59",
+    "explore_guide" : "explore_guide_3",
+    "grid" : "8"
+  }, {
+    "id" : "60",
+    "explore_guide" : "explore_guide_3",
+    "grid" : "9"
+  }, {
+    "id" : "61",
+    "explore_guide" : "explore_guide_3",
+    "grid" : "10"
+  }, {
+    "id" : "62",
+    "explore_guide" : "explore_guide_3",
+    "grid" : "11"
+  }, {
+    "id" : "63",
+    "explore_guide" : "explore_guide_3",
+    "grid" : "12",
+    "type" : "2",
+    "explore_itemlist" : "explore_item_cartridge_clip_1",
+    "explore_itemlist_value" : "1"
+  }, {
+    "id" : "64",
+    "explore_guide" : "explore_guide_3",
+    "grid" : "13"
+  }, {
+    "id" : "65",
+    "explore_guide" : "explore_guide_3",
+    "grid" : "14"
+  }, {
+    "id" : "66",
+    "explore_guide" : "explore_guide_3",
+    "grid" : "15"
+  }, {
+    "id" : "67",
+    "explore_guide" : "explore_guide_3",
+    "grid" : "16"
+  }, {
+    "id" : "68",
+    "explore_guide" : "explore_guide_3",
+    "grid" : "17",
+    "type" : "99",
+    "monster" : "explore_guide_monster_5",
+    "explore_itemlist" : "explore_item_cartridge_clip_1",
+    "explore_itemlist_value" : "1"
+  }, {
+    "id" : "69",
+    "explore_guide" : "explore_guide_3",
+    "grid" : "18"
+  }, {
+    "id" : "70",
+    "explore_guide" : "explore_guide_3",
+    "grid" : "19"
+  }, {
+    "id" : "71",
+    "explore_guide" : "explore_guide_3",
+    "grid" : "20"
+  }, {
+    "id" : "72",
+    "explore_guide" : "explore_guide_3",
+    "grid" : "21"
+  }, {
+    "id" : "73",
+    "explore_guide" : "explore_guide_3",
+    "grid" : "22",
+    "type" : "1",
+    "monster" : "explore_guide_monster_3",
+    "key" : "1"
+  }, {
+    "id" : "74",
+    "explore_guide" : "explore_guide_3",
+    "grid" : "23"
+  }, {
+    "id" : "75",
+    "explore_guide" : "explore_guide_3",
+    "grid" : "24"
+  } ]
+}

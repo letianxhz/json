@@ -1,0 +1,62 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "daily_active_score" : "daily_active_score@int",
+    "image" : "image@string^c",
+    "reward_id_1" : "reward_id_1@itemlist.id",
+    "reward_value_1" : "reward_value_1@int",
+    "reward_id_2" : "reward_id_2@itemlist.id",
+    "reward_value_2" : "reward_value_2@int"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "daily_active_score" : "每日活跃积分",
+    "image" : "图片",
+    "reward_id_1" : "奖励道具id_1",
+    "reward_value_1" : "奖励道具数量_1",
+    "reward_id_2" : "奖励道具id_2",
+    "reward_value_2" : "奖励道具数量_2"
+  }, {
+    "id" : "return_daily_active_reward_1",
+    "daily_active_score" : "30",
+    "image" : "image_return_daily_active_reward",
+    "reward_id_1" : "item_speedup_5m",
+    "reward_value_1" : "10"
+  }, {
+    "id" : "return_daily_active_reward_2",
+    "daily_active_score" : "70",
+    "image" : "image_return_daily_active_reward",
+    "reward_id_1" : "item_speedup_5m",
+    "reward_value_1" : "20"
+  }, {
+    "id" : "return_daily_active_reward_3",
+    "daily_active_score" : "120",
+    "image" : "image_return_daily_active_reward",
+    "reward_id_1" : "item_speedup_5m",
+    "reward_value_1" : "30"
+  }, {
+    "id" : "return_daily_active_reward_4",
+    "daily_active_score" : "180",
+    "image" : "image_return_daily_active_reward",
+    "reward_id_1" : "item_speedup_5m",
+    "reward_value_1" : "40"
+  }, {
+    "id" : "return_daily_active_reward_5",
+    "daily_active_score" : "260",
+    "image" : "image_return_daily_active_reward",
+    "reward_id_1" : "item_speedup_5m",
+    "reward_value_1" : "50"
+  }, {
+    "id" : "return_daily_active_reward_6",
+    "daily_active_score" : "340",
+    "image" : "image_return_daily_active_reward",
+    "reward_id_1" : "item_speedup_5m",
+    "reward_value_1" : "60"
+  }, {
+    "id" : "return_daily_active_reward_7",
+    "daily_active_score" : "420",
+    "image" : "image_return_daily_active_reward",
+    "reward_id_1" : "item_speedup_5m",
+    "reward_value_1" : "70"
+  } ]
+}

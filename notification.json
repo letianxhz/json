@@ -1,0 +1,583 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "type" : "type@string",
+    "description" : "description@string^p",
+    "localization" : "localization@string",
+    "sound" : "sound@string"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "type" : "类型",
+    "description" : "描述",
+    "localization" : "多语言id",
+    "sound" : "音效id"
+  }, {
+    "id" : "build_finish",
+    "type" : "2",
+    "description" : "建造完成",
+    "localization" : "notification_build_finish",
+    "sound" : "notification_reward.mp3"
+  }, {
+    "id" : "research_finish",
+    "type" : "2",
+    "description" : "研究完成",
+    "localization" : "notification_research_finish",
+    "sound" : "notification_reward.mp3"
+  }, {
+    "id" : "train_finish",
+    "type" : "2",
+    "description" : "招募完成",
+    "localization" : "notification_train_finish",
+    "sound" : "notification_reward.mp3"
+  }, {
+    "id" : "train_trap_finish",
+    "type" : "2",
+    "description" : "陷阱制造完成",
+    "localization" : "notification_train_trap_finish",
+    "sound" : "notification_reward.mp3"
+  }, {
+    "id" : "troop_back",
+    "type" : "1",
+    "description" : "部队返回城内",
+    "localization" : "notification_troop_back",
+    "sound" : "notification_battle.mp3"
+  }, {
+    "id" : "equip_produced",
+    "type" : "2",
+    "description" : "装备制造结束",
+    "localization" : "notification_equipment_finished",
+    "sound" : "notification_reward.mp3"
+  }, {
+    "id" : "timer_chest",
+    "type" : "5",
+    "description" : "timerchest可领取",
+    "localization" : "notification_timer_chest",
+    "sound" : "notification_reward.mp3"
+  }, {
+    "id" : "resource_building_full",
+    "type" : "5",
+    "description" : "第一个资源田已满仓",
+    "localization" : "notification_resource_building_full",
+    "sound" : "notification_reward.mp3"
+  }, {
+    "id" : "protection_time_up",
+    "type" : "1",
+    "description" : "战争守护时间结束",
+    "localization" : "notification_protection_time_up",
+    "sound" : "notification_battle.mp3"
+  }, {
+    "id" : "be_scouted",
+    "type" : "1",
+    "description" : "被侦察",
+    "localization" : "notification_be_scouted",
+    "sound" : "notification_incoming.mp3"
+  }, {
+    "id" : "be_attacked",
+    "type" : "1",
+    "description" : "被攻击",
+    "localization" : "notification_be_attacked",
+    "sound" : "notification_incoming.mp3"
+  }, {
+    "id" : "be_rally_target",
+    "type" : "1",
+    "description" : "被集结攻击",
+    "localization" : "notification_be_rally_target",
+    "sound" : "notification_incoming.mp3"
+  }, {
+    "id" : "alliance_member_rally",
+    "type" : "1",
+    "description" : "联盟成员发起集结",
+    "localization" : "notification_alliance_member_rally",
+    "sound" : "notification_reward.mp3"
+  }, {
+    "id" : "mail_received",
+    "type" : "3",
+    "description" : "收到邮件",
+    "localization" : "notification_mail_received",
+    "sound" : "notification_reward.mp3"
+  }, {
+    "id" : "fallen_knight",
+    "type" : "4",
+    "description" : "联盟活动开启",
+    "localization" : "notification_fallen_knight_start",
+    "sound" : "notification_reward.mp3"
+  }, {
+    "id" : "alliance_chat",
+    "type" : "6",
+    "description" : "R4联盟聊天推送",
+    "localization" : "notification_alliance_chat",
+    "sound" : "notification_reward.mp3"
+  }, {
+    "id" : "gve_rally",
+    "type" : "7",
+    "description" : "GVE推送",
+    "localization" : "notification_gve",
+    "sound" : "notification_reward.mp3"
+  }, {
+    "id" : "alliance_boss",
+    "type" : "4",
+    "description" : "联盟boss开启",
+    "localization" : "notification_portal_open",
+    "sound" : "notification_reward.mp3"
+  }, {
+    "id" : "treasury",
+    "type" : "5",
+    "description" : "金库",
+    "localization" : "notification_vault",
+    "sound" : "notification_reward.mp3"
+  }, {
+    "id" : "timed_gift",
+    "type" : "5",
+    "description" : "定时宝箱",
+    "localization" : "notification_timed_gift",
+    "sound" : "notification_reward.mp3"
+  }, {
+    "id" : "auction_hidden_start",
+    "type" : "8",
+    "description" : "黑市商品开始",
+    "localization" : "notification_auction_hidden_start",
+    "sound" : "notification_reward.mp3"
+  }, {
+    "id" : "auction_normal_start",
+    "type" : "8",
+    "description" : "拍卖行商品开始",
+    "localization" : "notification_auction_normal_start",
+    "sound" : "notification_reward.mp3"
+  }, {
+    "id" : "auction_normal_fail",
+    "type" : "8",
+    "description" : "拍卖行被超",
+    "localization" : "notification_auction_normal_fail",
+    "sound" : "notification_reward.mp3"
+  }, {
+    "id" : "gve_event_rally",
+    "type" : "7",
+    "description" : "活动集结",
+    "localization" : "notification_gve_event",
+    "sound" : "notification_reward.mp3"
+  }, {
+    "id" : "abyss_start",
+    "type" : "9",
+    "description" : "深渊探险开始",
+    "localization" : "notification_fire_kingdom_open",
+    "sound" : "notification_reward.mp3"
+  }, {
+    "id" : "alliance_giftbox_ready_to_send",
+    "type" : "4",
+    "description" : "联盟活跃宝箱准备发送",
+    "localization" : "notification_alliance_giftbox_ready_to_send",
+    "sound" : "notification_reward.mp3"
+  }, {
+    "id" : "alliance_giftbox_ready_to_collect",
+    "type" : "4",
+    "description" : "联盟个人宝箱可领",
+    "localization" : "notification_alliance_giftbox_ready_to_collect",
+    "sound" : "notification_reward.mp3"
+  }, {
+    "id" : "alliance_giftbox_anonymous_ready_to_collect",
+    "type" : "4",
+    "description" : "联盟个人宝箱可领（匿名）",
+    "localization" : "notification_alliance_giftbox_anonymous_ready_to_collect",
+    "sound" : "notification_reward.mp3"
+  }, {
+    "id" : "exchange_hall_sale",
+    "type" : "8",
+    "description" : "交易大厅上架货物成功出售",
+    "localization" : "notification_exchange_hall_sale",
+    "sound" : "notification_reward.mp3"
+  }, {
+    "id" : "exchange_hall_expired",
+    "type" : "8",
+    "description" : "交易大厅上架货物过期",
+    "localization" : "notification_exchange_hall_expired",
+    "sound" : "notification_reward.mp3"
+  }, {
+    "id" : "1_year_celebration_countdown",
+    "type" : "0",
+    "description" : "1周年庆典（不可关闭）",
+    "localization" : "notification_1_year_celebration_countdown",
+    "sound" : "notification_reward.mp3"
+  }, {
+    "id" : "1_year_tournament_challenge",
+    "type" : "0",
+    "description" : "王者领主成为王者（不可关闭）",
+    "localization" : "notification_1_year_tournament_challenge",
+    "sound" : "notification_reward.mp3"
+  }, {
+    "id" : "1_year_tournament_title_challenge",
+    "type" : "0",
+    "description" : "王者争霸王者改变（不可关闭）",
+    "localization" : "notification_1_year_tournament_title_challenge",
+    "sound" : "notification_reward.mp3"
+  }, {
+    "id" : "1_year_tournament_end_time",
+    "type" : "0",
+    "description" : "王者争霸即将结束（不可关闭）",
+    "localization" : "notification_1_year_tournament_end_time",
+    "sound" : "notification_reward.mp3"
+  }, {
+    "id" : "1_year_tournament_final_stage_end",
+    "type" : "0",
+    "description" : "王者争霸结束延期（不可关闭）",
+    "localization" : "notification_1_year_tournament_final_stage_end",
+    "sound" : "notification_reward.mp3"
+  }, {
+    "id" : "1_year_tournament_concluded",
+    "type" : "0",
+    "description" : "王者争霸结束（不可关闭）",
+    "localization" : "notification_1_year_tournament_concluded",
+    "sound" : "notification_reward.mp3"
+  }, {
+    "id" : "1_year_tournament_defeated",
+    "type" : "0",
+    "description" : "王者争霸被击败（不可关闭）",
+    "localization" : "notification_1_year_tournament_defeated",
+    "sound" : "notification_reward.mp3"
+  }, {
+    "id" : "world_auction_exceeded",
+    "type" : "10",
+    "description" : "世界竞拍出价被超",
+    "localization" : "notification_world_auction_exceeded",
+    "sound" : "notification_reward.mp3"
+  }, {
+    "id" : "world_auction_start",
+    "type" : "10",
+    "description" : "世界竞拍出现新商品",
+    "localization" : "notification_world_auction_start",
+    "sound" : "notification_reward.mp3"
+  }, {
+    "id" : "world_auction_start_integration",
+    "type" : "10",
+    "description" : "世界竞拍上架新的商品",
+    "localization" : "notification_world_auction_start_integration",
+    "sound" : "notification_reward.mp3"
+  }, {
+    "id" : "kingdom_boss_opens",
+    "type" : "0",
+    "description" : "世界boss出现推送提示",
+    "localization" : "notification_event_kingdom_giant_start",
+    "sound" : "notification_reward.mp3"
+  }, {
+    "id" : "kingdom_boss_closed",
+    "type" : "0",
+    "description" : "世界boss结束推送提示",
+    "localization" : "notification_event_kingdom_giant_finish",
+    "sound" : "notification_reward.mp3"
+  }, {
+    "id" : "magic_tower_be_attacked",
+    "type" : "11",
+    "description" : "水晶矿被攻占",
+    "localization" : "notification_magic_tower_be_attacked",
+    "sound" : "notification_reward.mp3"
+  }, {
+    "id" : "magic_tower_collect_finish",
+    "type" : "11",
+    "description" : "水晶矿采集完毕",
+    "localization" : "notification_magic_tower_collect_finish",
+    "sound" : "notification_reward.mp3"
+  }, {
+    "id" : "mega_rally_sent_target",
+    "type" : "1",
+    "description" : "被超级集结",
+    "localization" : "notification_mega_rally_sent_target",
+    "sound" : "notification_incoming.mp3"
+  }, {
+    "id" : "target_launched_mega_rally",
+    "type" : "1",
+    "description" : "目标开启超级驻防",
+    "localization" : "notification_target_launched_mega_rally",
+    "sound" : "notification_battle.mp3"
+  }, {
+    "id" : "building_mega_garrison_activated",
+    "type" : "1",
+    "description" : "自己驻防的建筑开启超级驻防",
+    "localization" : "notification_building_mega_garrison_activated",
+    "sound" : "notification_battle.mp3"
+  }, {
+    "id" : "dragon_knight_dungeon_cooldown_complete",
+    "type" : "5",
+    "description" : "龙魂地下城重置时间结束",
+    "localization" : "notification_dragon_knight_dungeon_cooldown_complete",
+    "sound" : "notification_reward.mp3"
+  }, {
+    "id" : "attackfreeze_over",
+    "type" : "1",
+    "description" : "警戒效果结束",
+    "localization" : "notification_attackfreeze_over",
+    "sound" : "notification_incoming.mp3"
+  }, {
+    "id" : "event_return_opened",
+    "type" : "5",
+    "description" : "“荣耀召唤”活动和“荣耀回归”活动同步限时上线",
+    "localization" : "notification_event_return_opened",
+    "sound" : "notification_reward.mp3"
+  }, {
+    "id" : "dragon_shadow_ended",
+    "type" : "1",
+    "description" : "龙幻影效果结束",
+    "localization" : "notification_dragon_shadow_ended",
+    "sound" : "notification_battle.mp3"
+  }, {
+    "id" : "kingdom_conquest_matching_over",
+    "type" : "0",
+    "description" : "决战巅峰匹配完毕",
+    "localization" : "notification_kingdom_conquest_matching_over",
+    "sound" : "notification_reward.mp3"
+  }, {
+    "id" : "kingdom_conquest_start",
+    "type" : "0",
+    "description" : "决战巅峰总决赛开启",
+    "localization" : "notification_kingdom_conquest_start",
+    "sound" : "notification_reward.mp3"
+  }, {
+    "id" : "activity_seven_day_login_reward_notification",
+    "type" : "0",
+    "description" : "今日的登录奖励已经准备好啦，快来领取吧~",
+    "localization" : "notification_seven_days_login_rewards",
+    "sound" : "notification_reward.mp3"
+  }, {
+    "id" : "activity_seven_day_mission_notification",
+    "type" : "0",
+    "description" : "备战任务还有{1}天就结束啦，要抓紧时间完成哦~",
+    "localization" : "notification_seven_days_mission",
+    "sound" : "notification_reward.mp3"
+  }, {
+    "id" : "enermies_coming",
+    "type" : "0",
+    "description" : "敌军来袭(新手假敌军)",
+    "localization" : "notification_enemies_defence_success",
+    "sound" : "notification_reward.mp3"
+  }, {
+    "id" : "hero_coming",
+    "type" : "0",
+    "description" : "英雄来袭",
+    "localization" : "notification_claim_herotoaid_hero",
+    "sound" : "notification_reward.mp3"
+  }, {
+    "id" : "hero_council_position_1_skill_ready",
+    "type" : "12",
+    "description" : "英雄技能1",
+    "localization" : "notification_hero_council_position_war_1_skill_ready",
+    "sound" : "notification_reward.mp3"
+  }, {
+    "id" : "hero_council_position_2_skill_ready",
+    "type" : "12",
+    "description" : "英雄技能2",
+    "localization" : "notification_hero_council_position_war_2_skill_ready",
+    "sound" : "notification_reward.mp3"
+  }, {
+    "id" : "hero_council_position_3_skill_ready",
+    "type" : "12",
+    "description" : "英雄技能3",
+    "localization" : "notification_hero_council_position_war_3_skill_ready",
+    "sound" : "notification_reward.mp3"
+  }, {
+    "id" : "hero_council_position_4_skill_ready",
+    "type" : "12",
+    "description" : "英雄技能4",
+    "localization" : "notification_hero_council_position_war_4_skill_ready",
+    "sound" : "notification_reward.mp3"
+  }, {
+    "id" : "hero_council_position_5_skill_ready",
+    "type" : "12",
+    "description" : "英雄技能5",
+    "localization" : "notification_hero_council_position_city_1_skill_ready",
+    "sound" : "notification_reward.mp3"
+  }, {
+    "id" : "hero_council_position_6_skill_ready",
+    "type" : "12",
+    "description" : "英雄技能6",
+    "localization" : "notification_hero_council_position_city_2_skill_ready",
+    "sound" : "notification_reward.mp3"
+  }, {
+    "id" : "hero_council_position_7_skill_ready",
+    "type" : "12",
+    "description" : "英雄技能7",
+    "localization" : "notification_hero_council_position_city_3_skill_ready",
+    "sound" : "notification_reward.mp3"
+  }, {
+    "id" : "hero_council_position_8_skill_ready",
+    "type" : "12",
+    "description" : "英雄技能8",
+    "localization" : "notification_hero_council_position_city_4_skill_ready",
+    "sound" : "notification_reward.mp3"
+  }, {
+    "id" : "raid_enemy",
+    "type" : "0",
+    "description" : "突袭敌营",
+    "localization" : "notification_raid_enemy_fight",
+    "sound" : "notification_battle.mp3"
+  }, {
+    "id" : "throne_warfare_collect_benefits",
+    "type" : "0",
+    "description" : "王者之路收益达到上限",
+    "localization" : "notification_throne_warfare_collect_benefits",
+    "sound" : "notification_reward.mp3"
+  }, {
+    "id" : "hero_summon_cd_ready",
+    "type" : "0",
+    "description" : "英雄招募",
+    "localization" : "notification_can_recruit_for_free_again",
+    "sound" : "notification_reward.mp3"
+  }, {
+    "id" : "explore_stamina_full",
+    "type" : "0",
+    "description" : "远征体力满了",
+    "localization" : "notification_explore_stamina_full_now",
+    "sound" : "notification_reward.mp3"
+  }, {
+    "id" : "nicole_return_1",
+    "type" : "0",
+    "description" : "新玩家离线唤回推送",
+    "localization" : "notification_Nicole_return_1",
+    "sound" : "notification_reward.mp3"
+  }, {
+    "id" : "nicole_return_2",
+    "type" : "0",
+    "description" : "新玩家离线唤回推送",
+    "localization" : "notification_Nicole_return_2",
+    "sound" : "notification_reward.mp3"
+  }, {
+    "id" : "nicole_return_3",
+    "type" : "0",
+    "description" : "新玩家离线唤回推送",
+    "localization" : "notification_Nicole_return_3",
+    "sound" : "notification_reward.mp3"
+  }, {
+    "id" : "nicole_return_4",
+    "type" : "0",
+    "description" : "新玩家离线唤回推送",
+    "localization" : "notification_Nicole_return_4",
+    "sound" : "notification_reward.mp3"
+  }, {
+    "id" : "daily_delivery_lose_effect",
+    "type" : "0",
+    "description" : "在月卡失效前1天推送",
+    "localization" : "notification_daily_delivery_lose_effect",
+    "sound" : "notification_reward.mp3"
+  }, {
+    "id" : "claim_daily_delivery",
+    "type" : "0",
+    "description" : "购买月卡后，每天月卡奖励重置时推送",
+    "localization" : "notification_claim_daily_delivery",
+    "sound" : "notification_reward.mp3"
+  }, {
+    "id" : "please_come_back_1",
+    "type" : "0",
+    "description" : "召回推送，离线X日后触发，推送1次，时间，次数需要走配置",
+    "localization" : "notification_please_come_back_1",
+    "sound" : "notification_reward.mp3"
+  }, {
+    "id" : "please_come_back_2",
+    "type" : "0",
+    "description" : "召回推送，离线X日后触发，推送1次，时间，次数需要走配置",
+    "localization" : "notification_please_come_back_2",
+    "sound" : "notification_reward.mp3"
+  }, {
+    "id" : "please_come_back_3",
+    "type" : "0",
+    "description" : "召回推送，离线X日后触发，推送1次，时间，次数需要走配置",
+    "localization" : "notification_please_come_back_3",
+    "sound" : "notification_reward.mp3"
+  }, {
+    "id" : "event_open",
+    "type" : "0",
+    "description" : "活动中心活动开启时推送1次",
+    "localization" : "notification_event_open",
+    "sound" : "notification_reward.mp3"
+  }, {
+    "id" : "event_close",
+    "type" : "0",
+    "description" : "活动中心活动结束后推送1次",
+    "localization" : "notification_event_close",
+    "sound" : "notification_reward.mp3"
+  }, {
+    "id" : "wounded_troops_healed",
+    "type" : "0",
+    "description" : "伤兵恢复时，推送",
+    "localization" : "notification_wounded_troops_healed",
+    "sound" : "notification_reward.mp3"
+  }, {
+    "id" : "VIP_expiring",
+    "type" : "0",
+    "description" : "在VIP失效前1个小时内（玩家在线导致从1小时外进入到1小时内，切后台，仅推送1次，直到失效时，不在因为切后台 再次推送）",
+    "localization" : "notification_VIP_expiring",
+    "sound" : "notification_reward.mp3"
+  }, {
+    "id" : "daily_rebate_begin",
+    "type" : "0",
+    "description" : "超值军备竞赛正式开启！快来看看其他指挥官购置了哪些超级军备！",
+    "localization" : "notification_daily_rebate_begin",
+    "sound" : "notification_reward.mp3"
+  }, {
+    "id" : "daily_rebate_end",
+    "type" : "0",
+    "description" : "火爆活动即将结束，时间仅剩24小时，是不是差一点就能得到你心仪的奖励了，现在可能是最后的机会了！",
+    "localization" : "notification_daily_rebate_end",
+    "sound" : "notification_reward.mp3"
+  }, {
+    "id" : "personal_activity_event",
+    "type" : "0",
+    "description" : "指挥官，基地崛起活动火热进行中，超多奖励等你来拿！",
+    "localization" : "notification_home_front_event",
+    "sound" : "notification_reward.mp3"
+  }, {
+    "id" : "magic_tower_begin",
+    "type" : "0",
+    "description" : "特斯拉塔限时活动已开启，快来参与吧！",
+    "localization" : "notification_event_magic_tower_begin",
+    "sound" : "notification_reward.mp3"
+  }, {
+    "id" : "merlin_trials_begin",
+    "type" : "0",
+    "description" : "指挥官远征限时活动已开启，快来参与吧",
+    "localization" : "notification_event_merlin_trials_begin",
+    "sound" : "notification_reward.mp3"
+  }, {
+    "id" : "recharge_rebate_begin",
+    "type" : "0",
+    "description" : "累充宝箱即将开启",
+    "localization" : "notification_event_topup_chest",
+    "sound" : "notification_reward.mp3"
+  }, {
+    "id" : "rogue_like_activity_begin",
+    "type" : "0",
+    "description" : "roguelike活动关卡开启",
+    "localization" : "notification_event_explore_begin",
+    "sound" : "notification_reward.mp3"
+  }, {
+    "id" : "alliance_activity_begin",
+    "type" : "0",
+    "description" : "{0}已开启，快来参与吧！",
+    "localization" : "notification_event_begin",
+    "sound" : "notification_reward.mp3"
+  }, {
+    "id" : "crazy_supermarket_begin",
+    "type" : "0",
+    "description" : "{0}已开启，快来参与吧！",
+    "localization" : "notification_event_crazy_market_begin",
+    "sound" : "notification_reward.mp3"
+  }, {
+    "id" : "war_symphony_king_broadcast",
+    "type" : "0",
+    "description" : "{0}成为了{1}国的国王！",
+    "localization" : "notification_war_symphony_king_broadcast",
+    "sound" : "notification_reward.mp3"
+  }, {
+    "id" : "war_symphony_collect_benefits",
+    "type" : "13",
+    "localization" : "notification_war_symphony_collect_benefits",
+    "sound" : "notification_reward.mp3"
+  }, {
+    "id" : "war_symphony_stage_occupy_completed",
+    "type" : "13",
+    "localization" : "notification_war_symphony_stage_occupy_completed",
+    "sound" : "notification_reward.mp3"
+  }, {
+    "id" : "war_symphony_enemy_invaded",
+    "type" : "13",
+    "localization" : "notification_war_symphony_enemy_invaded",
+    "sound" : "notification_reward.mp3"
+  } ]
+}

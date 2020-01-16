@@ -1,0 +1,2072 @@
+{
+  "header" : {
+    "id" : "id",
+    "npc_name" : "npc_name^c",
+    "npc_image" : "npc_image^c",
+    "npc_image_new" : "npc_image_new^c",
+    "npc_position" : "npc_position^c",
+    "npc_dialogue" : "npc_dialogue^c"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "npc_name" : "npc名称",
+    "npc_image" : "npc图片",
+    "npc_image_new" : "动画npc",
+    "npc_position" : "npc位置",
+    "npc_dialogue" : "npc对话多语言id"
+  }, {
+    "id" : "quest_group_dialogue_301_1",
+    "npc_name" : "npc_merlin_assistant_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "right",
+    "npc_dialogue" : "quest_group_dialogue_301_1"
+  }, {
+    "id" : "quest_group_dialogue_301_2",
+    "npc_name" : "npc_merlin_assistant_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "right",
+    "npc_dialogue" : "quest_group_dialogue_301_2"
+  }, {
+    "id" : "quest_group_dialogue_301_3",
+    "npc_name" : "npc_merlin_assistant_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "right",
+    "npc_dialogue" : "quest_group_dialogue_301_3"
+  }, {
+    "id" : "quest_group_dialogue_302_1",
+    "npc_name" : "npc_merlin_assistant_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "left",
+    "npc_dialogue" : "quest_group_dialogue_302_1"
+  }, {
+    "id" : "quest_group_dialogue_302_2",
+    "npc_name" : "npc_merlin_assistant_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "left",
+    "npc_dialogue" : "quest_group_dialogue_302_2"
+  }, {
+    "id" : "quest_group_dialogue_303_1",
+    "npc_name" : "npc_soldier_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "right",
+    "npc_dialogue" : "quest_group_dialogue_303_1"
+  }, {
+    "id" : "quest_group_dialogue_303_2",
+    "npc_name" : "npc_merlin_assistant_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "right",
+    "npc_dialogue" : "quest_group_dialogue_303_2"
+  }, {
+    "id" : "quest_group_dialogue_304_1",
+    "npc_name" : "npc_merlin_assistant_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "left",
+    "npc_dialogue" : "quest_group_dialogue_304_1"
+  }, {
+    "id" : "quest_group_dialogue_305_1",
+    "npc_name" : "npc_merlin_assistant_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "right",
+    "npc_dialogue" : "quest_group_dialogue_305_1"
+  }, {
+    "id" : "quest_group_dialogue_306_1",
+    "npc_name" : "npc_merlin_assistant_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "left",
+    "npc_dialogue" : "quest_group_dialogue_306_1"
+  }, {
+    "id" : "quest_group_dialogue_306_2",
+    "npc_name" : "npc_merlin_assistant_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "right",
+    "npc_dialogue" : "quest_group_dialogue_306_2"
+  }, {
+    "id" : "quest_group_dialogue_307_1",
+    "npc_name" : "npc_merlin_assistant_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "left",
+    "npc_dialogue" : "quest_group_dialogue_307_1"
+  }, {
+    "id" : "quest_group_dialogue_307_2",
+    "npc_name" : "npc_merlin_assistant_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "right",
+    "npc_dialogue" : "quest_group_dialogue_307_2"
+  }, {
+    "id" : "quest_group_dialogue_308_1",
+    "npc_name" : "npc_merlin_assistant_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "left",
+    "npc_dialogue" : "quest_group_dialogue_308_1"
+  }, {
+    "id" : "quest_group_dialogue_308_2",
+    "npc_name" : "npc_merlin_assistant_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "right",
+    "npc_dialogue" : "quest_group_dialogue_308_2"
+  }, {
+    "id" : "quest_group_dialogue_309_1",
+    "npc_name" : "npc_merlin_assistant_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "left",
+    "npc_dialogue" : "quest_group_dialogue_309_1"
+  }, {
+    "id" : "quest_group_dialogue_309_2",
+    "npc_name" : "npc_merlin_assistant_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "right",
+    "npc_dialogue" : "quest_group_dialogue_309_2"
+  }, {
+    "id" : "quest_group_main_dialogue_18_1",
+    "npc_name" : "npc_merlin_assistant_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "left",
+    "npc_dialogue" : "quest_group_main_dialogue_18_1"
+  }, {
+    "id" : "quest_group_main_dialogue_35_1",
+    "npc_name" : "npc_merlin_assistant_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "right",
+    "npc_dialogue" : "quest_group_main_dialogue_35_1"
+  }, {
+    "id" : "quest_group_main_dialogue_39_1",
+    "npc_name" : "npc_merlin_assistant_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "left",
+    "npc_dialogue" : "quest_group_main_dialogue_39_1"
+  }, {
+    "id" : "quest_group_main_dialogue_51_1",
+    "npc_name" : "npc_merlin_assistant_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "right",
+    "npc_dialogue" : "quest_group_main_dialogue_51_1"
+  }, {
+    "id" : "plot_dialogue_1_1_1_1",
+    "npc_name" : "Captain_Steve_Sharp",
+    "npc_image" : "Captain_Steve_Sharp",
+    "npc_position" : "left",
+    "npc_dialogue" : "plot_dialogue_1_1_1_1"
+  }, {
+    "id" : "plot_dialogue_1_1_1_2",
+    "npc_name" : "Captain_Steve_Sharp",
+    "npc_image" : "Captain_Steve_Sharp",
+    "npc_position" : "left",
+    "npc_dialogue" : "plot_dialogue_1_1_1_2"
+  }, {
+    "id" : "plot_dialogue_1_1_1_3",
+    "npc_name" : "Captain_Steve_Sharp",
+    "npc_image" : "Captain_Steve_Sharp",
+    "npc_position" : "left",
+    "npc_dialogue" : "plot_dialogue_1_1_1_3"
+  }, {
+    "id" : "plot_dialogue_1_1_2_1",
+    "npc_name" : "dragon_knight_boss_1",
+    "npc_image" : "dragon_knight_dialog_boss_1",
+    "npc_position" : "right",
+    "npc_dialogue" : "plot_dialogue_1_1_2_1"
+  }, {
+    "id" : "plot_dialogue_1_1_3_1",
+    "npc_name" : "dragon_knight_boss_1",
+    "npc_image" : "dragon_knight_dialog_boss_1",
+    "npc_position" : "right",
+    "npc_dialogue" : "plot_dialogue_1_1_3_1"
+  }, {
+    "id" : "plot_dialogue_1_1_4_1",
+    "npc_name" : "dragon_knight_boss_1",
+    "npc_image" : "dragon_knight_dialog_boss_1",
+    "npc_position" : "right",
+    "npc_dialogue" : "plot_dialogue_1_1_4_1"
+  }, {
+    "id" : "plot_dialogue_1_2_1_1",
+    "npc_name" : "Captain_Steve_Sharp",
+    "npc_image" : "Captain_Steve_Sharp",
+    "npc_position" : "left",
+    "npc_dialogue" : "plot_dialogue_1_2_1_1"
+  }, {
+    "id" : "plot_dialogue_1_2_2_1",
+    "npc_name" : "dragon_knight_boss_1",
+    "npc_image" : "dragon_knight_dialog_boss_1",
+    "npc_position" : "right",
+    "npc_dialogue" : "plot_dialogue_1_2_2_1"
+  }, {
+    "id" : "plot_dialogue_1_2_3_1",
+    "npc_name" : "dragon_knight_boss_1",
+    "npc_image" : "dragon_knight_dialog_boss_1",
+    "npc_position" : "right",
+    "npc_dialogue" : "plot_dialogue_1_2_3_1"
+  }, {
+    "id" : "plot_dialogue_1_2_4_1",
+    "npc_name" : "dragon_knight_boss_1",
+    "npc_image" : "dragon_knight_dialog_boss_1",
+    "npc_position" : "right",
+    "npc_dialogue" : "plot_dialogue_1_2_4_1"
+  }, {
+    "id" : "plot_dialogue_1_3_1_1",
+    "npc_name" : "Captain_Steve_Sharp",
+    "npc_image" : "Captain_Steve_Sharp",
+    "npc_position" : "left",
+    "npc_dialogue" : "plot_dialogue_1_3_1_1"
+  }, {
+    "id" : "plot_dialogue_1_3_2_1",
+    "npc_name" : "dragon_knight_boss_1",
+    "npc_image" : "dragon_knight_dialog_boss_1",
+    "npc_position" : "right",
+    "npc_dialogue" : "plot_dialogue_1_3_2_1"
+  }, {
+    "id" : "plot_dialogue_1_3_3_1",
+    "npc_name" : "dragon_knight_boss_1",
+    "npc_image" : "dragon_knight_dialog_boss_1",
+    "npc_position" : "right",
+    "npc_dialogue" : "plot_dialogue_1_3_3_1"
+  }, {
+    "id" : "plot_dialogue_1_3_3_2",
+    "npc_name" : "dragon_knight_boss_1",
+    "npc_image" : "dragon_knight_dialog_boss_1",
+    "npc_position" : "right",
+    "npc_dialogue" : "plot_dialogue_1_3_3_2"
+  }, {
+    "id" : "plot_dialogue_1_3_3_3",
+    "npc_name" : "dragon_knight_boss_1",
+    "npc_image" : "dragon_knight_dialog_boss_1",
+    "npc_position" : "right",
+    "npc_dialogue" : "plot_dialogue_1_3_3_3"
+  }, {
+    "id" : "plot_dialogue_1_3_4_1",
+    "npc_name" : "dragon_knight_boss_1",
+    "npc_image" : "dragon_knight_dialog_boss_1",
+    "npc_position" : "right",
+    "npc_dialogue" : "plot_dialogue_1_3_4_1"
+  }, {
+    "id" : "plot_dialogue_2_1_1_1",
+    "npc_name" : "Captain_Steve_Sharp",
+    "npc_image" : "Captain_Steve_Sharp",
+    "npc_position" : "left",
+    "npc_dialogue" : "plot_dialogue_2_1_1_1"
+  }, {
+    "id" : "plot_dialogue_2_1_2_1",
+    "npc_name" : "dragon_knight_boss_2",
+    "npc_image" : "dragon_knight_dialog_boss_2",
+    "npc_position" : "right",
+    "npc_dialogue" : "plot_dialogue_2_1_2_1"
+  }, {
+    "id" : "plot_dialogue_2_1_2_2",
+    "npc_name" : "dragon_knight_boss_2",
+    "npc_image" : "dragon_knight_dialog_boss_2",
+    "npc_position" : "right",
+    "npc_dialogue" : "plot_dialogue_2_1_2_2"
+  }, {
+    "id" : "plot_dialogue_2_1_3_1",
+    "npc_name" : "dragon_knight_boss_2",
+    "npc_image" : "dragon_knight_dialog_boss_2",
+    "npc_position" : "right",
+    "npc_dialogue" : "plot_dialogue_2_1_3_1"
+  }, {
+    "id" : "plot_dialogue_2_1_4_1",
+    "npc_name" : "dragon_knight_boss_2",
+    "npc_image" : "dragon_knight_dialog_boss_2",
+    "npc_position" : "right",
+    "npc_dialogue" : "plot_dialogue_2_1_4_1"
+  }, {
+    "id" : "plot_dialogue_2_2_1_1",
+    "npc_name" : "Captain_Steve_Sharp",
+    "npc_image" : "Captain_Steve_Sharp",
+    "npc_position" : "left",
+    "npc_dialogue" : "plot_dialogue_2_2_1_1"
+  }, {
+    "id" : "plot_dialogue_2_2_2_1",
+    "npc_name" : "dragon_knight_boss_2",
+    "npc_image" : "dragon_knight_dialog_boss_2",
+    "npc_position" : "right",
+    "npc_dialogue" : "plot_dialogue_2_2_2_1"
+  }, {
+    "id" : "plot_dialogue_2_2_3_1",
+    "npc_name" : "dragon_knight_boss_2",
+    "npc_image" : "dragon_knight_dialog_boss_2",
+    "npc_position" : "right",
+    "npc_dialogue" : "plot_dialogue_2_2_3_1"
+  }, {
+    "id" : "plot_dialogue_2_2_4_1",
+    "npc_name" : "dragon_knight_boss_2",
+    "npc_image" : "dragon_knight_dialog_boss_2",
+    "npc_position" : "right",
+    "npc_dialogue" : "plot_dialogue_2_2_4_1"
+  }, {
+    "id" : "plot_dialogue_2_3_1_1",
+    "npc_name" : "Captain_Steve_Sharp",
+    "npc_image" : "Captain_Steve_Sharp",
+    "npc_position" : "left",
+    "npc_dialogue" : "plot_dialogue_2_3_1_1"
+  }, {
+    "id" : "plot_dialogue_2_3_2_1",
+    "npc_name" : "dragon_knight_boss_2",
+    "npc_image" : "dragon_knight_dialog_boss_2",
+    "npc_position" : "right",
+    "npc_dialogue" : "plot_dialogue_2_3_2_1"
+  }, {
+    "id" : "plot_dialogue_2_3_3_1",
+    "npc_name" : "dragon_knight_boss_2",
+    "npc_image" : "dragon_knight_dialog_boss_2",
+    "npc_position" : "right",
+    "npc_dialogue" : "plot_dialogue_2_3_3_1"
+  }, {
+    "id" : "plot_dialogue_2_3_4_1",
+    "npc_name" : "dragon_knight_boss_2",
+    "npc_image" : "dragon_knight_dialog_boss_2",
+    "npc_position" : "right",
+    "npc_dialogue" : "plot_dialogue_2_3_4_1"
+  }, {
+    "id" : "plot_dialogue_2_4_1_1",
+    "npc_name" : "Captain_Steve_Sharp",
+    "npc_image" : "Captain_Steve_Sharp",
+    "npc_position" : "left",
+    "npc_dialogue" : "plot_dialogue_2_4_1_1"
+  }, {
+    "id" : "plot_dialogue_2_4_2_1",
+    "npc_name" : "dragon_knight_boss_2",
+    "npc_image" : "dragon_knight_dialog_boss_2",
+    "npc_position" : "right",
+    "npc_dialogue" : "plot_dialogue_2_4_2_1"
+  }, {
+    "id" : "plot_dialogue_2_4_3_1",
+    "npc_name" : "dragon_knight_boss_2",
+    "npc_image" : "dragon_knight_dialog_boss_2",
+    "npc_position" : "right",
+    "npc_dialogue" : "plot_dialogue_2_4_3_1"
+  }, {
+    "id" : "plot_dialogue_2_4_4_1",
+    "npc_name" : "dragon_knight_boss_2",
+    "npc_image" : "dragon_knight_dialog_boss_2",
+    "npc_position" : "right",
+    "npc_dialogue" : "plot_dialogue_2_4_4_1"
+  }, {
+    "id" : "plot_dialogue_2_5_1_1",
+    "npc_name" : "Captain_Steve_Sharp",
+    "npc_image" : "Captain_Steve_Sharp",
+    "npc_position" : "left",
+    "npc_dialogue" : "plot_dialogue_2_5_1_1"
+  }, {
+    "id" : "plot_dialogue_2_5_2_1",
+    "npc_name" : "dragon_knight_boss_2",
+    "npc_image" : "dragon_knight_dialog_boss_2",
+    "npc_position" : "right",
+    "npc_dialogue" : "plot_dialogue_2_5_2_1"
+  }, {
+    "id" : "plot_dialogue_2_5_3_1",
+    "npc_name" : "dragon_knight_boss_2",
+    "npc_image" : "dragon_knight_dialog_boss_2",
+    "npc_position" : "right",
+    "npc_dialogue" : "plot_dialogue_2_5_3_1"
+  }, {
+    "id" : "plot_dialogue_2_5_4_1",
+    "npc_name" : "dragon_knight_boss_2",
+    "npc_image" : "dragon_knight_dialog_boss_2",
+    "npc_position" : "right",
+    "npc_dialogue" : "plot_dialogue_2_5_4_1"
+  }, {
+    "id" : "plot_dialogue_3_1_1_1",
+    "npc_name" : "Captain_Steve_Sharp",
+    "npc_image" : "Captain_Steve_Sharp",
+    "npc_position" : "left",
+    "npc_dialogue" : "plot_dialogue_3_1_1_1"
+  }, {
+    "id" : "plot_dialogue_3_1_1_2",
+    "npc_name" : "dragon_knight_boss_2",
+    "npc_image" : "dragon_knight_dialog_boss_2",
+    "npc_position" : "left",
+    "npc_dialogue" : "plot_dialogue_3_1_1_2"
+  }, {
+    "id" : "plot_dialogue_3_8_2_1",
+    "npc_name" : "dragon_knight_boss_2",
+    "npc_image" : "dragon_knight_dialog_boss_2",
+    "npc_position" : "right",
+    "npc_dialogue" : "plot_dialogue_3_8_2_1"
+  }, {
+    "id" : "plot_dialogue_3_8_3_1",
+    "npc_name" : "dragon_knight_boss_2",
+    "npc_image" : "dragon_knight_dialog_boss_2",
+    "npc_position" : "right",
+    "npc_dialogue" : "plot_dialogue_3_8_3_1"
+  }, {
+    "id" : "plot_dialogue_3_8_4_1",
+    "npc_name" : "dragon_knight_boss_2",
+    "npc_image" : "dragon_knight_dialog_boss_2",
+    "npc_position" : "right",
+    "npc_dialogue" : "plot_dialogue_3_8_4_1"
+  }, {
+    "id" : "plot_dialogue_4_1_1_1",
+    "npc_name" : "Captain_Steve_Sharp",
+    "npc_image" : "Captain_Steve_Sharp",
+    "npc_position" : "left",
+    "npc_dialogue" : "plot_dialogue_4_1_1_1"
+  }, {
+    "id" : "plot_dialogue_4_10_2_1",
+    "npc_name" : "dragon_knight_boss_3",
+    "npc_image" : "dragon_knight_dialog_boss_3",
+    "npc_position" : "right",
+    "npc_dialogue" : "plot_dialogue_4_10_2_1"
+  }, {
+    "id" : "plot_dialogue_4_10_3_1",
+    "npc_name" : "dragon_knight_boss_3",
+    "npc_image" : "dragon_knight_dialog_boss_3",
+    "npc_position" : "right",
+    "npc_dialogue" : "plot_dialogue_4_10_3_1"
+  }, {
+    "id" : "plot_dialogue_4_10_4_1",
+    "npc_name" : "dragon_knight_boss_3",
+    "npc_image" : "dragon_knight_dialog_boss_3",
+    "npc_position" : "right",
+    "npc_dialogue" : "plot_dialogue_4_10_4_1"
+  }, {
+    "id" : "plot_dialogue_5_1_1_1",
+    "npc_name" : "Captain_Steve_Sharp",
+    "npc_image" : "Captain_Steve_Sharp",
+    "npc_position" : "left",
+    "npc_dialogue" : "plot_dialogue_5_1_1_1"
+  }, {
+    "id" : "plot_dialogue_5_10_2_1",
+    "npc_name" : "dragon_knight_boss_4",
+    "npc_image" : "dragon_knight_dialog_boss_4",
+    "npc_position" : "right",
+    "npc_dialogue" : "plot_dialogue_5_10_2_1"
+  }, {
+    "id" : "plot_dialogue_5_10_3_1",
+    "npc_name" : "dragon_knight_boss_4",
+    "npc_image" : "dragon_knight_dialog_boss_4",
+    "npc_position" : "right",
+    "npc_dialogue" : "plot_dialogue_5_10_3_1"
+  }, {
+    "id" : "plot_dialogue_5_10_4_1",
+    "npc_name" : "dragon_knight_boss_4",
+    "npc_image" : "dragon_knight_dialog_boss_4",
+    "npc_position" : "right",
+    "npc_dialogue" : "plot_dialogue_5_10_4_1"
+  }, {
+    "id" : "plot_dialogue_6_1_1_1",
+    "npc_name" : "Captain_Steve_Sharp",
+    "npc_image" : "Captain_Steve_Sharp",
+    "npc_position" : "left",
+    "npc_dialogue" : "plot_dialogue_6_1_1_1"
+  }, {
+    "id" : "plot_dialogue_6_10_2_1",
+    "npc_name" : "dragon_knight_boss_4",
+    "npc_image" : "dragon_knight_dialog_boss_4",
+    "npc_position" : "right",
+    "npc_dialogue" : "plot_dialogue_6_10_2_1"
+  }, {
+    "id" : "plot_dialogue_6_10_3_1",
+    "npc_name" : "dragon_knight_boss_4",
+    "npc_image" : "dragon_knight_dialog_boss_4",
+    "npc_position" : "right",
+    "npc_dialogue" : "plot_dialogue_6_10_3_1"
+  }, {
+    "id" : "plot_dialogue_6_10_3_2",
+    "npc_name" : "dragon_knight_boss_4",
+    "npc_image" : "dragon_knight_dialog_boss_4",
+    "npc_position" : "right",
+    "npc_dialogue" : "plot_dialogue_6_10_3_2"
+  }, {
+    "id" : "plot_dialogue_6_10_4_1",
+    "npc_name" : "dragon_knight_boss_4",
+    "npc_image" : "dragon_knight_dialog_boss_4",
+    "npc_position" : "right",
+    "npc_dialogue" : "plot_dialogue_6_10_4_1"
+  }, {
+    "id" : "plot_dialogue_7_1_1_1",
+    "npc_name" : "Captain_Steve_Sharp",
+    "npc_image" : "Captain_Steve_Sharp",
+    "npc_position" : "left",
+    "npc_dialogue" : "plot_dialogue_7_1_1_1"
+  }, {
+    "id" : "plot_dialogue_7_10_2_1",
+    "npc_name" : "dragon_knight_boss_5",
+    "npc_image" : "dragon_knight_dialog_boss_5",
+    "npc_position" : "right",
+    "npc_dialogue" : "plot_dialogue_7_10_2_1"
+  }, {
+    "id" : "plot_dialogue_7_10_3_1",
+    "npc_name" : "dragon_knight_boss_5",
+    "npc_image" : "dragon_knight_dialog_boss_5",
+    "npc_position" : "right",
+    "npc_dialogue" : "plot_dialogue_7_10_3_1"
+  }, {
+    "id" : "plot_dialogue_7_10_3_2",
+    "npc_name" : "dragon_knight_boss_5",
+    "npc_image" : "dragon_knight_dialog_boss_5",
+    "npc_position" : "right",
+    "npc_dialogue" : "plot_dialogue_7_10_3_2"
+  }, {
+    "id" : "plot_dialogue_7_10_3_3",
+    "npc_name" : "dragon_knight_boss_5",
+    "npc_image" : "dragon_knight_dialog_boss_5",
+    "npc_position" : "right",
+    "npc_dialogue" : "plot_dialogue_7_10_3_3"
+  }, {
+    "id" : "plot_dialogue_7_10_4_1",
+    "npc_name" : "dragon_knight_boss_5",
+    "npc_image" : "dragon_knight_dialog_boss_5",
+    "npc_position" : "right",
+    "npc_dialogue" : "plot_dialogue_7_10_4_1"
+  }, {
+    "id" : "plot_dialogue_8_1_1_1",
+    "npc_name" : "Captain_Steve_Sharp",
+    "npc_image" : "Captain_Steve_Sharp",
+    "npc_position" : "left",
+    "npc_dialogue" : "plot_dialogue_8_1_1_1"
+  }, {
+    "id" : "plot_dialogue_8_10_2_1",
+    "npc_name" : "dragon_knight_boss_5",
+    "npc_image" : "dragon_knight_dialog_boss_5",
+    "npc_position" : "right",
+    "npc_dialogue" : "plot_dialogue_8_10_2_1"
+  }, {
+    "id" : "plot_dialogue_8_10_3_1",
+    "npc_name" : "dragon_knight_boss_5",
+    "npc_image" : "dragon_knight_dialog_boss_5",
+    "npc_position" : "right",
+    "npc_dialogue" : "plot_dialogue_8_10_3_1"
+  }, {
+    "id" : "plot_dialogue_8_10_3_2",
+    "npc_name" : "dragon_knight_boss_5",
+    "npc_image" : "dragon_knight_dialog_boss_5",
+    "npc_position" : "right",
+    "npc_dialogue" : "plot_dialogue_8_10_3_2"
+  }, {
+    "id" : "plot_dialogue_8_10_3_3",
+    "npc_name" : "dragon_knight_boss_5",
+    "npc_image" : "dragon_knight_dialog_boss_5",
+    "npc_position" : "right",
+    "npc_dialogue" : "plot_dialogue_8_10_3_3"
+  }, {
+    "id" : "plot_dialogue_8_10_3_4",
+    "npc_name" : "dragon_knight_boss_5",
+    "npc_image" : "dragon_knight_dialog_boss_5",
+    "npc_position" : "right",
+    "npc_dialogue" : "plot_dialogue_8_10_3_4"
+  }, {
+    "id" : "plot_dialogue_8_10_4_1",
+    "npc_name" : "dragon_knight_boss_5",
+    "npc_image" : "dragon_knight_dialog_boss_5",
+    "npc_position" : "right",
+    "npc_dialogue" : "plot_dialogue_8_10_4_1"
+  }, {
+    "id" : "turtorial_dialog_2_1",
+    "npc_name" : "npc_female_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "left",
+    "npc_dialogue" : "turtorial_dialog_2_1"
+  }, {
+    "id" : "turtorial_dialog_2_2",
+    "npc_name" : "npc_female_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "left",
+    "npc_dialogue" : "turtorial_dialog_2_2"
+  }, {
+    "id" : "turtorial_dialog_3",
+    "npc_name" : "npc_female_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "left",
+    "npc_dialogue" : "turtorial_dialog_3"
+  }, {
+    "id" : "turtorial_dialog_4_1",
+    "npc_name" : "npc_female_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "left",
+    "npc_dialogue" : "turtorial_dialog_4_1"
+  }, {
+    "id" : "turtorial_dialog_4_2",
+    "npc_name" : "npc_female_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "left",
+    "npc_dialogue" : "turtorial_dialog_4_2"
+  }, {
+    "id" : "turtorial_dialog_5_1",
+    "npc_name" : "npc_female_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "left",
+    "npc_dialogue" : "turtorial_dialog_5_1"
+  }, {
+    "id" : "turtorial_dialog_5_2",
+    "npc_name" : "npc_female_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "left",
+    "npc_dialogue" : "turtorial_dialog_5_2"
+  }, {
+    "id" : "turtorial_dialog_6",
+    "npc_name" : "npc_female_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "left",
+    "npc_dialogue" : "turtorial_dialog_6"
+  }, {
+    "id" : "turtorial_dialog_7",
+    "npc_name" : "npc_female_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "left",
+    "npc_dialogue" : "turtorial_dialog_7"
+  }, {
+    "id" : "turtorial_dialog_8",
+    "npc_name" : "npc_female_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "left",
+    "npc_dialogue" : "turtorial_dialog_8"
+  }, {
+    "id" : "turtorial_dialog_9",
+    "npc_name" : "npc_female_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "left",
+    "npc_dialogue" : "turtorial_dialog_9"
+  }, {
+    "id" : "turtorial_dialog_10",
+    "npc_name" : "npc_female_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "left",
+    "npc_dialogue" : "turtorial_dialog_10"
+  }, {
+    "id" : "turtorial_dialog_11",
+    "npc_name" : "npc_female_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "left",
+    "npc_dialogue" : "turtorial_dialog_11"
+  }, {
+    "id" : "turtorial_dialog_12",
+    "npc_name" : "npc_female_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "left",
+    "npc_dialogue" : "turtorial_dialog_12"
+  }, {
+    "id" : "turtorial_dialog_13",
+    "npc_name" : "npc_female_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "left",
+    "npc_dialogue" : "turtorial_dialog_13"
+  }, {
+    "id" : "turtorial_dialog_14",
+    "npc_name" : "npc_female_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "left",
+    "npc_dialogue" : "turtorial_dialog_14"
+  }, {
+    "id" : "tutorial_new_dialogue_1_1",
+    "npc_name" : "npc_female_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_new_dialogue_1_1"
+  }, {
+    "id" : "tutorial_new_dialogue_1_2",
+    "npc_name" : "npc_female_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_new_dialogue_1_2"
+  }, {
+    "id" : "tutorial_new_dialogue_1_barracks",
+    "npc_name" : "npc_female_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_new_dialogue_1_barracks"
+  }, {
+    "id" : "tutorial_new_dialogue_2_1",
+    "npc_name" : "npc_female_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_new_dialogue_2_1"
+  }, {
+    "id" : "tutorial_new_dialogue_2_2",
+    "npc_name" : "npc_female_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_new_dialogue_2_2"
+  }, {
+    "id" : "tutorial_new_dialogue_3_1",
+    "npc_name" : "npc_female_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_new_dialogue_3_1"
+  }, {
+    "id" : "tutorial_new_dialogue_3_threat",
+    "npc_name" : "npc_female_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_new_dialogue_3_threat"
+  }, {
+    "id" : "tutorial_new_dialogue_4_1",
+    "npc_name" : "npc_female_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_new_dialogue_4_1"
+  }, {
+    "id" : "tutorial_new_dialogue_5_rural_unlock",
+    "npc_name" : "npc_female_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_new_dialogue_5_rural_unlock"
+  }, {
+    "id" : "tutorial_new_dialogue_5_1",
+    "npc_name" : "npc_female_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_new_dialogue_5_1"
+  }, {
+    "id" : "tutorial_new_dialogue_6_1",
+    "npc_name" : "npc_female_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_new_dialogue_6_1"
+  }, {
+    "id" : "tutorial_new_dialogue_6_2",
+    "npc_name" : "npc_female_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_new_dialogue_6_2"
+  }, {
+    "id" : "tutorial_new_dialogue_7_1",
+    "npc_name" : "npc_female_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_new_dialogue_7_1"
+  }, {
+    "id" : "tutorial_new_dialogue_8_1",
+    "npc_name" : "npc_female_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_new_dialogue_8_1"
+  }, {
+    "id" : "tutorial_new_dialogue_9_1",
+    "npc_name" : "npc_female_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_new_dialogue_9_1"
+  }, {
+    "id" : "tutorial_new_dialogue_10_1",
+    "npc_name" : "npc_female_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_new_dialogue_10_1"
+  }, {
+    "id" : "tutorial_new_dialogue_11_1",
+    "npc_name" : "npc_female_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_new_dialogue_11_1"
+  }, {
+    "id" : "tutorial_new_dialogue_12_1",
+    "npc_name" : "npc_female_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_new_dialogue_12_1"
+  }, {
+    "id" : "tutorial_new_dialogue_13_1",
+    "npc_name" : "npc_female_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_new_dialogue_13_1"
+  }, {
+    "id" : "tutorial_new_dialogue_14_1",
+    "npc_name" : "npc_female_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_new_dialogue_14_1"
+  }, {
+    "id" : "tutorial_new_dialogue_15_1",
+    "npc_name" : "npc_female_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_new_dialogue_15_1"
+  }, {
+    "id" : "tutorial_new_dialogue_15_2",
+    "npc_name" : "npc_female_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_new_dialogue_15_2"
+  }, {
+    "id" : "tutorial_new_dialogue_15_3",
+    "npc_name" : "npc_female_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_new_dialogue_15_3"
+  }, {
+    "id" : "tutorial_dialogue_chapter_2_1",
+    "npc_name" : "npc_female_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "right",
+    "npc_dialogue" : "tutorial_dialogue_chapter_2_1"
+  }, {
+    "id" : "tutorial_dialogue_chapter_2_2",
+    "npc_name" : "npc_female_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "right",
+    "npc_dialogue" : "tutorial_dialogue_chapter_2_2"
+  }, {
+    "id" : "tutorial_dialogue_chapter_2_3",
+    "npc_name" : "npc_female_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_dialogue_chapter_2_3"
+  }, {
+    "id" : "tutorial_dialogue_chapter_3_1",
+    "npc_name" : "npc_female_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_dialogue_chapter_3_1"
+  }, {
+    "id" : "tutorial_dialogue_chapter_3_2",
+    "npc_name" : "npc_female_1_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female_1",
+    "npc_position" : "right",
+    "npc_dialogue" : "tutorial_dialogue_chapter_3_2"
+  }, {
+    "id" : "tutorial_dialogue_chapter_3_3",
+    "npc_name" : "npc_female_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_dialogue_chapter_3_3"
+  }, {
+    "id" : "tutorial_dialogue_chapter_4_1",
+    "npc_name" : "npc_female_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_dialogue_chapter_4_1"
+  }, {
+    "id" : "tutorial_dialogue_chapter_4_2",
+    "npc_name" : "npc_female_1_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female_1",
+    "npc_position" : "right",
+    "npc_dialogue" : "tutorial_dialogue_chapter_4_2"
+  }, {
+    "id" : "tutorial_dialogue_chapter_5_1",
+    "npc_name" : "npc_female_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_dialogue_chapter_5_1"
+  }, {
+    "id" : "tutorial_dialogue_chapter_6_1",
+    "npc_name" : "npc_female_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_dialogue_chapter_6_1"
+  }, {
+    "id" : "tutorial_dialogue_chapter_6_5",
+    "npc_name" : "npc_female_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_dialogue_chapter_6_5"
+  }, {
+    "id" : "tutorial_dialogue_chapter_7_1",
+    "npc_name" : "npc_female_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_dialogue_chapter_7_1"
+  }, {
+    "id" : "tutorial_dialogue_chapter_7_2",
+    "npc_name" : "npc_female_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_dialogue_chapter_7_2"
+  }, {
+    "id" : "tutorial_dialogue_chapter_7_3",
+    "npc_name" : "npc_female_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_male",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_dialogue_chapter_7_3"
+  }, {
+    "id" : "tutorial_dialogue_chapter_7_4",
+    "npc_name" : "npc_female_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_dialogue_chapter_7_4"
+  }, {
+    "id" : "tutorial_dialogue_chapter_7_5",
+    "npc_name" : "npc_female_1_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female_1",
+    "npc_position" : "right",
+    "npc_dialogue" : "tutorial_dialogue_chapter_7_5"
+  }, {
+    "id" : "tutorial_dialogue_chapter_7_6",
+    "npc_name" : "npc_female_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_dialogue_chapter_7_6"
+  }, {
+    "id" : "tutorial_dialogue_chapter_7_7",
+    "npc_name" : "npc_female_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_dialogue_chapter_7_7"
+  }, {
+    "id" : "tutorial_dialogue_section2_1",
+    "npc_name" : "npc_female_1_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female_1",
+    "npc_position" : "right",
+    "npc_dialogue" : "tutorial_dialogue_section2_1"
+  }, {
+    "id" : "tutorial_dialogue_section2_2",
+    "npc_name" : "npc_female_1_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female_1",
+    "npc_position" : "right",
+    "npc_dialogue" : "tutorial_dialogue_section2_2"
+  }, {
+    "id" : "tutorial_dialogue_section2_3",
+    "npc_name" : "npc_female_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_dialogue_section2_3"
+  }, {
+    "id" : "tutorial_dialogue_section3_1",
+    "npc_name" : "npc_female_1_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female_1",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_dialogue_section3_1"
+  }, {
+    "id" : "tutorial_dialogue_section3_2",
+    "npc_name" : "npc_female_1_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female_1",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_dialogue_section3_2"
+  }, {
+    "id" : "tutorial_dialogue_section3_3",
+    "npc_name" : "player_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "player",
+    "npc_position" : "right",
+    "npc_dialogue" : "tutorial_dialogue_section3_3"
+  }, {
+    "id" : "tutorial_dialogue_section3_4",
+    "npc_name" : "npc_female_1_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female_1",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_dialogue_section3_4"
+  }, {
+    "id" : "tutorial_dialogue_section3_5",
+    "npc_name" : "npc_female_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_dialogue_section3_5"
+  }, {
+    "id" : "tutorial_dialogue_section3_6",
+    "npc_name" : "player_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "player",
+    "npc_position" : "right",
+    "npc_dialogue" : "tutorial_dialogue_section3_6"
+  }, {
+    "id" : "tutorial_dialogue_section4_1",
+    "npc_name" : "npc_female_1_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female_1",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_dialogue_section4_1"
+  }, {
+    "id" : "tutorial_dialogue_section4_2",
+    "npc_name" : "npc_female_1_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female_1",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_dialogue_section4_2"
+  }, {
+    "id" : "tutorial_dialogue_section4_3",
+    "npc_name" : "npc_female_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_dialogue_section4_3"
+  }, {
+    "id" : "tutorial_dialogue_section4_4",
+    "npc_name" : "npc_female_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_dialogue_section4_4"
+  }, {
+    "id" : "tutorial_dialogue_section4_5",
+    "npc_name" : "player_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "player",
+    "npc_position" : "right",
+    "npc_dialogue" : "tutorial_dialogue_section4_5"
+  }, {
+    "id" : "tutorial_dialogue_section5_1",
+    "npc_name" : "npc_female_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_dialogue_section5_1"
+  }, {
+    "id" : "tutorial_dialogue_section5_2",
+    "npc_name" : "npc_female_1_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female_1",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_dialogue_section5_2"
+  }, {
+    "id" : "tutorial_dialogue_section5_3",
+    "npc_name" : "player_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "player",
+    "npc_position" : "right",
+    "npc_dialogue" : "tutorial_dialogue_section5_3"
+  }, {
+    "id" : "tutorial_dialogue_section5_4",
+    "npc_name" : "npc_female_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_dialogue_section5_4"
+  }, {
+    "id" : "tutorial_dialogue_section6_1",
+    "npc_name" : "npc_female_1_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female_1",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_dialogue_section6_1"
+  }, {
+    "id" : "tutorial_dialogue_section6_2",
+    "npc_name" : "npc_female_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "right",
+    "npc_dialogue" : "tutorial_dialogue_section6_2"
+  }, {
+    "id" : "tutorial_dialogue_section6_3",
+    "npc_name" : "player_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "player",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_dialogue_section6_3"
+  }, {
+    "id" : "tutorial_dialogue_section6_4",
+    "npc_name" : "npc_female_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "right",
+    "npc_dialogue" : "tutorial_dialogue_section6_4"
+  }, {
+    "id" : "tutorial_dialogue_section6_5",
+    "npc_name" : "player_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "player",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_dialogue_section6_5"
+  }, {
+    "id" : "tutorial_dialogue_section6_6",
+    "npc_name" : "npc_female_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "right",
+    "npc_dialogue" : "tutorial_dialogue_section6_6"
+  }, {
+    "id" : "tutorial_dialogue_section7_1",
+    "npc_name" : "npc_female_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_dialogue_section7_1"
+  }, {
+    "id" : "tutorial_dialogue_section7_2",
+    "npc_name" : "npc_female_1_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female_1",
+    "npc_position" : "right",
+    "npc_dialogue" : "tutorial_dialogue_section7_2"
+  }, {
+    "id" : "tutorial_dialogue_section7_3",
+    "npc_name" : "player_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "player",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_dialogue_section7_3"
+  }, {
+    "id" : "tutorial_dialogue_section7_4",
+    "npc_name" : "npc_male_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_male_1",
+    "npc_position" : "right",
+    "npc_dialogue" : "tutorial_dialogue_section7_4"
+  }, {
+    "id" : "tutorial_dialogue_section7_5",
+    "npc_name" : "npc_female_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_dialogue_section7_5"
+  }, {
+    "id" : "tutorial_dialogue_section8_1",
+    "npc_name" : "npc_female_1_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female_1",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_dialogue_section8_1"
+  }, {
+    "id" : "tutorial_dialogue_section8_2",
+    "npc_name" : "player_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "player",
+    "npc_position" : "right",
+    "npc_dialogue" : "tutorial_dialogue_section8_2"
+  }, {
+    "id" : "tutorial_dialogue_section8_3",
+    "npc_name" : "npc_female_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_dialogue_section8_3"
+  }, {
+    "id" : "tutorial_dialogue_section8_4",
+    "npc_name" : "npc_female_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_dialogue_section8_4"
+  }, {
+    "id" : "tutorial_2.3_dialogue_section3_1",
+    "npc_name" : "npc_female_1_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female_1",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_2.3_dialogue_section3_1"
+  }, {
+    "id" : "tutorial_2.3_dialogue_section3_10",
+    "npc_name" : "npc_female_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "right",
+    "npc_dialogue" : "tutorial_2.3_dialogue_section3_10"
+  }, {
+    "id" : "tutorial_2.3_dialogue_section3_2",
+    "npc_name" : "npc_female_1_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female_1",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_2.3_dialogue_section3_2"
+  }, {
+    "id" : "tutorial_2.3_dialogue_section3_3",
+    "npc_name" : "npc_female_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "right",
+    "npc_dialogue" : "tutorial_2.3_dialogue_section3_3"
+  }, {
+    "id" : "tutorial_2.3_dialogue_section3_4",
+    "npc_name" : "player_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "player",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_2.3_dialogue_section3_4"
+  }, {
+    "id" : "tutorial_2.3_dialogue_section4_1",
+    "npc_name" : "npc_female_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_2.3_dialogue_section4_1"
+  }, {
+    "id" : "tutorial_2.3_dialogue_section4_2",
+    "npc_name" : "npc_female_1_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female_1",
+    "npc_position" : "right",
+    "npc_dialogue" : "tutorial_2.3_dialogue_section4_2"
+  }, {
+    "id" : "tutorial_2.3_dialogue_section4_20",
+    "npc_name" : "npc_female_1_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female_1",
+    "npc_position" : "right",
+    "npc_dialogue" : "tutorial_2.3_dialogue_section4_20"
+  }, {
+    "id" : "tutorial_2.3_dialogue_section4_3",
+    "npc_name" : "player_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "player",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_2.3_dialogue_section4_3"
+  }, {
+    "id" : "tutorial_2.3_dialogue_section5_1",
+    "npc_name" : "npc_female_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_2.3_dialogue_section5_1"
+  }, {
+    "id" : "tutorial_2.3_dialogue_section5_2",
+    "npc_name" : "npc_male_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_male",
+    "npc_position" : "right",
+    "npc_dialogue" : "tutorial_2.3_dialogue_section5_2"
+  }, {
+    "id" : "tutorial_2.3_dialogue_section5_3",
+    "npc_name" : "player_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "player",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_2.3_dialogue_section5_3"
+  }, {
+    "id" : "tutorial_2.3_dialogue_section6_1",
+    "npc_name" : "npc_female_1_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female_1",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_2.3_dialogue_section6_1"
+  }, {
+    "id" : "tutorial_2.3_dialogue_section6_2",
+    "npc_name" : "player_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "player",
+    "npc_position" : "right",
+    "npc_dialogue" : "tutorial_2.3_dialogue_section6_2"
+  }, {
+    "id" : "tutorial_2.3_dialogue_section7_1",
+    "npc_name" : "npc_female_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_2.3_dialogue_section7_1"
+  }, {
+    "id" : "tutorial_2.3_dialogue_section7_2",
+    "npc_name" : "npc_female_1_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female_1",
+    "npc_position" : "right",
+    "npc_dialogue" : "tutorial_2.3_dialogue_section7_2"
+  }, {
+    "id" : "tutorial_dialogue_war_symphony_1_1",
+    "npc_name" : "npc_female_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_dialogue_war_symphony_1_1"
+  }, {
+    "id" : "tutorial_dialogue_war_symphony_1_2",
+    "npc_name" : "npc_female_1_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female_1",
+    "npc_position" : "right",
+    "npc_dialogue" : "tutorial_dialogue_war_symphony_1_2"
+  }, {
+    "id" : "tutorial_dialogue_war_symphony_1_3",
+    "npc_image" : "tutorial_npc",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_dialogue_war_symphony_1_3"
+  }, {
+    "id" : "tutorial_dialogue_war_symphony_1_4",
+    "npc_name" : "npc_female_1_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female_1",
+    "npc_position" : "right",
+    "npc_dialogue" : "tutorial_dialogue_war_symphony_1_4"
+  }, {
+    "id" : "tutorial_dialogue_war_symphony_1_5",
+    "npc_name" : "npc_boss_1st_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_madam",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_dialogue_war_symphony_1_5"
+  }, {
+    "id" : "tutorial_dialogue_war_symphony_1_6",
+    "npc_name" : "npc_female_1_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female_1",
+    "npc_position" : "right",
+    "npc_dialogue" : "tutorial_dialogue_war_symphony_1_6"
+  }, {
+    "id" : "tutorial_dialogue_war_symphony_1_7",
+    "npc_name" : "npc_boss_1st_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_madam",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_dialogue_war_symphony_1_7"
+  }, {
+    "id" : "tutorial_dialogue_war_symphony_1_8",
+    "npc_name" : "npc_female_1_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female_1",
+    "npc_position" : "right",
+    "npc_dialogue" : "tutorial_dialogue_war_symphony_1_8"
+  }, {
+    "id" : "tutorial_dialogue_war_symphony_1_9",
+    "npc_name" : "player_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "player",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_dialogue_war_symphony_1_9"
+  }, {
+    "id" : "tutorial_dialogue_war_symphony_2_1",
+    "npc_name" : "npc_boss_2nd_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_boss_2nd_bust",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_dialogue_war_symphony_2_1"
+  }, {
+    "id" : "tutorial_dialogue_war_symphony_2_2",
+    "npc_name" : "npc_boss_2nd_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_boss_2nd_bust",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_dialogue_war_symphony_2_2"
+  }, {
+    "id" : "tutorial_dialogue_war_symphony_2_3",
+    "npc_name" : "npc_female_1_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female_1",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_dialogue_war_symphony_2_3"
+  }, {
+    "id" : "tutorial_dialogue_war_symphony_2_4",
+    "npc_name" : "npc_boss_2nd_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_boss_2nd_bust",
+    "npc_position" : "right",
+    "npc_dialogue" : "tutorial_dialogue_war_symphony_2_4"
+  }, {
+    "id" : "tutorial_dialogue_war_symphony_2_5",
+    "npc_name" : "npc_female_1_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female_1",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_dialogue_war_symphony_2_5"
+  }, {
+    "id" : "tutorial_dialogue_war_symphony_2_6",
+    "npc_name" : "npc_boss_2nd_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_boss_2nd_bust",
+    "npc_position" : "right",
+    "npc_dialogue" : "tutorial_dialogue_war_symphony_2_6"
+  }, {
+    "id" : "tutorial_dialogue_war_symphony_3_1",
+    "npc_image" : "tutorial_npc",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_dialogue_war_symphony_3_1"
+  }, {
+    "id" : "tutorial_dialogue_war_symphony_3_2",
+    "npc_name" : "npc_boss_3rd_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_boss_3rd_bust",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_dialogue_war_symphony_3_2"
+  }, {
+    "id" : "tutorial_dialogue_war_symphony_3_3",
+    "npc_image" : "tutorial_npc",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_dialogue_war_symphony_3_3"
+  }, {
+    "id" : "tutorial_dialogue_war_symphony_3_4",
+    "npc_image" : "tutorial_npc",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_dialogue_war_symphony_3_4"
+  }, {
+    "id" : "tutorial_dialogue_war_symphony_3_5",
+    "npc_name" : "player_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "player",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_dialogue_war_symphony_3_5"
+  }, {
+    "id" : "tutorial_dialogue_war_symphony_3_6",
+    "npc_name" : "npc_female_1_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female_1",
+    "npc_position" : "right",
+    "npc_dialogue" : "tutorial_dialogue_war_symphony_3_6"
+  }, {
+    "id" : "tutorial_dialogue_war_symphony_3_7",
+    "npc_name" : "npc_boss_3rd_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_boss_3rd_bust",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_dialogue_war_symphony_3_7"
+  }, {
+    "id" : "tutorial_dialogue_war_symphony_3_8",
+    "npc_name" : "npc_boss_3rd_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_boss_3rd_bust",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_dialogue_war_symphony_3_8"
+  }, {
+    "id" : "tutorial_dialogue_war_symphony_3_9",
+    "npc_name" : "npc_female_1_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female_1",
+    "npc_position" : "right",
+    "npc_dialogue" : "tutorial_dialogue_war_symphony_3_9"
+  }, {
+    "id" : "tutorial_dialogue_war_symphony_3_10",
+    "npc_name" : "npc_boss_3rd_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_boss_3rd_bust",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_dialogue_war_symphony_3_10"
+  }, {
+    "id" : "tutorial_dialogue_war_symphony_3_11",
+    "npc_image" : "tutorial_npc",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_dialogue_war_symphony_3_11"
+  }, {
+    "id" : "tutorial_dialogue_war_symphony_3_12",
+    "npc_name" : "npc_female_1_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female_1",
+    "npc_position" : "right",
+    "npc_dialogue" : "tutorial_dialogue_war_symphony_3_12"
+  }, {
+    "id" : "tutorial_dialogue_war_symphony_4_1",
+    "npc_name" : "npc_boss_1st_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_madam",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_dialogue_war_symphony_4_1"
+  }, {
+    "id" : "tutorial_dialogue_war_symphony_4_2",
+    "npc_name" : "npc_boss_4th_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_boss_4th_bust",
+    "npc_position" : "right",
+    "npc_dialogue" : "tutorial_dialogue_war_symphony_4_2"
+  }, {
+    "id" : "tutorial_dialogue_war_symphony_4_3",
+    "npc_name" : "npc_boss_4th_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_boss_4th_bust",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_dialogue_war_symphony_4_3"
+  }, {
+    "id" : "tutorial_dialogue_war_symphony_4_4",
+    "npc_name" : "npc_female_1_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female_1",
+    "npc_position" : "right",
+    "npc_dialogue" : "tutorial_dialogue_war_symphony_4_4"
+  }, {
+    "id" : "tutorial_dialogue_war_symphony_4_5",
+    "npc_name" : "npc_boss_4th_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_boss_4th_bust",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_dialogue_war_symphony_4_5"
+  }, {
+    "id" : "tutorial_dialogue_war_symphony_4_6",
+    "npc_name" : "npc_boss_1st_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_madam",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_dialogue_war_symphony_4_6"
+  }, {
+    "id" : "tutorial_dialogue_war_symphony_4_7",
+    "npc_name" : "npc_boss_4th_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_boss_4th_bust",
+    "npc_position" : "right",
+    "npc_dialogue" : "tutorial_dialogue_war_symphony_4_7"
+  }, {
+    "id" : "tutorial_dialogue_war_symphony_4_8",
+    "npc_name" : "npc_boss_4th_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_boss_4th_bust",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_dialogue_war_symphony_4_8"
+  }, {
+    "id" : "tutorial_dialogue_war_symphony_4_9",
+    "npc_name" : "npc_female_1_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female_1",
+    "npc_position" : "right",
+    "npc_dialogue" : "tutorial_dialogue_war_symphony_4_9"
+  }, {
+    "id" : "tutorial_dialogue_war_symphony_4_10",
+    "npc_name" : "player_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "player",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_dialogue_war_symphony_4_10"
+  }, {
+    "id" : "tutorial_dialogue_war_symphony_5_1",
+    "npc_name" : "npc_boss_5th_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_boss_5th_bust",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_dialogue_war_symphony_5_1"
+  }, {
+    "id" : "tutorial_dialogue_war_symphony_5_2",
+    "npc_name" : "player_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "player",
+    "npc_position" : "right",
+    "npc_dialogue" : "tutorial_dialogue_war_symphony_5_2"
+  }, {
+    "id" : "tutorial_dialogue_war_symphony_5_3",
+    "npc_name" : "npc_boss_5th_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_boss_5th_bust",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_dialogue_war_symphony_5_3"
+  }, {
+    "id" : "tutorial_dialogue_war_symphony_5_4",
+    "npc_name" : "npc_boss_5th_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_boss_5th_bust",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_dialogue_war_symphony_5_4"
+  }, {
+    "id" : "tutorial_dialogue_war_symphony_5_5",
+    "npc_name" : "npc_boss_4th_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_boss_4th_bust",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_dialogue_war_symphony_5_5"
+  }, {
+    "id" : "tutorial_dialogue_war_symphony_5_6",
+    "npc_name" : "npc_boss_5th_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_boss_5th_bust",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_dialogue_war_symphony_5_6"
+  }, {
+    "id" : "tutorial_dialogue_war_symphony_5_7",
+    "npc_name" : "player_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "player",
+    "npc_position" : "right",
+    "npc_dialogue" : "tutorial_dialogue_war_symphony_5_7"
+  }, {
+    "id" : "tutorial_dialogue_war_symphony_5_8",
+    "npc_name" : "npc_boss_5th_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_boss_5th_bust",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_dialogue_war_symphony_5_8"
+  }, {
+    "id" : "tutorial_new_2.3_dialogue_section3_1",
+    "npc_name" : "npc_female_1_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female_1",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_new_2.3_dialogue_section3_1"
+  }, {
+    "id" : "tutorial_new_2.3_dialogue_section3_10",
+    "npc_name" : "npc_female_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "right",
+    "npc_dialogue" : "tutorial_new_2.3_dialogue_section3_10"
+  }, {
+    "id" : "tutorial_new_2.3_dialogue_section3_2",
+    "npc_name" : "npc_female_1_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female_1",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_new_2.3_dialogue_section3_2"
+  }, {
+    "id" : "tutorial_new_2.3_dialogue_section4_1",
+    "npc_name" : "npc_female_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_new_2.3_dialogue_section4_1"
+  }, {
+    "id" : "tutorial_dialogue_section4_mine",
+    "npc_name" : "npc_female_1_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female_1",
+    "npc_position" : "right",
+    "npc_dialogue" : "tutorial_dialogue_section4_mine"
+  }, {
+    "id" : "tutorial_new_2.3_dialogue_section5_1",
+    "npc_name" : "npc_female_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_new_2.3_dialogue_section5_1"
+  }, {
+    "id" : "tutorial_new_2.3_dialogue_section6_1",
+    "npc_name" : "npc_female_1_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "npc_female_1",
+    "npc_position" : "left",
+    "npc_dialogue" : "tutorial_new_2.3_dialogue_section6_1"
+  }, {
+    "id" : "tutorial_new_2.3_dialogue_section6_2",
+    "npc_name" : "player_name",
+    "npc_image" : "tutorial_npc",
+    "npc_image_new" : "player",
+    "npc_position" : "right",
+    "npc_dialogue" : "tutorial_new_2.3_dialogue_section6_2"
+  }, {
+    "id" : "campaign_dialog_1",
+    "npc_name" : "通信兵",
+    "npc_image" : "campaign_dialog_pic_1",
+    "npc_image_new" : "campaign_dialog_pic_1",
+    "npc_position" : "left",
+    "npc_dialogue" : "指挥官，我们首要目标是：攻下[ffc63d]【政府大楼】[-]，我们的部队有限，请合理利用一切条件，才能达成最终目标！"
+  }, {
+    "id" : "campaign_dialog_2",
+    "npc_name" : "通信兵",
+    "npc_image" : "campaign_dialog_pic_1",
+    "npc_image_new" : "campaign_dialog_pic_1",
+    "npc_position" : "left",
+    "npc_dialogue" : "前方是一个平原，敌方部队还没有完全渗透过来。指挥官，你可以选择这里当做你的第一个练兵场，给毁灭军团一点教训看看"
+  }, {
+    "id" : "campaign_dialog_3",
+    "npc_name" : "通信兵",
+    "npc_image" : "campaign_dialog_pic_1",
+    "npc_image_new" : "campaign_dialog_pic_1",
+    "npc_position" : "left",
+    "npc_dialogue" : "平原边上的粮食厂，为了看守这里的粮仓，敌军在这里布防了看守军。"
+  }, {
+    "id" : "campaign_dialog_4",
+    "npc_name" : "通信兵",
+    "npc_image" : "campaign_dialog_pic_1",
+    "npc_image_new" : "campaign_dialog_pic_1",
+    "npc_position" : "left",
+    "npc_dialogue" : "指挥官，拉卡大桥是通往城区的另一座大桥，侦查发现这里敌人在这里防守松懈，是攻占的好时机。"
+  }, {
+    "id" : "campaign_dialog_5",
+    "npc_name" : "通信兵",
+    "npc_image" : "campaign_dialog_pic_1",
+    "npc_image_new" : "campaign_dialog_pic_1",
+    "npc_position" : "left",
+    "npc_dialogue" : "指挥官，前方是敌军的兵工厂，占领这里应该可以提升我方战力！"
+  }, {
+    "id" : "campaign_dialog_6",
+    "npc_name" : "通信兵",
+    "npc_image" : "campaign_dialog_pic_1",
+    "npc_image_new" : "campaign_dialog_pic_1",
+    "npc_position" : "left",
+    "npc_dialogue" : "指挥官，据战报显示这里已被敌人改造成了堡垒，兵派重兵把守。"
+  }, {
+    "id" : "campaign_dialog_7",
+    "npc_name" : "通信兵",
+    "npc_image" : "campaign_dialog_pic_1",
+    "npc_image_new" : "campaign_dialog_pic_1",
+    "npc_position" : "left",
+    "npc_dialogue" : "指挥官，前方是城市的发电厂，为城市提供能源，这里也是敌人重点驻防对象。"
+  }, {
+    "id" : "campaign_dialog_8",
+    "npc_name" : "通信兵",
+    "npc_image" : "campaign_dialog_pic_1",
+    "npc_image_new" : "campaign_dialog_pic_1",
+    "npc_position" : "left",
+    "npc_dialogue" : "指挥官，这里是敌人在城外临时建造的军用机场，占领这里可以让我们在最后的战斗中获取足够的空中优势！"
+  }, {
+    "id" : "campaign_dialog_9",
+    "npc_name" : "通信兵",
+    "npc_image" : "campaign_dialog_pic_1",
+    "npc_image_new" : "campaign_dialog_pic_1",
+    "npc_position" : "left",
+    "npc_dialogue" : "指挥官，敌人重兵控制了城市的港口，阻挡了我们呼叫海上援军的可能。"
+  }, {
+    "id" : "campaign_dialog_10",
+    "npc_name" : "通信兵",
+    "npc_image" : "campaign_dialog_pic_1",
+    "npc_image_new" : "campaign_dialog_pic_1",
+    "npc_position" : "left",
+    "npc_dialogue" : "指挥官，岸边也有部分敌军驻守，想要从海路前进需要突破这里才行。"
+  }, {
+    "id" : "campaign_dialog_11",
+    "npc_name" : "通信兵",
+    "npc_image" : "campaign_dialog_pic_1",
+    "npc_image_new" : "campaign_dialog_pic_1",
+    "npc_position" : "left",
+    "npc_dialogue" : "指挥官，这里的钢材厂为敌人的军工厂源源不断提供着钢材，敌人在这里也派了重兵驻守，想要攻下这里需要一番苦战。"
+  }, {
+    "id" : "campaign_dialog_12",
+    "npc_name" : "通信兵",
+    "npc_image" : "campaign_dialog_pic_1",
+    "npc_image_new" : "campaign_dialog_pic_1",
+    "npc_position" : "left",
+    "npc_dialogue" : "指挥官，前面的居民区已戒严，充满着绝望，压抑的气氛。"
+  }, {
+    "id" : "campaign_dialog_13",
+    "npc_name" : "通信兵",
+    "npc_image" : "campaign_dialog_pic_1",
+    "npc_image_new" : "campaign_dialog_pic_1",
+    "npc_position" : "left",
+    "npc_dialogue" : "指挥官，前面是城市西边的河道，有些敌军巡逻船在巡视。"
+  }, {
+    "id" : "campaign_dialog_14",
+    "npc_name" : "通信兵",
+    "npc_image" : "campaign_dialog_pic_1",
+    "npc_image_new" : "campaign_dialog_pic_1",
+    "npc_position" : "left",
+    "npc_dialogue" : "指挥官，我们的反抗军盟友聚集在博物馆周边，顽强抵抗着！"
+  }, {
+    "id" : "campaign_dialog_15",
+    "npc_name" : "通信兵",
+    "npc_image" : "campaign_dialog_pic_1",
+    "npc_image_new" : "campaign_dialog_pic_1",
+    "npc_position" : "left",
+    "npc_dialogue" : "指挥官，政府大楼前已被敌军用钢筋水泥建造了一座钢铁要塞，想要进攻政府大楼，只有突破这里才有可能，这将会是一场硬仗！"
+  }, {
+    "id" : "campaign_dialog_16",
+    "npc_name" : "通信兵",
+    "npc_image" : "campaign_dialog_pic_1",
+    "npc_image_new" : "campaign_dialog_pic_1",
+    "npc_position" : "left",
+    "npc_dialogue" : "指挥官，前方是本次战役的终极之战，我方部队就等待着援军的到来，沿途准备的全部火力将在这里释放，为了祖国，乌拉！"
+  }, {
+    "id" : "campaign_dialog_101",
+    "npc_name" : "通信兵",
+    "npc_image" : "campaign_dialog_pic_1",
+    "npc_image_new" : "campaign_dialog_pic_1",
+    "npc_position" : "left",
+    "npc_dialogue" : "前方是一个平原，敌方部队还没有完全渗透过来。指挥官，你可以选择这里当做你的第一个练兵场，给毁灭军团一点教训看看"
+  }, {
+    "id" : "campaign_dialog_109",
+    "npc_name" : "通信兵",
+    "npc_image" : "campaign_dialog_pic_1",
+    "npc_image_new" : "campaign_dialog_pic_1",
+    "npc_position" : "left",
+    "npc_dialogue" : "如果能占领这里，总部的援军就会从海上到达，在最后决战前帮助我们给予敌人重创！"
+  }, {
+    "id" : "campaign_dialog_114",
+    "npc_name" : "通信兵",
+    "npc_image" : "campaign_dialog_pic_1",
+    "npc_image_new" : "campaign_dialog_pic_1",
+    "npc_position" : "left",
+    "npc_dialogue" : "如果我们能够占领这里，相信反抗军能给予我们不小的帮助！"
+  }, {
+    "id" : "campaign_dialog_202",
+    "npc_name" : "通信兵",
+    "npc_image" : "campaign_dialog_pic_1",
+    "npc_image_new" : "campaign_dialog_pic_1",
+    "npc_position" : "left",
+    "npc_dialogue" : "漂亮的战斗！下次再遇到“重兵”标识的区域，一定要小心应对。"
+  }, {
+    "id" : "campaign_dialog_205",
+    "npc_name" : "通信兵",
+    "npc_image" : "campaign_dialog_pic_1",
+    "npc_image_new" : "campaign_dialog_pic_1",
+    "npc_position" : "left",
+    "npc_dialogue" : "太好了，攻占下有“补给”标识的区域，可帮助我们提升不少战力！"
+  }, {
+    "id" : "campaign_dialog_3101",
+    "npc_name" : "通信兵",
+    "npc_image" : "campaign_dialog_pic_1",
+    "npc_image_new" : "campaign_dialog_pic_1",
+    "npc_position" : "left",
+    "npc_dialogue" : "指挥官，野战机场的敌机正在补充弹药和油料，它们打算带走所有物资并放弃这里。如果我们能在3天内赶到并攻下机场，就能在随后攻击村庄时让这些缴获的战机为我们提供“空袭支援”。"
+  }, {
+    "id" : "campaign_dialog_319",
+    "npc_name" : "通信兵",
+    "npc_image" : "campaign_dialog_pic_1",
+    "npc_image_new" : "campaign_dialog_pic_1",
+    "npc_position" : "left",
+    "npc_dialogue" : "指挥官，前方的村庄被一小股敌军占领着。如果能解放村庄，村民们愿意将村子改建成野战军营，为我军提供征兵上的协助。"
+  }, {
+    "id" : "campaign_dialog_316",
+    "npc_name" : "通信兵",
+    "npc_image" : "campaign_dialog_pic_1",
+    "npc_image_new" : "campaign_dialog_pic_1",
+    "npc_position" : "left",
+    "npc_dialogue" : "港口的码头上有敌军的部队，希望在占领这里后，我们还能找到些有用的东西。"
+  }, {
+    "id" : "campaign_dialog_313",
+    "npc_name" : "通信兵",
+    "npc_image" : "campaign_dialog_pic_1",
+    "npc_image_new" : "campaign_dialog_pic_1",
+    "npc_position" : "left",
+    "npc_dialogue" : "前方充满战火的萧条感觉，可能已经被敌军侵袭"
+  }, {
+    "id" : "campaign_dialog_315",
+    "npc_name" : "通信兵",
+    "npc_image" : "campaign_dialog_pic_1",
+    "npc_image_new" : "campaign_dialog_pic_1",
+    "npc_position" : "left",
+    "npc_dialogue" : "敌军在城外森林区域布置了巡逻队，似乎在保护着什么。"
+  }, {
+    "id" : "campaign_dialog_314",
+    "npc_name" : "通信兵",
+    "npc_image" : "campaign_dialog_pic_1",
+    "npc_image_new" : "campaign_dialog_pic_1",
+    "npc_position" : "left",
+    "npc_dialogue" : "敌军应该是从这里攻入市中心的，分散搜索看看还能找到什么。"
+  }, {
+    "id" : "campaign_dialog_3114",
+    "npc_name" : "通信兵",
+    "npc_image" : "campaign_dialog_pic_1",
+    "npc_image_new" : "campaign_dialog_pic_1",
+    "npc_position" : "left",
+    "npc_dialogue" : "什么也没找到，敌军在经过时彻底搜刮了这里，我们来晚了！"
+  }, {
+    "id" : "campaign_dialog_310",
+    "npc_name" : "通信兵",
+    "npc_image" : "campaign_dialog_pic_1",
+    "npc_image_new" : "campaign_dialog_pic_1",
+    "npc_position" : "left",
+    "npc_dialogue" : "指挥官，这里是敌军建立的临时战俘营，里面关押着我军大量战俘。如果能攻下这里，我们将获得大量的兵力补充"
+  }, {
+    "id" : "campaign_dialog_1001",
+    "npc_name" : "通信兵",
+    "npc_image" : "campaign_dialog_pic_1",
+    "npc_image_new" : "campaign_dialog_pic_1",
+    "npc_position" : "left",
+    "npc_dialogue" : "这个是触发事件对话1111"
+  }, {
+    "id" : "campaign_dialog_1002",
+    "npc_name" : "通信兵",
+    "npc_image" : "campaign_dialog_pic_1",
+    "npc_image_new" : "campaign_dialog_pic_1",
+    "npc_position" : "left",
+    "npc_dialogue" : "指挥官，我们首要目标是：攻下[ffc63d]【政府大楼】[-]，我们的部队有限，请合理利用一切条件，才能达成最终目标！"
+  }, {
+    "id" : "campaign_dialog_1003",
+    "npc_name" : "通信兵",
+    "npc_image" : "campaign_dialog_pic_1",
+    "npc_image_new" : "campaign_dialog_pic_1",
+    "npc_position" : "left",
+    "npc_dialogue" : "指挥官，我们首要目标是：攻下[ffc63d]【政府大楼】[-]，我们的部队有限，请合理利用一切条件，才能达成最终目标！"
+  }, {
+    "id" : "campaign_dialog_2001",
+    "npc_name" : "通信兵",
+    "npc_image" : "campaign_dialog_pic_2",
+    "npc_image_new" : "campaign_dialog_pic_2",
+    "npc_position" : "left",
+    "npc_dialogue" : "指挥官，毁灭军团已经占领了市中心的[ffc63d]【政府大楼】[-]，但城中仍有友军部队在顽强抵抗。我们的时间有限，请尽快发起进攻。"
+  }, {
+    "id" : "campaign_dialog_2002",
+    "npc_name" : "海上部队",
+    "npc_image" : "campaign_dialog_pic_4",
+    "npc_image_new" : "campaign_dialog_pic_4",
+    "npc_position" : "right",
+    "npc_dialogue" : "指挥官，敌军的[ffc63d]攻城巨炮[-]正在[ffc63d]【冰封港口】[-]装船，[32fd0e]5天后[-]它会离港并被调往其他战区。请务必在此前拿下港口，夺下敌军巨炮为我所用。"
+  }, {
+    "id" : "campaign_dialog_3001",
+    "npc_name" : "通信兵",
+    "npc_image" : "campaign_dialog_pic_2",
+    "npc_image_new" : "campaign_dialog_pic_2",
+    "npc_position" : "left",
+    "npc_dialogue" : "指挥官，敌军在[ffc63d]【野战医院】[-]放置了定时炸弹，[32fd0e]3天后[-]炸弹会爆炸摧毁医院。"
+  }, {
+    "id" : "campaign_dialog_3002",
+    "npc_name" : "通信兵",
+    "npc_image" : "campaign_dialog_pic_2",
+    "npc_image_new" : "campaign_dialog_pic_2",
+    "npc_position" : "left",
+    "npc_dialogue" : "指挥官，发现一些战后的幸存者，他们说战场南部有一个没有被战火波及到的村庄。"
+  }, {
+    "id" : "campaign_dialog_3003",
+    "npc_name" : "通信兵",
+    "npc_image" : "campaign_dialog_pic_2",
+    "npc_image_new" : "campaign_dialog_pic_2",
+    "npc_position" : "left",
+    "npc_dialogue" : "我们可以先取得[ffc63d]【阵地医院】[-]的控制权，然后再前往[ffc63d] 【冰封港口】 [-]夺下敌军巨炮！"
+  }, {
+    "id" : "campaign_dialog_3004",
+    "npc_name" : "毁灭军团头目",
+    "npc_image" : "campaign_dialog_pic_3",
+    "npc_image_new" : "campaign_dialog_pic_3",
+    "npc_position" : "right",
+    "npc_dialogue" : "桀桀桀，不要以为你们派了增援部队就可以战胜我们！我正在城中心等待着你们的到来，然后将你们一起毁灭掉！毁灭军团万岁！"
+  }, {
+    "id" : "campaign_dialog_3005",
+    "npc_name" : "侦察员",
+    "npc_image" : "campaign_dialog_pic_1",
+    "npc_image_new" : "campaign_dialog_pic_1",
+    "npc_position" : "left",
+    "npc_dialogue" : "我们没能阻止敌军残暴的行为，[ffc63d]【野地医院】[-]已经被敌军摧毁！"
+  }, {
+    "id" : "campaign_dialog_3006",
+    "npc_name" : "侦察员",
+    "npc_image" : "campaign_dialog_pic_1",
+    "npc_image_new" : "campaign_dialog_pic_1",
+    "npc_position" : "left",
+    "npc_dialogue" : "[ffc63d]【攻城巨炮】[-]已经被敌军运离港口，如此一来，战斗时要万分小心了！"
+  }, {
+    "id" : "campaign_dialog_20001",
+    "npc_name" : "通信兵",
+    "npc_image" : "campaign_dialog_pic_2",
+    "npc_image_new" : "campaign_dialog_pic_2",
+    "npc_position" : "left",
+    "npc_dialogue" : "毁灭军团已经占领了市中心的[ffc63d]【政府大楼】[-]，控制了这座城市的政治中心。"
+  }, {
+    "id" : "campaign_dialog_20002",
+    "npc_name" : "通信兵",
+    "npc_image" : "campaign_dialog_pic_2",
+    "npc_image_new" : "campaign_dialog_pic_2",
+    "npc_position" : "left",
+    "npc_dialogue" : "指挥官，抓紧时间取得本次战争的胜利吧！让我们先走出第一步，消灭[ffc63d]【试炼目标】[-]。"
+  }, {
+    "id" : "campaign_dialog_20003",
+    "npc_name" : "通信兵",
+    "npc_image" : "campaign_dialog_pic_2",
+    "npc_image_new" : "campaign_dialog_pic_2",
+    "npc_position" : "left",
+    "npc_dialogue" : "总部在战场后方为我们提供了[00FF00]【物资补给】[-]和[ffc63d]【火力支援】[-]，如果我们能赶在敌军发现它们之前到达指定地区，就可以获得这些援助了！"
+  }, {
+    "id" : "campaign_dialog_20004",
+    "npc_name" : "通信兵",
+    "npc_image" : "campaign_dialog_pic_2",
+    "npc_image_new" : "campaign_dialog_pic_2",
+    "npc_position" : "left",
+    "npc_dialogue" : "切记，赢得战争只有三个黄金原则：大胆、大胆、大胆！"
+  }, {
+    "id" : "campaign_dialog_20005",
+    "npc_name" : "海上侦察兵",
+    "npc_image" : "campaign_dialog_pic_4",
+    "npc_image_new" : "campaign_dialog_pic_4",
+    "npc_position" : "right",
+    "npc_dialogue" : "敌军的[ffc63d]攻城巨炮[-]正在[ffc63d]【冰封港口】[-]装船，[32fd0e]5天后[-]它会离港并被调往其他战区。"
+  }, {
+    "id" : "campaign_dialog_20006",
+    "npc_name" : "海上侦察兵",
+    "npc_image" : "campaign_dialog_pic_4",
+    "npc_image_new" : "campaign_dialog_pic_4",
+    "npc_position" : "right",
+    "npc_dialogue" : "请务必在此前拿下港口，夺下敌军巨炮为我所用。"
+  }, {
+    "id" : "campaign_dialog_3007",
+    "npc_name" : "通信兵",
+    "npc_image" : "campaign_dialog_pic_2",
+    "npc_image_new" : "campaign_dialog_pic_2",
+    "npc_position" : "left",
+    "npc_dialogue" : "如果我们能在[32fd0e]3天内[-]赶到并击败敌军，保护医院不会毁掉，[ffc63d]【野战医院】[-]就能为我们定期补充兵力了。"
+  }, {
+    "id" : "campaign_dialog_3008",
+    "npc_name" : "通信兵",
+    "npc_image" : "campaign_dialog_pic_2",
+    "npc_image_new" : "campaign_dialog_pic_2",
+    "npc_position" : "left",
+    "npc_dialogue" : "[ffc63d]【村庄】[-]有大量志愿者，如果能与他们取得联系，这些志愿者会加入我们。"
+  }, {
+    "id" : "campaign_dialog_3009",
+    "npc_name" : "通信兵",
+    "npc_image" : "campaign_dialog_pic_2",
+    "npc_image_new" : "campaign_dialog_pic_2",
+    "npc_position" : "left",
+    "npc_dialogue" : "糟糕，总部空投的[00FF00]【物资补给】[-]被敌人发现了，敌人把物资全部销毁了。"
+  }, {
+    "id" : "campaign_dialog_3010",
+    "npc_name" : "通信兵",
+    "npc_image" : "campaign_dialog_pic_2",
+    "npc_image_new" : "campaign_dialog_pic_2",
+    "npc_position" : "left",
+    "npc_dialogue" : "[00FF00]空投物资[-]"
+  }, {
+    "id" : "campaign_dialog_3011",
+    "npc_name" : "通信兵",
+    "npc_image" : "campaign_dialog_pic_2",
+    "npc_image_new" : "campaign_dialog_pic_2",
+    "npc_position" : "left",
+    "npc_dialogue" : "[ffc63d]【火力支援】[-]空中部队被敌人发现了，不得不紧急撤离。现在这场战争只能靠我们的双手决定胜负了！"
+  }, {
+    "id" : "campaign_dialog_3012",
+    "npc_name" : "通信兵",
+    "npc_image" : "campaign_dialog_pic_2",
+    "npc_image_new" : "campaign_dialog_pic_2",
+    "npc_position" : "left",
+    "npc_dialogue" : "没能及时赶到[ffc63d]最终目标【政府大楼】[-]地区，敌人取得了斯大林格勒地区的控制权。决策的细节决定胜败！"
+  }, {
+    "id" : "campaign_dialog_3013",
+    "npc_name" : "通信兵",
+    "npc_image" : "campaign_dialog_pic_2",
+    "npc_image_new" : "campaign_dialog_pic_2",
+    "npc_position" : "left",
+    "npc_dialogue" : "总部在前方空投了[00FF00]【物资补给】[-]，物资可以为我们救治伤兵，让他们从新投入战场，快去领取[00FF00]【物资补给】[-]吧！"
+  }, {
+    "id" : "campaign_dialog_3014",
+    "npc_name" : "通信兵",
+    "npc_image" : "campaign_dialog_pic_2",
+    "npc_image_new" : "campaign_dialog_pic_2",
+    "npc_position" : "left",
+    "npc_dialogue" : "要时刻关注[00FF00]【物资】[-]的数量，只有拥有足够的物资，我们才可以跟敌军拉锯作战，夺取战争的胜利！"
+  }, {
+    "id" : "campaign_dialog_3015",
+    "npc_name" : "通信兵",
+    "npc_image" : "campaign_dialog_pic_2",
+    "npc_image_new" : "campaign_dialog_pic_2",
+    "npc_position" : "left",
+    "npc_dialogue" : "战场局势瞬息万变，总部在战场南方投掷了[00FF00]【补给物资】[-]，[ffc63d]【火力支援】[-]空中部队降落在战场北方，指挥官，您要如何选择呢？"
+  }, {
+    "id" : "campaign_dialog_3016",
+    "npc_name" : "通信兵",
+    "npc_image" : "campaign_dialog_pic_2",
+    "npc_image_new" : "campaign_dialog_pic_2",
+    "npc_position" : "left",
+    "npc_dialogue" : "相信你已经熟悉战场了，接下来就要一切抉择就需要靠你了！遵从本心，赢得胜利！"
+  }, {
+    "npc_dialogue" : "指挥官，您需要在[FF0000]30天内[-]到达城中心，击败敌军，夺下[FF0000]最终目标【政府大楼】[-]的控制权。"
+  }, {
+    "npc_dialogue" : "战场局势瞬息万变，总部特意为我们在平原地区投掷了[00FF00]补给物资[-]，如果我们可以在[FF0000]5天内[-]到达平原地区，就可以获得这些[00FF00]补给物资[-]了。"
+  } ]
+}

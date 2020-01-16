@@ -1,0 +1,538 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "grade_id" : "grade_id@tavern_wheel_grade.id",
+    "reward_id_1" : "reward_id_1@itemlist.id",
+    "reward_value_1" : "reward_value_1@int",
+    "weight" : "weight@int"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "grade_id" : "转盘组id",
+    "reward_id_1" : "奖励道具id_1",
+    "reward_value_1" : "奖励道具数量_1",
+    "weight" : "权重"
+  }, {
+    "id" : "1",
+    "grade_id" : "tavern_wheel_grade_1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "weight" : "51000"
+  }, {
+    "id" : "2",
+    "grade_id" : "tavern_wheel_grade_1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "weight" : "34000"
+  }, {
+    "id" : "3",
+    "grade_id" : "tavern_wheel_grade_1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "weight" : "34000"
+  }, {
+    "id" : "4",
+    "grade_id" : "tavern_wheel_grade_1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "weight" : "3400"
+  }, {
+    "id" : "5",
+    "grade_id" : "tavern_wheel_grade_1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "weight" : "34000"
+  }, {
+    "id" : "6",
+    "grade_id" : "tavern_wheel_grade_1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "weight" : "34000"
+  }, {
+    "id" : "7",
+    "grade_id" : "tavern_wheel_grade_1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "weight" : "34000"
+  }, {
+    "id" : "8",
+    "grade_id" : "tavern_wheel_grade_1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "weight" : "34000"
+  }, {
+    "id" : "9",
+    "grade_id" : "tavern_wheel_grade_1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "weight" : "34000"
+  }, {
+    "id" : "10",
+    "grade_id" : "tavern_wheel_grade_1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "weight" : "34000"
+  }, {
+    "id" : "11",
+    "grade_id" : "tavern_wheel_grade_1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "weight" : "34000"
+  }, {
+    "id" : "12",
+    "grade_id" : "tavern_wheel_grade_1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "weight" : "34000"
+  }, {
+    "id" : "13",
+    "grade_id" : "tavern_wheel_grade_1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "weight" : "3400"
+  }, {
+    "id" : "14",
+    "grade_id" : "tavern_wheel_grade_2",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "weight" : "200"
+  }, {
+    "id" : "15",
+    "grade_id" : "tavern_wheel_grade_2",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "weight" : "1200"
+  }, {
+    "id" : "16",
+    "grade_id" : "tavern_wheel_grade_2",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "weight" : "200"
+  }, {
+    "id" : "17",
+    "grade_id" : "tavern_wheel_grade_2",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "weight" : "2000"
+  }, {
+    "id" : "18",
+    "grade_id" : "tavern_wheel_grade_2",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "weight" : "2000"
+  }, {
+    "id" : "19",
+    "grade_id" : "tavern_wheel_grade_2",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "weight" : "4000"
+  }, {
+    "id" : "20",
+    "grade_id" : "tavern_wheel_grade_2",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "weight" : "4000"
+  }, {
+    "id" : "21",
+    "grade_id" : "tavern_wheel_grade_2",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "weight" : "1200"
+  }, {
+    "id" : "22",
+    "grade_id" : "tavern_wheel_grade_2",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "weight" : "4000"
+  }, {
+    "id" : "23",
+    "grade_id" : "tavern_wheel_grade_3",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "weight" : "50"
+  }, {
+    "id" : "24",
+    "grade_id" : "tavern_wheel_grade_3",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "25",
+    "grade_id" : "tavern_wheel_grade_3",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "weight" : "500"
+  }, {
+    "id" : "26",
+    "grade_id" : "tavern_wheel_grade_3",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "weight" : "500"
+  }, {
+    "id" : "27",
+    "grade_id" : "tavern_wheel_grade_3",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "weight" : "500"
+  }, {
+    "id" : "28",
+    "grade_id" : "tavern_wheel_grade_3",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "weight" : "300"
+  }, {
+    "id" : "29",
+    "grade_id" : "tavern_wheel_grade_3",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "weight" : "500"
+  }, {
+    "id" : "tavern_wheel_main_2_1_1",
+    "grade_id" : "tavern_wheel_grade_2_1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "weight" : "51000"
+  }, {
+    "id" : "tavern_wheel_main_2_1_2",
+    "grade_id" : "tavern_wheel_grade_2_1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "weight" : "34000"
+  }, {
+    "id" : "tavern_wheel_main_2_1_3",
+    "grade_id" : "tavern_wheel_grade_2_1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "weight" : "34000"
+  }, {
+    "id" : "tavern_wheel_main_2_1_4",
+    "grade_id" : "tavern_wheel_grade_2_1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "weight" : "34000"
+  }, {
+    "id" : "tavern_wheel_main_2_1_5",
+    "grade_id" : "tavern_wheel_grade_2_1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "weight" : "3400"
+  }, {
+    "id" : "tavern_wheel_main_2_1_6",
+    "grade_id" : "tavern_wheel_grade_2_1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "weight" : "34000"
+  }, {
+    "id" : "tavern_wheel_main_2_1_7",
+    "grade_id" : "tavern_wheel_grade_2_1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "weight" : "34000"
+  }, {
+    "id" : "tavern_wheel_main_2_1_8",
+    "grade_id" : "tavern_wheel_grade_2_1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "weight" : "34000"
+  }, {
+    "id" : "tavern_wheel_main_2_1_9",
+    "grade_id" : "tavern_wheel_grade_2_1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "weight" : "34000"
+  }, {
+    "id" : "tavern_wheel_main_2_1_10",
+    "grade_id" : "tavern_wheel_grade_2_1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "weight" : "34000"
+  }, {
+    "id" : "tavern_wheel_main_2_1_11",
+    "grade_id" : "tavern_wheel_grade_2_1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "weight" : "34000"
+  }, {
+    "id" : "tavern_wheel_main_2_1_12",
+    "grade_id" : "tavern_wheel_grade_2_1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "weight" : "34000"
+  }, {
+    "id" : "tavern_wheel_main_2_1_13",
+    "grade_id" : "tavern_wheel_grade_2_1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "weight" : "3400"
+  }, {
+    "id" : "tavern_wheel_main_2_2_1",
+    "grade_id" : "tavern_wheel_grade_2_2",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "weight" : "200"
+  }, {
+    "id" : "tavern_wheel_main_2_2_2",
+    "grade_id" : "tavern_wheel_grade_2_2",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "weight" : "1200"
+  }, {
+    "id" : "tavern_wheel_main_2_2_3",
+    "grade_id" : "tavern_wheel_grade_2_2",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "weight" : "200"
+  }, {
+    "id" : "tavern_wheel_main_2_2_4",
+    "grade_id" : "tavern_wheel_grade_2_2",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "weight" : "2000"
+  }, {
+    "id" : "tavern_wheel_main_2_2_5",
+    "grade_id" : "tavern_wheel_grade_2_2",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "weight" : "2000"
+  }, {
+    "id" : "tavern_wheel_main_2_2_6",
+    "grade_id" : "tavern_wheel_grade_2_2",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "weight" : "4000"
+  }, {
+    "id" : "tavern_wheel_main_2_2_7",
+    "grade_id" : "tavern_wheel_grade_2_2",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "weight" : "4000"
+  }, {
+    "id" : "tavern_wheel_main_2_2_8",
+    "grade_id" : "tavern_wheel_grade_2_2",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "weight" : "1200"
+  }, {
+    "id" : "tavern_wheel_main_2_2_9",
+    "grade_id" : "tavern_wheel_grade_2_2",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "weight" : "4000"
+  }, {
+    "id" : "tavern_wheel_main_2_3_1",
+    "grade_id" : "tavern_wheel_grade_2_3",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "weight" : "40"
+  }, {
+    "id" : "tavern_wheel_main_2_3_2",
+    "grade_id" : "tavern_wheel_grade_2_3",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "weight" : "20"
+  }, {
+    "id" : "tavern_wheel_main_2_3_3",
+    "grade_id" : "tavern_wheel_grade_2_3",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "weight" : "500"
+  }, {
+    "id" : "tavern_wheel_main_2_3_4",
+    "grade_id" : "tavern_wheel_grade_2_3",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "weight" : "500"
+  }, {
+    "id" : "tavern_wheel_main_2_3_5",
+    "grade_id" : "tavern_wheel_grade_2_3",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "weight" : "500"
+  }, {
+    "id" : "tavern_wheel_main_2_3_6",
+    "grade_id" : "tavern_wheel_grade_2_3",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "weight" : "300"
+  }, {
+    "id" : "tavern_wheel_main_2_3_7",
+    "grade_id" : "tavern_wheel_grade_2_3",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "weight" : "500"
+  }, {
+    "id" : "tavern_wheel_main_3_1_1",
+    "grade_id" : "tavern_wheel_grade_3_1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "weight" : "1500"
+  }, {
+    "id" : "tavern_wheel_main_3_1_2",
+    "grade_id" : "tavern_wheel_grade_3_1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "weight" : "1000"
+  }, {
+    "id" : "tavern_wheel_main_3_1_3",
+    "grade_id" : "tavern_wheel_grade_3_1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "weight" : "800"
+  }, {
+    "id" : "tavern_wheel_main_3_1_4",
+    "grade_id" : "tavern_wheel_grade_3_1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "weight" : "100"
+  }, {
+    "id" : "tavern_wheel_main_3_1_5",
+    "grade_id" : "tavern_wheel_grade_3_1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "weight" : "10"
+  }, {
+    "id" : "tavern_wheel_main_3_1_6",
+    "grade_id" : "tavern_wheel_grade_3_1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "weight" : "1000"
+  }, {
+    "id" : "tavern_wheel_main_3_1_7",
+    "grade_id" : "tavern_wheel_grade_3_1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "weight" : "1000"
+  }, {
+    "id" : "tavern_wheel_main_3_1_8",
+    "grade_id" : "tavern_wheel_grade_3_1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "weight" : "1000"
+  }, {
+    "id" : "tavern_wheel_main_3_1_9",
+    "grade_id" : "tavern_wheel_grade_3_1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "weight" : "1000"
+  }, {
+    "id" : "tavern_wheel_main_3_1_10",
+    "grade_id" : "tavern_wheel_grade_3_1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "weight" : "1000"
+  }, {
+    "id" : "tavern_wheel_main_3_1_11",
+    "grade_id" : "tavern_wheel_grade_3_1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "weight" : "1000"
+  }, {
+    "id" : "tavern_wheel_main_3_1_12",
+    "grade_id" : "tavern_wheel_grade_3_1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "weight" : "1000"
+  }, {
+    "id" : "tavern_wheel_main_3_1_13",
+    "grade_id" : "tavern_wheel_grade_3_1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "weight" : "100"
+  }, {
+    "id" : "tavern_wheel_main_3_2_1",
+    "grade_id" : "tavern_wheel_grade_3_2",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "weight" : "200"
+  }, {
+    "id" : "tavern_wheel_main_3_2_2",
+    "grade_id" : "tavern_wheel_grade_3_2",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "weight" : "1200"
+  }, {
+    "id" : "tavern_wheel_main_3_2_3",
+    "grade_id" : "tavern_wheel_grade_3_2",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "weight" : "100"
+  }, {
+    "id" : "tavern_wheel_main_3_2_4",
+    "grade_id" : "tavern_wheel_grade_3_2",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "weight" : "2000"
+  }, {
+    "id" : "tavern_wheel_main_3_2_5",
+    "grade_id" : "tavern_wheel_grade_3_2",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "weight" : "2000"
+  }, {
+    "id" : "tavern_wheel_main_3_2_6",
+    "grade_id" : "tavern_wheel_grade_3_2",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "weight" : "4000"
+  }, {
+    "id" : "tavern_wheel_main_3_2_7",
+    "grade_id" : "tavern_wheel_grade_3_2",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "weight" : "4000"
+  }, {
+    "id" : "tavern_wheel_main_3_2_8",
+    "grade_id" : "tavern_wheel_grade_3_2",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "weight" : "1000"
+  }, {
+    "id" : "tavern_wheel_main_3_2_9",
+    "grade_id" : "tavern_wheel_grade_3_2",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "weight" : "4000"
+  }, {
+    "id" : "tavern_wheel_main_3_3_1",
+    "grade_id" : "tavern_wheel_grade_3_3",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "weight" : "10000"
+  }, {
+    "id" : "tavern_wheel_main_3_3_2",
+    "grade_id" : "tavern_wheel_grade_3_3",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "weight" : "5"
+  }, {
+    "id" : "tavern_wheel_main_3_3_3",
+    "grade_id" : "tavern_wheel_grade_3_3",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "weight" : "10000"
+  }, {
+    "id" : "tavern_wheel_main_3_3_4",
+    "grade_id" : "tavern_wheel_grade_3_3",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "weight" : "10000"
+  }, {
+    "id" : "tavern_wheel_main_3_3_5",
+    "grade_id" : "tavern_wheel_grade_3_3",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "weight" : "10000"
+  }, {
+    "id" : "tavern_wheel_main_3_3_6",
+    "grade_id" : "tavern_wheel_grade_3_3",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "weight" : "5"
+  }, {
+    "id" : "tavern_wheel_main_3_3_7",
+    "grade_id" : "tavern_wheel_grade_3_3",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1",
+    "weight" : "10000"
+  } ]
+}

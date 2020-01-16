@@ -1,0 +1,33 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "spend_item" : "spend_item@itemlist.id",
+    "base_value" : "base_value@int",
+    "entrance_icon" : "entrance_icon@string",
+    "open_mail_title" : "open_mail_title@string",
+    "open_mail_subject" : "open_mail_subject@string",
+    "close_mail_title" : "close_mail_title@string",
+    "close_mail_subject" : "close_mail_subject@string",
+    "daily_free_num" : "daily_free_num@int"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "spend_item" : "消耗道具id",
+    "base_value" : "基础数量",
+    "entrance_icon" : "入口图标",
+    "open_mail_title" : "开启标题",
+    "open_mail_subject" : "开启内容",
+    "close_mail_title" : "关闭邮件标题",
+    "close_mail_subject" : "关闭邮件内容",
+    "daily_free_num" : "每日免费个数"
+  }, {
+    "id" : "charge_rebate_chest_group_1",
+    "spend_item" : "item_charge_rebate_chest_key_1",
+    "base_value" : "1",
+    "open_mail_title" : "mail_title_event_topup_chest_begin",
+    "open_mail_subject" : "mail_subject_event_topup_chest_begin",
+    "close_mail_title" : "mail_title_event_topup_chest_in_progress",
+    "close_mail_subject" : "mail_subject_event_topup_chest_in_progress",
+    "daily_free_num" : "1"
+  } ]
+}

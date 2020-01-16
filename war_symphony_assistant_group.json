@@ -1,0 +1,39 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "stronghold_level_min" : "stronghold_level_min@int",
+    "stronghold_level_max" : "stronghold_level_max@int",
+    "loc_key" : "loc_key@string",
+    "priority" : "priority@int",
+    "remark" : "remark@string"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "stronghold_level_min" : "最小主城等级",
+    "stronghold_level_max" : "最大主城等级",
+    "loc_key" : "多语言key",
+    "priority" : "排序",
+    "remark" : "备注"
+  }, {
+    "id" : "war_symphony_assistant_group_1",
+    "stronghold_level_min" : "1",
+    "stronghold_level_max" : "99",
+    "loc_key" : "get_stronger_get_troops",
+    "priority" : "101",
+    "remark" : "获得士兵"
+  }, {
+    "id" : "war_symphony_assistant_group_2",
+    "stronghold_level_min" : "1",
+    "stronghold_level_max" : "99",
+    "loc_key" : "get_stronger_march_capacity",
+    "priority" : "102",
+    "remark" : "提升出兵容量上限"
+  }, {
+    "id" : "war_symphony_assistant_group_3",
+    "stronghold_level_min" : "1",
+    "stronghold_level_max" : "99",
+    "loc_key" : "get_stronger_march_slot",
+    "priority" : "103",
+    "remark" : "获得行军栏位"
+  } ]
+}

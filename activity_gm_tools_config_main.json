@@ -1,0 +1,455 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "group_id" : "group_id@activity_gm_tools_config_group.id",
+    "activity_id" : "activity_id@activity_score_main.id",
+    "next_id" : "next_id@self.id"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "group_id" : "组id",
+    "activity_id" : "活动id",
+    "next_id" : "下一活动id"
+  }, {
+    "id" : "integral_1_1_1",
+    "group_id" : "integral_1_1",
+    "activity_id" : "activity_score_main_1",
+    "next_id" : "integral_1_1_2"
+  }, {
+    "id" : "integral_1_1_2",
+    "group_id" : "integral_1_1",
+    "activity_id" : "activity_score_main_2",
+    "next_id" : "integral_1_1_3"
+  }, {
+    "id" : "integral_1_1_3",
+    "group_id" : "integral_1_1",
+    "activity_id" : "activity_score_main_3",
+    "next_id" : "integral_1_1_4"
+  }, {
+    "id" : "integral_1_1_4",
+    "group_id" : "integral_1_1",
+    "activity_id" : "activity_score_main_4",
+    "next_id" : "integral_1_1_5"
+  }, {
+    "id" : "integral_1_1_5",
+    "group_id" : "integral_1_1",
+    "activity_id" : "activity_score_main_1",
+    "next_id" : "integral_1_1_6"
+  }, {
+    "id" : "integral_1_1_6",
+    "group_id" : "integral_1_1",
+    "activity_id" : "activity_score_main_2",
+    "next_id" : "integral_1_1_7"
+  }, {
+    "id" : "integral_1_1_7",
+    "group_id" : "integral_1_1",
+    "activity_id" : "activity_score_main_3",
+    "next_id" : "integral_1_1_8"
+  }, {
+    "id" : "integral_1_1_8",
+    "group_id" : "integral_1_1",
+    "activity_id" : "activity_score_main_4"
+  }, {
+    "id" : "integral_1_2_1",
+    "group_id" : "integral_1_2",
+    "activity_id" : "activity_score_main_1",
+    "next_id" : "integral_1_2_2"
+  }, {
+    "id" : "integral_1_2_2",
+    "group_id" : "integral_1_2",
+    "activity_id" : "activity_score_main_2",
+    "next_id" : "integral_1_2_3"
+  }, {
+    "id" : "integral_1_2_3",
+    "group_id" : "integral_1_2",
+    "activity_id" : "activity_score_main_3",
+    "next_id" : "integral_1_2_4"
+  }, {
+    "id" : "integral_1_2_4",
+    "group_id" : "integral_1_2",
+    "activity_id" : "activity_score_main_4",
+    "next_id" : "integral_1_2_5"
+  }, {
+    "id" : "integral_1_2_5",
+    "group_id" : "integral_1_2",
+    "activity_id" : "activity_score_main_5"
+  }, {
+    "id" : "integral_2_1_1",
+    "group_id" : "integral_2_1",
+    "activity_id" : "activity_score_main_1",
+    "next_id" : "integral_1_1_2"
+  }, {
+    "id" : "integral_2_1_2",
+    "group_id" : "integral_2_1",
+    "activity_id" : "activity_score_main_2",
+    "next_id" : "integral_1_1_3"
+  }, {
+    "id" : "integral_2_1_3",
+    "group_id" : "integral_2_1",
+    "activity_id" : "activity_score_main_3",
+    "next_id" : "integral_1_1_4"
+  }, {
+    "id" : "integral_2_1_4",
+    "group_id" : "integral_2_1",
+    "activity_id" : "activity_score_main_4",
+    "next_id" : "integral_1_1_5"
+  }, {
+    "id" : "integral_2_1_5",
+    "group_id" : "integral_2_1",
+    "activity_id" : "activity_score_main_1",
+    "next_id" : "integral_1_1_6"
+  }, {
+    "id" : "integral_2_1_6",
+    "group_id" : "integral_2_1",
+    "activity_id" : "activity_score_main_2",
+    "next_id" : "integral_1_1_7"
+  }, {
+    "id" : "integral_2_1_7",
+    "group_id" : "integral_2_1",
+    "activity_id" : "activity_score_main_3",
+    "next_id" : "integral_1_1_8"
+  }, {
+    "id" : "integral_2_1_8",
+    "group_id" : "integral_2_1",
+    "activity_id" : "activity_score_main_4"
+  }, {
+    "id" : "integral_2_2_1",
+    "group_id" : "integral_2_2",
+    "activity_id" : "activity_score_main_1",
+    "next_id" : "integral_1_2_2"
+  }, {
+    "id" : "integral_2_2_2",
+    "group_id" : "integral_2_2",
+    "activity_id" : "activity_score_main_2",
+    "next_id" : "integral_1_2_3"
+  }, {
+    "id" : "integral_2_2_3",
+    "group_id" : "integral_2_2",
+    "activity_id" : "activity_score_main_3",
+    "next_id" : "integral_1_2_4"
+  }, {
+    "id" : "integral_2_2_4",
+    "group_id" : "integral_2_2",
+    "activity_id" : "activity_score_main_4",
+    "next_id" : "integral_1_2_5"
+  }, {
+    "id" : "integral_2_2_5",
+    "group_id" : "integral_2_2",
+    "activity_id" : "activity_score_main_5"
+  }, {
+    "id" : "integral_3_1_1",
+    "group_id" : "integral_3_1",
+    "activity_id" : "activity_score_main_1",
+    "next_id" : "integral_1_1_2"
+  }, {
+    "id" : "integral_3_1_2",
+    "group_id" : "integral_3_1",
+    "activity_id" : "activity_score_main_2",
+    "next_id" : "integral_1_1_3"
+  }, {
+    "id" : "integral_3_1_3",
+    "group_id" : "integral_3_1",
+    "activity_id" : "activity_score_main_3",
+    "next_id" : "integral_1_1_4"
+  }, {
+    "id" : "integral_3_1_4",
+    "group_id" : "integral_3_1",
+    "activity_id" : "activity_score_main_4",
+    "next_id" : "integral_1_1_5"
+  }, {
+    "id" : "integral_3_1_5",
+    "group_id" : "integral_3_1",
+    "activity_id" : "activity_score_main_1",
+    "next_id" : "integral_1_1_6"
+  }, {
+    "id" : "integral_3_1_6",
+    "group_id" : "integral_3_1",
+    "activity_id" : "activity_score_main_2",
+    "next_id" : "integral_1_1_7"
+  }, {
+    "id" : "integral_3_1_7",
+    "group_id" : "integral_3_1",
+    "activity_id" : "activity_score_main_3",
+    "next_id" : "integral_1_1_8"
+  }, {
+    "id" : "integral_3_1_8",
+    "group_id" : "integral_3_1",
+    "activity_id" : "activity_score_main_4"
+  }, {
+    "id" : "integral_3_2_1",
+    "group_id" : "integral_3_2",
+    "activity_id" : "activity_score_main_1",
+    "next_id" : "integral_1_2_2"
+  }, {
+    "id" : "integral_3_2_2",
+    "group_id" : "integral_3_2",
+    "activity_id" : "activity_score_main_2",
+    "next_id" : "integral_1_2_3"
+  }, {
+    "id" : "integral_3_2_3",
+    "group_id" : "integral_3_2",
+    "activity_id" : "activity_score_main_3",
+    "next_id" : "integral_1_2_4"
+  }, {
+    "id" : "integral_3_2_4",
+    "group_id" : "integral_3_2",
+    "activity_id" : "activity_score_main_4",
+    "next_id" : "integral_1_2_5"
+  }, {
+    "id" : "integral_3_2_5",
+    "group_id" : "integral_3_2",
+    "activity_id" : "activity_score_main_5"
+  }, {
+    "id" : "integral_4_1_1",
+    "group_id" : "integral_4_1",
+    "activity_id" : "activity_score_main_1",
+    "next_id" : "integral_1_1_2"
+  }, {
+    "id" : "integral_4_1_2",
+    "group_id" : "integral_4_1",
+    "activity_id" : "activity_score_main_2",
+    "next_id" : "integral_1_1_3"
+  }, {
+    "id" : "integral_4_1_3",
+    "group_id" : "integral_4_1",
+    "activity_id" : "activity_score_main_3",
+    "next_id" : "integral_1_1_4"
+  }, {
+    "id" : "integral_4_1_4",
+    "group_id" : "integral_4_1",
+    "activity_id" : "activity_score_main_4",
+    "next_id" : "integral_1_1_5"
+  }, {
+    "id" : "integral_4_1_5",
+    "group_id" : "integral_4_1",
+    "activity_id" : "activity_score_main_1",
+    "next_id" : "integral_1_1_6"
+  }, {
+    "id" : "integral_4_1_6",
+    "group_id" : "integral_4_1",
+    "activity_id" : "activity_score_main_2",
+    "next_id" : "integral_1_1_7"
+  }, {
+    "id" : "integral_4_1_7",
+    "group_id" : "integral_4_1",
+    "activity_id" : "activity_score_main_3",
+    "next_id" : "integral_1_1_8"
+  }, {
+    "id" : "integral_4_1_8",
+    "group_id" : "integral_4_1",
+    "activity_id" : "activity_score_main_4"
+  }, {
+    "id" : "integral_4_2_1",
+    "group_id" : "integral_4_2",
+    "activity_id" : "activity_score_main_1",
+    "next_id" : "integral_1_2_2"
+  }, {
+    "id" : "integral_4_2_2",
+    "group_id" : "integral_4_2",
+    "activity_id" : "activity_score_main_2",
+    "next_id" : "integral_1_2_3"
+  }, {
+    "id" : "integral_4_2_3",
+    "group_id" : "integral_4_2",
+    "activity_id" : "activity_score_main_3",
+    "next_id" : "integral_1_2_4"
+  }, {
+    "id" : "integral_4_2_4",
+    "group_id" : "integral_4_2",
+    "activity_id" : "activity_score_main_4",
+    "next_id" : "integral_1_2_5"
+  }, {
+    "id" : "integral_4_2_5",
+    "group_id" : "integral_4_2",
+    "activity_id" : "activity_score_main_5"
+  }, {
+    "id" : "integral_5_1_1",
+    "group_id" : "integral_5_1",
+    "activity_id" : "activity_score_main_1",
+    "next_id" : "integral_1_1_2"
+  }, {
+    "id" : "integral_5_1_2",
+    "group_id" : "integral_5_1",
+    "activity_id" : "activity_score_main_2",
+    "next_id" : "integral_1_1_3"
+  }, {
+    "id" : "integral_5_1_3",
+    "group_id" : "integral_5_1",
+    "activity_id" : "activity_score_main_3",
+    "next_id" : "integral_1_1_4"
+  }, {
+    "id" : "integral_5_1_4",
+    "group_id" : "integral_5_1",
+    "activity_id" : "activity_score_main_4",
+    "next_id" : "integral_1_1_5"
+  }, {
+    "id" : "integral_5_1_5",
+    "group_id" : "integral_5_1",
+    "activity_id" : "activity_score_main_1",
+    "next_id" : "integral_1_1_6"
+  }, {
+    "id" : "integral_5_1_6",
+    "group_id" : "integral_5_1",
+    "activity_id" : "activity_score_main_2",
+    "next_id" : "integral_1_1_7"
+  }, {
+    "id" : "integral_5_1_7",
+    "group_id" : "integral_5_1",
+    "activity_id" : "activity_score_main_3",
+    "next_id" : "integral_1_1_8"
+  }, {
+    "id" : "integral_5_1_8",
+    "group_id" : "integral_5_1",
+    "activity_id" : "activity_score_main_4"
+  }, {
+    "id" : "integral_5_2_1",
+    "group_id" : "integral_5_2",
+    "activity_id" : "activity_score_main_1",
+    "next_id" : "integral_1_2_2"
+  }, {
+    "id" : "integral_5_2_2",
+    "group_id" : "integral_5_2",
+    "activity_id" : "activity_score_main_2",
+    "next_id" : "integral_1_2_3"
+  }, {
+    "id" : "integral_5_2_3",
+    "group_id" : "integral_5_2",
+    "activity_id" : "activity_score_main_3",
+    "next_id" : "integral_1_2_4"
+  }, {
+    "id" : "integral_5_2_4",
+    "group_id" : "integral_5_2",
+    "activity_id" : "activity_score_main_4",
+    "next_id" : "integral_1_2_5"
+  }, {
+    "id" : "integral_5_2_5",
+    "group_id" : "integral_5_2",
+    "activity_id" : "activity_score_main_5"
+  }, {
+    "id" : "integral_6_1_1",
+    "group_id" : "integral_6_1",
+    "activity_id" : "activity_score_main_1",
+    "next_id" : "integral_1_1_2"
+  }, {
+    "id" : "integral_6_1_2",
+    "group_id" : "integral_6_1",
+    "activity_id" : "activity_score_main_2",
+    "next_id" : "integral_1_1_3"
+  }, {
+    "id" : "integral_6_1_3",
+    "group_id" : "integral_6_1",
+    "activity_id" : "activity_score_main_3",
+    "next_id" : "integral_1_1_4"
+  }, {
+    "id" : "integral_6_1_4",
+    "group_id" : "integral_6_1",
+    "activity_id" : "activity_score_main_4",
+    "next_id" : "integral_1_1_5"
+  }, {
+    "id" : "integral_6_1_5",
+    "group_id" : "integral_6_1",
+    "activity_id" : "activity_score_main_1",
+    "next_id" : "integral_1_1_6"
+  }, {
+    "id" : "integral_6_1_6",
+    "group_id" : "integral_6_1",
+    "activity_id" : "activity_score_main_2",
+    "next_id" : "integral_1_1_7"
+  }, {
+    "id" : "integral_6_1_7",
+    "group_id" : "integral_6_1",
+    "activity_id" : "activity_score_main_3",
+    "next_id" : "integral_1_1_8"
+  }, {
+    "id" : "integral_6_1_8",
+    "group_id" : "integral_6_1",
+    "activity_id" : "activity_score_main_4"
+  }, {
+    "id" : "integral_6_2_1",
+    "group_id" : "integral_6_2",
+    "activity_id" : "activity_score_main_1",
+    "next_id" : "integral_1_2_2"
+  }, {
+    "id" : "integral_6_2_2",
+    "group_id" : "integral_6_2",
+    "activity_id" : "activity_score_main_2",
+    "next_id" : "integral_1_2_3"
+  }, {
+    "id" : "integral_6_2_3",
+    "group_id" : "integral_6_2",
+    "activity_id" : "activity_score_main_3",
+    "next_id" : "integral_1_2_4"
+  }, {
+    "id" : "integral_6_2_4",
+    "group_id" : "integral_6_2",
+    "activity_id" : "activity_score_main_4",
+    "next_id" : "integral_1_2_5"
+  }, {
+    "id" : "integral_6_2_5",
+    "group_id" : "integral_6_2",
+    "activity_id" : "activity_score_main_5"
+  }, {
+    "id" : "integral_7_1_1",
+    "group_id" : "integral_7_1",
+    "activity_id" : "activity_score_main_1",
+    "next_id" : "integral_1_1_2"
+  }, {
+    "id" : "integral_7_1_2",
+    "group_id" : "integral_7_1",
+    "activity_id" : "activity_score_main_2",
+    "next_id" : "integral_1_1_3"
+  }, {
+    "id" : "integral_7_1_3",
+    "group_id" : "integral_7_1",
+    "activity_id" : "activity_score_main_3",
+    "next_id" : "integral_1_1_4"
+  }, {
+    "id" : "integral_7_1_4",
+    "group_id" : "integral_7_1",
+    "activity_id" : "activity_score_main_4",
+    "next_id" : "integral_1_1_5"
+  }, {
+    "id" : "integral_7_1_5",
+    "group_id" : "integral_7_1",
+    "activity_id" : "activity_score_main_1",
+    "next_id" : "integral_1_1_6"
+  }, {
+    "id" : "integral_7_1_6",
+    "group_id" : "integral_7_1",
+    "activity_id" : "activity_score_main_2",
+    "next_id" : "integral_1_1_7"
+  }, {
+    "id" : "integral_7_1_7",
+    "group_id" : "integral_7_1",
+    "activity_id" : "activity_score_main_3",
+    "next_id" : "integral_1_1_8"
+  }, {
+    "id" : "integral_7_1_8",
+    "group_id" : "integral_7_1",
+    "activity_id" : "activity_score_main_4"
+  }, {
+    "id" : "integral_7_2_1",
+    "group_id" : "integral_7_2",
+    "activity_id" : "activity_score_main_1",
+    "next_id" : "integral_1_2_2"
+  }, {
+    "id" : "integral_7_2_2",
+    "group_id" : "integral_7_2",
+    "activity_id" : "activity_score_main_2",
+    "next_id" : "integral_1_2_3"
+  }, {
+    "id" : "integral_7_2_3",
+    "group_id" : "integral_7_2",
+    "activity_id" : "activity_score_main_3",
+    "next_id" : "integral_1_2_4"
+  }, {
+    "id" : "integral_7_2_4",
+    "group_id" : "integral_7_2",
+    "activity_id" : "activity_score_main_4",
+    "next_id" : "integral_1_2_5"
+  }, {
+    "id" : "integral_7_2_5",
+    "group_id" : "integral_7_2",
+    "activity_id" : "activity_score_main_5"
+  } ]
+}

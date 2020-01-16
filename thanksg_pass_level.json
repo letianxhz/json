@@ -1,0 +1,136 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "group_id" : "group_id@string",
+    "level" : "level@string",
+    "total_exp" : "total_exp@long",
+    "is_special" : "is_special@int"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "group_id" : "组id",
+    "level" : "等级",
+    "total_exp" : "总经验",
+    "is_special" : "是否特殊等级"
+  }, {
+    "id" : "thanksg_pass_level_group_1_1",
+    "group_id" : "thanksg_pass_level_group_1",
+    "level" : "1",
+    "total_exp" : "0",
+    "is_special" : "0"
+  }, {
+    "id" : "thanksg_pass_level_group_1_2",
+    "group_id" : "thanksg_pass_level_group_1",
+    "level" : "2",
+    "total_exp" : "400",
+    "is_special" : "0"
+  }, {
+    "id" : "thanksg_pass_level_group_1_3",
+    "group_id" : "thanksg_pass_level_group_1",
+    "level" : "3",
+    "total_exp" : "900",
+    "is_special" : "0"
+  }, {
+    "id" : "thanksg_pass_level_group_1_4",
+    "group_id" : "thanksg_pass_level_group_1",
+    "level" : "4",
+    "total_exp" : "1500",
+    "is_special" : "0"
+  }, {
+    "id" : "thanksg_pass_level_group_1_5",
+    "group_id" : "thanksg_pass_level_group_1",
+    "level" : "5",
+    "total_exp" : "2200",
+    "is_special" : "1"
+  }, {
+    "id" : "thanksg_pass_level_group_1_6",
+    "group_id" : "thanksg_pass_level_group_1",
+    "level" : "6",
+    "total_exp" : "3000",
+    "is_special" : "0"
+  }, {
+    "id" : "thanksg_pass_level_group_1_7",
+    "group_id" : "thanksg_pass_level_group_1",
+    "level" : "7",
+    "total_exp" : "3900",
+    "is_special" : "0"
+  }, {
+    "id" : "thanksg_pass_level_group_1_8",
+    "group_id" : "thanksg_pass_level_group_1",
+    "level" : "8",
+    "total_exp" : "4900",
+    "is_special" : "0"
+  }, {
+    "id" : "thanksg_pass_level_group_1_9",
+    "group_id" : "thanksg_pass_level_group_1",
+    "level" : "9",
+    "total_exp" : "5900",
+    "is_special" : "0"
+  }, {
+    "id" : "thanksg_pass_level_group_1_10",
+    "group_id" : "thanksg_pass_level_group_1",
+    "level" : "10",
+    "total_exp" : "6900",
+    "is_special" : "1"
+  }, {
+    "id" : "thanksg_pass_level_group_1_11",
+    "group_id" : "thanksg_pass_level_group_1",
+    "level" : "11",
+    "total_exp" : "7900",
+    "is_special" : "0"
+  }, {
+    "id" : "thanksg_pass_level_group_1_12",
+    "group_id" : "thanksg_pass_level_group_1",
+    "level" : "12",
+    "total_exp" : "8900",
+    "is_special" : "0"
+  }, {
+    "id" : "thanksg_pass_level_group_1_13",
+    "group_id" : "thanksg_pass_level_group_1",
+    "level" : "13",
+    "total_exp" : "9900",
+    "is_special" : "0"
+  }, {
+    "id" : "thanksg_pass_level_group_1_14",
+    "group_id" : "thanksg_pass_level_group_1",
+    "level" : "14",
+    "total_exp" : "10900",
+    "is_special" : "0"
+  }, {
+    "id" : "thanksg_pass_level_group_1_15",
+    "group_id" : "thanksg_pass_level_group_1",
+    "level" : "15",
+    "total_exp" : "11900",
+    "is_special" : "1"
+  }, {
+    "id" : "thanksg_pass_level_group_1_16",
+    "group_id" : "thanksg_pass_level_group_1",
+    "level" : "16",
+    "total_exp" : "12900",
+    "is_special" : "0"
+  }, {
+    "id" : "thanksg_pass_level_group_1_17",
+    "group_id" : "thanksg_pass_level_group_1",
+    "level" : "17",
+    "total_exp" : "13900",
+    "is_special" : "0"
+  }, {
+    "id" : "thanksg_pass_level_group_1_18",
+    "group_id" : "thanksg_pass_level_group_1",
+    "level" : "18",
+    "total_exp" : "14900",
+    "is_special" : "0"
+  }, {
+    "id" : "thanksg_pass_level_group_1_19",
+    "group_id" : "thanksg_pass_level_group_1",
+    "level" : "19",
+    "total_exp" : "15900",
+    "is_special" : "0"
+  }, {
+    "id" : "thanksg_pass_level_group_1_20",
+    "group_id" : "thanksg_pass_level_group_1",
+    "level" : "20",
+    "total_exp" : "16900",
+    "is_special" : "1"
+  } ]
+}

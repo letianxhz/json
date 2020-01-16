@@ -1,0 +1,70 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "spend_item" : "spend_item@itemlist.id",
+    "base_value" : "base_value@int",
+    "open_mail_title" : "open_mail_title@string",
+    "open_mail_subject" : "open_mail_subject@string",
+    "close_mail_title" : "close_mail_title@string",
+    "close_mail_subject" : "close_mail_subject@string",
+    "daily_free_num" : "daily_free_num@int",
+    "rewards_mail_title" : "rewards_mail_title@string",
+    "rewards_mail_subject" : "rewards_mail_subject@string"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "spend_item" : "消耗道具id",
+    "base_value" : "基础数量",
+    "open_mail_title" : "开启标题",
+    "open_mail_subject" : "开启内容",
+    "close_mail_title" : "关闭邮件标题",
+    "close_mail_subject" : "关闭邮件内容",
+    "daily_free_num" : "每日免费个数",
+    "rewards_mail_title" : "奖励邮件",
+    "rewards_mail_subject" : "奖励邮件"
+  }, {
+    "id" : "charge_rebate_shop_group_1",
+    "spend_item" : "item_charge_rebate_shop_group_1",
+    "base_value" : "1",
+    "open_mail_title" : "mail_title_event_crazy_market_begin",
+    "open_mail_subject" : "mail_subject_event_crazy_market_begin",
+    "close_mail_title" : "mail_title_event_crazy_market_close",
+    "close_mail_subject" : "mail_subject_event_crazy_market_close",
+    "daily_free_num" : "1",
+    "rewards_mail_title" : "mail_title_event_crazy_market_rewards",
+    "rewards_mail_subject" : "mail_subject_event_crazy_market_rewards"
+  }, {
+    "id" : "charge_rebate_shop_group_2",
+    "spend_item" : "item_charge_rebate_shop_group_1",
+    "base_value" : "1",
+    "open_mail_title" : "mail_title_event_crazy_market_begin",
+    "open_mail_subject" : "mail_subject_event_crazy_market_begin",
+    "close_mail_title" : "mail_title_event_crazy_market_close",
+    "close_mail_subject" : "mail_subject_event_crazy_market_close",
+    "daily_free_num" : "1",
+    "rewards_mail_title" : "mail_title_event_crazy_market_rewards",
+    "rewards_mail_subject" : "mail_subject_event_crazy_market_rewards"
+  }, {
+    "id" : "charge_rebate_shop_group_3",
+    "spend_item" : "item_charge_rebate_shop_group_1",
+    "base_value" : "1",
+    "open_mail_title" : "mail_title_event_crazy_market_begin",
+    "open_mail_subject" : "mail_subject_event_crazy_market_begin",
+    "close_mail_title" : "mail_title_event_crazy_market_close",
+    "close_mail_subject" : "mail_subject_event_crazy_market_close",
+    "daily_free_num" : "1",
+    "rewards_mail_title" : "mail_title_event_crazy_market_rewards",
+    "rewards_mail_subject" : "mail_subject_event_crazy_market_rewards"
+  }, {
+    "id" : "charge_rebate_shop_group_4",
+    "spend_item" : "item_charge_rebate_shop_group_1",
+    "base_value" : "1",
+    "open_mail_title" : "mail_title_event_crazy_market_begin",
+    "open_mail_subject" : "mail_subject_event_crazy_market_begin",
+    "close_mail_title" : "mail_title_event_crazy_market_close",
+    "close_mail_subject" : "mail_subject_event_crazy_market_close",
+    "daily_free_num" : "1",
+    "rewards_mail_title" : "mail_title_event_crazy_market_rewards",
+    "rewards_mail_subject" : "mail_subject_event_crazy_market_rewards"
+  } ]
+}

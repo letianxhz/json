@@ -1,0 +1,620 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "activity_id" : "activity_id@activity_score_main.id",
+    "priority" : "priority@int^c",
+    "requirement" : "requirement@string",
+    "req_param_1" : "req_param_1@string",
+    "req_value_1" : "req_value_1@int",
+    "description" : "description@string^c"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "activity_id" : "金币活动id",
+    "priority" : "优先级",
+    "requirement" : "需求条件",
+    "req_param_1" : "需求条件值",
+    "req_value_1" : "条件积分",
+    "description" : "描述多语言key"
+  }, {
+    "id" : "activity_score_req_1",
+    "activity_id" : "activity_score_main_1",
+    "priority" : "1",
+    "requirement" : "gather_food",
+    "req_param_1" : "20",
+    "req_value_1" : "1",
+    "description" : "event_gathering_food_description"
+  }, {
+    "id" : "activity_score_req_2",
+    "activity_id" : "activity_score_main_1",
+    "priority" : "2",
+    "requirement" : "gather_wood",
+    "req_param_1" : "20",
+    "req_value_1" : "1",
+    "description" : "event_gathering_wood_description"
+  }, {
+    "id" : "activity_score_req_3",
+    "activity_id" : "activity_score_main_1",
+    "priority" : "3",
+    "requirement" : "gather_ore",
+    "req_param_1" : "4",
+    "req_value_1" : "1",
+    "description" : "event_gathering_ore_description"
+  }, {
+    "id" : "activity_score_req_4",
+    "activity_id" : "activity_score_main_1",
+    "priority" : "4",
+    "requirement" : "gather_silver",
+    "req_param_1" : "1",
+    "req_value_1" : "1",
+    "description" : "event_gathering_silver_description"
+  }, {
+    "id" : "activity_score_req_5",
+    "activity_id" : "activity_score_main_2",
+    "priority" : "1",
+    "requirement" : "building",
+    "req_param_1" : "1",
+    "req_value_1" : "5",
+    "description" : "event_upgrade_description"
+  }, {
+    "id" : "activity_score_req_6",
+    "activity_id" : "activity_score_main_2",
+    "priority" : "2",
+    "requirement" : "research",
+    "req_param_1" : "1",
+    "req_value_1" : "5",
+    "description" : "event_research_description"
+  }, {
+    "id" : "activity_score_req_7",
+    "activity_id" : "activity_score_main_3",
+    "priority" : "1",
+    "requirement" : "kills_monster_1",
+    "req_param_1" : "1",
+    "req_value_1" : "100",
+    "description" : "event_kill_monster_1_description"
+  }, {
+    "id" : "activity_score_req_8",
+    "activity_id" : "activity_score_main_3",
+    "priority" : "2",
+    "requirement" : "kills_monster_2",
+    "req_param_1" : "1",
+    "req_value_1" : "200",
+    "description" : "event_kill_monster_2_description"
+  }, {
+    "id" : "activity_score_req_9",
+    "activity_id" : "activity_score_main_3",
+    "priority" : "3",
+    "requirement" : "kills_monster_3",
+    "req_param_1" : "1",
+    "req_value_1" : "300",
+    "description" : "event_kill_monster_3_description"
+  }, {
+    "id" : "activity_score_req_10",
+    "activity_id" : "activity_score_main_3",
+    "priority" : "4",
+    "requirement" : "kills_monster_4",
+    "req_param_1" : "1",
+    "req_value_1" : "400",
+    "description" : "event_kill_monster_4_description"
+  }, {
+    "id" : "activity_score_req_11",
+    "activity_id" : "activity_score_main_3",
+    "priority" : "5",
+    "requirement" : "kills_monster_5",
+    "req_param_1" : "1",
+    "req_value_1" : "500",
+    "description" : "event_kill_monster_5_description"
+  }, {
+    "id" : "activity_score_req_12",
+    "activity_id" : "activity_score_main_3",
+    "priority" : "6",
+    "requirement" : "kills_monster_6",
+    "req_param_1" : "1",
+    "req_value_1" : "600",
+    "description" : "event_kill_monster_6_description"
+  }, {
+    "id" : "activity_score_req_13",
+    "activity_id" : "activity_score_main_3",
+    "priority" : "7",
+    "requirement" : "kills_monster_7",
+    "req_param_1" : "1",
+    "req_value_1" : "700",
+    "description" : "event_kill_monster_7_description"
+  }, {
+    "id" : "activity_score_req_14",
+    "activity_id" : "activity_score_main_3",
+    "priority" : "8",
+    "requirement" : "kills_monster_8",
+    "req_param_1" : "1",
+    "req_value_1" : "800",
+    "description" : "event_kill_monster_8_description"
+  }, {
+    "id" : "activity_score_req_15",
+    "activity_id" : "activity_score_main_3",
+    "priority" : "9",
+    "requirement" : "kills_monster_9",
+    "req_param_1" : "1",
+    "req_value_1" : "900",
+    "description" : "event_kill_monster_9_description"
+  }, {
+    "id" : "activity_score_req_16",
+    "activity_id" : "activity_score_main_3",
+    "priority" : "10",
+    "requirement" : "kills_monster_10",
+    "req_param_1" : "1",
+    "req_value_1" : "2000",
+    "description" : "event_kill_monster_10_description"
+  }, {
+    "id" : "activity_score_req_17",
+    "activity_id" : "activity_score_main_3",
+    "priority" : "11",
+    "requirement" : "kills_monster_11",
+    "req_param_1" : "1",
+    "req_value_1" : "2200",
+    "description" : "event_kill_monster_11_description"
+  }, {
+    "id" : "activity_score_req_18",
+    "activity_id" : "activity_score_main_3",
+    "priority" : "12",
+    "requirement" : "kills_monster_12",
+    "req_param_1" : "1",
+    "req_value_1" : "2400",
+    "description" : "event_kill_monster_12_description"
+  }, {
+    "id" : "activity_score_req_19",
+    "activity_id" : "activity_score_main_3",
+    "priority" : "13",
+    "requirement" : "kills_monster_13",
+    "req_param_1" : "1",
+    "req_value_1" : "2600",
+    "description" : "event_kill_monster_13_description"
+  }, {
+    "id" : "activity_score_req_20",
+    "activity_id" : "activity_score_main_3",
+    "priority" : "14",
+    "requirement" : "kills_monster_14",
+    "req_param_1" : "1",
+    "req_value_1" : "2800",
+    "description" : "event_kill_monster_14_description"
+  }, {
+    "id" : "activity_score_req_21",
+    "activity_id" : "activity_score_main_3",
+    "priority" : "15",
+    "requirement" : "kills_monster_15",
+    "req_param_1" : "1",
+    "req_value_1" : "4500",
+    "description" : "event_kill_monster_15_description"
+  }, {
+    "id" : "activity_score_req_22",
+    "activity_id" : "activity_score_main_3",
+    "priority" : "16",
+    "requirement" : "kills_monster_16",
+    "req_param_1" : "1",
+    "req_value_1" : "4800",
+    "description" : "event_kill_monster_16_description"
+  }, {
+    "id" : "activity_score_req_23",
+    "activity_id" : "activity_score_main_3",
+    "priority" : "17",
+    "requirement" : "kills_monster_17",
+    "req_param_1" : "1",
+    "req_value_1" : "5100",
+    "description" : "event_kill_monster_17_description"
+  }, {
+    "id" : "activity_score_req_24",
+    "activity_id" : "activity_score_main_3",
+    "priority" : "18",
+    "requirement" : "kills_monster_18",
+    "req_param_1" : "1",
+    "req_value_1" : "5400",
+    "description" : "event_kill_monster_18_description"
+  }, {
+    "id" : "activity_score_req_25",
+    "activity_id" : "activity_score_main_3",
+    "priority" : "19",
+    "requirement" : "kills_monster_19",
+    "req_param_1" : "1",
+    "req_value_1" : "5700",
+    "description" : "event_kill_monster_19_description"
+  }, {
+    "id" : "activity_score_req_26",
+    "activity_id" : "activity_score_main_3",
+    "priority" : "20",
+    "requirement" : "kills_monster_20",
+    "req_param_1" : "1",
+    "req_value_1" : "8000",
+    "description" : "event_kill_monster_20_description"
+  }, {
+    "id" : "activity_score_req_27",
+    "activity_id" : "activity_score_main_3",
+    "priority" : "21",
+    "requirement" : "kills_monster_21",
+    "req_param_1" : "1",
+    "req_value_1" : "8400",
+    "description" : "event_kill_monster_21_description"
+  }, {
+    "id" : "activity_score_req_28",
+    "activity_id" : "activity_score_main_3",
+    "priority" : "22",
+    "requirement" : "kills_monster_22",
+    "req_param_1" : "1",
+    "req_value_1" : "8800",
+    "description" : "event_kill_monster_22_description"
+  }, {
+    "id" : "activity_score_req_29",
+    "activity_id" : "activity_score_main_3",
+    "priority" : "23",
+    "requirement" : "kills_monster_23",
+    "req_param_1" : "1",
+    "req_value_1" : "9200",
+    "description" : "event_kill_monster_23_description"
+  }, {
+    "id" : "activity_score_req_30",
+    "activity_id" : "activity_score_main_3",
+    "priority" : "24",
+    "requirement" : "kills_monster_24",
+    "req_param_1" : "1",
+    "req_value_1" : "9600",
+    "description" : "event_kill_monster_24_description"
+  }, {
+    "id" : "activity_score_req_31",
+    "activity_id" : "activity_score_main_3",
+    "priority" : "25",
+    "requirement" : "kills_monster_25",
+    "req_param_1" : "1",
+    "req_value_1" : "10000",
+    "description" : "event_kill_monster_25_description"
+  }, {
+    "id" : "activity_score_req_32",
+    "activity_id" : "activity_score_main_3",
+    "priority" : "26",
+    "requirement" : "kills_monster_26",
+    "req_param_1" : "1",
+    "req_value_1" : "10400",
+    "description" : "event_kill_monster_26_description"
+  }, {
+    "id" : "activity_score_req_33",
+    "activity_id" : "activity_score_main_3",
+    "priority" : "27",
+    "requirement" : "kills_monster_27",
+    "req_param_1" : "1",
+    "req_value_1" : "10800",
+    "description" : "event_kill_monster_27_description"
+  }, {
+    "id" : "activity_score_req_34",
+    "activity_id" : "activity_score_main_3",
+    "priority" : "28",
+    "requirement" : "kills_monster_28",
+    "req_param_1" : "1",
+    "req_value_1" : "11200",
+    "description" : "event_kill_monster_28_description"
+  }, {
+    "id" : "activity_score_req_35",
+    "activity_id" : "activity_score_main_3",
+    "priority" : "29",
+    "requirement" : "kills_monster_29",
+    "req_param_1" : "1",
+    "req_value_1" : "11600",
+    "description" : "event_kill_monster_29_description"
+  }, {
+    "id" : "activity_score_req_36",
+    "activity_id" : "activity_score_main_3",
+    "priority" : "30",
+    "requirement" : "kills_monster_30",
+    "req_param_1" : "1",
+    "req_value_1" : "12000",
+    "description" : "event_kill_monster_30_description"
+  }, {
+    "id" : "activity_score_req_37",
+    "activity_id" : "activity_score_main_4",
+    "priority" : "1",
+    "requirement" : "train_troops_1",
+    "req_param_1" : "1",
+    "req_value_1" : "1",
+    "description" : "event_troop_training_1_description"
+  }, {
+    "id" : "activity_score_req_38",
+    "activity_id" : "activity_score_main_4",
+    "priority" : "2",
+    "requirement" : "train_troops_2",
+    "req_param_1" : "1",
+    "req_value_1" : "2",
+    "description" : "event_troop_training_2_description"
+  }, {
+    "id" : "activity_score_req_39",
+    "activity_id" : "activity_score_main_4",
+    "priority" : "3",
+    "requirement" : "train_troops_3",
+    "req_param_1" : "1",
+    "req_value_1" : "4",
+    "description" : "event_troop_training_3_description"
+  }, {
+    "id" : "activity_score_req_40",
+    "activity_id" : "activity_score_main_4",
+    "priority" : "4",
+    "requirement" : "train_troops_4",
+    "req_param_1" : "1",
+    "req_value_1" : "8",
+    "description" : "event_troop_training_4_description"
+  }, {
+    "id" : "activity_score_req_41",
+    "activity_id" : "activity_score_main_4",
+    "priority" : "5",
+    "requirement" : "train_troops_5",
+    "req_param_1" : "1",
+    "req_value_1" : "12",
+    "description" : "event_troop_training_5_description"
+  }, {
+    "id" : "activity_score_req_42",
+    "activity_id" : "activity_score_main_4",
+    "priority" : "6",
+    "requirement" : "train_troops_6",
+    "req_param_1" : "1",
+    "req_value_1" : "18",
+    "description" : "event_troop_training_6_description"
+  }, {
+    "id" : "activity_score_req_43",
+    "activity_id" : "activity_score_main_4",
+    "priority" : "7",
+    "requirement" : "train_troops_7",
+    "req_param_1" : "1",
+    "req_value_1" : "27",
+    "description" : "event_troop_training_7_description"
+  }, {
+    "id" : "activity_score_req_44",
+    "activity_id" : "activity_score_main_4",
+    "priority" : "8",
+    "requirement" : "train_troops_8",
+    "req_param_1" : "1",
+    "req_value_1" : "40",
+    "description" : "event_troop_training_8_description"
+  }, {
+    "id" : "activity_score_req_45",
+    "activity_id" : "activity_score_main_4",
+    "priority" : "9",
+    "requirement" : "train_troops_9",
+    "req_param_1" : "1",
+    "req_value_1" : "60",
+    "description" : "event_troop_training_9_description"
+  }, {
+    "id" : "activity_score_req_46",
+    "activity_id" : "activity_score_main_4",
+    "priority" : "10",
+    "requirement" : "train_troops_10",
+    "req_param_1" : "1",
+    "req_value_1" : "90",
+    "description" : "event_troop_training_10_description"
+  }, {
+    "id" : "activity_score_req_47",
+    "activity_id" : "activity_score_main_5",
+    "priority" : "1",
+    "requirement" : "kills_troops_1",
+    "req_param_1" : "1",
+    "req_value_1" : "1",
+    "description" : "event_kill_troops_1_description"
+  }, {
+    "id" : "activity_score_req_48",
+    "activity_id" : "activity_score_main_5",
+    "priority" : "2",
+    "requirement" : "kills_troops_2",
+    "req_param_1" : "1",
+    "req_value_1" : "2",
+    "description" : "event_kill_troops_2_description"
+  }, {
+    "id" : "activity_score_req_49",
+    "activity_id" : "activity_score_main_5",
+    "priority" : "3",
+    "requirement" : "kills_troops_3",
+    "req_param_1" : "1",
+    "req_value_1" : "4",
+    "description" : "event_kill_troops_3_description"
+  }, {
+    "id" : "activity_score_req_50",
+    "activity_id" : "activity_score_main_5",
+    "priority" : "4",
+    "requirement" : "kills_troops_4",
+    "req_param_1" : "1",
+    "req_value_1" : "8",
+    "description" : "event_kill_troops_4_description"
+  }, {
+    "id" : "activity_score_req_51",
+    "activity_id" : "activity_score_main_5",
+    "priority" : "5",
+    "requirement" : "kills_troops_5",
+    "req_param_1" : "1",
+    "req_value_1" : "12",
+    "description" : "event_kill_troops_5_description"
+  }, {
+    "id" : "activity_score_req_52",
+    "activity_id" : "activity_score_main_5",
+    "priority" : "6",
+    "requirement" : "kills_troops_6",
+    "req_param_1" : "1",
+    "req_value_1" : "18",
+    "description" : "event_kill_troops_6_description"
+  }, {
+    "id" : "activity_score_req_53",
+    "activity_id" : "activity_score_main_5",
+    "priority" : "7",
+    "requirement" : "kills_troops_7",
+    "req_param_1" : "1",
+    "req_value_1" : "27",
+    "description" : "event_kill_troops_7_description"
+  }, {
+    "id" : "activity_score_req_54",
+    "activity_id" : "activity_score_main_5",
+    "priority" : "8",
+    "requirement" : "kills_troops_8",
+    "req_param_1" : "1",
+    "req_value_1" : "40",
+    "description" : "event_kill_troops_8_description"
+  }, {
+    "id" : "activity_score_req_55",
+    "activity_id" : "activity_score_main_5",
+    "priority" : "9",
+    "requirement" : "kills_troops_9",
+    "req_param_1" : "1",
+    "req_value_1" : "60",
+    "description" : "event_kill_troops_9_description"
+  }, {
+    "id" : "activity_score_req_56",
+    "activity_id" : "activity_score_main_5",
+    "priority" : "10",
+    "requirement" : "kills_troops_10",
+    "req_param_1" : "1",
+    "req_value_1" : "90",
+    "description" : "event_kill_troops_10_description"
+  }, {
+    "id" : "activity_score_req_57",
+    "activity_id" : "activity_score_main_6",
+    "priority" : "1",
+    "requirement" : "casino_roll",
+    "req_param_1" : "1",
+    "req_value_1" : "200",
+    "description" : "event_casino_roll_description"
+  }, {
+    "id" : "activity_score_req_58",
+    "activity_id" : "activity_score_main_6",
+    "priority" : "2",
+    "requirement" : "casino_turn_1",
+    "req_param_1" : "1",
+    "req_value_1" : "40",
+    "description" : "event_casino_turn_1_description"
+  }, {
+    "id" : "activity_score_req_59",
+    "activity_id" : "activity_score_main_6",
+    "priority" : "3",
+    "requirement" : "casino_turn_2",
+    "req_param_1" : "1",
+    "req_value_1" : "80",
+    "description" : "event_casino_turn_2_description"
+  }, {
+    "id" : "activity_score_req_60",
+    "activity_id" : "activity_score_main_6",
+    "priority" : "4",
+    "requirement" : "casino_turn_3",
+    "req_param_1" : "1",
+    "req_value_1" : "150",
+    "description" : "event_casino_turn_3_description"
+  }, {
+    "id" : "activity_score_req_61",
+    "activity_id" : "activity_score_main_6",
+    "priority" : "5",
+    "requirement" : "casino_turn_4",
+    "req_param_1" : "1",
+    "req_value_1" : "250",
+    "description" : "event_casino_turn_4_description"
+  }, {
+    "id" : "activity_score_req_62",
+    "activity_id" : "activity_score_main_6",
+    "priority" : "6",
+    "requirement" : "casino_turn_5",
+    "req_param_1" : "1",
+    "req_value_1" : "350",
+    "description" : "event_casino_turn_5_description"
+  }, {
+    "id" : "activity_score_req_63",
+    "activity_id" : "activity_score_main_6",
+    "priority" : "7",
+    "requirement" : "casino_turn_6",
+    "req_param_1" : "1",
+    "req_value_1" : "450",
+    "description" : "event_casino_turn_6_description"
+  }, {
+    "id" : "activity_score_req_64",
+    "activity_id" : "activity_score_main_6",
+    "priority" : "8",
+    "requirement" : "casino_turn_7",
+    "req_param_1" : "1",
+    "req_value_1" : "550",
+    "description" : "event_casino_turn_7_description"
+  }, {
+    "id" : "activity_score_req_65",
+    "activity_id" : "activity_score_main_6",
+    "priority" : "9",
+    "requirement" : "casino_turn_8",
+    "req_param_1" : "1",
+    "req_value_1" : "650",
+    "description" : "event_casino_turn_8_description"
+  }, {
+    "id" : "activity_score_req_66",
+    "activity_id" : "activity_score_main_6",
+    "priority" : "10",
+    "requirement" : "casino_turn_9",
+    "req_param_1" : "1",
+    "req_value_1" : "750",
+    "description" : "event_casino_turn_9_description"
+  }, {
+    "id" : "activity_score_req_401",
+    "activity_id" : "activity_score_main_4",
+    "priority" : "11",
+    "requirement" : "train_troops_11",
+    "req_param_1" : "1",
+    "req_value_1" : "120",
+    "description" : "event_troop_training_11_description"
+  }, {
+    "id" : "activity_score_req_402",
+    "activity_id" : "activity_score_main_4",
+    "priority" : "12",
+    "requirement" : "train_troops_12",
+    "req_param_1" : "1",
+    "req_value_1" : "150",
+    "description" : "event_troop_training_12_description"
+  }, {
+    "id" : "activity_score_req_501",
+    "activity_id" : "activity_score_main_5",
+    "priority" : "11",
+    "requirement" : "kills_troops_11",
+    "req_param_1" : "1",
+    "req_value_1" : "120",
+    "description" : "event_kill_troops_11_description"
+  }, {
+    "id" : "activity_score_req_502",
+    "activity_id" : "activity_score_main_5",
+    "priority" : "12",
+    "requirement" : "kills_troops_12",
+    "req_param_1" : "1",
+    "req_value_1" : "150",
+    "description" : "event_kill_troops_12_description"
+  }, {
+    "id" : "activity_score_req_301",
+    "activity_id" : "activity_score_main_3",
+    "priority" : "31",
+    "requirement" : "kills_monster_31",
+    "req_param_1" : "1",
+    "req_value_1" : "12400",
+    "description" : "event_kill_monster_31_description"
+  }, {
+    "id" : "activity_score_req_302",
+    "activity_id" : "activity_score_main_3",
+    "priority" : "32",
+    "requirement" : "kills_monster_32",
+    "req_param_1" : "1",
+    "req_value_1" : "12800",
+    "description" : "event_kill_monster_32_description"
+  }, {
+    "id" : "activity_score_req_303",
+    "activity_id" : "activity_score_main_3",
+    "priority" : "33",
+    "requirement" : "kills_monster_33",
+    "req_param_1" : "1",
+    "req_value_1" : "13200",
+    "description" : "event_kill_monster_33_description"
+  }, {
+    "id" : "activity_score_req_304",
+    "activity_id" : "activity_score_main_3",
+    "priority" : "34",
+    "requirement" : "kills_monster_34",
+    "req_param_1" : "1",
+    "req_value_1" : "13600",
+    "description" : "event_kill_monster_34_description"
+  }, {
+    "id" : "activity_score_req_305",
+    "activity_id" : "activity_score_main_3",
+    "priority" : "35",
+    "requirement" : "kills_monster_35",
+    "req_param_1" : "1",
+    "req_value_1" : "14000",
+    "description" : "event_kill_monster_35_description"
+  } ]
+}

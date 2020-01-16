@@ -1,0 +1,28 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "name" : "name@string",
+    "corner_image" : "corner_image@string"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "name" : "名字",
+    "corner_image" : "角标"
+  }, {
+    "id" : "explore_item_equip_1",
+    "name" : "explore_item_equip_1_name",
+    "corner_image" : "sign_roguelike_equipment_1"
+  }, {
+    "id" : "explore_item_equip_2",
+    "name" : "explore_item_equip_2_name",
+    "corner_image" : "sign_roguelike_equipment_2"
+  }, {
+    "id" : "explore_item_equip_3",
+    "name" : "explore_item_equip_3_name",
+    "corner_image" : "sign_roguelike_equipment_3"
+  }, {
+    "id" : "explore_item_equip_4",
+    "name" : "explore_item_equip_4_name",
+    "corner_image" : "sign_roguelike_equipment_4"
+  } ]
+}

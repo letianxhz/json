@@ -1,0 +1,92 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "rate" : "rate@int",
+    "charge_rebate_shop_rate" : "charge_rebate_shop_rate@int"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "rate" : "系数",
+    "charge_rebate_shop_rate" : "充返商店道具系数"
+  }, {
+    "id" : "com.funplus.koa.month0",
+    "rate" : "5",
+    "charge_rebate_shop_rate" : "1"
+  }, {
+    "id" : "com.funplus.koa.month1",
+    "rate" : "10",
+    "charge_rebate_shop_rate" : "2"
+  }, {
+    "id" : "com.funplus.koa.month2",
+    "rate" : "20",
+    "charge_rebate_shop_rate" : "4"
+  }, {
+    "id" : "com.funplus.koa.gold0",
+    "rate" : "1",
+    "charge_rebate_shop_rate" : "0"
+  }, {
+    "id" : "com.funplus.koa.gold1",
+    "rate" : "5",
+    "charge_rebate_shop_rate" : "1"
+  }, {
+    "id" : "com.funplus.koa.gold2",
+    "rate" : "10",
+    "charge_rebate_shop_rate" : "2"
+  }, {
+    "id" : "com.funplus.koa.gold3",
+    "rate" : "20",
+    "charge_rebate_shop_rate" : "4"
+  }, {
+    "id" : "com.funplus.koa.gold4",
+    "rate" : "50",
+    "charge_rebate_shop_rate" : "10"
+  }, {
+    "id" : "com.funplus.koa.gold5",
+    "rate" : "100",
+    "charge_rebate_shop_rate" : "20"
+  }, {
+    "id" : "com.funplus.koa.subscription0",
+    "rate" : "30",
+    "charge_rebate_shop_rate" : "6"
+  }, {
+    "id" : "com.funplus.koa.dailyrecharge",
+    "rate" : "1",
+    "charge_rebate_shop_rate" : "0"
+  }, {
+    "id" : "com.funplus.koa.dailyrecharge0",
+    "rate" : "5",
+    "charge_rebate_shop_rate" : "1"
+  }, {
+    "id" : "com.funplus.koa.dailyrecharge1",
+    "rate" : "10",
+    "charge_rebate_shop_rate" : "2"
+  }, {
+    "id" : "com.funplus.koa.dailyrecharge2",
+    "rate" : "20",
+    "charge_rebate_shop_rate" : "4"
+  }, {
+    "id" : "com.funplus.koa.limitedspecial0",
+    "rate" : "10",
+    "charge_rebate_shop_rate" : "2"
+  }, {
+    "id" : "com.funplus.koa.sale1",
+    "rate" : "5",
+    "charge_rebate_shop_rate" : "1"
+  }, {
+    "id" : "com.funplus.koa.sale2",
+    "rate" : "10",
+    "charge_rebate_shop_rate" : "2"
+  }, {
+    "id" : "com.funplus.koa.sale3",
+    "rate" : "20",
+    "charge_rebate_shop_rate" : "4"
+  }, {
+    "id" : "com.funplus.koa.sale4",
+    "rate" : "50",
+    "charge_rebate_shop_rate" : "10"
+  }, {
+    "id" : "com.funplus.koa.sale5",
+    "rate" : "100",
+    "charge_rebate_shop_rate" : "20"
+  } ]
+}

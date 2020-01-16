@@ -1,0 +1,76 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "group_type" : "group_type@int",
+    "system_refresh_chance" : "system_refresh_chance@int",
+    "buy_refresh_chance" : "buy_refresh_chance@int",
+    "discount_level" : "discount_level@int"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "group_type" : "组类型",
+    "system_refresh_chance" : "系统刷新几率",
+    "buy_refresh_chance" : "购买刷新几率",
+    "discount_level" : "折扣等级"
+  }, {
+    "id" : "npc_store_group_1",
+    "group_type" : "1",
+    "system_refresh_chance" : "1200",
+    "buy_refresh_chance" : "1800",
+    "discount_level" : "1"
+  }, {
+    "id" : "npc_store_group_2",
+    "group_type" : "1",
+    "system_refresh_chance" : "2400",
+    "buy_refresh_chance" : "600",
+    "discount_level" : "2"
+  }, {
+    "id" : "npc_store_group_3",
+    "group_type" : "1",
+    "system_refresh_chance" : "1800",
+    "buy_refresh_chance" : "300",
+    "discount_level" : "3"
+  }, {
+    "id" : "npc_store_group_4",
+    "group_type" : "1",
+    "system_refresh_chance" : "600",
+    "buy_refresh_chance" : "300",
+    "discount_level" : "4"
+  }, {
+    "id" : "npc_store_group_5",
+    "group_type" : "2",
+    "system_refresh_chance" : "0",
+    "buy_refresh_chance" : "0",
+    "discount_level" : "1"
+  }, {
+    "id" : "npc_store_group_6",
+    "group_type" : "2",
+    "system_refresh_chance" : "2800",
+    "buy_refresh_chance" : "5250",
+    "discount_level" : "2"
+  }, {
+    "id" : "npc_store_group_7",
+    "group_type" : "2",
+    "system_refresh_chance" : "800",
+    "buy_refresh_chance" : "1050",
+    "discount_level" : "3"
+  }, {
+    "id" : "npc_store_group_8",
+    "group_type" : "2",
+    "system_refresh_chance" : "200",
+    "buy_refresh_chance" : "300",
+    "discount_level" : "4"
+  }, {
+    "id" : "npc_store_group_9",
+    "group_type" : "2",
+    "system_refresh_chance" : "100",
+    "buy_refresh_chance" : "400",
+    "discount_level" : "4"
+  }, {
+    "id" : "npc_store_group_10",
+    "group_type" : "2",
+    "system_refresh_chance" : "100",
+    "buy_refresh_chance" : "0",
+    "discount_level" : "4"
+  } ]
+}

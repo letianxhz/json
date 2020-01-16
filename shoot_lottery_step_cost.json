@@ -1,0 +1,59 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "step" : "step@int",
+    "group" : "group@shoot_lottery_group.id",
+    "cost" : "cost@int"
+  },
+  "rows" : [ {
+    "id" : "主key",
+    "step" : "步骤",
+    "group" : "所属活动id",
+    "cost" : "消耗"
+  }, {
+    "id" : "1",
+    "step" : "1",
+    "group" : "shoot_lottery_group_1",
+    "cost" : "6"
+  }, {
+    "id" : "2",
+    "step" : "2",
+    "group" : "shoot_lottery_group_1",
+    "cost" : "12"
+  }, {
+    "id" : "3",
+    "step" : "3",
+    "group" : "shoot_lottery_group_1",
+    "cost" : "20"
+  }, {
+    "id" : "4",
+    "step" : "4",
+    "group" : "shoot_lottery_group_1",
+    "cost" : "30"
+  }, {
+    "id" : "5",
+    "step" : "5",
+    "group" : "shoot_lottery_group_1",
+    "cost" : "40"
+  }, {
+    "id" : "6",
+    "step" : "6",
+    "group" : "shoot_lottery_group_1",
+    "cost" : "52"
+  }, {
+    "id" : "7",
+    "step" : "7",
+    "group" : "shoot_lottery_group_1",
+    "cost" : "64"
+  }, {
+    "id" : "8",
+    "step" : "8",
+    "group" : "shoot_lottery_group_1",
+    "cost" : "80"
+  }, {
+    "id" : "9",
+    "step" : "9",
+    "group" : "shoot_lottery_group_1",
+    "cost" : "96"
+  } ]
+}

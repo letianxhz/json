@@ -1,0 +1,54 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "donate_level" : "donate_level@int",
+    "resource_open2_chance" : "resource_open2_chance@float",
+    "gold_open2_chance" : "gold_open2_chance@float",
+    "close2_chance" : "close2_chance@float",
+    "resource_open3_chance" : "resource_open3_chance@float",
+    "gold_open3_chance" : "gold_open3_chance@float",
+    "close3_chance" : "close3_chance@float",
+    "reward_ratio" : "reward_ratio@float"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "donate_level" : "捐献等级",
+    "resource_open2_chance" : "变成第二档资源概率",
+    "gold_open2_chance" : "变成第二档金币概率",
+    "close2_chance" : "关闭第二档概率",
+    "resource_open3_chance" : "变成第三档资源概率",
+    "gold_open3_chance" : "变成第三档金币概率",
+    "close3_chance" : "关闭第三档概率",
+    "reward_ratio" : "奖励倍率"
+  }, {
+    "id" : "alliance_donate_1",
+    "donate_level" : "1",
+    "resource_open2_chance" : "0.1",
+    "gold_open2_chance" : "0.1",
+    "close2_chance" : "0.05",
+    "resource_open3_chance" : "0.025",
+    "gold_open3_chance" : "0.05",
+    "close3_chance" : "0.05",
+    "reward_ratio" : "1"
+  }, {
+    "id" : "alliance_donate_2",
+    "donate_level" : "2",
+    "resource_open2_chance" : "0.05",
+    "gold_open2_chance" : "0.1",
+    "close2_chance" : "0.85",
+    "resource_open3_chance" : "0.05",
+    "gold_open3_chance" : "0.1",
+    "close3_chance" : "0",
+    "reward_ratio" : "5"
+  }, {
+    "id" : "alliance_donate_3",
+    "donate_level" : "3",
+    "resource_open2_chance" : "0.1",
+    "gold_open2_chance" : "0.1",
+    "close2_chance" : "0",
+    "resource_open3_chance" : "0.05",
+    "gold_open3_chance" : "0.1",
+    "close3_chance" : "0.85",
+    "reward_ratio" : "25"
+  } ]
+}

@@ -1,0 +1,53 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "type" : "type@string",
+    "index" : "index@int",
+    "name" : "name@string",
+    "description" : "description@string",
+    "unlock" : "unlock@string",
+    "image" : "image@string",
+    "gm_control" : "gm_control@int",
+    "asset_config_name" : "asset_config_name@string"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "type" : "类型",
+    "index" : "排序",
+    "name" : "名字",
+    "description" : "描述",
+    "unlock" : "解锁条件",
+    "image" : "图",
+    "gm_control" : "gm控制开启:1-是;0-否",
+    "asset_config_name" : "场景"
+  }, {
+    "id" : "explore_1",
+    "type" : "normal",
+    "index" : "1",
+    "name" : "explore_1_name",
+    "description" : "explore_1_description",
+    "unlock" : "quest_group_finish=301",
+    "image" : "explore_1",
+    "gm_control" : "0",
+    "asset_config_name" : "roguelike_asset_config"
+  }, {
+    "id" : "explore_2",
+    "type" : "normal",
+    "index" : "2",
+    "name" : "explore_2_name",
+    "description" : "explore_2_description",
+    "unlock" : "floor=explore_explore_1_1_floor_20",
+    "image" : "explore_2",
+    "gm_control" : "0"
+  }, {
+    "id" : "activity_explore_1",
+    "type" : "midsummer",
+    "index" : "-1",
+    "name" : "event_explore_chapter_name",
+    "description" : "event_explore_chapter_name",
+    "unlock" : "quest_group_finish=301",
+    "image" : "activity_explore_1",
+    "gm_control" : "1",
+    "asset_config_name" : "roguelike_midsummer_asset_config"
+  } ]
+}

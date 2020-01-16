@@ -1,0 +1,22 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "criteria" : "criteria@string",
+    "time" : "time@int",
+    "entrance_icon" : "entrance_icon@string",
+    "default" : "default@int"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "criteria" : "close - 不开启\nstronghold-主城等级\nquest_group_finish-完成某章史诗任务\nserver_start_time-开服时间\nlord_create_time-创角时间\nlord_level - 领主等级\n",
+    "time" : "持续时间(倒计时)",
+    "entrance_icon" : "入口图标",
+    "default" : "默认选择"
+  }, {
+    "id" : "activity_charge_rebate_group_1",
+    "criteria" : "close",
+    "time" : "604800",
+    "entrance_icon" : "icon_bonuspay",
+    "default" : "1"
+  } ]
+}

@@ -1,0 +1,76 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "path_type1" : "path_type1@string",
+    "path_type2" : "path_type2@string",
+    "icon_name" : "icon_name@string"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "path_type1" : "图集类型\nTexture\nSprite\nSprite2D\n",
+    "path_type2" : "标签",
+    "icon_name" : "图片名称"
+  }, {
+    "id" : "shop",
+    "path_type1" : "Sprite",
+    "path_type2" : "items",
+    "icon_name" : "icon_items"
+  }, {
+    "id" : "outside_gather",
+    "path_type1" : "Sprite2D",
+    "path_type2" : "building",
+    "icon_name" : "ui_farm_l1"
+  }, {
+    "id" : "GVE",
+    "path_type1" : "Texture",
+    "path_type2" : "Daily_reward",
+    "icon_name" : "tiles_monstercamp2"
+  }, {
+    "id" : "PVE",
+    "path_type1" : "Texture",
+    "path_type2" : "QuestIcons",
+    "icon_name" : "icon_quest_empire_pve"
+  }, {
+    "id" : "inside_gather",
+    "path_type1" : "Sprite2D",
+    "path_type2" : "building",
+    "icon_name" : "ui_farm_l1"
+  }, {
+    "id" : "shop_alliance",
+    "path_type1" : "Texture",
+    "path_type2" : "Alliance",
+    "icon_name" : "alliance_honor"
+  }, {
+    "id" : "shop_expedition",
+    "path_type1" : "Texture",
+    "path_type2" : "ItemIcons",
+    "icon_name" : "item_melin_coin"
+  }, {
+    "id" : "rogue_like",
+    "path_type1" : "Sprite2D",
+    "path_type2" : "Common",
+    "icon_name" : "ui_roguelike"
+  }, {
+    "id" : "chest",
+    "path_type1" : "Texture",
+    "path_type2" : "IAP",
+    "icon_name" : "iap_package_recover"
+  }, {
+    "id" : "month_type_card"
+  }, {
+    "id" : "general_summon",
+    "path_type1" : "Sprite",
+    "path_type2" : "scene_ui",
+    "icon_name" : "icon_hero_roster"
+  }, {
+    "id" : "daily_reward",
+    "path_type1" : "Sprite",
+    "path_type2" : "scene_ui",
+    "icon_name" : "daily_activity_chest_full"
+  }, {
+    "id" : "activity",
+    "path_type1" : "activity",
+    "path_type2" : "items",
+    "icon_name" : "icon_activitycenter"
+  } ]
+}

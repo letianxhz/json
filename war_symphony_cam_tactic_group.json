@@ -1,0 +1,49 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "land" : "land@int",
+    "tactic" : "tactic@war_symphony_cam_tactic.id",
+    "weight" : "weight@int"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "land" : "所属地块",
+    "tactic" : "战术配置",
+    "weight" : "权重"
+  }, {
+    "id" : "1",
+    "land" : "-1",
+    "tactic" : "campaign_tactic_23",
+    "weight" : "1"
+  }, {
+    "id" : "2",
+    "land" : "-1",
+    "tactic" : "campaign_tactic_15",
+    "weight" : "1"
+  }, {
+    "id" : "3",
+    "land" : "-1",
+    "tactic" : "campaign_tactic_20",
+    "weight" : "1"
+  }, {
+    "id" : "4",
+    "land" : "-1",
+    "tactic" : "campaign_tactic_24",
+    "weight" : "1"
+  }, {
+    "id" : "5",
+    "land" : "7",
+    "tactic" : "campaign_tactic_21",
+    "weight" : "1"
+  }, {
+    "id" : "6",
+    "land" : "7",
+    "tactic" : "campaign_tactic_22",
+    "weight" : "1"
+  }, {
+    "id" : "7",
+    "land" : "7",
+    "tactic" : "campaign_tactic_23",
+    "weight" : "1"
+  } ]
+}

@@ -1,0 +1,1650 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "title" : "title@string",
+    "subject" : "subject@string",
+    "image" : "image@string"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "title" : "标题",
+    "subject" : "内容",
+    "image" : "图片"
+  }, {
+    "id" : "chat",
+    "title" : "mail_title_chat",
+    "subject" : "mail_subject_chat"
+  }, {
+    "id" : "system",
+    "title" : "mail_title_system",
+    "subject" : "mail_subject_system",
+    "image" : "14"
+  }, {
+    "id" : "scout",
+    "title" : "mail_title_scout_report",
+    "subject" : "mail_header_target_scouted",
+    "image" : "3"
+  }, {
+    "id" : "scouted",
+    "title" : "mail_title_scouted_warning",
+    "subject" : "mail_header_own_city_scouted",
+    "image" : "4"
+  }, {
+    "id" : "battle_victory",
+    "title" : "mail_title_battle_report_victory",
+    "subject" : "mail_header_battle_result",
+    "image" : "2"
+  }, {
+    "id" : "battle_defeat",
+    "title" : "mail_title_battle_report_defeat",
+    "subject" : "mail_header_battle_result",
+    "image" : "2"
+  }, {
+    "id" : "incoming_rally",
+    "title" : "mail_title_incoming_rally_warning",
+    "subject" : "mail_subject_incoming_rally_warning",
+    "image" : "7"
+  }, {
+    "id" : "rally_cancel",
+    "title" : "mail_title_incoming_rally_canceled",
+    "subject" : "mail_subject_incoming_rally_canceled",
+    "image" : "8"
+  }, {
+    "id" : "reinforce_arrived",
+    "title" : "mail_title_reinforcements",
+    "subject" : "mail_subject_reinforcements_arrived",
+    "image" : "9"
+  }, {
+    "id" : "reinforce_left",
+    "title" : "mail_title_reinforcements",
+    "subject" : "mail_subject_reinforcements_left",
+    "image" : "10"
+  }, {
+    "id" : "gather",
+    "title" : "mail_title_resources_gathered",
+    "subject" : "mail_subject_resources_gathered",
+    "image" : "11"
+  }, {
+    "id" : "encampment_return",
+    "title" : "mail_title_encampment_return",
+    "subject" : "mail_subject_encampment_return",
+    "image" : "12"
+  }, {
+    "id" : "trade",
+    "title" : "mail_title_trade_arrived",
+    "subject" : "mail_subject_trade_arrived ",
+    "image" : "16"
+  }, {
+    "id" : "mini_wonder_return",
+    "title" : "mail_title_miniwonder_return",
+    "subject" : "mail_subject_miniwonder_return"
+  }, {
+    "id" : "highlord_transfer",
+    "title" : "mail_title_transfer_highlord_target",
+    "subject" : "mail_subject_transfer_highlord_target"
+  }, {
+    "id" : "alliance_promotion",
+    "title" : "mail_title_alliance_promotion",
+    "subject" : "mail_subject_alliance_promotion"
+  }, {
+    "id" : "rally_victory",
+    "title" : "mail_title_rally_report_victory",
+    "subject" : "mail_header_battle_result",
+    "image" : "15"
+  }, {
+    "id" : "rally_defeat",
+    "title" : "mail_title_rally_report_defeat",
+    "subject" : "mail_header_battle_result",
+    "image" : "15"
+  }, {
+    "id" : "empower_temporary_highlord",
+    "title" : "mail_title_empower_temporary_highlord",
+    "subject" : "mail_subject_empower_temporary_highlord"
+  }, {
+    "id" : "revocation_temporary_highlord",
+    "title" : "mail_title_revocation_temporary_highlord",
+    "subject" : "mail_subject_revocation_temporary_highlord"
+  }, {
+    "id" : "monster_firstblood_reward",
+    "title" : "mail_title_monster_firstblood_reward",
+    "subject" : "mail_subject_monster_firstblood_reward",
+    "image" : "14"
+  }, {
+    "id" : "rally_teleport_cancel",
+    "title" : "mail_title_rally_teleport_cancel",
+    "subject" : "mail_subject_rally_teleport_cancel"
+  }, {
+    "id" : "refuse_notification",
+    "title" : "mail_title_refuse_notification",
+    "subject" : "mail_subject_refuse_notification"
+  }, {
+    "id" : "kick_alliance_notification",
+    "title" : "mail_title_kick_alliance_notification",
+    "subject" : "mail_subject_kick_alliance_notification"
+  }, {
+    "id" : "donation_rank_reward",
+    "title" : "mail_title_donation_rank_reward",
+    "subject" : "mail_subject_donation_rank_reward"
+  }, {
+    "id" : "donation_rank_no_reward",
+    "title" : "mail_title_donation_rank_no_reward",
+    "subject" : "mail_subject_donation_rank_no_reward"
+  }, {
+    "id" : "alliance_teleport",
+    "title" : "mail_title_alliance_teleport",
+    "subject" : "mail_subject_alliance_teleport"
+  }, {
+    "id" : "alliance_resource_trade",
+    "title" : "mail_title_alliance_resource_trade",
+    "subject" : "mail_subject_alliance_resource_trade"
+  }, {
+    "id" : "alliance_cancel_rally",
+    "title" : "mail_title_alliance_cancel_rally",
+    "subject" : "mail_subject_alliance_cancel_rally"
+  }, {
+    "id" : "battle_disastrous_defeat",
+    "title" : "mail_title_battle_report_disastrous_defeat",
+    "subject" : "mail_subject_battle_report_disastrous_defeat",
+    "image" : "2"
+  }, {
+    "id" : "pve_victory",
+    "title" : "monster_report_uppercase_victory_title"
+  }, {
+    "id" : "pve_defeat",
+    "title" : "monster_report_uppercase_failure_title"
+  }, {
+    "id" : "pve_boss_victory",
+    "title" : "mail_title_pve_boss_report_victory"
+  }, {
+    "id" : "pve_boss_defeat",
+    "title" : "mail_title_pve_boss_report_defeat"
+  }, {
+    "id" : "pve_boss_killed_reward",
+    "title" : "mail_title_pve_boss_killed_reward"
+  }, {
+    "id" : "activity_score_step_reward",
+    "title" : "mail_title_activity_score_step_reward",
+    "subject" : "mail_subject_activity_score_step_reward"
+  }, {
+    "id" : "activity_score_step_rank_reward",
+    "title" : "mail_title_activity_score_step_rank_reward",
+    "subject" : "mail_subject_activity_score_step_rank_reward"
+  }, {
+    "id" : "activity_score_total_rank_reward",
+    "title" : "mail_title_activity_score_total_rank_reward",
+    "subject" : "mail_subject_activity_score_total_rank_reward"
+  }, {
+    "id" : "beginner_teleport",
+    "title" : "mail_title_beginner_teleport",
+    "subject" : "mail_subject_beginner_teleport"
+  }, {
+    "id" : "player_rename",
+    "title" : "mail_title_player_rename",
+    "subject" : "mail_subject_player_rename"
+  }, {
+    "id" : "beginner_vip",
+    "title" : "mail_title_beginner_vip",
+    "subject" : "mail_subject_beginner_vip"
+  }, {
+    "id" : "highlord_change_target",
+    "title" : "mail_title_change_highlord_target",
+    "subject" : "mail_subject_change_highlord_target"
+  }, {
+    "id" : "first_join_alliance",
+    "title" : "mail_title_first_join_alliance",
+    "subject" : "mail_subject_first_join_alliance"
+  }, {
+    "id" : "gve_cancel_rally",
+    "title" : "mail_title_gve_cancel_rally",
+    "subject" : "mail_subject_gve_cancel_rally"
+  }, {
+    "id" : "gve_teleport_cancel",
+    "title" : "mail_title_gve_teleport_cancel",
+    "subject" : "mail_subject_gve_teleport_cancel"
+  }, {
+    "id" : "gve_no_target",
+    "title" : "mail_title_gve_no_target",
+    "subject" : "mail_subject_gve_no_target"
+  }, {
+    "id" : "pve_no_target",
+    "title" : "mail_title_pve_no_target",
+    "subject" : "mail_subject_pve_no_target"
+  }, {
+    "id" : "alliance_IAP_package",
+    "title" : "mail_title_alliance_IAP_package",
+    "subject" : "mail_subject_alliance_IAP_package"
+  }, {
+    "id" : "alliance_teleport_system",
+    "title" : "mail_title_alliance_teleport_system",
+    "subject" : "mail_subject_alliance_teleport_system"
+  }, {
+    "id" : "update_announcement",
+    "title" : "mail_title_update_announcement"
+  }, {
+    "id" : "event_knight_start",
+    "title" : "mail_title_event_fallen_knight_start",
+    "subject" : "mail_subject_event_fallen_knight_start"
+  }, {
+    "id" : "event_knight_stage",
+    "title" : "mail_title_event_fallen_knight_rewards",
+    "subject" : "mail_subject_event_fallen_knight_rewards"
+  }, {
+    "id" : "event_knight_person_rank",
+    "title" : "mail_title_event_fallen_knight_player_rank",
+    "subject" : "mail_subject_event_fallen_knight_player_rank"
+  }, {
+    "id" : "event_knight_alliance_rank",
+    "title" : "mail_title_event_fallen_knight_alliance_rank",
+    "subject" : "mail_subject_event_fallen_knight_alliance_rank"
+  }, {
+    "id" : "fallen_knight_event_victory",
+    "title" : "mail_title_fallen_knight_event_victory",
+    "subject" : "mail_subject_fallen_knight_event_victory"
+  }, {
+    "id" : "fallen_knight_event_defeat",
+    "title" : "mail_title_fallen_knight_event_defeat",
+    "subject" : "mail_subject_fallen_knight_event_defeat"
+  }, {
+    "id" : "festival_6_visit_success",
+    "title" : "mail_title_festival_6_visit_success",
+    "subject" : "mail_subject_festival_6_visit_success"
+  }, {
+    "id" : "festival_6_visit_fail",
+    "title" : "mail_title_festival_6_visit_fail",
+    "subject" : "mail_subject_festival_6_visit_fail"
+  }, {
+    "id" : "reserve_reward",
+    "title" : "mail_title_gift_code_reward",
+    "subject" : "mail_subject_gift_code_reward"
+  }, {
+    "id" : "alliance_hospital_disappear",
+    "title" : "mail_title_alliance_hospital_disappear",
+    "subject" : "mail_subject_alliance_hospital_disappear"
+  }, {
+    "id" : "alliance_hospital_demolish",
+    "title" : "mail_title_alliance_hospital_demolish",
+    "subject" : "mail_subject_alliance_hospital_demolish"
+  }, {
+    "id" : "alliance_boss_battle_report",
+    "title" : "mail_title_portal_battle",
+    "subject" : "mail_subject_alliance_boss_battle_report"
+  }, {
+    "id" : "alliance_boss_reward",
+    "title" : "mail_title_portal_rewards",
+    "subject" : "mail_subtitle_damage_rewards"
+  }, {
+    "id" : "alliance_boss_no_target",
+    "title" : "mail_title_portal_battle_aborted",
+    "subject" : "mail_subject_portal_battle_aborted"
+  }, {
+    "id" : "alliance_boss_victory",
+    "title" : "mail_title_portal_victory",
+    "subject" : "mail_subject_portal_no_rewards"
+  }, {
+    "id" : "alliance_boss_fail",
+    "title" : "mail_title_portal_damage",
+    "subject" : "mail_subject_portal_damage"
+  }, {
+    "id" : "alliance_portal_disappear",
+    "title" : "mail_title_portal_removed",
+    "subject" : "mail_subject_portal_removed"
+  }, {
+    "id" : "alliance_boss_rally_cancel",
+    "title" : "mail_title_alliance_boss_rally_cancel",
+    "subject" : "mail_subject_alliance_boss_rally_cancel"
+  }, {
+    "id" : "alliance_boss_rally_teleport_cancel",
+    "title" : "mail_title_alliance_boss_rally_teleport_cancel",
+    "subject" : "mail_subject_alliance_boss_rally_teleport_cancel"
+  }, {
+    "id" : "recharge_return_reward",
+    "title" : "mail_title_recharge_return_reward",
+    "subject" : "mail_subject_recharge_return_reward"
+  }, {
+    "id" : "lose_reward",
+    "title" : "mail_title_lose_reward",
+    "subject" : "mail_subject_lose_reward"
+  }, {
+    "id" : "first_pay_recharge_return_reward",
+    "title" : "mail_title_first_pay_recharge_return_reward",
+    "subject" : "mail_subject_first_pay_recharge_return_reward"
+  }, {
+    "id" : "mail_spell_attack_incoming",
+    "title" : "mail_title_spell_attack_incoming",
+    "subject" : "mail_subject_spell_attack_incoming"
+  }, {
+    "id" : "mail_spell_benefit_incoming",
+    "title" : "mail_title_spell_benefit_incoming",
+    "subject" : "mail_subject_spell_benefit_incoming"
+  }, {
+    "id" : "mail_target_attack_spell_fail",
+    "title" : "mail_title_target_attack_spell_fail",
+    "subject" : "mail_subject_target_attack_spell_fail"
+  }, {
+    "id" : "mail_target_attack_spell_incoming_cancel",
+    "title" : "mail_title_target_attack_spell_incoming_cancel",
+    "subject" : "mail_subject_target_attack_spell_incoming_cancel"
+  }, {
+    "id" : "mail_target_benefit_spell_fail",
+    "title" : "mail_title_target_benefit_spell_fail",
+    "subject" : "mail_subject_target_benefit_spell_fail"
+  }, {
+    "id" : "mail_target_benefit_spell_cancel",
+    "title" : "mail_title_target_benefit_spell_cancel",
+    "subject" : "mail_subject_target_benefit_spell_cancel"
+  }, {
+    "id" : "mail_area_attack_spell_fail",
+    "title" : "mail_title_area_attack_spell_fail",
+    "subject" : "mail_subject_area_attack_spell_fail"
+  }, {
+    "id" : "mail_area_attack_spell_incoming_cancel",
+    "title" : "mail_title_area_attack_spell_incoming_cancel",
+    "subject" : "mail_subject_area_attack_spell_incoming_cancel"
+  }, {
+    "id" : "mail_area_benefit_spell_fail",
+    "title" : "mail_title_area_benefit_spell_fail",
+    "subject" : "mail_subject_area_benefit_spell_fail"
+  }, {
+    "id" : "mail_area_benefit_spell_cancel",
+    "title" : "mail_title_area_benefit_spell_cancel",
+    "subject" : "mail_subject_area_benefit_spell_cancel"
+  }, {
+    "id" : "mail_spell_disrupt",
+    "title" : "mail_title_area_benefit_spell_fail",
+    "subject" : "mail_subject_spell_disrupt"
+  }, {
+    "id" : "mail_spell_altar_demolished",
+    "title" : "mail_title_area_benefit_spell_fail",
+    "subject" : "mail_subject_spell_altar_demolished"
+  }, {
+    "id" : "mail_cast_spell_success",
+    "title" : "mail_title_cast_spell_success",
+    "subject" : "mail_subject_cast_spell_success"
+  }, {
+    "id" : "mail_cast_spell_success_group",
+    "title" : "mail_title_cast_spell_success",
+    "subject" : "mail_subject_cast_spell_success_group"
+  }, {
+    "id" : "mail_cast_spell_success_troops",
+    "title" : "mail_title_cast_spell_success",
+    "subject" : "mail_subject_cast_spell_success_troops"
+  }, {
+    "id" : "mail_incoming_spell_success",
+    "title" : "mail_title_incoming_spell_success",
+    "subject" : "mail_subject_incoming_spell_success"
+  }, {
+    "id" : "mail_incoming_spell_success_troops",
+    "title" : "mail_title_incoming_spell_success",
+    "subject" : "mail_subject_incoming_spell_success_troops"
+  }, {
+    "id" : "mail_benefit_spell_success",
+    "title" : "mail_title_benefit_spell_success",
+    "subject" : "mail_subject_benefit_spell_success"
+  }, {
+    "id" : "mail_iap_pay_success",
+    "title" : "mail_title_iap_pay_success",
+    "subject" : "mail_subject_iap_pay_success"
+  }, {
+    "id" : "alliance_gold_event_score_step_reward",
+    "title" : "mail_title_alliance_gold_event_score_step_reward",
+    "subject" : "mail_subject_alliance_gold_event_score_step_reward"
+  }, {
+    "id" : "alliance_gold_event_score_step_rank_reward",
+    "title" : "mail_title_alliance_gold_event_score_step_rank_reward",
+    "subject" : "mail_subject_alliance_gold_event_score_step_rank_reward"
+  }, {
+    "id" : "alliance_gold_event_score_total_rank_reward",
+    "title" : "mail_title_alliance_gold_event_score_total_rank_reward",
+    "subject" : "mail_subject_alliance_gold_event_score_total_rank_reward"
+  }, {
+    "id" : "mail_gold_pay_success",
+    "title" : "mail_title_iap_pay_success",
+    "subject" : "mail_subject_gold_pay_success"
+  }, {
+    "id" : "festival_9_visit_success",
+    "title" : "mail_title_festival_9_visit_success",
+    "subject" : "mail_subject_festival_9_visit_success"
+  }, {
+    "id" : "festival_9_visit_fail",
+    "title" : "mail_title_festival_9_visit_fail",
+    "subject" : "mail_subject_festival_9_visit_fail"
+  }, {
+    "id" : "event_solo_score_step_reward",
+    "title" : "mail_title_event_solo_score_step_reward",
+    "subject" : "mail_subject_event_solo_score_step_reward"
+  }, {
+    "id" : "event_solo_step_rank_reward",
+    "title" : "mail_title_event_solo_step_rank_reward",
+    "subject" : "mail_subject_event_solo_step_rank_reward"
+  }, {
+    "id" : "comment_reward",
+    "title" : "mail_title_comment_reward",
+    "subject" : "mail_subject_comment_reward"
+  }, {
+    "id" : "chat_room_kick",
+    "title" : "mail_title_chat_room_kick",
+    "subject" : "mail_subject_chat_room_kick"
+  }, {
+    "id" : "chat_room_block",
+    "title" : "mail_title_chat_room_block",
+    "subject" : "mail_subject_chat_room_block"
+  }, {
+    "id" : "chat_room_disband",
+    "title" : "mail_title_chat_room_disband",
+    "subject" : "mail_subject_chat_room_disband"
+  }, {
+    "id" : "chat_room_application_success",
+    "title" : "mail_title_chat_room_application_success",
+    "subject" : "mail_subject_chat_room_application_success"
+  }, {
+    "id" : "chat_room_application_refuse",
+    "title" : "mail_title_chat_room_application_refuse",
+    "subject" : "mail_subject_chat_room_application_refuse"
+  }, {
+    "id" : "world_boss_report",
+    "title" : "mail_title_world_boss_challenge",
+    "subject" : "mail_subject_world_boss_challenge"
+  }, {
+    "id" : "world_boss_kill_reward",
+    "title" : "mail_title_world_boss_kill_reward",
+    "subject" : "mail_subject_world_boss_kill_reward"
+  }, {
+    "id" : "world_boss_disappear",
+    "title" : "mail_title_world_boss_removed",
+    "subject" : "mail_subject_world_boss_removed"
+  }, {
+    "id" : "world_boss_rally_cancel",
+    "title" : "mail_title_world_boss_rally_cancel",
+    "subject" : "mail_subject_world_boss_rally_cancel"
+  }, {
+    "id" : "world_boss_rally_teleport_cancel",
+    "title" : "mail_title_world_boss_rally_teleport_cancel",
+    "subject" : "mail_subject_world_boss_rally_teleport_cancel"
+  }, {
+    "id" : "excalibur_receive",
+    "title" : "mail_title_excalibur_receive",
+    "subject" : "mail_subject_excalibur_receive"
+  }, {
+    "id" : "excalibur_disappear",
+    "title" : "mail_title_excalibur_disappear",
+    "subject" : "mail_subject_excalibur_disappear"
+  }, {
+    "id" : "wonder_package",
+    "title" : "mail_title_wonder_package",
+    "subject" : "mail_subject_wonder_package"
+  }, {
+    "id" : "wonder_designate",
+    "title" : "mail_title_wonder_designate",
+    "subject" : "mail_subject_wonder_designate"
+  }, {
+    "id" : "wonder_fool_designate",
+    "title" : "mail_title_wonder_fool_designate",
+    "subject" : "mail_subject_wonder_fool_designate"
+  }, {
+    "id" : "wonder_dismiss",
+    "title" : "mail_title_wonder_dismiss",
+    "subject" : "mail_subject_wonder_dismiss"
+  }, {
+    "id" : "auction_normal_fail",
+    "title" : "mail_title_auction_normal_fail",
+    "subject" : "mail_subject_auction_normal_fail"
+  }, {
+    "id" : "auction_normal_success",
+    "title" : "mail_title_auction_normal_success",
+    "subject" : "mail_subject_auction_normal_success"
+  }, {
+    "id" : "auction_hidden_fail",
+    "title" : "mail_title_auction_hidden_fail",
+    "subject" : "mail_subject_auction_hidden_fail"
+  }, {
+    "id" : "auction_hidden_success",
+    "title" : "mail_title_auction_hidden_success",
+    "subject" : "mail_subject_auction_hidden_success"
+  }, {
+    "id" : "auction_normal_disappeared",
+    "title" : "mail_title_auction_normal_disappeared",
+    "subject" : "mail_subject_auction_normal_disappeared"
+  }, {
+    "id" : "auction_hidden_disappeared",
+    "title" : "mail_title_auction_hidden_disappeared",
+    "subject" : "mail_subject_auction_hidden_disappeared"
+  }, {
+    "id" : "artifact_system_gain",
+    "title" : "mail_title_artifact_system_gain",
+    "subject" : "mail_subject_artifact_system_gain"
+  }, {
+    "id" : "dragon_name_violation_notice",
+    "title" : "mail_title_name_violation_notice",
+    "subject" : "mail_subject_dragon_name_violation_notice"
+  }, {
+    "id" : "lord_name_violation_notice",
+    "title" : "mail_title_name_violation_notice",
+    "subject" : "mail_subject_lord_name_violation_notice"
+  }, {
+    "id" : "alliance_name_violation_notice",
+    "title" : "mail_title_name_violation_notice",
+    "subject" : "mail_subject_alliance_name_violation_notice"
+  }, {
+    "id" : "kingdom_name_violation_notice",
+    "title" : "mail_title_name_violation_notice",
+    "subject" : "mail_subject_kingdom_name_violation_notice"
+  }, {
+    "id" : "lord_image_ban",
+    "title" : "mail_title_avatar_violation_notice",
+    "subject" : "mail_subject_avatar_violation_notice"
+  }, {
+    "id" : "super_log_in_christmas",
+    "title" : "mail_title_event_christmas_calendar_unclaimed_gifts",
+    "subject" : "mail_subject_event_christmas_calendar_unclaimed_gifts"
+  }, {
+    "id" : "dungeon_finish_reward",
+    "title" : "mail_title_dungeon_finish_reward",
+    "subject" : "mail_subject_dungeon_finish_reward"
+  }, {
+    "id" : "dungeon_finish_no_reward",
+    "title" : "mail_title_dungeon_finish_no_reward",
+    "subject" : "mail_subject_dungeon_finish_no_reward"
+  }, {
+    "id" : "dungeon_finish_rank_reward",
+    "title" : "mail_title_dungeon_finish_rank_reward",
+    "subject" : "mail_subject_dungeon_finish_rank_reward"
+  }, {
+    "id" : "treasure_map",
+    "title" : "mail_title_treasure_map_dig_return",
+    "subject" : "mail_subject_treasure_map_dig_return"
+  }, {
+    "id" : "recommend_alliance_1",
+    "title" : "mail_title_recommend_alliance_1",
+    "subject" : "mail_subject_recommend_alliance_1"
+  }, {
+    "id" : "recommend_alliance_2",
+    "title" : "mail_title_recommend_alliance_2",
+    "subject" : "mail_subject_recommend_alliance_2"
+  }, {
+    "id" : "king_skill_force_tele",
+    "title" : "mail_title_king_skill_force_tele",
+    "subject" : "mail_subject_king_skill_force_tele"
+  }, {
+    "id" : "king_skill_send_troop_forbidden",
+    "title" : "mail_title_king_skill_send_troop_forbidden",
+    "subject" : "mail_subject_king_skill_send_troop_forbidden"
+  }, {
+    "id" : "issue_topup_compensation",
+    "title" : "mail_title_issue_topup_compensation",
+    "subject" : "mail_subject_issue_topup_compensation"
+  }, {
+    "id" : "chat_room_rejection",
+    "title" : "mail_title_chat_room_rejection",
+    "subject" : "mail_subject_chat_room_rejection"
+  }, {
+    "id" : "dk_arena_rank_reward",
+    "title" : "mail_title_dk_arena_rank_reward",
+    "subject" : "mail_subject_dk_arena_rank_reward"
+  }, {
+    "id" : "abyss_reward",
+    "title" : "mail_title_abyss_reward",
+    "subject" : "mail_subject_abyss_reward"
+  }, {
+    "id" : "abyss_sign_up_cost_return",
+    "title" : "mail_title_abyss_sign_up_cost_return",
+    "subject" : "mail_subject_abyss_sign_up_cost_return"
+  }, {
+    "id" : "dice_reward",
+    "title" : "mail_title_dice_reward",
+    "subject" : "mail_subject_dice_reward"
+  }, {
+    "id" : "new_player_resource_protection",
+    "title" : "mail_title_new_player_resource_protection",
+    "subject" : "mail_subject_new_player_resource_protection"
+  }, {
+    "id" : "exchange_hall_sale_sucess",
+    "title" : "mail_title_exchange_hall_sale_sucess",
+    "subject" : "mail_subject_exchange_hall_sale_sucess"
+  }, {
+    "id" : "exchange_hall_listed_good_expired",
+    "title" : "mail_title_exchange_hall_listed_good_expired",
+    "subject" : "mail_subject_exchange_hall_listed_good_expired"
+  }, {
+    "id" : "exchange_hall_purchase_success",
+    "title" : "mail_title_exchange_hall_purchase_success",
+    "subject" : "mail_subject_exchange_hall_purchase_success"
+  }, {
+    "id" : "exchange_hall_product_off",
+    "title" : "mail_title_exchange_hall_product_off",
+    "subject" : "mail_subject_exchange_hall_product_off"
+  }, {
+    "id" : "payment_refund_frequent_notice",
+    "title" : "mail_title_payment_refund_frequent_notice",
+    "subject" : "mail_subject_payment_refund_frequent_notice"
+  }, {
+    "id" : "payment_refund_no_reward_notice",
+    "title" : "mail_title_payment_refund_no_reward_notice",
+    "subject" : "mail_subject_payment_refund_no_reward_notice"
+  }, {
+    "id" : "mail_iap_daily_recharge_pay_success",
+    "title" : "mail_title_iap_pay_success",
+    "subject" : "mail_subject_iap_daily_recharge_pay_success,mail_subject_iap_daily_recharge_pay_success_sub,mail_subject_iap_daily_recharge_pay_success_nosub"
+  }, {
+    "id" : "event_1_year_celebration_calendar_unclaimed_gifts",
+    "title" : "mail_title_event_1_year_celebration_calendar_unclaimed_gifts",
+    "subject" : "mail_subject_event_1_year_celebration_calendar_unclaimed_gifts"
+  }, {
+    "id" : "event_1_year_celebration_calendar_begun",
+    "title" : "mail_title_event_1_year_celebration_calendar_begun",
+    "subject" : "mail_subject_event_1_year_celebration_calendar_begun"
+  }, {
+    "id" : "event_1_year_tournament_victory",
+    "title" : "mail_title_event_1_year_tournament_victory",
+    "subject" : "mail_subject_event_1_year_tournament_victory"
+  }, {
+    "id" : "event_1_year_tournament_defeat",
+    "title" : "mail_title_event_1_year_tournament_defeat",
+    "subject" : "mail_subject_event_1_year_tournament_defeat"
+  }, {
+    "id" : "event_1_year_tournament_title_defense_defeat",
+    "title" : "mail_title_event_1_year_tournament_title_defense_defeat",
+    "subject" : "mail_subject_event_1_year_tournament_title_defense_defeat"
+  }, {
+    "id" : "event_1_year_tournament_opens",
+    "title" : "mail_title_event_1_year_tournament_opens",
+    "subject" : "mail_subject_event_1_year_tournament_opens"
+  }, {
+    "id" : "event_1_year_tournament_closed",
+    "title" : "mail_title_event_1_year_tournament_closed",
+    "subject" : "mail_subject_event_1_year_tournament_closed"
+  }, {
+    "id" : "event_1_year_tournament_praise",
+    "title" : "mail_title_event_1_year_tournament_praise",
+    "subject" : "mail_subject_event_1_year_tournament_praise"
+  }, {
+    "id" : "event_1_year_tournament_reward",
+    "title" : "mail_title_event_1_year_tournament_reward",
+    "subject" : "mail_subject_event_1_year_tournament_reward"
+  }, {
+    "id" : "anniversary_iap_buy",
+    "title" : "mail_title_anniversary_iap_buy",
+    "subject" : "mail_subject_anniversary_iap_buy"
+  }, {
+    "id" : "anniversary_iap_exchange",
+    "title" : "mail_title_anniversary_iap_exchange",
+    "subject" : "mail_subject_anniversary_iap_exchange"
+  }, {
+    "id" : "37test_package",
+    "title" : "mail_title_event_37test",
+    "subject" : "mail_subject_event_37test_package"
+  }, {
+    "id" : "37test_gold",
+    "title" : "mail_title_event_37test",
+    "subject" : "mail_subject_event_37test_gold"
+  }, {
+    "id" : "37test_delivery",
+    "title" : "mail_title_event_37test",
+    "subject" : "mail_subject_event_37test_delivery"
+  }, {
+    "id" : "37test_rebate",
+    "title" : "mail_title_event_37test_rebate",
+    "subject" : "mail_subject_event_37test_rebate"
+  }, {
+    "id" : "world_auction_fail",
+    "title" : "mail_title_world_auction_fail",
+    "subject" : "mail_subject_world_auction_fail"
+  }, {
+    "id" : "world_auction_success",
+    "title" : "mail_title_world_auction_success",
+    "subject" : "mail_subject_world_auction_success"
+  }, {
+    "id" : "world_auction_end",
+    "title" : "mail_title_world_auction_end",
+    "subject" : "mail_subject_world_auction_end"
+  }, {
+    "id" : "kingdom_boss_opens",
+    "title" : "mail_title_kingdom_boss_opens",
+    "subject" : "mail_subject_kingdom_boss_opens"
+  }, {
+    "id" : "kingdom_boss_killed",
+    "title" : "mail_title_kingdom_boss_killed",
+    "subject" : "mail_subject_kingdom_boss_killed"
+  }, {
+    "id" : "kingdom_boss_closed",
+    "title" : "mail_title_kingdom_boss_closed",
+    "subject" : "mail_subject_kingdom_boss_closed"
+  }, {
+    "id" : "kingdom_boss_auction_success",
+    "title" : "mail_title_kingdom_boss_auction_success",
+    "subject" : "mail_subject_kingdom_boss_auction_success"
+  }, {
+    "id" : "kingdom_boss_battle",
+    "title" : "mail_title_kingdom_boss_battle",
+    "subject" : "mail_subject_kingdom_boss_battle"
+  }, {
+    "id" : "trial_chest_reward",
+    "title" : "mail_title_trial_chest_reward",
+    "subject" : "mail_subject_trial_chest_reward"
+  }, {
+    "id" : "merlin_trials_mystery_shop_reward",
+    "title" : "mail_title_mystery_shop_reward",
+    "subject" : "mail_subject_mystery_shop_reward"
+  }, {
+    "id" : "sensitive_words_warning",
+    "title" : "mail_title_sensitive_words_warning",
+    "subject" : "mail_subject_sensitive_words_warning"
+  }, {
+    "id" : "achievement_star_reward",
+    "title" : "mail_title_achievement_star_reward",
+    "subject" : "mail_subject_achievement_star_reward"
+  }, {
+    "id" : "alliance_warfare_registration",
+    "title" : "mail_title_alliance_warfare_registration",
+    "subject" : "mail_subject_alliance_warfare_registration"
+  }, {
+    "id" : "alliance_warfare_registered",
+    "title" : "mail_title_alliance_warfare_registered",
+    "subject" : "mail_subject_alliance_warfare_registered"
+  }, {
+    "id" : "alliance_warfare_opponents",
+    "title" : "mail_title_alliance_warfare_opponents",
+    "subject" : "mail_subject_alliance_warfare_opponents"
+  }, {
+    "id" : "alliance_warfare_match_failed",
+    "title" : "mail_title_alliance_warfare_match_failed",
+    "subject" : "mail_subject_alliance_warfare_match_failed"
+  }, {
+    "id" : "alliance_warfare_cannot_match",
+    "title" : "mail_title_alliance_warfare_cannot_match",
+    "subject" : "mail_subject_alliance_warfare_cannot_match"
+  }, {
+    "id" : "alliance_warfare_begun",
+    "title" : "mail_title_alliance_warfare_begun",
+    "subject" : "mail_subject_alliance_warfare_begun"
+  }, {
+    "id" : "alliance_warfare_finished",
+    "title" : "mail_title_alliance_warfare_finished",
+    "subject" : "mail_subject_alliance_warfare_finished"
+  }, {
+    "id" : "alliance_warfare_individual_rewards",
+    "title" : "mail_title_alliance_warfare_individual_rewards",
+    "subject" : "mail_subject_alliance_warfare_individual_rewards"
+  }, {
+    "id" : "alliance_warfare_alliance_rewards",
+    "title" : "mail_title_alliance_warfare_alliance_rewards",
+    "subject" : "mail_subject_alliance_warfare_alliance_rewards"
+  }, {
+    "id" : "alliance_warfare_urgent_closed",
+    "title" : "mail_title_alliance_warfare_urgent_closed",
+    "subject" : "mail_subject_alliance_warfare_urgent_closed"
+  }, {
+    "id" : "alliance_warfare_player_points_low",
+    "title" : "mail_title_alliance_warfare_individual_rewards",
+    "subject" : "mail_subject_alliance_warfare_player_points_low"
+  }, {
+    "id" : "alliance_warfare_alliance_points_low",
+    "title" : "mail_title_alliance_warfare_alliance_rewards",
+    "subject" : "mail_subject_alliance_warfare_alliance_points_low"
+  }, {
+    "id" : "alliance_warfare_alliance_quit_no_personal_reward",
+    "title" : "mail_title_alliance_warfare_individual_rewards",
+    "subject" : "mail_subject_alliance_warfare_alliance_quit_no_personal_reward"
+  }, {
+    "id" : "alliance_warfare_atuo_heal",
+    "title" : "mail_title_alliance_warfare_atuo_heal",
+    "subject" : "mail_subject_alliance_warfare_atuo_heal"
+  }, {
+    "id" : "alliance_war_plunder",
+    "title" : "mail_title_alliance_war_plunder",
+    "subject" : "mail_subject_alliance_war_plunder"
+  }, {
+    "id" : "alliance_war_mine_lost",
+    "title" : "mail_title_alliance_war_mine_lost",
+    "subject" : "mail_subject_alliance_war_mine_lost"
+  }, {
+    "id" : "alliance_war_mine_gains",
+    "title" : "mail_title_alliance_war_mine_gains",
+    "subject" : "mail_subject_alliance_war_mine_gains"
+  }, {
+    "id" : "alliance_war_individual_rewards",
+    "title" : "mail_title_alliance_war_individual_rewards",
+    "subject" : "mail_subject_alliance_war_individual_rewards"
+  }, {
+    "id" : "alliance_war_defence_individual_rewards",
+    "title" : "mail_title_alliance_war_individual_rewards",
+    "subject" : "mail_subject_alliance_war_defence_individual_rewards"
+  }, {
+    "id" : "mail_alliance_warfare_mega_defense",
+    "title" : "mail_title_alliance_warfare_mega_defense",
+    "subject" : "mail_subject_alliance_warfare_mega_defense"
+  }, {
+    "id" : "dargon_transform_auto",
+    "title" : "mail_title_dargon_transform_auto",
+    "subject" : "mail_subject_dargon_transform_auto"
+  }, {
+    "id" : "tower_mine_seized_succes",
+    "title" : "mail_title_tower_mine_seized_succes",
+    "subject" : "mail_subject_tower_mine_seized_succes"
+  }, {
+    "id" : "tower_mine_gather_success",
+    "title" : "mail_title_tower_mine_gather_success"
+  }, {
+    "id" : "tower_mine_time_end",
+    "title" : "mail_title_tower_mine_time_end",
+    "subject" : "mail_subject_tower_mine_time_end"
+  }, {
+    "id" : "magic_tower_reset",
+    "title" : "mail_title_magic_tower_reset",
+    "subject" : "mail_subject_magic_tower_reset"
+  }, {
+    "id" : "mega_rally_canceled",
+    "title" : "mail_title_mega_rally_canceled",
+    "subject" : "mail_subject_mega_rally_canceled"
+  }, {
+    "id" : "mega_rally_teleport_cancel",
+    "title" : "mail_title_mega_rally_canceled",
+    "subject" : "mail_subject_mega_rally_canceled"
+  }, {
+    "id" : "mega_rally_canceled_teleport",
+    "title" : "mail_title_mega_rally_canceled",
+    "subject" : "mail_subject_mega_rally_canceled_teleport"
+  }, {
+    "id" : "subject_mega_rally_struck",
+    "title" : "mail_title_mega_rally_struck",
+    "subject" : "mail_subject_mega_rally_struck"
+  }, {
+    "id" : "mega_rally_halted",
+    "title" : "mail_title_mega_rally_halted",
+    "subject" : "mail_subject_mega_rally_halted"
+  }, {
+    "id" : "mega_rally_victory",
+    "title" : "mail_title_mega_rally_victory",
+    "subject" : "mail_header_battle_result"
+  }, {
+    "id" : "mega_rally_defeat",
+    "title" : "mail_title_mega_rally_defeat",
+    "subject" : "mail_header_battle_result"
+  }, {
+    "id" : "mega_defense_defeat",
+    "title" : "mail_title_mega_defense_defeat",
+    "subject" : "mail_subject_mega_defense_defeat"
+  }, {
+    "id" : "mega_defense_time_up",
+    "title" : "mail_title_mega_defense_defeat",
+    "subject" : "mail_subject_mega_defense_time_up"
+  }, {
+    "id" : "mega_rally_player_left",
+    "title" : "mail_title_mega_rally_player_left",
+    "subject" : "mail_subject_mega_rally_player_left"
+  }, {
+    "id" : "mega_defense_started",
+    "title" : "mail_title_mega_defense_started",
+    "subject" : "mail_subject_mega_defense_started"
+  }, {
+    "id" : "target_started_mega_defense",
+    "title" : "mail_title_target_started_mega_defense",
+    "subject" : "mail_subject_target_started_mega_defense"
+  }, {
+    "id" : "mega_defense_time_extended",
+    "title" : "mail_title_mega_defense_time_extended",
+    "subject" : "mail_subject_mega_defense_time_extended"
+  }, {
+    "id" : "new_alliance_badge",
+    "title" : "mail_title_new_alliance_badge",
+    "subject" : "mail_subject_new_alliance_badge"
+  }, {
+    "id" : "alliance_hero_achieved",
+    "title" : "mail_title_alliance_hero_achieved",
+    "subject" : "mail_subject_alliance_hero_achieved"
+  }, {
+    "id" : "alliance_hero_achieved_rewards",
+    "title" : "mail_title_alliance_hero_achieved",
+    "subject" : "mail_subject_alliance_hero_achieved_rewards"
+  }, {
+    "id" : "alliance_achievement_accomplished",
+    "title" : "mail_title_alliance_achievement_accomplished",
+    "subject" : "mail_subject_alliance_achievement_accomplished"
+  }, {
+    "id" : "alliance_achievement_accomplished_reward_received",
+    "title" : "mail_title_alliance_achievement_accomplished",
+    "subject" : "mail_subject_alliance_achievement_accomplished_reward_received"
+  }, {
+    "id" : "alliance_hero_hall_ceremony_completed",
+    "title" : "mail_title_alliance_hero_hall_ceremony_completed",
+    "subject" : "mail_subject_alliance_hero_hall_ceremony_completed"
+  }, {
+    "id" : "alliance_hero_hall_ceremony_failed",
+    "title" : "mail_title_alliance_hero_hall_ceremony_failed",
+    "subject" : "mail_subject_alliance_hero_hall_ceremony_failed"
+  }, {
+    "id" : "alliance_hero_chest_unlocked_unfinished",
+    "title" : "mail_title_alliance_hero_chest_unlocked",
+    "subject" : "mail_subject_alliance_hero_chest_unlocked_unfinished"
+  }, {
+    "id" : "alliance_hero_chest_unlocked_success",
+    "title" : "mail_title_alliance_hero_chest_unlocked",
+    "subject" : "mail_subject_alliance_hero_chest_unlocked_success"
+  }, {
+    "id" : "alliance_hero_chest_no_rewards",
+    "title" : "mail_title_alliance_hero_chest_no_rewards",
+    "subject" : "mail_subject_alliance_hero_chest_no_rewards"
+  }, {
+    "id" : "kingdom_task_seal_break",
+    "title" : "mail_title_kingdom_task_seal_break",
+    "subject" : "mail_subject_kingdom_task_seal_break"
+  }, {
+    "id" : "add_troops_stationed",
+    "title" : "mail_title_add_troops",
+    "subject" : "mail_subject_add_troops_stationed"
+  }, {
+    "id" : "add_troops_throne_lost",
+    "title" : "mail_title_add_troops",
+    "subject" : "mail_subject_add_troops_throne_lost"
+  }, {
+    "id" : "iap_appstore_package",
+    "title" : "mail_title_iap_appstore_package",
+    "subject" : "mail_subject_iap_appstore_package"
+  }, {
+    "id" : "new_player_welcome",
+    "title" : "mail_title_new_player_welcome",
+    "subject" : "mail_subject_new_player_welcome"
+  }, {
+    "id" : "kingdom_boss_closed_notkilled",
+    "title" : "mail_title_kingdom_boss_closed_notkilled",
+    "subject" : "mail_subject_kingdom_boss_closed_notkilled"
+  }, {
+    "id" : "kingdom_boss_rank_rewards",
+    "title" : "mail_title_kingdom_boss_rank_rewards",
+    "subject" : "mail_subject_kingdom_boss_rank_rewards"
+  }, {
+    "id" : "kingdom_boss_over",
+    "title" : "mail_title_kingdom_boss_over",
+    "subject" : "mail_subject_kingdom_boss_over"
+  }, {
+    "id" : "account_verify",
+    "title" : "mail_title_account_verify",
+    "subject" : "mail_subject_account_verify_congrats"
+  }, {
+    "id" : "city_attackfreeze_over",
+    "title" : "mail_title_city_buffs_over",
+    "subject" : "mail_subject_attackfreezeover"
+  }, {
+    "id" : "account_movement_success",
+    "title" : "mail_title_account_movement_success",
+    "subject" : "mail_subject_account_movement_success"
+  }, {
+    "id" : "sanctum_revive_troops",
+    "title" : "mail_title_sanctum_revive_troops",
+    "subject" : "mail_subject_sanctum_revive_troops"
+  }, {
+    "id" : "sanctum_revive_limit_reached",
+    "title" : "mail_title_sanctum_revive_troops",
+    "subject" : "mail_subject_sanctum_revive_limit_reached"
+  }, {
+    "id" : "sanctum_revive_details",
+    "title" : "mail_title_sanctum_revive_details"
+  }, {
+    "id" : "prestige_event_start",
+    "title" : "mail_title_prestige_event_start",
+    "subject" : "mail_subject_prestige_event_start"
+  }, {
+    "id" : "return_event_start",
+    "title" : "mail_title_return_event_start",
+    "subject" : "mail_subject_return_event_start"
+  }, {
+    "id" : "prestige_event_close",
+    "title" : "mail_title_prestige_event_close",
+    "subject" : "mail_subject_prestige_event_close"
+  }, {
+    "id" : "prestige_event_2_close",
+    "title" : "mail_title_prestige_event_close",
+    "subject" : "mail_subject_prestige_event_2_close"
+  }, {
+    "id" : "prestige_event_rewards",
+    "title" : "mail_title_prestige_event_rewards",
+    "subject" : "mail_subject_prestige_event_rewards"
+  }, {
+    "id" : "prestige_event_2_rewards",
+    "title" : "mail_title_prestige_event_rewards",
+    "subject" : "mail_subject_prestige_event_2_rewards"
+  }, {
+    "id" : "event_return_activated",
+    "title" : "mail_title_event_return_activated",
+    "subject" : "mail_subject_event_return_activated"
+  }, {
+    "id" : "event_return_boss",
+    "title" : "mail_title_event_return_boss",
+    "subject" : "mail_subject_event_return_boss"
+  }, {
+    "id" : "event_return_destroy_rewards",
+    "title" : "mail_title_event_return_destroy_rewards",
+    "subject" : "mail_subject_event_return_destroy_rewards"
+  }, {
+    "id" : "return_event_prestige_rewards",
+    "title" : "mail_title_return_event_prestige_rewards",
+    "subject" : "mail_subject_return_event_prestige_rewards"
+  }, {
+    "id" : "event_prestige_activated",
+    "title" : "mail_title_event_prestige_activated",
+    "subject" : "mail_subject_event_prestige_activated"
+  }, {
+    "id" : "event_return_fail",
+    "title" : "mail_title_event_return_fail",
+    "subject" : "mail_subject_event_return_fail"
+  }, {
+    "id" : "event_prestige_fail",
+    "title" : "mail_title_event_prestige_fail",
+    "subject" : "mail_subject_event_prestige_fail"
+  }, {
+    "id" : "kingdom_conquest_support_success",
+    "title" : "mail_title_kingdom_conquest_support_results",
+    "subject" : "mail_subject_kingdom_conquest_support_success"
+  }, {
+    "id" : "kingdom_conquest_support_fail",
+    "title" : "mail_title_kingdom_conquest_support_results",
+    "subject" : "mail_subject_kingdom_conquest_support_fail"
+  }, {
+    "id" : "kingdom_conquest_final_support_success",
+    "title" : "mail_title_kingdom_conquest_final_support_results",
+    "subject" : "mail_subject_kingdom_conquest_final_support_success"
+  }, {
+    "id" : "kingdom_conquest_final_support_fail",
+    "title" : "mail_title_kingdom_conquest_final_support_results",
+    "subject" : "mail_subject_kingdom_conquest_final_support_fail"
+  }, {
+    "id" : "kingdom_conquest_registered",
+    "title" : "mail_title_kingdom_conquest_registered",
+    "subject" : "mail_subject_kingdom_conquest_registered"
+  }, {
+    "id" : "kingdom_conquest_group_decided_success",
+    "title" : "mail_title_kingdom_conquest_group_decided",
+    "subject" : "mail_subject_kingdom_conquest_group_decided_success"
+  }, {
+    "id" : "kingdom_conquest_group_decided_fail",
+    "title" : "mail_title_kingdom_conquest_group_decided",
+    "subject" : "mail_subject_kingdom_conquest_group_decided_fail"
+  }, {
+    "id" : "kingdom_conquest_opponents_decided",
+    "title" : "mail_title_kingdom_conquest_opponents_decided",
+    "subject" : "mail_subject_kingdom_conquest_opponents_decided"
+  }, {
+    "id" : "kingdom_conquest_finish_win",
+    "title" : "mail_title_kingdom_conquest_finish",
+    "subject" : "mail_title_kingdom_conquest_finish_win"
+  }, {
+    "id" : "kingdom_conquest_finish_fail",
+    "title" : "mail_title_kingdom_conquest_finish",
+    "subject" : "mail_title_kingdom_conquest_finish_fail"
+  }, {
+    "id" : "kingdom_conquest_final_finish_win",
+    "title" : "mail_title_kingdom_conquest_finish",
+    "subject" : "mail_title_kingdom_conquest_final_finish_win"
+  }, {
+    "id" : "kingdom_conquest_final_finish_fail",
+    "title" : "mail_title_kingdom_conquest_finish",
+    "subject" : "mail_subject_kingdom_conquest_final_finish_fail"
+  }, {
+    "id" : "kingdom_conquest_begun",
+    "title" : "mail_title_kingdom_conquest_begun",
+    "subject" : "mail_subject_alliance_warfare_begun"
+  }, {
+    "id" : "kingdom_conquest_finished",
+    "title" : "mail_title_kingdom_conquest_finished",
+    "subject" : "mail_subject_alliance_warfare_finished"
+  }, {
+    "id" : "kingdom_conquest_individual_rewards",
+    "title" : "mail_title_kingdom_conquest_individual_rewards",
+    "subject" : "mail_subject_alliance_warfare_individual_rewards"
+  }, {
+    "id" : "kingdom_conquest_player_points_low",
+    "title" : "mail_title_kingdom_conquest_individual_rewards",
+    "subject" : "mail_subject_alliance_warfare_player_points_low"
+  }, {
+    "id" : "kingdom_conquest_alliance_rewards",
+    "title" : "mail_title_kingdom_conquest_alliance_rewards",
+    "subject" : "mail_subject_alliance_warfare_alliance_rewards"
+  }, {
+    "id" : "kingdom_conquest_alliance_points_low",
+    "title" : "mail_title_kingdom_conquest_alliance_rewards",
+    "subject" : "mail_subject_alliance_warfare_alliance_points_low"
+  }, {
+    "id" : "kingdom_conquest_start",
+    "title" : "mail_title_kingdom_conquest_start",
+    "subject" : "mail_subject_kingdom_conquest_start"
+  }, {
+    "id" : "kingdom_conquest_preliminary_match_over",
+    "title" : "mail_title_kingdom_conquest_preliminary_match_over",
+    "subject" : "mail_subject_kingdom_conquest_preliminary_match_over"
+  }, {
+    "id" : "kingdom_conquest_finish",
+    "title" : "mail_title_kingdom_conquest_finish",
+    "subject" : "mail_subject_kingdom_conquest_finish"
+  }, {
+    "id" : "kingdom_conquest_closed",
+    "title" : "mail_title_kingdom_conquest_closed",
+    "subject" : "mail_subject_kingdom_conquest_closed"
+  }, {
+    "id" : "2_year_celebration_rewards",
+    "title" : "mail_title_2_year_celebration",
+    "subject" : "mail_subject_2_year_celebration_rewards"
+  }, {
+    "id" : "kingdom_conquest_kingdom_enter_notice",
+    "title" : "mail_title_kingdom_conquest_kingdom_enter_notice",
+    "subject" : "mail_subject_kingdom_conquest_kingdom_enter_notice"
+  }, {
+    "id" : "kingdom_conquest_kingswar_cannot_open",
+    "title" : "mail_title_kingdom_conquest_kingswar_cannot_open",
+    "subject" : "mail_subject_kingdom_conquest_kingswar_cannot_open"
+  }, {
+    "id" : "kingdom_conquest_kingswar_cannot_continue",
+    "title" : "mail_title_kingdom_conquest_kingswar_cannot_continue",
+    "subject" : "mail_subject_kingdom_conquest_kingswar_cannot_continue"
+  }, {
+    "id" : "kingdom_conquest_alliance_disband",
+    "title" : "mail_title_kingdom_conquest_alliance_disband",
+    "subject" : "mail_subject_kingdom_conquest_alliance_disband"
+  }, {
+    "id" : "event_x_year_tournament_opens",
+    "title" : "mail_title_event_1_year_tournament_opens",
+    "subject" : "mail_subject_event_x_year_tournament_opens"
+  }, {
+    "id" : "event_x_year_tournament_closed",
+    "title" : "mail_title_event_1_year_tournament_closed",
+    "subject" : "mail_subject_event_x_year_tournament_closed"
+  }, {
+    "id" : "anniversary_championship_final_stage",
+    "title" : "mail_title_anniversary_championship_final_stage",
+    "subject" : "mail_subject_anniversary_championship_final_stage"
+  }, {
+    "id" : "anniversary_championship_produced",
+    "title" : "mail_title_anniversary_championship_produced",
+    "subject" : "mail_subject_anniversary_championship_produced"
+  }, {
+    "id" : "anniversary_championship_ranking_produced",
+    "title" : "mail_title_anniversary_championship_produced",
+    "subject" : "mail_subject_anniversary_championship_ranking_produced"
+  }, {
+    "id" : "anniversary_championship_ranking_produced_1",
+    "title" : "mail_title_anniversary_championship_produced",
+    "subject" : "mail_subject_anniversary_championship_ranking_produced_1"
+  }, {
+    "id" : "anniversary_championship_ranking_produced_2",
+    "title" : "mail_title_anniversary_championship_produced",
+    "subject" : "mail_subject_anniversary_championship_ranking_produced_2"
+  }, {
+    "id" : "anniversary_championship_ranking_produced_3",
+    "title" : "mail_title_anniversary_championship_produced",
+    "subject" : "mail_subject_anniversary_championship_ranking_produced_3"
+  }, {
+    "id" : "throne_invasion_forcibly_end",
+    "title" : "mail_title_throne_invasion_forcibly_end",
+    "subject" : "mail_subject_throne_invasion_forcibly_end"
+  }, {
+    "id" : "excalibur_war_forcibly_end",
+    "title" : "mail_title_excalibur_war_forcibly_end",
+    "subject" : "mail_subject_excalibur_war_forcibly_end"
+  }, {
+    "id" : "throne_invasion_forcibly_end_broadcast",
+    "title" : "mail_title_throne_invasion_forcibly_end_broadcast",
+    "subject" : "mail_subject_throne_invasion_forcibly_end_broadcast"
+  }, {
+    "id" : "excalibur_war_forcibly_end_broadcast",
+    "title" : "mail_title_excalibur_war_forcibly_end_broadcast",
+    "subject" : "mail_subject_excalibur_war_forcibly_end_broadcast"
+  }, {
+    "id" : "kingdom_hosptial_alliance_heal_self",
+    "title" : "mail_title_kingdom_hosptial_alliance_heal_self",
+    "subject" : "mail_subject_kingdom_hosptial_alliance_heal_self"
+  }, {
+    "id" : "kingdom_hosptial_alliance_heal",
+    "title" : "mail_title_kingdom_hosptial_alliance_heal",
+    "subject" : "mail_subject_kingdom_hosptial_alliance_heal"
+  }, {
+    "id" : "event_relocate_success",
+    "title" : "mail_title_event_relocate_success",
+    "subject" : "mail_subject_event_relocate_success"
+  }, {
+    "id" : "event_relocate_return_success",
+    "title" : "mail_title_event_relocate_return_success",
+    "subject" : "mail_subject_event_relocate_return_success"
+  }, {
+    "id" : "event_relocate_return_items_change",
+    "title" : "mail_title_event_relocate_return_items_change",
+    "subject" : "mail_subject_event_relocate_return_items_change"
+  }, {
+    "id" : "event_relocate_items_change",
+    "title" : "mail_title_event_relocate_items_change",
+    "subject" : "mail_subject_event_relocate_items_change"
+  }, {
+    "id" : "event_relocation_start",
+    "title" : "mail_title_event_relocation_start",
+    "subject" : "mail_subject_event_relocation_start"
+  }, {
+    "id" : "event_relocation_finish",
+    "title" : "mail_title_event_relocation_finish",
+    "subject" : "mail_subject_event_relocation_finish"
+  }, {
+    "id" : "item_trade_sent",
+    "title" : "mail_title_item_trade_sent",
+    "subject" : "mail_subject_item_trade_sent"
+  }, {
+    "id" : "throne_invasion_defense_benefits_effect",
+    "title" : "mail_title_throne_invasion_defense_benefits_effect",
+    "subject" : "mail_subject_throne_invasion_defense_benefits_effect"
+  }, {
+    "id" : "throne_invasion_individual_points",
+    "title" : "mail_title_throne_invasion_individual_points",
+    "subject" : "mail_subject_throne_invasion_individual_points"
+  }, {
+    "id" : "throne_invasion_limit_individual_points",
+    "title" : "mail_title_throne_invasion_individual_points",
+    "subject" : "mail_subject_throne_invasion_limit_individual_points"
+  }, {
+    "id" : "throne_invasion_progress_individual_points",
+    "title" : "mail_title_throne_invasion_individual_points",
+    "subject" : "mail_subject_throne_invasion_progress_individual_points"
+  }, {
+    "id" : "detected_message",
+    "title" : "mail_title_detected_message",
+    "subject" : "mail_title_detected_message"
+  }, {
+    "id" : "rallied_message",
+    "title" : "mail_title_rallied_message",
+    "subject" : "mail_title_rallied_message"
+  }, {
+    "id" : "throne_invasion_kingdom_rankings_rewards",
+    "title" : "mail_title_throne_invasion_rankings_rewards",
+    "subject" : "mail_subject_throne_invasion_kingdom_rankings_rewards"
+  }, {
+    "id" : "throne_invasion_alliance_rankings_rewards",
+    "title" : "mail_title_throne_invasion_rankings_rewards",
+    "subject" : "mail_subject_throne_invasion_alliance_rankings_rewards"
+  }, {
+    "id" : "throne_invasion_personal_rankings_rewards",
+    "title" : "mail_title_throne_invasion_rankings_rewards",
+    "subject" : "mail_subject_throne_invasion_personal_rankings_rewards"
+  }, {
+    "id" : "benefits_bought_received",
+    "title" : "mail_title_iap_pay_success",
+    "subject" : "mail_subject_benefits_bought_received"
+  }, {
+    "id" : "coin_buy_success_bonus",
+    "title" : "mail_title_iap_pay_success",
+    "subject" : "mail_subject_coin_buy_success_bonus"
+  }, {
+    "id" : "invasion_unusual_close",
+    "title" : "mail_title_invasion_unusual_close",
+    "subject" : "mail_subject_invasion_unusual_close"
+  }, {
+    "id" : "invasion_reopen",
+    "title" : "mail_title_invasion_reopen",
+    "subject" : "mail_subject_invasion_reopen"
+  }, {
+    "id" : "invasion_result",
+    "title" : "mail_title_invasion_result",
+    "subject" : "mail_subject_invasion_result"
+  }, {
+    "id" : "statue_compensation",
+    "title" : "mail_title_statue_compensation",
+    "subject" : "mail_subject_statue_compensation"
+  }, {
+    "id" : "statue_levelup_compensate",
+    "title" : "mail_title_statue_levelup_compensate",
+    "subject" : "mail_subject_statue_levelup_compensate"
+  }, {
+    "id" : "event_limits_begun",
+    "title" : "mail_title_event_limits_begun",
+    "subject" : "mail_subject_event_limits_begun"
+  }, {
+    "id" : "event_limits_finishing",
+    "title" : "mail_title_event_limits_finishing",
+    "subject" : "mail_subject_event_limits_finishing"
+  }, {
+    "id" : "iap_package_excessive_compensation",
+    "title" : "mail_title_iap_package_excessive_compensation",
+    "subject" : "mail_subject_iap_package_excessive_compensation"
+  }, {
+    "id" : "defense_invaders_victory_rewards",
+    "title" : "mail_title_defense_invaders_victory_rewards",
+    "subject" : "mail_subject_defense_invaders_victory_rewards"
+  }, {
+    "id" : "quest_puzzle_reward",
+    "title" : "mail_title_quest_puzzle_reward",
+    "subject" : "mail_subject_quest_puzzle_reward"
+  }, {
+    "id" : "mail_activity_seven_day_reward",
+    "title" : "mail_title_activity_seven_day_reward",
+    "subject" : "mail_subject_activity_seven_day_reward"
+  }, {
+    "id" : "dragon_spirit_research_compensation",
+    "title" : "mail_title_dragon_spirit_research_compensation",
+    "subject" : "mail_subject_dragon_spirit_research_compensation"
+  }, {
+    "id" : "seven_days_mission",
+    "title" : "mail_title_seven_days_mission_rewards",
+    "subject" : "mail_subject_seven_days_mission_rewards"
+  }, {
+    "id" : "mail_lord_title_iap",
+    "title" : "mail_title_to_get_particular_lord_title",
+    "subject" : "mail_subject_to_get_particular_lord_title_1"
+  }, {
+    "id" : "mail_piggy_bank",
+    "title" : "mail_title_war_bonds_rewards",
+    "subject" : "mail_subject_war_bonds_rewards"
+  }, {
+    "id" : "mail_raid_enemy_first_defend_victory",
+    "title" : "mail_raid_enemy_first_defend_victory_title",
+    "subject" : "mail_raid_enemy_first_defend_victory_content"
+  }, {
+    "id" : "mail_raid_enemy_first_defend_defeat",
+    "title" : "mail_raid_enemy_first_defend_defeat_title",
+    "subject" : "mail_raid_enemy_first_defend_defeat_content"
+  }, {
+    "id" : "mail_raid_enemy_first_attack_defeat",
+    "title" : "mail_raid_enemy_first_attack_defeat_title",
+    "subject" : "mail_raid_enemy_first_attack_defeat_content"
+  }, {
+    "id" : "mail_raid_enemy_first_attack_victory",
+    "title" : "mail_raid_enemy_first_attack_victory_title",
+    "subject" : "mail_raid_enemy_first_attack_victory_content"
+  }, {
+    "id" : "mail_raid_enemy_second_attack_victory",
+    "title" : "mail_raid_enemy_second_attack_victory_title",
+    "subject" : "mail_raid_enemy_second_attack_victory_content"
+  }, {
+    "id" : "mail_raid_enemy_guide",
+    "title" : "mail_raid_enemy_guide_title",
+    "subject" : "mail_raid_enemy_guide_content"
+  }, {
+    "id" : "mail_you_won_throne_warfare",
+    "title" : "mail_title_you_won_throne_warfare",
+    "subject" : "mail_subject_you_won_throne_warfare"
+  }, {
+    "id" : "mail_others_won_throne_warfare",
+    "title" : "mail_title_others_won_throne_warfare",
+    "subject" : "mail_subject_others_won_throne_warfare"
+  }, {
+    "id" : "mail_wonder_pve_had_been_open",
+    "title" : "mail_wonder_pve_had_been_open_title",
+    "subject" : "mail_wonder_pve_had_been_open_content"
+  }, {
+    "id" : "mail_explore_rank_reward",
+    "title" : "mail_explore_rankreward_title",
+    "subject" : "mail_explore_rankreward_content"
+  }, {
+    "id" : "trading_goods",
+    "title" : "mail_title_trading_goods",
+    "subject" : "mail_subject_trading_goods"
+  }, {
+    "id" : "mail_daily_rebate_begin",
+    "title" : "mail_title_daily_rebate_begin",
+    "subject" : "mail_subject_daily_rebate_begin"
+  }, {
+    "id" : "mail_daily_rebate_mid",
+    "title" : "mail_title_daily_rebate_mid",
+    "subject" : "mail_subject_daily_rebate_mid"
+  }, {
+    "id" : "mail_daily_rebate_end",
+    "title" : "mail_title_daily_rebate_end",
+    "subject" : "mail_subject_daily_rebate_end"
+  }, {
+    "id" : "mail_explore_rank_will_reset",
+    "title" : "mail_title_explore_leaderboard_notice",
+    "subject" : "mail_subject_explore_leaderboard_notice"
+  }, {
+    "id" : "mail_festival_2019_remembrance_fallen_get_garland",
+    "title" : "mail_title_festival_2019_remembrance_fallen_get_garland",
+    "subject" : "mail_subject_festival_2019_remembrance_fallen_get_garland"
+  }, {
+    "id" : "mail_personal_score_reward",
+    "title" : "mail_title_personal_score_reward",
+    "subject" : "mail_subject_personal_score_reward"
+  }, {
+    "id" : "mail_personal_rank_reward",
+    "title" : "mail_title_personal_rank_reward",
+    "subject" : "mail_subject_personal_rank_reward"
+  }, {
+    "id" : "mail_event_magic_tower_begin",
+    "title" : "mail_title_event_magic_tower_begin",
+    "subject" : "mail_subject_event_magic_tower_begin"
+  }, {
+    "id" : "mail_event_magic_tower_end_soon",
+    "title" : "mail_title_event_magic_tower_end_soon",
+    "subject" : "mail_subject_event_magic_tower_end_soon"
+  }, {
+    "id" : "mail_event_magic_tower_close",
+    "title" : "mail_title_event_magic_tower_close",
+    "subject" : "mail_subject_event_magic_tower_close"
+  }, {
+    "id" : "mail_event_magic_tower_rewards",
+    "title" : "mail_title_event_magic_tower_rewards",
+    "subject" : "mail_subject_event_magic_tower_rewards"
+  }, {
+    "id" : "mail_event_merlin_trials_begin",
+    "title" : "mail_title_event_merlin_trials_begin",
+    "subject" : "mail_subject_event_merlin_trials_begin"
+  }, {
+    "id" : "mail_event_merlin_trials_close",
+    "title" : "mail_title_event_merlin_trials_close",
+    "subject" : "mail_subject_event_merlin_trials_close"
+  }, {
+    "id" : "mail_event_merlin_trials_rewards",
+    "title" : "mail_title_event_merlin_trials_rewards",
+    "subject" : "mail_subject_event_merlin_trials_rewards"
+  }, {
+    "id" : "mail_activity_charge_rebate_reward",
+    "title" : "mail_title_activity_charge_rebate_reward",
+    "subject" : "mail_subject_activity_charge_rebate_reward"
+  }, {
+    "id" : "mail_rogue_like_activity_open",
+    "title" : "mail_title_event_explore_begin",
+    "subject" : "mail_subject_event_explore_begin"
+  }, {
+    "id" : "mail_rogue_like_activity_close_ready",
+    "title" : "mail_title_event_explore_end_soon",
+    "subject" : "mail_subject_event_explore_end_soon"
+  }, {
+    "id" : "mail_rogue_like_activity_close",
+    "title" : "mail_title_event_explore_close",
+    "subject" : "mail_subject_event_explore_close"
+  }, {
+    "id" : "mail_rogue_like_activity_reward",
+    "title" : "mail_title_event_explore_rewards",
+    "subject" : "mail_subject_event_explore_rewards"
+  }, {
+    "id" : "mail_midsummer_event_rewards",
+    "title" : "mail_title_midsummer_event_rewards",
+    "subject" : "mail_subject_midsummer_event_rewards"
+  }, {
+    "id" : "dragon_emblem_update",
+    "title" : "mail_title_dragon_emblem_update",
+    "subject" : "mail_subject_dragon_emblem_update"
+  }, {
+    "id" : "season_pass_challenge_begin",
+    "title" : "mail_title_season_pass_challenge_begin",
+    "subject" : "mail_subject_season_pass_challenge_begin"
+  }, {
+    "id" : "season_pass_challenge_end",
+    "title" : "mail_title_season_pass_challenge_end",
+    "subject" : "mail_subject_season_pass_challenge_end"
+  }, {
+    "id" : "season_pass_reward",
+    "title" : "mail_title_season_pass_reward",
+    "subject" : "mail_subject_season_pass_reward"
+  }, {
+    "id" : "season_pass_purchase_success",
+    "title" : "mail_title_season_pass_purchase_success",
+    "subject" : "mail_subject_season_pass_purchase_success"
+  }, {
+    "id" : "season_pass_challenge_pause",
+    "title" : "mail_title_season_pass_challenge_pause",
+    "subject" : "mail_subject_season_pass_challenge_pause"
+  }, {
+    "id" : "season_pass_challenge_resume",
+    "title" : "mail_title_season_pass_challenge_resume",
+    "subject" : "mail_subject_season_pass_challenge_resume"
+  }, {
+    "id" : "season_pass_challenge_close",
+    "title" : "mail_title_season_pass_challenge_close",
+    "subject" : "mail_subject_season_pass_challenge_close"
+  }, {
+    "id" : "season_pass_challenge_force_close",
+    "title" : "mail_title_season_pass_challenge_force_close",
+    "subject" : "mail_subject_season_pass_challenge_force_close"
+  }, {
+    "id" : "mail_raid_enemy_close",
+    "title" : "mail_title_raid_enemy_close",
+    "subject" : "mail_subject_raid_enemy_close"
+  }, {
+    "id" : "mail_event_timed_alliance_begin",
+    "title" : "mail_title_event_timed_alliance_begin",
+    "subject" : "mail_subject_event_timed_alliance_begin"
+  }, {
+    "id" : "mail_event_timed_alliance_end_soon",
+    "title" : "mail_title_event_timed_alliance_end_soon",
+    "subject" : "mail_subject_event_timed_alliance_end_soon"
+  }, {
+    "id" : "mail_event_timed_alliance_close",
+    "title" : "mail_title_event_timed_alliance_close",
+    "subject" : "mail_subject_event_timed_alliance_close"
+  }, {
+    "id" : "mail_event_timed_alliance_rewards",
+    "title" : "mail_title_event_timed_alliance_rewards",
+    "subject" : "mail_subject_event_timed_alliance_rewards"
+  }, {
+    "id" : "mail_pvp_support",
+    "title" : "mail_title_pvp_support",
+    "subject" : "mail_subject_pvp_support"
+  }, {
+    "id" : "mail_alliance_login_chest_reward",
+    "title" : "mail_title_alliance_giftbox_login_giftbox_rewards",
+    "subject" : "mail_subject_alliance_giftbox_login_giftbox_rewards"
+  }, {
+    "id" : "mail_event_kill_monsters_begin",
+    "title" : "mail_title_event_kill_monsters_begin",
+    "subject" : "mail_subject_event_kill_monsters_begin"
+  }, {
+    "id" : "mail_event_kill_monsters_close",
+    "title" : "mail_title_event_close",
+    "subject" : "mail_subject_event_close"
+  }, {
+    "id" : "mail_event_kill_boss_begin",
+    "title" : "mail_title_event_kill_boss_begin",
+    "subject" : "mail_subject_event_kill_boss_begin"
+  }, {
+    "id" : "mail_event_kill_boss_close",
+    "title" : "mail_title_event_close",
+    "subject" : "mail_subject_event_close"
+  }, {
+    "id" : "mail_event_kill_monsters_individual_ranking_rewards",
+    "title" : "mail_title_event_individual_ranking_rewards",
+    "subject" : "mail_subject_event_individual_ranking_rewards"
+  }, {
+    "id" : "mail_event_kill_monsters_alliance_ranking_rewards",
+    "title" : "mail_title_event_alliance_ranking_rewards",
+    "subject" : "mail_subject_event_alliance_ranking_rewards"
+  }, {
+    "id" : "mail_event_kill_boss_alliance_ranking_rewards",
+    "title" : "mail_title_event_alliance_ranking_rewards",
+    "subject" : "mail_subject_event_alliance_ranking_rewards"
+  }, {
+    "id" : "mail_event_kill_boss_attack_success",
+    "title" : "mail_title_event_kill_boss_attack_success",
+    "subject" : "mail_event_kill_boss_reward_subtitle"
+  }, {
+    "id" : "mail_event_kill_boss_alliance_rewards",
+    "title" : "mail_title_event_kill_boss_alliance_rewards",
+    "subject" : "event_christmas_pve_boss_boss_killed_all_get_rewards"
+  }, {
+    "id" : "mail_event_kill_boss_no_target",
+    "title" : "mail_title_event_attack_no_target",
+    "subject" : "mail_subject_event_attack_no_target"
+  }, {
+    "id" : "mail_event_single_recharge",
+    "title" : "mail_title_event_single_recharge",
+    "subject" : "mail_subject_event_single_recharge"
+  }, {
+    "id" : "mail_war_symphony_alliance_top",
+    "title" : "mail_title_war_symphony_alliance_top",
+    "subject" : "mail_subject_war_symphony_alliance_top"
+  }, {
+    "id" : "mail_war_symphony_compensation",
+    "title" : "mail_title_war_symphony_compensation",
+    "subject" : "mail_subject_war_symphony_compensation"
+  }, {
+    "id" : "mail_war_symphony_enemy_invasion_rewards",
+    "title" : "mail_title_symphony_enemy_invasion_rewards",
+    "subject" : "mail_subject_symphony_enemy_invasion_rewards"
+  }, {
+    "id" : "mail_proclaim_king",
+    "title" : "mail_title_proclaim_king",
+    "subject" : "mail_subject_proclaim_king"
+  }, {
+    "id" : "mail_parliament_03_09_reward",
+    "title" : "mail_title_hero_aid_compensate",
+    "subject" : "mail_subject_hero_aid_compensate"
+  }, {
+    "id" : "mail_month_type_card_reward_return",
+    "title" : "mail_title_month_type_card_reward_return",
+    "subject" : "mail_subject_month_type_card_reward_return"
+  }, {
+    "id" : "mail_shoot_lottery_begin",
+    "title" : "mail_title_shoot_lottery_begin",
+    "subject" : "mail_subject_shoot_lottery_begin"
+  }, {
+    "id" : "mail_shoot_lottery_close",
+    "title" : "mail_title_shoot_lottery_close",
+    "subject" : "mail_subject_shoot_lottery_close"
+  }, {
+    "id" : "mail_shoot_lottery_alliance",
+    "title" : "mail_title_shoot_lottery_alliance",
+    "subject" : "mail_subject_shoot_lottery_alliance"
+  }, {
+    "id" : "mail_dragon_knight_close_compensation",
+    "title" : "mail_title_dragon_knight_close_compensation",
+    "subject" : "mail_subject_dragon_knight_close_compensation"
+  }, {
+    "id" : "mail_dungeon_close_compensation",
+    "title" : "mail_title_dungeon_close_compensation",
+    "subject" : "mail_subject_dungeon_close_compensation"
+  }, {
+    "id" : "mail_building_artifact_close_compensation",
+    "title" : "mail_title_building_artifact_close_compensation",
+    "subject" : "mail_subject_building_artifact_close_compensation"
+  }, {
+    "id" : "mail_hero_equipment_close_compensation",
+    "title" : "mail_title_hero_equipment_close_compensation",
+    "subject" : "mail_subject_hero_equipment_close_compensation"
+  }, {
+    "id" : "mail_magic_tower_close_compensation",
+    "title" : "mail_title_magic_tower_close_compensation",
+    "subject" : "mail_subject_magic_tower_close_compensation"
+  }, {
+    "id" : "mail_merlin_trials_close_compensation",
+    "title" : "mail_title_merlin_trials_close_compensation",
+    "subject" : "mail_subject_merlin_trials_close_compensation"
+  }, {
+    "id" : "mail_war_bonds_close_compensation",
+    "title" : "mail_title_war_bonds_close_compensation",
+    "subject" : "mail_subject_war_bonds_close_compensation"
+  }, {
+    "id" : "mail_lucky_archer_close_compensation",
+    "title" : "mail_title_lucky_archer_close_compensation",
+    "subject" : "mail_subject_lucky_archer_close_compensation"
+  }, {
+    "id" : "mail_casino_close_compensation",
+    "title" : "mail_title_casino_close_compensation",
+    "subject" : "mail_subject_casino_close_compensation"
+  }, {
+    "id" : "mail_building_totem_close_compensation",
+    "title" : "mail_title_building_totem_close_compensation",
+    "subject" : "mail_subject_building_totem_close_compensation"
+  }, {
+    "id" : "mail_construction_prestige_close_compensation",
+    "title" : "mail_title_construction_prestige_close_compensation",
+    "subject" : "mail_subject_construction_prestige_close_compensation"
+  }, {
+    "id" : "mail_doomsday_plan_close_compensation",
+    "title" : "mail_title_doomsday_plan_close_compensation",
+    "subject" : "mail_subject_doomsday_plan_close_compensation"
+  }, {
+    "id" : "mail_thanksg_2019_close",
+    "title" : "mail_title_thanksg_2019_close",
+    "subject" : "mail_subject_thanksg_2019_close"
+  } ]
+}

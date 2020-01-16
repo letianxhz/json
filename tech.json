@@ -1,0 +1,3181 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "tree" : "tree@researches_tree.id",
+    "name" : "name@string",
+    "loc_research_description_id" : "loc_research_description_id@string^c",
+    "image" : "image@string^c",
+    "tier" : "tier@int",
+    "row" : "row@int",
+    "show" : "show@int"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "tree" : "科技树",
+    "name" : "科技名字",
+    "loc_research_description_id" : "科技描述",
+    "image" : "图片",
+    "tier" : "列",
+    "row" : "行",
+    "show" : "是否显示:1 是 ，0否"
+  }, {
+    "id" : "research_economy_food_production_1",
+    "tree" : "2",
+    "name" : "research_economy_food_production_1_1_name",
+    "loc_research_description_id" : "research_economy_food_production_1_1_description",
+    "image" : "Economy/ui_research_economy_food_production_1",
+    "tier" : "0",
+    "row" : "2",
+    "show" : "1"
+  }, {
+    "id" : "research_economy_food_production_2",
+    "tree" : "2",
+    "name" : "research_economy_food_production_2_1_name",
+    "loc_research_description_id" : "research_economy_food_production_1_1_description",
+    "image" : "Economy/ui_research_economy_food_production_2",
+    "tier" : "10",
+    "row" : "4",
+    "show" : "1"
+  }, {
+    "id" : "research_economy_food_production_3",
+    "tree" : "2",
+    "name" : "research_economy_food_production_3_1_name",
+    "loc_research_description_id" : "research_economy_food_production_1_1_description",
+    "image" : "Economy/ui_research_economy_food_production_3",
+    "tier" : "18",
+    "row" : "2",
+    "show" : "1"
+  }, {
+    "id" : "research_economy_food_production_4",
+    "tree" : "2",
+    "name" : "research_economy_food_production_4_1_name",
+    "loc_research_description_id" : "research_economy_food_production_1_1_description",
+    "image" : "Economy/ui_research_economy_food_production_4",
+    "tier" : "26",
+    "row" : "4",
+    "show" : "1"
+  }, {
+    "id" : "research_economy_food_gathering_1",
+    "tree" : "2",
+    "name" : "research_economy_food_gathering_1_1_name",
+    "loc_research_description_id" : "research_economy_food_gathering_1_1_description",
+    "image" : "Economy/ui_research_economy_food_gathering_1",
+    "tier" : "4",
+    "row" : "4",
+    "show" : "1"
+  }, {
+    "id" : "research_economy_food_gathering_2",
+    "tree" : "2",
+    "name" : "research_economy_food_gathering_2_1_name",
+    "loc_research_description_id" : "research_economy_food_gathering_1_1_description",
+    "image" : "Economy/ui_research_economy_food_gathering_2",
+    "tier" : "14",
+    "row" : "4",
+    "show" : "1"
+  }, {
+    "id" : "research_economy_food_gathering_3",
+    "tree" : "2",
+    "name" : "research_economy_food_gathering_3_1_name",
+    "loc_research_description_id" : "research_economy_food_gathering_1_1_description",
+    "image" : "Economy/ui_research_economy_food_gathering_3",
+    "tier" : "22",
+    "row" : "2",
+    "show" : "1"
+  }, {
+    "id" : "research_economy_food_gathering_4",
+    "tree" : "2",
+    "name" : "research_economy_food_gathering_4_1_name",
+    "loc_research_description_id" : "research_economy_food_gathering_1_1_description",
+    "image" : "Economy/ui_research_economy_food_gathering_4",
+    "tier" : "32",
+    "row" : "4",
+    "show" : "1"
+  }, {
+    "id" : "research_economy_wood_production_1",
+    "tree" : "2",
+    "name" : "research_economy_wood_production_1_1_name",
+    "loc_research_description_id" : "research_economy_wood_production_1_1_description",
+    "image" : "Economy/ui_research_economy_wood_production_1",
+    "tier" : "2",
+    "row" : "2",
+    "show" : "1"
+  }, {
+    "id" : "research_economy_wood_production_2",
+    "tree" : "2",
+    "name" : "research_economy_wood_production_2_1_name",
+    "loc_research_description_id" : "research_economy_wood_production_1_1_description",
+    "image" : "Economy/ui_research_economy_wood_production_2",
+    "tier" : "10",
+    "row" : "0",
+    "show" : "1"
+  }, {
+    "id" : "research_economy_wood_production_3",
+    "tree" : "2",
+    "name" : "research_economy_wood_production_3_1_name",
+    "loc_research_description_id" : "research_economy_wood_production_1_1_description",
+    "image" : "Economy/ui_research_economy_wood_production_3",
+    "tier" : "18",
+    "row" : "0",
+    "show" : "1"
+  }, {
+    "id" : "research_economy_wood_production_4",
+    "tree" : "2",
+    "name" : "research_economy_wood_production_4_1_name",
+    "loc_research_description_id" : "research_economy_wood_production_1_1_description",
+    "image" : "Economy/ui_research_economy_wood_production_4",
+    "tier" : "26",
+    "row" : "0",
+    "show" : "1"
+  }, {
+    "id" : "research_economy_wood_gathering_1",
+    "tree" : "2",
+    "name" : "research_economy_wood_gathering_1_1_name",
+    "loc_research_description_id" : "research_economy_wood_gathering_1_1_description",
+    "image" : "Economy/ui_research_economy_wood_gathering_1",
+    "tier" : "4",
+    "row" : "0",
+    "show" : "1"
+  }, {
+    "id" : "research_economy_wood_gathering_2",
+    "tree" : "2",
+    "name" : "research_economy_wood_gathering_2_1_name",
+    "loc_research_description_id" : "research_economy_wood_gathering_1_1_description",
+    "image" : "Economy/ui_research_economy_wood_gathering_2",
+    "tier" : "14",
+    "row" : "0",
+    "show" : "1"
+  }, {
+    "id" : "research_economy_wood_gathering_3",
+    "tree" : "2",
+    "name" : "research_economy_wood_gathering_3_1_name",
+    "loc_research_description_id" : "research_economy_wood_gathering_1_1_description",
+    "image" : "Economy/ui_research_economy_wood_gathering_3",
+    "tier" : "22",
+    "row" : "0",
+    "show" : "1"
+  }, {
+    "id" : "research_economy_wood_gathering_4",
+    "tree" : "2",
+    "name" : "research_economy_wood_gathering_4_1_name",
+    "loc_research_description_id" : "research_economy_wood_gathering_1_1_description",
+    "image" : "Economy/ui_research_economy_wood_gathering_4",
+    "tier" : "32",
+    "row" : "0",
+    "show" : "1"
+  }, {
+    "id" : "research_economy_ore_production_1",
+    "tree" : "2",
+    "name" : "research_economy_ore_production_1_1_name",
+    "loc_research_description_id" : "research_economy_ore_production_1_1_description",
+    "image" : "Economy/ui_research_economy_ore_production_1",
+    "tier" : "6",
+    "row" : "2",
+    "show" : "1"
+  }, {
+    "id" : "research_economy_ore_production_2",
+    "tree" : "2",
+    "name" : "research_economy_ore_production_2_1_name",
+    "loc_research_description_id" : "research_economy_ore_production_1_1_description",
+    "image" : "Economy/ui_research_economy_ore_production_2",
+    "tier" : "18",
+    "row" : "4",
+    "show" : "1"
+  }, {
+    "id" : "research_economy_ore_production_3",
+    "tree" : "2",
+    "name" : "research_economy_ore_production_3_1_name",
+    "loc_research_description_id" : "research_economy_ore_production_1_1_description",
+    "image" : "Economy/ui_research_economy_ore_production_3",
+    "tier" : "28",
+    "row" : "2",
+    "show" : "1"
+  }, {
+    "id" : "research_economy_ore_gathering_1",
+    "tree" : "2",
+    "name" : "research_economy_ore_gathering_1_1_name",
+    "loc_research_description_id" : "research_economy_ore_gathering_1_1_description",
+    "image" : "Economy/ui_research_economy_ore_gathering_1",
+    "tier" : "8",
+    "row" : "2",
+    "show" : "1"
+  }, {
+    "id" : "research_economy_ore_gathering_2",
+    "tree" : "2",
+    "name" : "research_economy_ore_gathering_2_1_name",
+    "loc_research_description_id" : "research_economy_ore_gathering_1_1_description",
+    "image" : "Economy/ui_research_economy_ore_gathering_2",
+    "tier" : "22",
+    "row" : "4",
+    "show" : "1"
+  }, {
+    "id" : "research_economy_ore_gathering_3",
+    "tree" : "2",
+    "name" : "research_economy_ore_gathering_3_1_name",
+    "loc_research_description_id" : "research_economy_ore_gathering_1_1_description",
+    "image" : "Economy/ui_research_economy_ore_gathering_3",
+    "tier" : "34",
+    "row" : "2",
+    "show" : "1"
+  }, {
+    "id" : "research_economy_silver_production_1",
+    "tree" : "2",
+    "name" : "research_economy_silver_production_1_1_name",
+    "loc_research_description_id" : "research_economy_silver_production_1_1_description",
+    "image" : "Economy/ui_research_economy_silver_production_1",
+    "tier" : "12",
+    "row" : "2",
+    "show" : "1"
+  }, {
+    "id" : "research_economy_silver_production_2",
+    "tree" : "2",
+    "name" : "research_economy_silver_production_2_1_name",
+    "loc_research_description_id" : "research_economy_silver_production_1_1_description",
+    "image" : "Economy/ui_research_economy_silver_production_2",
+    "tier" : "20",
+    "row" : "2",
+    "show" : "1"
+  }, {
+    "id" : "research_economy_silver_production_3",
+    "tree" : "2",
+    "name" : "research_economy_silver_production_3_1_name",
+    "loc_research_description_id" : "research_economy_silver_production_1_1_description",
+    "image" : "Economy/ui_research_economy_silver_production_3",
+    "tier" : "30",
+    "row" : "2",
+    "show" : "1"
+  }, {
+    "id" : "research_economy_silver_gathering_1",
+    "tree" : "2",
+    "name" : "research_economy_silver_gathering_1_1_name",
+    "loc_research_description_id" : "research_economy_silver_gathering_1_1_description",
+    "image" : "Economy/ui_research_economy_silver_gathering_1",
+    "tier" : "16",
+    "row" : "2",
+    "show" : "1"
+  }, {
+    "id" : "research_economy_silver_gathering_2",
+    "tree" : "2",
+    "name" : "research_economy_silver_gathering_2_1_name",
+    "loc_research_description_id" : "research_economy_silver_gathering_1_1_description",
+    "image" : "Economy/ui_research_economy_silver_gathering_2",
+    "tier" : "24",
+    "row" : "2",
+    "show" : "1"
+  }, {
+    "id" : "research_economy_silver_gathering_3",
+    "tree" : "2",
+    "name" : "research_economy_silver_gathering_3_1_name",
+    "loc_research_description_id" : "research_economy_silver_gathering_1_1_description",
+    "image" : "Economy/ui_research_economy_silver_gathering_3",
+    "tier" : "36",
+    "row" : "2",
+    "show" : "1"
+  }, {
+    "id" : "research_city_troopload_1",
+    "tree" : "1",
+    "name" : "research_city_troopload_1_1_name",
+    "loc_research_description_id" : "research_city_troopload_1_1_description",
+    "image" : "City development/ui_research_city_troopload_1",
+    "tier" : "4",
+    "row" : "4",
+    "show" : "1"
+  }, {
+    "id" : "research_city_troopload_2",
+    "tree" : "1",
+    "name" : "research_city_troopload_2_1_name",
+    "loc_research_description_id" : "research_city_troopload_1_1_description",
+    "image" : "City development/ui_research_city_troopload_2",
+    "tier" : "16",
+    "row" : "4",
+    "show" : "1"
+  }, {
+    "id" : "research_city_construction_speed_1",
+    "tree" : "1",
+    "name" : "research_city_construction_speed_1_1_name",
+    "loc_research_description_id" : "research_city_construction_speed_1_1_description",
+    "image" : "City development/ui_research_city_construction_speed_1",
+    "tier" : "0",
+    "row" : "2",
+    "show" : "1"
+  }, {
+    "id" : "research_city_construction_speed_2",
+    "tree" : "1",
+    "name" : "research_city_construction_speed_2_1_name",
+    "loc_research_description_id" : "research_city_construction_speed_1_1_description",
+    "image" : "City development/ui_research_city_construction_speed_2",
+    "tier" : "16",
+    "row" : "0",
+    "show" : "1"
+  }, {
+    "id" : "research_city_research_speed_1",
+    "tree" : "1",
+    "name" : "research_city_research_speed_1_1_name",
+    "loc_research_description_id" : "research_city_research_speed_1_1_description",
+    "image" : "City development/ui_research_city_research_speed_1",
+    "tier" : "2",
+    "row" : "2",
+    "show" : "1"
+  }, {
+    "id" : "research_city_research_speed_2",
+    "tree" : "1",
+    "name" : "research_city_research_speed_2_1_name",
+    "loc_research_description_id" : "research_city_research_speed_1_1_description",
+    "image" : "City development/ui_research_city_research_speed_2",
+    "tier" : "18",
+    "row" : "4",
+    "show" : "1"
+  }, {
+    "id" : "research_city_foodconsumptionreduction_1",
+    "tree" : "1",
+    "name" : "research_city_foodconsumptionreduction_1_1_name",
+    "loc_research_description_id" : "research_city_foodconsumptionreduction_1_1_description",
+    "image" : "City development/ui_research_city_foodconsumptionreduction_1",
+    "tier" : "12",
+    "row" : "2",
+    "show" : "1"
+  }, {
+    "id" : "research_city_foodconsumptionreduction_2",
+    "tree" : "1",
+    "name" : "research_city_foodconsumptionreduction_2_1_name",
+    "loc_research_description_id" : "research_city_foodconsumptionreduction_1_1_description",
+    "image" : "City development/ui_research_city_foodconsumptionreduction_2",
+    "tier" : "22",
+    "row" : "2",
+    "show" : "1"
+  }, {
+    "id" : "research_city_storage_1",
+    "tree" : "1",
+    "name" : "research_city_storage_1_1_name",
+    "loc_research_description_id" : "research_city_storage_1_1_description",
+    "image" : "City development/ui_research_city_storage_1",
+    "tier" : "4",
+    "row" : "0",
+    "show" : "1"
+  }, {
+    "id" : "research_city_storage_2",
+    "tree" : "1",
+    "name" : "research_city_storage_2_1_name",
+    "loc_research_description_id" : "research_city_storage_1_1_description",
+    "image" : "City development/ui_research_city_storage_2",
+    "tier" : "18",
+    "row" : "0",
+    "show" : "1"
+  }, {
+    "id" : "research_city_spirit_recovering_1",
+    "tree" : "1",
+    "name" : "research_city_spirit_recovering_1_1_name",
+    "loc_research_description_id" : "research_city_spirit_recovering_1_1_description",
+    "image" : "City development/ui_research_city_spirit_recovering_1",
+    "tier" : "8",
+    "row" : "2",
+    "show" : "1"
+  }, {
+    "id" : "research_city_spirit_recovering_2",
+    "tree" : "1",
+    "name" : "research_city_spirit_recovering_2_1_name",
+    "loc_research_description_id" : "research_city_spirit_recovering_1_1_description",
+    "image" : "City development/ui_research_city_spirit_recovering_2",
+    "tier" : "20",
+    "row" : "2",
+    "show" : "1"
+  }, {
+    "id" : "research_city_train_speed_1",
+    "tree" : "1",
+    "name" : "research_city_train_speed_1_1_name",
+    "loc_research_description_id" : "research_city_train_speed_1_1_description",
+    "image" : "City development/ui_research_city_train_speed_1",
+    "tier" : "10",
+    "row" : "4",
+    "show" : "1"
+  }, {
+    "id" : "research_city_train_speed_2",
+    "tree" : "1",
+    "name" : "research_city_train_speed_2_1_name",
+    "loc_research_description_id" : "research_city_train_speed_1_1_description",
+    "image" : "City development/ui_research_city_train_speed_2",
+    "tier" : "26",
+    "row" : "4",
+    "show" : "1"
+  }, {
+    "id" : "research_city_wounded_rate_1",
+    "tree" : "1",
+    "name" : "research_city_wounded_rate_1_1_name",
+    "loc_research_description_id" : "research_city_wounded_rate_1_1_description",
+    "image" : "City development/ui_research_city_wounded_rate_1",
+    "tier" : "14",
+    "row" : "2",
+    "show" : "1"
+  }, {
+    "id" : "research_city_wounded_rate_2",
+    "tree" : "1",
+    "name" : "research_city_wounded_rate_2_1_name",
+    "loc_research_description_id" : "research_city_wounded_rate_1_1_description",
+    "image" : "City development/ui_research_city_wounded_rate_2",
+    "tier" : "24",
+    "row" : "4",
+    "show" : "1"
+  }, {
+    "id" : "research_city_wounded_capacity_1",
+    "tree" : "1",
+    "name" : "research_city_wounded_capacity_1_1_name",
+    "loc_research_description_id" : "research_city_wounded_capacity_1_1_description",
+    "image" : "City development/ui_research_city_wounded_capacity_1",
+    "tier" : "6",
+    "row" : "2",
+    "show" : "1"
+  }, {
+    "id" : "research_city_wounded_capacity_2",
+    "tree" : "1",
+    "name" : "research_city_wounded_capacity_2_1_name",
+    "loc_research_description_id" : "research_city_wounded_capacity_1_1_description",
+    "image" : "City development/ui_research_city_wounded_capacity_2",
+    "tier" : "24",
+    "row" : "0",
+    "show" : "1"
+  }, {
+    "id" : "research_city_quickhealing_1",
+    "tree" : "1",
+    "name" : "research_city_quickhealing_1_1_name",
+    "loc_research_description_id" : "research_city_quickhealing_1_1_description",
+    "image" : "City development/ui_research_city_quickhealing_1",
+    "tier" : "10",
+    "row" : "0",
+    "show" : "1"
+  }, {
+    "id" : "research_city_quickhealing_2",
+    "tree" : "1",
+    "name" : "research_city_quickhealing_2_1_name",
+    "loc_research_description_id" : "research_city_quickhealing_1_1_description",
+    "image" : "City development/ui_research_city_quickhealing_2",
+    "tier" : "26",
+    "row" : "0",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_formation_save_1",
+    "tree" : "3",
+    "name" : "research_troop_formation_save_1_1_name",
+    "loc_research_description_id" : "research_troop_formation_save_1_1_description",
+    "image" : "Troop/ui_research_troop_formation_save_1",
+    "tier" : "30",
+    "row" : "2",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_infantry_atk_1",
+    "tree" : "3",
+    "name" : "research_troop_infantry_atk_1_1_name",
+    "loc_research_description_id" : "research_troop_infantry_atk_1_1_description",
+    "image" : "Troop/ui_research_troop_infantry_atk_1",
+    "tier" : "2",
+    "row" : "2",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_infantry_atk_2",
+    "tree" : "3",
+    "name" : "research_troop_infantry_atk_2_1_name",
+    "loc_research_description_id" : "research_troop_infantry_atk_1_1_description",
+    "image" : "Troop/ui_research_troop_infantry_atk_2",
+    "tier" : "18",
+    "row" : "2",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_infantry_atk_3",
+    "tree" : "3",
+    "name" : "research_troop_infantry_atk_3_1_name",
+    "loc_research_description_id" : "research_troop_infantry_atk_1_1_description",
+    "image" : "Troop/ui_research_troop_infantry_atk_3",
+    "tier" : "30",
+    "row" : "0",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_infantry_atk_4",
+    "tree" : "3",
+    "name" : "research_troop_infantry_atk_4_1_name",
+    "loc_research_description_id" : "research_troop_infantry_atk_1_1_description",
+    "image" : "Troop/ui_research_troop_infantry_atk_4",
+    "tier" : "46",
+    "row" : "2",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_infantry_atk_5",
+    "tree" : "3",
+    "name" : "research_troop_infantry_atk_5_1_name",
+    "loc_research_description_id" : "research_troop_infantry_atk_1_1_description",
+    "image" : "Troop/ui_research_troop_infantry_atk_5",
+    "tier" : "70",
+    "row" : "2",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_infantry_def_1",
+    "tree" : "3",
+    "name" : "research_troop_infantry_def_1_1_name",
+    "loc_research_description_id" : "research_troop_infantry_def_1_1_description",
+    "image" : "Troop/ui_research_troop_infantry_def_1",
+    "tier" : "2",
+    "row" : "0",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_infantry_def_2",
+    "tree" : "3",
+    "name" : "research_troop_infantry_def_2_1_name",
+    "loc_research_description_id" : "research_troop_infantry_def_1_1_description",
+    "image" : "Troop/ui_research_troop_infantry_def_2",
+    "tier" : "18",
+    "row" : "0",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_infantry_def_3",
+    "tree" : "3",
+    "name" : "research_troop_infantry_def_3_1_name",
+    "loc_research_description_id" : "research_troop_infantry_def_1_1_description",
+    "image" : "Troop/ui_research_troop_infantry_def_3",
+    "tier" : "32",
+    "row" : "0",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_infantry_def_4",
+    "tree" : "3",
+    "name" : "research_troop_infantry_def_4_1_name",
+    "loc_research_description_id" : "research_troop_infantry_def_1_1_description",
+    "image" : "Troop/ui_research_troop_infantry_def_4",
+    "tier" : "48",
+    "row" : "4",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_infantry_def_5",
+    "tree" : "3",
+    "name" : "research_troop_infantry_def_5_1_name",
+    "loc_research_description_id" : "research_troop_infantry_def_1_1_description",
+    "image" : "Troop/ui_research_troop_infantry_def_5",
+    "tier" : "70",
+    "row" : "0",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_infantry_health_1",
+    "tree" : "3",
+    "name" : "research_troop_infantry_health_1_1_name",
+    "loc_research_description_id" : "research_troop_infantry_health_1_1_description",
+    "image" : "Troop/ui_research_troop_infantry_health_1",
+    "tier" : "2",
+    "row" : "4",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_infantry_health_2",
+    "tree" : "3",
+    "name" : "research_troop_infantry_health_2_1_name",
+    "loc_research_description_id" : "research_troop_infantry_health_1_1_description",
+    "image" : "Troop/ui_research_troop_infantry_health_2",
+    "tier" : "18",
+    "row" : "4",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_infantry_health_3",
+    "tree" : "3",
+    "name" : "research_troop_infantry_health_3_1_name",
+    "loc_research_description_id" : "research_troop_infantry_health_1_1_description",
+    "image" : "Troop/ui_research_troop_infantry_health_3",
+    "tier" : "34",
+    "row" : "0",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_infantry_health_4",
+    "tree" : "3",
+    "name" : "research_troop_infantry_health_4_1_name",
+    "loc_research_description_id" : "research_troop_infantry_health_1_1_description",
+    "image" : "Troop/ui_research_troop_infantry_health_4",
+    "tier" : "48",
+    "row" : "0",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_infantry_health_5",
+    "tree" : "3",
+    "name" : "research_troop_infantry_health_5_1_name",
+    "loc_research_description_id" : "research_troop_infantry_health_1_1_description",
+    "image" : "Troop/ui_research_troop_infantry_health_5",
+    "tier" : "70",
+    "row" : "4",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_cavalry_atk_1",
+    "tree" : "3",
+    "name" : "research_troop_cavalry_atk_1_1_name",
+    "loc_research_description_id" : "research_troop_cavalry_atk_1_1_description",
+    "image" : "Troop/ui_research_troop_cavalry_atk_1",
+    "tier" : "6",
+    "row" : "2",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_cavalry_atk_2",
+    "tree" : "3",
+    "name" : "research_troop_cavalry_atk_2_1_name",
+    "loc_research_description_id" : "research_troop_cavalry_atk_1_1_description",
+    "image" : "Troop/ui_research_troop_cavalry_atk_2",
+    "tier" : "22",
+    "row" : "2",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_cavalry_atk_3",
+    "tree" : "3",
+    "name" : "research_troop_cavalry_atk_3_1_name",
+    "loc_research_description_id" : "research_troop_cavalry_atk_1_1_description",
+    "image" : "Troop/ui_research_troop_cavalry_atk_3",
+    "tier" : "38",
+    "row" : "4",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_cavalry_atk_4",
+    "tree" : "3",
+    "name" : "research_troop_cavalry_atk_4_1_name",
+    "loc_research_description_id" : "research_troop_cavalry_atk_1_1_description",
+    "image" : "Troop/ui_research_troop_cavalry_atk_4",
+    "tier" : "52",
+    "row" : "2",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_cavalry_atk_5",
+    "tree" : "3",
+    "name" : "research_troop_cavalry_atk_5_1_name",
+    "loc_research_description_id" : "research_troop_cavalry_atk_1_1_description",
+    "image" : "Troop/ui_research_troop_cavalry_atk_5",
+    "tier" : "72",
+    "row" : "2",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_cavalry_def_1",
+    "tree" : "3",
+    "name" : "research_troop_cavalry_def_1_1_name",
+    "loc_research_description_id" : "research_troop_cavalry_def_1_1_description",
+    "image" : "Troop/ui_research_troop_cavalry_def_1",
+    "tier" : "10",
+    "row" : "2",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_cavalry_def_2",
+    "tree" : "3",
+    "name" : "research_troop_cavalry_def_2_1_name",
+    "loc_research_description_id" : "research_troop_cavalry_def_1_1_description",
+    "image" : "Troop/ui_research_troop_cavalry_def_2",
+    "tier" : "24",
+    "row" : "2",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_cavalry_def_3",
+    "tree" : "3",
+    "name" : "research_troop_cavalry_def_3_1_name",
+    "loc_research_description_id" : "research_troop_cavalry_def_1_1_description",
+    "image" : "Troop/ui_research_troop_cavalry_def_3",
+    "tier" : "40",
+    "row" : "4",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_cavalry_def_4",
+    "tree" : "3",
+    "name" : "research_troop_cavalry_def_4_1_name",
+    "loc_research_description_id" : "research_troop_cavalry_def_1_1_description",
+    "image" : "Troop/ui_research_troop_cavalry_def_4",
+    "tier" : "54",
+    "row" : "4",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_cavalry_def_5",
+    "tree" : "3",
+    "name" : "research_troop_cavalry_def_5_1_name",
+    "loc_research_description_id" : "research_troop_cavalry_def_1_1_description",
+    "image" : "Troop/ui_research_troop_cavalry_def_5",
+    "tier" : "72",
+    "row" : "0",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_cavalry_health_1",
+    "tree" : "3",
+    "name" : "research_troop_cavalry_health_1_1_name",
+    "loc_research_description_id" : "research_troop_cavalry_health_1_1_description",
+    "image" : "Troop/ui_research_troop_cavalry_health_1",
+    "tier" : "14",
+    "row" : "2",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_cavalry_health_2",
+    "tree" : "3",
+    "name" : "research_troop_cavalry_health_2_1_name",
+    "loc_research_description_id" : "research_troop_cavalry_health_1_1_description",
+    "image" : "Troop/ui_research_troop_cavalry_health_2",
+    "tier" : "26",
+    "row" : "2",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_cavalry_health_3",
+    "tree" : "3",
+    "name" : "research_troop_cavalry_health_3_1_name",
+    "loc_research_description_id" : "research_troop_cavalry_health_1_1_description",
+    "image" : "Troop/ui_research_troop_cavalry_health_3",
+    "tier" : "42",
+    "row" : "4",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_cavalry_health_4",
+    "tree" : "3",
+    "name" : "research_troop_cavalry_health_4_1_name",
+    "loc_research_description_id" : "research_troop_cavalry_health_1_1_description",
+    "image" : "Troop/ui_research_troop_cavalry_health_4",
+    "tier" : "54",
+    "row" : "0",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_cavalry_health_5",
+    "tree" : "3",
+    "name" : "research_troop_cavalry_health_5_1_name",
+    "loc_research_description_id" : "research_troop_cavalry_health_1_1_description",
+    "image" : "Troop/ui_research_troop_cavalry_health_5",
+    "tier" : "72",
+    "row" : "4",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_ranged_atk_1",
+    "tree" : "3",
+    "name" : "research_troop_ranged_atk_1_1_name",
+    "loc_research_description_id" : "research_troop_ranged_atk_1_1_description",
+    "image" : "Troop/ui_research_troop_ranged_atk_1",
+    "tier" : "6",
+    "row" : "0",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_ranged_atk_2",
+    "tree" : "3",
+    "name" : "research_troop_ranged_atk_2_1_name",
+    "loc_research_description_id" : "research_troop_ranged_atk_1_1_description",
+    "image" : "Troop/ui_research_troop_ranged_atk_2",
+    "tier" : "22",
+    "row" : "0",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_ranged_atk_3",
+    "tree" : "3",
+    "name" : "research_troop_ranged_atk_3_1_name",
+    "loc_research_description_id" : "research_troop_ranged_atk_1_1_description",
+    "image" : "Troop/ui_research_troop_ranged_atk_3",
+    "tier" : "38",
+    "row" : "0",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_ranged_atk_4",
+    "tree" : "3",
+    "name" : "research_troop_ranged_atk_4_1_name",
+    "loc_research_description_id" : "research_troop_ranged_atk_1_1_description",
+    "image" : "Troop/ui_research_troop_ranged_atk_4",
+    "tier" : "58",
+    "row" : "2",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_ranged_atk_5",
+    "tree" : "3",
+    "name" : "research_troop_ranged_atk_5_1_name",
+    "loc_research_description_id" : "research_troop_ranged_atk_1_1_description",
+    "image" : "Troop/ui_research_troop_ranged_atk_5",
+    "tier" : "74",
+    "row" : "2",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_ranged_def_1",
+    "tree" : "3",
+    "name" : "research_troop_ranged_def_1_1_name",
+    "loc_research_description_id" : "research_troop_ranged_def_1_1_description",
+    "image" : "Troop/ui_research_troop_ranged_def_1",
+    "tier" : "10",
+    "row" : "0",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_ranged_def_2",
+    "tree" : "3",
+    "name" : "research_troop_ranged_def_2_1_name",
+    "loc_research_description_id" : "research_troop_ranged_def_1_1_description",
+    "image" : "Troop/ui_research_troop_ranged_def_2",
+    "tier" : "24",
+    "row" : "0",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_ranged_def_3",
+    "tree" : "3",
+    "name" : "research_troop_ranged_def_3_1_name",
+    "loc_research_description_id" : "research_troop_ranged_def_1_1_description",
+    "image" : "Troop/ui_research_troop_ranged_def_3",
+    "tier" : "40",
+    "row" : "0",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_ranged_def_4",
+    "tree" : "3",
+    "name" : "research_troop_ranged_def_4_1_name",
+    "loc_research_description_id" : "research_troop_ranged_def_1_1_description",
+    "image" : "Troop/ui_research_troop_ranged_def_4",
+    "tier" : "60",
+    "row" : "4",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_ranged_def_5",
+    "tree" : "3",
+    "name" : "research_troop_ranged_def_5_1_name",
+    "loc_research_description_id" : "research_troop_ranged_def_1_1_description",
+    "image" : "Troop/ui_research_troop_ranged_def_5",
+    "tier" : "74",
+    "row" : "0",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_ranged_health_1",
+    "tree" : "3",
+    "name" : "research_troop_ranged_health_1_1_name",
+    "loc_research_description_id" : "research_troop_ranged_health_1_1_description",
+    "image" : "Troop/ui_research_troop_ranged_health_1",
+    "tier" : "14",
+    "row" : "0",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_ranged_health_2",
+    "tree" : "3",
+    "name" : "research_troop_ranged_health_2_1_name",
+    "loc_research_description_id" : "research_troop_ranged_health_1_1_description",
+    "image" : "Troop/ui_research_troop_ranged_health_2",
+    "tier" : "26",
+    "row" : "0",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_ranged_health_3",
+    "tree" : "3",
+    "name" : "research_troop_ranged_health_3_1_name",
+    "loc_research_description_id" : "research_troop_ranged_health_1_1_description",
+    "image" : "Troop/ui_research_troop_ranged_health_3",
+    "tier" : "42",
+    "row" : "0",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_ranged_health_4",
+    "tree" : "3",
+    "name" : "research_troop_ranged_health_4_1_name",
+    "loc_research_description_id" : "research_troop_ranged_health_1_1_description",
+    "image" : "Troop/ui_research_troop_ranged_health_4",
+    "tier" : "60",
+    "row" : "0",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_ranged_health_5",
+    "tree" : "3",
+    "name" : "research_troop_ranged_health_5_1_name",
+    "loc_research_description_id" : "research_troop_ranged_health_1_1_description",
+    "image" : "Troop/ui_research_troop_ranged_health_5",
+    "tier" : "74",
+    "row" : "4",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_siege_atk_1",
+    "tree" : "3",
+    "name" : "research_troop_siege_atk_1_1_name",
+    "loc_research_description_id" : "research_troop_siege_atk_1_1_description",
+    "image" : "Troop/ui_research_troop_siege_atk_1",
+    "tier" : "6",
+    "row" : "4",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_siege_atk_2",
+    "tree" : "3",
+    "name" : "research_troop_siege_atk_2_1_name",
+    "loc_research_description_id" : "research_troop_siege_atk_1_1_description",
+    "image" : "Troop/ui_research_troop_siege_atk_2",
+    "tier" : "22",
+    "row" : "4",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_siege_atk_3",
+    "tree" : "3",
+    "name" : "research_troop_siege_atk_3_1_name",
+    "loc_research_description_id" : "research_troop_siege_atk_1_1_description",
+    "image" : "Troop/ui_research_troop_siege_atk_3",
+    "tier" : "30",
+    "row" : "4",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_siege_atk_4",
+    "tree" : "3",
+    "name" : "research_troop_siege_atk_4_1_name",
+    "loc_research_description_id" : "research_troop_siege_atk_1_1_description",
+    "image" : "Troop/ui_research_troop_siege_atk_4",
+    "tier" : "64",
+    "row" : "2",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_siege_atk_5",
+    "tree" : "3",
+    "name" : "research_troop_siege_atk_5_1_name",
+    "loc_research_description_id" : "research_troop_siege_atk_1_1_description",
+    "image" : "Troop/ui_research_troop_siege_atk_5",
+    "tier" : "76",
+    "row" : "2",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_siege_def_1",
+    "tree" : "3",
+    "name" : "research_troop_siege_def_1_1_name",
+    "loc_research_description_id" : "research_troop_siege_def_1_1_description",
+    "image" : "Troop/ui_research_troop_siege_def_1",
+    "tier" : "10",
+    "row" : "4",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_siege_def_2",
+    "tree" : "3",
+    "name" : "research_troop_siege_def_2_1_name",
+    "loc_research_description_id" : "research_troop_siege_def_1_1_description",
+    "image" : "Troop/ui_research_troop_siege_def_2",
+    "tier" : "24",
+    "row" : "4",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_siege_def_3",
+    "tree" : "3",
+    "name" : "research_troop_siege_def_3_1_name",
+    "loc_research_description_id" : "research_troop_siege_def_1_1_description",
+    "image" : "Troop/ui_research_troop_siege_def_3",
+    "tier" : "32",
+    "row" : "4",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_siege_def_4",
+    "tree" : "3",
+    "name" : "research_troop_siege_def_4_1_name",
+    "loc_research_description_id" : "research_troop_siege_def_1_1_description",
+    "image" : "Troop/ui_research_troop_siege_def_4",
+    "tier" : "66",
+    "row" : "4",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_siege_def_5",
+    "tree" : "3",
+    "name" : "research_troop_siege_def_5_1_name",
+    "loc_research_description_id" : "research_troop_siege_def_1_1_description",
+    "image" : "Troop/ui_research_troop_siege_def_5",
+    "tier" : "76",
+    "row" : "0",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_siege_health_1",
+    "tree" : "3",
+    "name" : "research_troop_siege_health_1_1_name",
+    "loc_research_description_id" : "research_troop_siege_health_1_1_description",
+    "image" : "Troop/ui_research_troop_siege_health_1",
+    "tier" : "14",
+    "row" : "4",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_siege_health_2",
+    "tree" : "3",
+    "name" : "research_troop_siege_health_2_1_name",
+    "loc_research_description_id" : "research_troop_siege_health_1_1_description",
+    "image" : "Troop/ui_research_troop_siege_health_2",
+    "tier" : "26",
+    "row" : "4",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_siege_health_3",
+    "tree" : "3",
+    "name" : "research_troop_siege_health_3_1_name",
+    "loc_research_description_id" : "research_troop_siege_health_1_1_description",
+    "image" : "Troop/ui_research_troop_siege_health_3",
+    "tier" : "34",
+    "row" : "4",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_siege_health_4",
+    "tree" : "3",
+    "name" : "research_troop_siege_health_4_1_name",
+    "loc_research_description_id" : "research_troop_siege_health_1_1_description",
+    "image" : "Troop/ui_research_troop_siege_health_4",
+    "tier" : "66",
+    "row" : "0",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_siege_health_5",
+    "tree" : "3",
+    "name" : "research_troop_siege_health_5_1_name",
+    "loc_research_description_id" : "research_troop_siege_health_1_1_description",
+    "image" : "Troop/ui_research_troop_siege_health_5",
+    "tier" : "76",
+    "row" : "4",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_marchspeed_1",
+    "tree" : "3",
+    "name" : "research_troop_marchspeed_1_1_name",
+    "loc_research_description_id" : "research_troop_marchspeed_1_1_description",
+    "image" : "Troop/ui_research_troop_marchspeed_1",
+    "tier" : "0",
+    "row" : "2",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_marchspeed_2",
+    "tree" : "3",
+    "name" : "research_troop_marchspeed_2_1_name",
+    "loc_research_description_id" : "research_troop_marchspeed_1_1_description",
+    "image" : "Troop/ui_research_troop_marchspeed_2",
+    "tier" : "16",
+    "row" : "2",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_marchspeed_3",
+    "tree" : "3",
+    "name" : "research_troop_marchspeed_3_1_name",
+    "loc_research_description_id" : "research_troop_marchspeed_1_1_description",
+    "image" : "Troop/ui_research_troop_marchspeed_3",
+    "tier" : "62",
+    "row" : "2",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_monster_marchspeed_1",
+    "tree" : "3",
+    "name" : "research_troop_monster_marchspeed_1_1_name",
+    "loc_research_description_id" : "research_troop_monster_marchspeed_1_1_description",
+    "image" : "Troop/ui_research_troop_monster_marchspeed_1",
+    "tier" : "4",
+    "row" : "2",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_monster_marchspeed_2",
+    "tree" : "3",
+    "name" : "research_troop_monster_marchspeed_2_1_name",
+    "loc_research_description_id" : "research_troop_monster_marchspeed_1_1_description",
+    "image" : "Troop/ui_research_troop_monster_marchspeed_2",
+    "tier" : "28",
+    "row" : "2",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_monster_marchspeed_3",
+    "tree" : "3",
+    "name" : "research_troop_monster_marchspeed_3_1_name",
+    "loc_research_description_id" : "research_troop_monster_marchspeed_1_1_description",
+    "image" : "Troop/ui_research_troop_monster_marchspeed_3",
+    "tier" : "56",
+    "row" : "2",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_march_limit_1",
+    "tree" : "3",
+    "name" : "research_troop_march_limit_1_1_name",
+    "loc_research_description_id" : "research_troop_march_limit_1_1_description",
+    "image" : "Troop/ui_research_troop_march_limit_1",
+    "tier" : "8",
+    "row" : "2",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_march_limit_2",
+    "tree" : "3",
+    "name" : "research_troop_march_limit_2_1_name",
+    "loc_research_description_id" : "research_troop_march_limit_1_1_description",
+    "image" : "Troop/ui_research_troop_march_limit_2",
+    "tier" : "20",
+    "row" : "2",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_march_limit_3",
+    "tree" : "3",
+    "name" : "research_troop_march_limit_3_1_name",
+    "loc_research_description_id" : "research_troop_march_limit_1_1_description",
+    "image" : "Troop/ui_research_troop_march_limit_3",
+    "tier" : "44",
+    "row" : "2",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_march_size_1",
+    "tree" : "3",
+    "name" : "research_troop_march_size_1_1_name",
+    "loc_research_description_id" : "research_troop_march_size_1_1_description",
+    "image" : "Troop/ui_research_troop_march_size_1",
+    "tier" : "12",
+    "row" : "2",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_march_size_2",
+    "tree" : "3",
+    "name" : "research_troop_march_size_2_1_name",
+    "loc_research_description_id" : "research_troop_march_size_1_1_description",
+    "image" : "Troop/ui_research_troop_march_size_2",
+    "tier" : "36",
+    "row" : "2",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_march_size_3",
+    "tree" : "3",
+    "name" : "research_troop_march_size_3_1_name",
+    "loc_research_description_id" : "research_troop_march_size_1_1_description",
+    "image" : "Troop/ui_research_troop_march_size_3",
+    "tier" : "50",
+    "row" : "2",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_march_size_4",
+    "tree" : "3",
+    "name" : "research_troop_march_size_4_1_name",
+    "loc_research_description_id" : "research_troop_march_size_1_1_description",
+    "image" : "Troop/ui_research_troop_march_size_4",
+    "tier" : "68",
+    "row" : "2",
+    "show" : "1"
+  }, {
+    "id" : "research_trap_atk_1",
+    "tree" : "4",
+    "name" : "research_trap_atk_1_1_name",
+    "loc_research_description_id" : "research_trap_atk_1_1_description",
+    "image" : "Trap/ui_research_trap_atk_1",
+    "tier" : "2",
+    "row" : "2",
+    "show" : "1"
+  }, {
+    "id" : "research_trap_atk_2",
+    "tree" : "4",
+    "name" : "research_trap_atk_2_1_name",
+    "loc_research_description_id" : "research_trap_atk_1_1_description",
+    "image" : "Trap/ui_research_trap_atk_2",
+    "tier" : "12",
+    "row" : "4",
+    "show" : "1"
+  }, {
+    "id" : "research_trap_atk_3",
+    "tree" : "4",
+    "name" : "research_trap_atk_3_1_name",
+    "loc_research_description_id" : "research_trap_atk_1_1_description",
+    "image" : "Trap/ui_research_trap_atk_3",
+    "tier" : "20",
+    "row" : "2",
+    "show" : "1"
+  }, {
+    "id" : "research_trap_atk_4",
+    "tree" : "4",
+    "name" : "research_trap_atk_4_1_name",
+    "loc_research_description_id" : "research_trap_atk_1_1_description",
+    "image" : "Trap/ui_research_trap_atk_4",
+    "tier" : "30",
+    "row" : "4",
+    "show" : "1"
+  }, {
+    "id" : "research_trap_def_1",
+    "tree" : "4",
+    "name" : "research_trap_def_1_1_name",
+    "loc_research_description_id" : "research_trap_def_1_1_description",
+    "image" : "Trap/ui_research_trap_def_1",
+    "tier" : "4",
+    "row" : "4",
+    "show" : "1"
+  }, {
+    "id" : "research_trap_def_2",
+    "tree" : "4",
+    "name" : "research_trap_def_2_1_name",
+    "loc_research_description_id" : "research_trap_def_1_1_description",
+    "image" : "Trap/ui_research_trap_def_2",
+    "tier" : "14",
+    "row" : "4",
+    "show" : "1"
+  }, {
+    "id" : "research_trap_def_3",
+    "tree" : "4",
+    "name" : "research_trap_def_3_1_name",
+    "loc_research_description_id" : "research_trap_def_1_1_description",
+    "image" : "Trap/ui_research_trap_def_3",
+    "tier" : "22",
+    "row" : "4",
+    "show" : "1"
+  }, {
+    "id" : "research_trap_def_4",
+    "tree" : "4",
+    "name" : "research_trap_def_4_1_name",
+    "loc_research_description_id" : "research_trap_def_1_1_description",
+    "image" : "Trap/ui_research_trap_def_4",
+    "tier" : "32",
+    "row" : "4",
+    "show" : "1"
+  }, {
+    "id" : "research_trap_health_1",
+    "tree" : "4",
+    "name" : "research_trap_health_1_1_name",
+    "loc_research_description_id" : "research_trap_health_1_1_description",
+    "image" : "Trap/ui_research_trap_health_1",
+    "tier" : "4",
+    "row" : "0",
+    "show" : "1"
+  }, {
+    "id" : "research_trap_health_2",
+    "tree" : "4",
+    "name" : "research_trap_health_2_1_name",
+    "loc_research_description_id" : "research_trap_health_1_1_description",
+    "image" : "Trap/ui_research_trap_health_2",
+    "tier" : "16",
+    "row" : "4",
+    "show" : "1"
+  }, {
+    "id" : "research_trap_health_3",
+    "tree" : "4",
+    "name" : "research_trap_health_3_1_name",
+    "loc_research_description_id" : "research_trap_health_1_1_description",
+    "image" : "Trap/ui_research_trap_health_3",
+    "tier" : "22",
+    "row" : "0",
+    "show" : "1"
+  }, {
+    "id" : "research_trap_health_4",
+    "tree" : "4",
+    "name" : "research_trap_health_4_1_name",
+    "loc_research_description_id" : "research_trap_health_1_1_description",
+    "image" : "Trap/ui_research_trap_health_4",
+    "tier" : "34",
+    "row" : "4",
+    "show" : "1"
+  }, {
+    "id" : "research_trap_capacity_1",
+    "tree" : "4",
+    "name" : "research_trap_capacity_1_1_name",
+    "loc_research_description_id" : "research_trap_capacity_1_1_description",
+    "image" : "Trap/ui_research_trap_capacity_1",
+    "tier" : "10",
+    "row" : "2",
+    "show" : "1"
+  }, {
+    "id" : "research_trap_capacity_2",
+    "tree" : "4",
+    "name" : "research_trap_capacity_2_1_name",
+    "loc_research_description_id" : "research_trap_capacity_1_1_description",
+    "image" : "Trap/ui_research_trap_capacity_2",
+    "tier" : "28",
+    "row" : "2",
+    "show" : "1"
+  }, {
+    "id" : "research_trap_defending_atk_1",
+    "tree" : "4",
+    "name" : "research_trap_defending_atk_1_1_name",
+    "loc_research_description_id" : "research_trap_defending_atk_1_1_description",
+    "image" : "Trap/ui_research_trap_defending_atk_1",
+    "tier" : "6",
+    "row" : "2",
+    "show" : "1"
+  }, {
+    "id" : "research_trap_defending_atk_2",
+    "tree" : "4",
+    "name" : "research_trap_defending_atk_2_1_name",
+    "loc_research_description_id" : "research_trap_defending_atk_1_1_description",
+    "image" : "Trap/ui_research_trap_defending_atk_2",
+    "tier" : "12",
+    "row" : "0",
+    "show" : "1"
+  }, {
+    "id" : "research_trap_defending_atk_3",
+    "tree" : "4",
+    "name" : "research_trap_defending_atk_3_1_name",
+    "loc_research_description_id" : "research_trap_defending_atk_1_1_description",
+    "image" : "Trap/ui_research_trap_defending_atk_3",
+    "tier" : "24",
+    "row" : "2",
+    "show" : "1"
+  }, {
+    "id" : "research_trap_defending_atk_4",
+    "tree" : "4",
+    "name" : "research_trap_defending_atk_4_1_name",
+    "loc_research_description_id" : "research_trap_defending_atk_1_1_description",
+    "image" : "Trap/ui_research_trap_defending_atk_4",
+    "tier" : "30",
+    "row" : "0",
+    "show" : "1"
+  }, {
+    "id" : "research_trap_defending_def_1",
+    "tree" : "4",
+    "name" : "research_trap_defending_def_1_1_name",
+    "loc_research_description_id" : "research_trap_defending_def_1_1_description",
+    "image" : "Trap/ui_research_trap_defending_def_1",
+    "tier" : "8",
+    "row" : "4",
+    "show" : "1"
+  }, {
+    "id" : "research_trap_defending_def_2",
+    "tree" : "4",
+    "name" : "research_trap_defending_def_2_1_name",
+    "loc_research_description_id" : "research_trap_defending_def_1_1_description",
+    "image" : "Trap/ui_research_trap_defending_def_2",
+    "tier" : "14",
+    "row" : "0",
+    "show" : "1"
+  }, {
+    "id" : "research_trap_defending_def_3",
+    "tree" : "4",
+    "name" : "research_trap_defending_def_3_1_name",
+    "loc_research_description_id" : "research_trap_defending_def_1_1_description",
+    "image" : "Trap/ui_research_trap_defending_def_3",
+    "tier" : "26",
+    "row" : "4",
+    "show" : "1"
+  }, {
+    "id" : "research_trap_defending_def_4",
+    "tree" : "4",
+    "name" : "research_trap_defending_def_4_1_name",
+    "loc_research_description_id" : "research_trap_defending_def_1_1_description",
+    "image" : "Trap/ui_research_trap_defending_def_4",
+    "tier" : "32",
+    "row" : "0",
+    "show" : "1"
+  }, {
+    "id" : "research_trap_defending_health_1",
+    "tree" : "4",
+    "name" : "research_trap_defending_health_1_1_name",
+    "loc_research_description_id" : "research_trap_defending_health_1_1_description",
+    "image" : "Trap/ui_research_trap_defending_health_1",
+    "tier" : "8",
+    "row" : "0",
+    "show" : "1"
+  }, {
+    "id" : "research_trap_defending_health_2",
+    "tree" : "4",
+    "name" : "research_trap_defending_health_2_1_name",
+    "loc_research_description_id" : "research_trap_defending_health_1_1_description",
+    "image" : "Trap/ui_research_trap_defending_health_2",
+    "tier" : "16",
+    "row" : "0",
+    "show" : "1"
+  }, {
+    "id" : "research_trap_defending_health_3",
+    "tree" : "4",
+    "name" : "research_trap_defending_health_3_1_name",
+    "loc_research_description_id" : "research_trap_defending_health_1_1_description",
+    "image" : "Trap/ui_research_trap_defending_health_3",
+    "tier" : "26",
+    "row" : "0",
+    "show" : "1"
+  }, {
+    "id" : "research_trap_defending_health_4",
+    "tree" : "4",
+    "name" : "research_trap_defending_health_4_1_name",
+    "loc_research_description_id" : "research_trap_defending_health_1_1_description",
+    "image" : "Trap/ui_research_trap_defending_health_4",
+    "tier" : "34",
+    "row" : "0",
+    "show" : "1"
+  }, {
+    "id" : "research_trap_city_defense_1",
+    "tree" : "4",
+    "name" : "research_trap_city_defense_1_1_name",
+    "loc_research_description_id" : "research_trap_city_defense_1_1_description",
+    "image" : "Trap/ui_research_trap_city_defense_1",
+    "tier" : "0",
+    "row" : "2",
+    "show" : "1"
+  }, {
+    "id" : "research_trap_city_defense_2",
+    "tree" : "4",
+    "name" : "research_trap_city_defense_2_1_name",
+    "loc_research_description_id" : "research_trap_city_defense_1_1_description",
+    "image" : "Trap/ui_research_trap_city_defense_2",
+    "tier" : "18",
+    "row" : "2",
+    "show" : "1"
+  }, {
+    "id" : "research_dragon_knight_attack_percent",
+    "tree" : "5",
+    "name" : "research_dragon_knight_attack_percent_1_name",
+    "loc_research_description_id" : "research_dragon_knight_attack_percent_1_description",
+    "image" : "DragonKnight/ui_research_dragon_knight_attack_percent",
+    "tier" : "6",
+    "row" : "0",
+    "show" : "1"
+  }, {
+    "id" : "research_dragon_knight_defence_percent",
+    "tree" : "5",
+    "name" : "research_dragon_knight_defence_percent_1_name",
+    "loc_research_description_id" : "research_dragon_knight_defence_percent_1_description",
+    "image" : "DragonKnight/ui_research_dragon_knight_defence_percent",
+    "tier" : "2",
+    "row" : "0",
+    "show" : "1"
+  }, {
+    "id" : "research_dragon_knight_health_percent",
+    "tree" : "5",
+    "name" : "research_dragon_knight_health_percent_1_name",
+    "loc_research_description_id" : "research_dragon_knight_health_percent_1_description",
+    "image" : "DragonKnight/ui_research_dragon_knight_health_percent",
+    "tier" : "4",
+    "row" : "0",
+    "show" : "1"
+  }, {
+    "id" : "research_dragon_knight_health_recovery_percent",
+    "tree" : "5",
+    "name" : "research_dragon_knight_health_recovery_percent_1_name",
+    "loc_research_description_id" : "research_dragon_knight_health_recovery_percent_1_description",
+    "image" : "DragonKnight/ui_research_dragon_knight_health_recovery_percent",
+    "tier" : "6",
+    "row" : "4",
+    "show" : "0"
+  }, {
+    "id" : "research_dragon_knight_bag_capacity",
+    "tree" : "5",
+    "name" : "research_dragon_knight_bag_capacity_1_name",
+    "loc_research_description_id" : "research_dragon_knight_bag_capacity_1_description",
+    "image" : "DragonKnight/ui_research_dragon_knight_bag_capacity",
+    "tier" : "2",
+    "row" : "2",
+    "show" : "1"
+  }, {
+    "id" : "research_dragon_knight_bag_load",
+    "tree" : "5",
+    "name" : "research_dragon_knight_bag_load_1_name",
+    "loc_research_description_id" : "research_dragon_knight_bag_load_1_description",
+    "image" : "DragonKnight/ui_research_dragon_knight_bag_load",
+    "tier" : "0",
+    "row" : "2",
+    "show" : "1"
+  }, {
+    "id" : "research_dragon_knight_dungeon_stamina",
+    "tree" : "5",
+    "name" : "research_dragon_knight_dungeon_stamina_1_name",
+    "loc_research_description_id" : "research_dragon_knight_dungeon_stamina_1_description",
+    "image" : "DragonKnight/ui_research_dragon_knight_dungeon_stamina",
+    "tier" : "8",
+    "row" : "0",
+    "show" : "0"
+  }, {
+    "id" : "research_dragon_knight_addition_stamina_count",
+    "tree" : "5",
+    "name" : "research_dragon_knight_addition_stamina_count_1_name",
+    "loc_research_description_id" : "research_dragon_knight_addition_stamina_count_1_description",
+    "image" : "DragonKnight/ui_research_dragon_knight_addition_stamina_count",
+    "tier" : "4",
+    "row" : "2",
+    "show" : "0"
+  }, {
+    "id" : "research_dragon_knight_dungeon_cd",
+    "tree" : "5",
+    "name" : "research_dragon_knight_dungeon_cd_1_name",
+    "loc_research_description_id" : "research_dragon_knight_dungeon_cd_1_description",
+    "image" : "DragonKnight/ui_research_dragon_knight_dungeon_cd",
+    "tier" : "10",
+    "row" : "4",
+    "show" : "0"
+  }, {
+    "id" : "research_dragon_knight_addition_health_count",
+    "tree" : "5",
+    "name" : "research_dragon_knight_addition_health_count_1_name",
+    "loc_research_description_id" : "research_dragon_knight_addition_health_count_1_description",
+    "image" : "DragonKnight/ui_research_dragon_knight_addition_health_count",
+    "tier" : "4",
+    "row" : "4",
+    "show" : "0"
+  }, {
+    "id" : "research_dragon_knight_addition_health_effect",
+    "tree" : "5",
+    "name" : "research_dragon_knight_addition_health_effect_1_name",
+    "loc_research_description_id" : "research_dragon_knight_addition_health_effect_1_description",
+    "image" : "DragonKnight/ui_research_dragon_knight_addition_health_effect",
+    "tier" : "8",
+    "row" : "4",
+    "show" : "0"
+  }, {
+    "id" : "research_dragon_knight_stamina_new",
+    "tree" : "5",
+    "name" : "research_dragon_knight_stamina_new_name",
+    "loc_research_description_id" : "research_dragon_knight_stamina_new_description",
+    "image" : "DragonKnight/ui_research_dragon_knight_stamina_new",
+    "tier" : "2",
+    "row" : "4",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_army_atk_1_2",
+    "tree" : "6",
+    "name" : "research_troop_army_atk_1_2_name",
+    "loc_research_description_id" : "research_troop_army_atk_1_2_description",
+    "image" : "Troop/ui_research_troop_alltroop_atk_senior",
+    "tier" : "0",
+    "row" : "2",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_army_atk_2_2",
+    "tree" : "6",
+    "name" : "research_troop_army_atk_2_2_name",
+    "loc_research_description_id" : "research_troop_army_atk_1_2_description",
+    "image" : "Troop/ui_research_troop_alltroop_atk_senior",
+    "tier" : "24",
+    "row" : "2",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_army_def_1_2",
+    "tree" : "6",
+    "name" : "research_troop_army_def_1_2_name",
+    "loc_research_description_id" : "research_troop_army_def_1_2_description",
+    "image" : "Troop/ui_research_troop_alltroop_def_senior",
+    "tier" : "4",
+    "row" : "2",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_army_def_2_2",
+    "tree" : "6",
+    "name" : "research_troop_army_def_2_2_name",
+    "loc_research_description_id" : "research_troop_army_def_1_2_description",
+    "image" : "Troop/ui_research_troop_alltroop_def_senior",
+    "tier" : "28",
+    "row" : "2",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_army_health_1_2",
+    "tree" : "6",
+    "name" : "research_troop_army_health_1_2_name",
+    "loc_research_description_id" : "research_troop_army_health_1_2_description",
+    "image" : "Troop/ui_research_troop_alltroop_health_senior",
+    "tier" : "12",
+    "row" : "2",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_army_health_2_2",
+    "tree" : "6",
+    "name" : "research_troop_army_health_2_2_name",
+    "loc_research_description_id" : "research_troop_army_health_1_2_description",
+    "image" : "Troop/ui_research_troop_alltroop_health_senior",
+    "tier" : "32",
+    "row" : "2",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_infantry_atk_1_2",
+    "tree" : "6",
+    "name" : "research_troop_infantry_atk_1_2_name",
+    "loc_research_description_id" : "research_troop_infantry_atk_1_2_description",
+    "image" : "Troop/ui_research_troop_infantry_atk_senior",
+    "tier" : "2",
+    "row" : "0",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_infantry_atk_2_2",
+    "tree" : "6",
+    "name" : "research_troop_infantry_atk_2_2_name",
+    "loc_research_description_id" : "research_troop_infantry_atk_1_2_description",
+    "image" : "Troop/ui_research_troop_infantry_atk_senior",
+    "tier" : "22",
+    "row" : "0",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_infantry_atk_3_2",
+    "tree" : "6",
+    "name" : "research_troop_infantry_atk_3_2_name",
+    "loc_research_description_id" : "research_troop_infantry_atk_1_2_description",
+    "image" : "Troop/ui_research_troop_infantry_atk_senior",
+    "tier" : "38",
+    "row" : "0",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_infantry_def_1_2",
+    "tree" : "6",
+    "name" : "research_troop_infantry_def_1_2_name",
+    "loc_research_description_id" : "research_troop_infantry_def_1_2_description",
+    "image" : "Troop/ui_research_troop_infantry_def_senior",
+    "tier" : "2",
+    "row" : "2",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_infantry_def_2_2",
+    "tree" : "6",
+    "name" : "research_troop_infantry_def_2_2_name",
+    "loc_research_description_id" : "research_troop_infantry_def_1_2_description",
+    "image" : "Troop/ui_research_troop_infantry_def_senior",
+    "tier" : "22",
+    "row" : "2",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_infantry_def_3_2",
+    "tree" : "6",
+    "name" : "research_troop_infantry_def_3_2_name",
+    "loc_research_description_id" : "research_troop_infantry_def_1_2_description",
+    "image" : "Troop/ui_research_troop_infantry_def_senior",
+    "tier" : "38",
+    "row" : "2",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_infantry_health_1_2",
+    "tree" : "6",
+    "name" : "research_troop_infantry_health_1_2_name",
+    "loc_research_description_id" : "research_troop_infantry_health_1_2_description",
+    "image" : "Troop/ui_research_troop_infantry_health_senior",
+    "tier" : "2",
+    "row" : "4",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_infantry_health_2_2",
+    "tree" : "6",
+    "name" : "research_troop_infantry_health_2_2_name",
+    "loc_research_description_id" : "research_troop_infantry_health_1_2_description",
+    "image" : "Troop/ui_research_troop_infantry_health_senior",
+    "tier" : "22",
+    "row" : "4",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_infantry_health_3_2",
+    "tree" : "6",
+    "name" : "research_troop_infantry_health_3_2_name",
+    "loc_research_description_id" : "research_troop_infantry_health_1_2_description",
+    "image" : "Troop/ui_research_troop_infantry_health_senior",
+    "tier" : "38",
+    "row" : "4",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_ranged_atk_1_2",
+    "tree" : "6",
+    "name" : "research_troop_ranged_atk_1_2_name",
+    "loc_research_description_id" : "research_troop_ranged_atk_1_2_description",
+    "image" : "Troop/ui_research_troop_ranged_atk_senior",
+    "tier" : "6",
+    "row" : "0",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_ranged_atk_2_2",
+    "tree" : "6",
+    "name" : "research_troop_ranged_atk_2_2_name",
+    "loc_research_description_id" : "research_troop_ranged_atk_1_2_description",
+    "image" : "Troop/ui_research_troop_ranged_atk_senior",
+    "tier" : "16",
+    "row" : "0",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_ranged_atk_3_2",
+    "tree" : "6",
+    "name" : "research_troop_ranged_atk_3_2_name",
+    "loc_research_description_id" : "research_troop_ranged_atk_1_2_description",
+    "image" : "Troop/ui_research_troop_ranged_atk_senior",
+    "tier" : "30",
+    "row" : "0",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_ranged_def_1_2",
+    "tree" : "6",
+    "name" : "research_troop_ranged_def_1_2_name",
+    "loc_research_description_id" : "research_troop_ranged_def_1_2_description",
+    "image" : "Troop/ui_research_troop_ranged_def_senior",
+    "tier" : "8",
+    "row" : "0",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_ranged_def_2_2",
+    "tree" : "6",
+    "name" : "research_troop_ranged_def_2_2_name",
+    "loc_research_description_id" : "research_troop_ranged_def_1_2_description",
+    "image" : "Troop/ui_research_troop_ranged_def_senior",
+    "tier" : "16",
+    "row" : "2",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_ranged_def_3_2",
+    "tree" : "6",
+    "name" : "research_troop_ranged_def_3_2_name",
+    "loc_research_description_id" : "research_troop_ranged_def_1_2_description",
+    "image" : "Troop/ui_research_troop_ranged_def_senior",
+    "tier" : "30",
+    "row" : "2",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_ranged_health_1_2",
+    "tree" : "6",
+    "name" : "research_troop_ranged_health_1_2_name",
+    "loc_research_description_id" : "research_troop_ranged_health_1_2_description",
+    "image" : "Troop/ui_research_troop_ranged_health_senior",
+    "tier" : "10",
+    "row" : "0",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_ranged_health_2_2",
+    "tree" : "6",
+    "name" : "research_troop_ranged_health_2_2_name",
+    "loc_research_description_id" : "research_troop_ranged_health_1_2_description",
+    "image" : "Troop/ui_research_troop_ranged_health_senior",
+    "tier" : "16",
+    "row" : "4",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_ranged_health_3_2",
+    "tree" : "6",
+    "name" : "research_troop_ranged_health_3_2_name",
+    "loc_research_description_id" : "research_troop_ranged_health_1_2_description",
+    "image" : "Troop/ui_research_troop_ranged_health_senior",
+    "tier" : "30",
+    "row" : "4",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_cavalry_atk_1_2",
+    "tree" : "6",
+    "name" : "research_troop_cavalry_atk_1_2_name",
+    "loc_research_description_id" : "research_troop_cavalry_atk_1_2_description",
+    "image" : "Troop/ui_research_troop_cavalry_atk_senior",
+    "tier" : "6",
+    "row" : "2",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_cavalry_atk_2_2",
+    "tree" : "6",
+    "name" : "research_troop_cavalry_atk_2_2_name",
+    "loc_research_description_id" : "research_troop_cavalry_atk_1_2_description",
+    "image" : "Troop/ui_research_troop_cavalry_atk_senior",
+    "tier" : "18",
+    "row" : "0",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_cavalry_atk_3_2",
+    "tree" : "6",
+    "name" : "research_troop_cavalry_atk_3_2_name",
+    "loc_research_description_id" : "research_troop_cavalry_atk_1_2_description",
+    "image" : "Troop/ui_research_troop_cavalry_atk_senior",
+    "tier" : "34",
+    "row" : "0",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_cavalry_def_1_2",
+    "tree" : "6",
+    "name" : "research_troop_cavalry_def_1_2_name",
+    "loc_research_description_id" : "research_troop_cavalry_def_1_2_description",
+    "image" : "Troop/ui_research_troop_cavalry_def_senior",
+    "tier" : "8",
+    "row" : "2",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_cavalry_def_2_2",
+    "tree" : "6",
+    "name" : "research_troop_cavalry_def_2_2_name",
+    "loc_research_description_id" : "research_troop_cavalry_def_1_2_description",
+    "image" : "Troop/ui_research_troop_cavalry_def_senior",
+    "tier" : "18",
+    "row" : "2",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_cavalry_def_3_2",
+    "tree" : "6",
+    "name" : "research_troop_cavalry_def_3_2_name",
+    "loc_research_description_id" : "research_troop_cavalry_def_1_2_description",
+    "image" : "Troop/ui_research_troop_cavalry_def_senior",
+    "tier" : "34",
+    "row" : "2",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_cavalry_health_1_2",
+    "tree" : "6",
+    "name" : "research_troop_cavalry_health_1_2_name",
+    "loc_research_description_id" : "research_troop_cavalry_health_1_2_description",
+    "image" : "Troop/ui_research_troop_cavalry_health_senior",
+    "tier" : "10",
+    "row" : "2",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_cavalry_health_2_2",
+    "tree" : "6",
+    "name" : "research_troop_cavalry_health_2_2_name",
+    "loc_research_description_id" : "research_troop_cavalry_health_1_2_description",
+    "image" : "Troop/ui_research_troop_cavalry_health_senior",
+    "tier" : "18",
+    "row" : "4",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_cavalry_health_3_2",
+    "tree" : "6",
+    "name" : "research_troop_cavalry_health_3_2_name",
+    "loc_research_description_id" : "research_troop_cavalry_health_1_2_description",
+    "image" : "Troop/ui_research_troop_cavalry_health_senior",
+    "tier" : "34",
+    "row" : "4",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_siege_atk_1_2",
+    "tree" : "6",
+    "name" : "research_troop_siege_atk_1_2_name",
+    "loc_research_description_id" : "research_troop_siege_atk_1_2_description",
+    "image" : "Troop/ui_research_troop_siege_atk_senior",
+    "tier" : "6",
+    "row" : "4",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_siege_atk_2_2",
+    "tree" : "6",
+    "name" : "research_troop_siege_atk_2_2_name",
+    "loc_research_description_id" : "research_troop_siege_atk_1_2_description",
+    "image" : "Troop/ui_research_troop_siege_atk_senior",
+    "tier" : "14",
+    "row" : "0",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_siege_atk_3_2",
+    "tree" : "6",
+    "name" : "research_troop_siege_atk_3_2_name",
+    "loc_research_description_id" : "research_troop_siege_atk_1_2_description",
+    "image" : "Troop/ui_research_troop_siege_atk_senior",
+    "tier" : "26",
+    "row" : "0",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_siege_def_1_2",
+    "tree" : "6",
+    "name" : "research_troop_siege_def_1_2_name",
+    "loc_research_description_id" : "research_troop_siege_def_1_2_description",
+    "image" : "Troop/ui_research_troop_siege_def_senior",
+    "tier" : "8",
+    "row" : "4",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_siege_def_2_2",
+    "tree" : "6",
+    "name" : "research_troop_siege_def_2_2_name",
+    "loc_research_description_id" : "research_troop_siege_def_1_2_description",
+    "image" : "Troop/ui_research_troop_siege_def_senior",
+    "tier" : "14",
+    "row" : "2",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_siege_def_3_2",
+    "tree" : "6",
+    "name" : "research_troop_siege_def_3_2_name",
+    "loc_research_description_id" : "research_troop_siege_def_1_2_description",
+    "image" : "Troop/ui_research_troop_siege_def_senior",
+    "tier" : "26",
+    "row" : "2",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_siege_health_1_2",
+    "tree" : "6",
+    "name" : "research_troop_siege_health_1_2_name",
+    "loc_research_description_id" : "research_troop_siege_health_1_2_description",
+    "image" : "Troop/ui_research_troop_siege_health_senior",
+    "tier" : "10",
+    "row" : "4",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_siege_health_2_2",
+    "tree" : "6",
+    "name" : "research_troop_siege_health_2_2_name",
+    "loc_research_description_id" : "research_troop_siege_health_1_2_description",
+    "image" : "Troop/ui_research_troop_siege_health_senior",
+    "tier" : "14",
+    "row" : "4",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_siege_health_3_2",
+    "tree" : "6",
+    "name" : "research_troop_siege_health_3_2_name",
+    "loc_research_description_id" : "research_troop_siege_health_1_2_description",
+    "image" : "Troop/ui_research_troop_siege_health_senior",
+    "tier" : "26",
+    "row" : "4",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_march_size_1_2",
+    "tree" : "6",
+    "name" : "research_troop_march_size_1_2_name",
+    "loc_research_description_id" : "research_troop_march_size_1_2_description",
+    "image" : "Troop/ui_research_troop_march_size_senior",
+    "tier" : "20",
+    "row" : "2",
+    "show" : "1"
+  }, {
+    "id" : "research_troop_march_size_2_2",
+    "tree" : "6",
+    "name" : "research_troop_march_size_2_2_name",
+    "loc_research_description_id" : "research_troop_march_size_1_2_description",
+    "image" : "Troop/ui_research_troop_march_size_senior",
+    "tier" : "36",
+    "row" : "2",
+    "show" : "1"
+  }, {
+    "id" : "research_economy_1_build_speed_1",
+    "tree" : "13",
+    "name" : "research_economy_1_build_speed_1_name",
+    "loc_research_description_id" : "research_economy_1_build_speed_1_description",
+    "image" : "ui_research_economy_1_build_speed_1",
+    "tier" : "0",
+    "row" : "3",
+    "show" : "1"
+  }, {
+    "id" : "research_economy_1_food_generation_1",
+    "tree" : "13",
+    "name" : "research_economy_1_food_generation_1_name",
+    "loc_research_description_id" : "research_economy_1_food_generation_1_description",
+    "image" : "ui_research_economy_1_food_generation_1",
+    "tier" : "2",
+    "row" : "5",
+    "show" : "1"
+  }, {
+    "id" : "research_economy_1_wood_generation_1",
+    "tree" : "13",
+    "name" : "research_economy_1_wood_generation_1_name",
+    "loc_research_description_id" : "research_economy_1_wood_generation_1_description",
+    "image" : "ui_research_economy_1_wood_generation_1",
+    "tier" : "2",
+    "row" : "1",
+    "show" : "1"
+  }, {
+    "id" : "research_economy_1_research_speed_1",
+    "tree" : "13",
+    "name" : "research_economy_1_research_speed_1_name",
+    "loc_research_description_id" : "research_economy_1_research_speed_1_description",
+    "image" : "ui_research_economy_1_research_speed_1",
+    "tier" : "4",
+    "row" : "3",
+    "show" : "1"
+  }, {
+    "id" : "research_economy_1_food_gather_1",
+    "tree" : "13",
+    "name" : "research_economy_1_food_gather_1_name",
+    "loc_research_description_id" : "research_economy_1_food_gather_1_description",
+    "image" : "ui_research_economy_1_food_gather_1",
+    "tier" : "6",
+    "row" : "5",
+    "show" : "1"
+  }, {
+    "id" : "research_economy_1_wood_gather_1",
+    "tree" : "13",
+    "name" : "research_economy_1_wood_gather_1_name",
+    "loc_research_description_id" : "research_economy_1_wood_gather_1_description",
+    "image" : "ui_research_economy_1_wood_gather_1",
+    "tier" : "6",
+    "row" : "1",
+    "show" : "1"
+  }, {
+    "id" : "research_economy_1_train_speed_1",
+    "tree" : "13",
+    "name" : "research_economy_1_train_speed_1_name",
+    "loc_research_description_id" : "research_economy_1_train_speed_1_description",
+    "image" : "ui_research_economy_1_train_speed_1",
+    "tier" : "8",
+    "row" : "3",
+    "show" : "1"
+  }, {
+    "id" : "research_economy_1_ore_generation_1",
+    "tree" : "13",
+    "name" : "research_economy_1_ore_generation_1_name",
+    "loc_research_description_id" : "research_economy_1_ore_generation_1_description",
+    "image" : "ui_research_economy_1_ore_generation_1",
+    "tier" : "10",
+    "row" : "5",
+    "show" : "1"
+  }, {
+    "id" : "research_economy_1_ore_gather_1",
+    "tree" : "13",
+    "name" : "research_economy_1_ore_gather_1_name",
+    "loc_research_description_id" : "research_economy_1_ore_gather_1_description",
+    "image" : "ui_research_economy_1_ore_gather_1",
+    "tier" : "10",
+    "row" : "1",
+    "show" : "1"
+  }, {
+    "id" : "research_economy_1_army_load_1",
+    "tree" : "13",
+    "name" : "research_economy_1_army_load_1_name",
+    "loc_research_description_id" : "research_economy_1_army_load_1_description",
+    "image" : "ui_research_economy_1_army_load_1",
+    "tier" : "12",
+    "row" : "3",
+    "show" : "1"
+  }, {
+    "id" : "research_economy_1_silver_generation_1",
+    "tree" : "13",
+    "name" : "research_economy_1_silver_generation_1_name",
+    "loc_research_description_id" : "research_economy_1_silver_generation_1_description",
+    "image" : "ui_research_economy_1_silver_generation_1",
+    "tier" : "14",
+    "row" : "5",
+    "show" : "1"
+  }, {
+    "id" : "research_economy_1_silver_gather_1",
+    "tree" : "13",
+    "name" : "research_economy_1_silver_gather_1_name",
+    "loc_research_description_id" : "research_economy_1_silver_gather_1_description",
+    "image" : "ui_research_economy_1_silver_gather_1",
+    "tier" : "14",
+    "row" : "1",
+    "show" : "1"
+  }, {
+    "id" : "research_economy_1_storage_capacity_1",
+    "tree" : "13",
+    "name" : "research_economy_1_storage_capacity_1_name",
+    "loc_research_description_id" : "research_economy_1_storage_capacity_1_description",
+    "image" : "ui_research_economy_1_storage_capacity_1",
+    "tier" : "16",
+    "row" : "3",
+    "show" : "1"
+  }, {
+    "id" : "research_economy_1_heal_speed_1",
+    "tree" : "13",
+    "name" : "research_economy_1_heal_speed_1_name",
+    "loc_research_description_id" : "research_economy_1_heal_speed_1_description",
+    "image" : "ui_research_economy_1_heal_speed_1",
+    "tier" : "18",
+    "row" : "5",
+    "show" : "1"
+  }, {
+    "id" : "research_economy_1_hospital_capacity_1",
+    "tree" : "13",
+    "name" : "research_economy_1_hospital_capacity_1_name",
+    "loc_research_description_id" : "research_economy_1_hospital_capacity_1_description",
+    "image" : "ui_research_economy_1_hospital_capacity_1",
+    "tier" : "18",
+    "row" : "1",
+    "show" : "1"
+  }, {
+    "id" : "research_economy_1_build_speed_2",
+    "tree" : "13",
+    "name" : "research_economy_1_build_speed_2_name",
+    "loc_research_description_id" : "research_economy_1_build_speed_2_description",
+    "image" : "ui_research_economy_1_build_speed_2",
+    "tier" : "20",
+    "row" : "3",
+    "show" : "1"
+  }, {
+    "id" : "research_economy_1_PVE_speed_1",
+    "tree" : "13",
+    "name" : "research_economy_1_PVE_speed_1_name",
+    "loc_research_description_id" : "research_economy_1_PVE_speed_1_description",
+    "image" : "ui_research_economy_1_PVE_speed_1",
+    "tier" : "22",
+    "row" : "5",
+    "show" : "1"
+  }, {
+    "id" : "research_economy_1_spirit_speed_1",
+    "tree" : "13",
+    "name" : "research_economy_1_spirit_speed_1_name",
+    "loc_research_description_id" : "research_economy_1_spirit_speed_1_description",
+    "image" : "ui_research_economy_1_spirit_speed_1",
+    "tier" : "22",
+    "row" : "1",
+    "show" : "1"
+  }, {
+    "id" : "research_economy_1_research_speed_2",
+    "tree" : "13",
+    "name" : "research_economy_1_research_speed_2_name",
+    "loc_research_description_id" : "research_economy_1_research_speed_2_description",
+    "image" : "ui_research_economy_1_research_speed_2",
+    "tier" : "24",
+    "row" : "3",
+    "show" : "1"
+  }, {
+    "id" : "research_economy_1_food_generation_2",
+    "tree" : "13",
+    "name" : "research_economy_1_food_generation_2_name",
+    "loc_research_description_id" : "research_economy_1_food_generation_2_description",
+    "image" : "ui_research_economy_1_food_generation_2",
+    "tier" : "26",
+    "row" : "6",
+    "show" : "1"
+  }, {
+    "id" : "research_economy_1_wood_generation_2",
+    "tree" : "13",
+    "name" : "research_economy_1_wood_generation_2_name",
+    "loc_research_description_id" : "research_economy_1_wood_generation_2_description",
+    "image" : "ui_research_economy_1_wood_generation_2",
+    "tier" : "26",
+    "row" : "4",
+    "show" : "1"
+  }, {
+    "id" : "research_economy_1_ore_generation_2",
+    "tree" : "13",
+    "name" : "research_economy_1_ore_generation_2_name",
+    "loc_research_description_id" : "research_economy_1_ore_generation_2_description",
+    "image" : "ui_research_economy_1_ore_generation_2",
+    "tier" : "26",
+    "row" : "2",
+    "show" : "1"
+  }, {
+    "id" : "research_economy_1_silver_generation_2",
+    "tree" : "13",
+    "name" : "research_economy_1_silver_generation_2_name",
+    "loc_research_description_id" : "research_economy_1_silver_generation_2_description",
+    "image" : "ui_research_economy_1_silver_generation_2",
+    "tier" : "26",
+    "row" : "0",
+    "show" : "1"
+  }, {
+    "id" : "research_economy_1_train_speed_2",
+    "tree" : "13",
+    "name" : "research_economy_1_train_speed_2_name",
+    "loc_research_description_id" : "research_economy_1_train_speed_2_description",
+    "image" : "ui_research_economy_1_train_speed_2",
+    "tier" : "28",
+    "row" : "3",
+    "show" : "1"
+  }, {
+    "id" : "research_economy_1_food_gather_2",
+    "tree" : "13",
+    "name" : "research_economy_1_food_gather_2_name",
+    "loc_research_description_id" : "research_economy_1_food_gather_2_description",
+    "image" : "ui_research_economy_1_food_gather_2",
+    "tier" : "30",
+    "row" : "6",
+    "show" : "1"
+  }, {
+    "id" : "research_economy_1_wood_gather_2",
+    "tree" : "13",
+    "name" : "research_economy_1_wood_gather_2_name",
+    "loc_research_description_id" : "research_economy_1_wood_gather_2_description",
+    "image" : "ui_research_economy_1_wood_gather_2",
+    "tier" : "30",
+    "row" : "4",
+    "show" : "1"
+  }, {
+    "id" : "research_economy_1_ore_gather_2",
+    "tree" : "13",
+    "name" : "research_economy_1_ore_gather_2_name",
+    "loc_research_description_id" : "research_economy_1_ore_gather_2_description",
+    "image" : "ui_research_economy_1_ore_gather_2",
+    "tier" : "30",
+    "row" : "2",
+    "show" : "1"
+  }, {
+    "id" : "research_economy_1_silver_gather_2",
+    "tree" : "13",
+    "name" : "research_economy_1_silver_gather_2_name",
+    "loc_research_description_id" : "research_economy_1_silver_gather_2_description",
+    "image" : "ui_research_economy_1_silver_gather_2",
+    "tier" : "30",
+    "row" : "0",
+    "show" : "1"
+  }, {
+    "id" : "research_economy_1_storage_capacity_2",
+    "tree" : "13",
+    "name" : "research_economy_1_storage_capacity_2_name",
+    "loc_research_description_id" : "research_economy_1_storage_capacity_2_description",
+    "image" : "ui_research_economy_1_storage_capacity_2",
+    "tier" : "32",
+    "row" : "3",
+    "show" : "1"
+  }, {
+    "id" : "research_economy_1_heal_speed_2",
+    "tree" : "13",
+    "name" : "research_economy_1_heal_speed_2_name",
+    "loc_research_description_id" : "research_economy_1_heal_speed_2_description",
+    "image" : "ui_research_economy_1_heal_speed_2",
+    "tier" : "34",
+    "row" : "5",
+    "show" : "1"
+  }, {
+    "id" : "research_economy_1_hospital_capacity_2",
+    "tree" : "13",
+    "name" : "research_economy_1_hospital_capacity_2_name",
+    "loc_research_description_id" : "research_economy_1_hospital_capacity_2_description",
+    "image" : "ui_research_economy_1_hospital_capacity_2",
+    "tier" : "34",
+    "row" : "1",
+    "show" : "1"
+  }, {
+    "id" : "research_economy_1_train_speed_3",
+    "tree" : "13",
+    "name" : "research_economy_1_train_speed_3_name",
+    "loc_research_description_id" : "research_economy_1_train_speed_3_description",
+    "image" : "ui_research_economy_1_train_speed_3",
+    "tier" : "36",
+    "row" : "3",
+    "show" : "1"
+  }, {
+    "id" : "research_economy_1_food_gather_3",
+    "tree" : "13",
+    "name" : "research_economy_1_food_gather_3_name",
+    "loc_research_description_id" : "research_economy_1_food_gather_3_description",
+    "image" : "ui_research_economy_1_food_gather_3",
+    "tier" : "38",
+    "row" : "6",
+    "show" : "1"
+  }, {
+    "id" : "research_economy_1_wood_gather_3",
+    "tree" : "13",
+    "name" : "research_economy_1_wood_gather_3_name",
+    "loc_research_description_id" : "research_economy_1_wood_gather_3_description",
+    "image" : "ui_research_economy_1_wood_gather_3",
+    "tier" : "38",
+    "row" : "4",
+    "show" : "1"
+  }, {
+    "id" : "research_economy_1_ore_gather_3",
+    "tree" : "13",
+    "name" : "research_economy_1_ore_gather_3_name",
+    "loc_research_description_id" : "research_economy_1_ore_gather_3_description",
+    "image" : "ui_research_economy_1_ore_gather_3",
+    "tier" : "38",
+    "row" : "2",
+    "show" : "1"
+  }, {
+    "id" : "research_economy_1_silver_gather_3",
+    "tree" : "13",
+    "name" : "research_economy_1_silver_gather_3_name",
+    "loc_research_description_id" : "research_economy_1_silver_gather_3_description",
+    "image" : "ui_research_economy_1_silver_gather_3",
+    "tier" : "38",
+    "row" : "0",
+    "show" : "1"
+  }, {
+    "id" : "research_economy_1_spirit_speed_2",
+    "tree" : "13",
+    "name" : "research_economy_1_spirit_speed_2_name",
+    "loc_research_description_id" : "research_economy_1_spirit_speed_2_description",
+    "image" : "ui_research_economy_1_spirit_speed_2",
+    "tier" : "40",
+    "row" : "3",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_1_march_limit_1",
+    "tree" : "14",
+    "name" : "research_battle_1_march_limit_1_name",
+    "loc_research_description_id" : "research_battle_1_march_limit_1_description",
+    "image" : "ui_research_battle_1_march_limit_1",
+    "tier" : "0",
+    "row" : "3",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_1_siege_attack_percent_1",
+    "tree" : "14",
+    "name" : "research_battle_1_siege_attack_percent_1_name",
+    "loc_research_description_id" : "research_battle_1_siege_attack_percent_1_description",
+    "image" : "ui_research_battle_1_siege_attack_percent_1",
+    "tier" : "2",
+    "row" : "5",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_1_siege_defend_percent_1",
+    "tree" : "14",
+    "name" : "research_battle_1_siege_defend_percent_1_name",
+    "loc_research_description_id" : "research_battle_1_siege_defend_percent_1_description",
+    "image" : "ui_research_battle_1_siege_defend_percent_1",
+    "tier" : "2",
+    "row" : "3",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_1_siege_hp_percent_1",
+    "tree" : "14",
+    "name" : "research_battle_1_siege_hp_percent_1_name",
+    "loc_research_description_id" : "research_battle_1_siege_hp_percent_1_description",
+    "image" : "ui_research_battle_1_siege_hp_percent_1",
+    "tier" : "2",
+    "row" : "1",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_1_march_speed_1",
+    "tree" : "14",
+    "name" : "research_battle_1_march_speed_1_name",
+    "loc_research_description_id" : "research_battle_1_march_speed_1_description",
+    "image" : "ui_research_battle_1_march_speed_1",
+    "tier" : "4",
+    "row" : "3",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_1_unlock_siege_1",
+    "tree" : "14",
+    "name" : "research_battle_1_unlock_siege_1_name",
+    "loc_research_description_id" : "research_battle_1_unlock_siege_1_description",
+    "image" : "ui_research_battle_1_unlock_siege_1",
+    "tier" : "6",
+    "row" : "3",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_1_unlock_infantry_1",
+    "tree" : "14",
+    "name" : "research_battle_1_unlock_infantry_1_name",
+    "loc_research_description_id" : "research_battle_1_unlock_infantry_1_description",
+    "image" : "ui_research_battle_1_unlock_infantry_1",
+    "tier" : "8",
+    "row" : "5",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_1_unlock_cavalry_1",
+    "tree" : "14",
+    "name" : "research_battle_1_unlock_cavalry_1_name",
+    "loc_research_description_id" : "research_battle_1_unlock_cavalry_1_description",
+    "image" : "ui_research_battle_1_unlock_cavalry_1",
+    "tier" : "8",
+    "row" : "3",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_1_unlock_ranged_1",
+    "tree" : "14",
+    "name" : "research_battle_1_unlock_ranged_1_name",
+    "loc_research_description_id" : "research_battle_1_unlock_ranged_1_description",
+    "image" : "ui_research_battle_1_unlock_ranged_1",
+    "tier" : "8",
+    "row" : "1",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_1_infantry_attack_percent_1",
+    "tree" : "14",
+    "name" : "research_battle_1_infantry_attack_percent_1_name",
+    "loc_research_description_id" : "research_battle_1_infantry_attack_percent_1_description",
+    "image" : "ui_research_battle_1_infantry_attack_percent_1",
+    "tier" : "10",
+    "row" : "5",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_1_cavalry_attack_percent_1",
+    "tree" : "14",
+    "name" : "research_battle_1_cavalry_attack_percent_1_name",
+    "loc_research_description_id" : "research_battle_1_cavalry_attack_percent_1_description",
+    "image" : "ui_research_battle_1_cavalry_attack_percent_1",
+    "tier" : "10",
+    "row" : "3",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_1_ranged_attack_percent_1",
+    "tree" : "14",
+    "name" : "research_battle_1_ranged_attack_percent_1_name",
+    "loc_research_description_id" : "research_battle_1_ranged_attack_percent_1_description",
+    "image" : "ui_research_battle_1_ranged_attack_percent_1",
+    "tier" : "10",
+    "row" : "1",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_1_infantry_defend_percent_1",
+    "tree" : "14",
+    "name" : "research_battle_1_infantry_defend_percent_1_name",
+    "loc_research_description_id" : "research_battle_1_infantry_defend_percent_1_description",
+    "image" : "ui_research_battle_1_infantry_defend_percent_1",
+    "tier" : "12",
+    "row" : "5",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_1_cavalry_defend_percent_1",
+    "tree" : "14",
+    "name" : "research_battle_1_cavalry_defend_percent_1_name",
+    "loc_research_description_id" : "research_battle_1_cavalry_defend_percent_1_description",
+    "image" : "ui_research_battle_1_cavalry_defend_percent_1",
+    "tier" : "12",
+    "row" : "3",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_1_ranged_defend_percent_1",
+    "tree" : "14",
+    "name" : "research_battle_1_ranged_defend_percent_1_name",
+    "loc_research_description_id" : "research_battle_1_ranged_defend_percent_1_description",
+    "image" : "ui_research_battle_1_ranged_defend_percent_1",
+    "tier" : "12",
+    "row" : "1",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_1_infantry_hp_percent_1",
+    "tree" : "14",
+    "name" : "research_battle_1_infantry_hp_percent_1_name",
+    "loc_research_description_id" : "research_battle_1_infantry_hp_percent_1_description",
+    "image" : "ui_research_battle_1_infantry_hp_percent_1",
+    "tier" : "14",
+    "row" : "5",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_1_cavalry_hp_percent_1",
+    "tree" : "14",
+    "name" : "research_battle_1_cavalry_hp_percent_1_name",
+    "loc_research_description_id" : "research_battle_1_cavalry_hp_percent_1_description",
+    "image" : "ui_research_battle_1_cavalry_hp_percent_1",
+    "tier" : "14",
+    "row" : "3",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_1_ranged_hp_percent_1",
+    "tree" : "14",
+    "name" : "research_battle_1_ranged_hp_percent_1_name",
+    "loc_research_description_id" : "research_battle_1_ranged_hp_percent_1_description",
+    "image" : "ui_research_battle_1_ranged_hp_percent_1",
+    "tier" : "14",
+    "row" : "1",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_1_march_capacity_1",
+    "tree" : "14",
+    "name" : "research_battle_1_march_capacity_1_name",
+    "loc_research_description_id" : "research_battle_1_march_capacity_1_description",
+    "image" : "ui_research_battle_1_march_capacity_1",
+    "tier" : "16",
+    "row" : "3",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_1_unlock_siege_2",
+    "tree" : "14",
+    "name" : "research_battle_1_unlock_siege_2_name",
+    "loc_research_description_id" : "research_battle_1_unlock_siege_2_description",
+    "image" : "ui_research_battle_1_unlock_siege_2",
+    "tier" : "18",
+    "row" : "6",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_1_unlock_infantry_2",
+    "tree" : "14",
+    "name" : "research_battle_1_unlock_infantry_2_name",
+    "loc_research_description_id" : "research_battle_1_unlock_infantry_2_description",
+    "image" : "ui_research_battle_1_unlock_infantry_2",
+    "tier" : "18",
+    "row" : "4",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_1_unlock_cavalry_2",
+    "tree" : "14",
+    "name" : "research_battle_1_unlock_cavalry_2_name",
+    "loc_research_description_id" : "research_battle_1_unlock_cavalry_2_description",
+    "image" : "ui_research_battle_1_unlock_cavalry_2",
+    "tier" : "18",
+    "row" : "2",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_1_unlock_ranged_2",
+    "tree" : "14",
+    "name" : "research_battle_1_unlock_ranged_2_name",
+    "loc_research_description_id" : "research_battle_1_unlock_ranged_2_description",
+    "image" : "ui_research_battle_1_unlock_ranged_2",
+    "tier" : "18",
+    "row" : "0",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_1_formation_1",
+    "tree" : "14",
+    "name" : "research_battle_1_formation_1_name",
+    "loc_research_description_id" : "research_battle_1_formation_1_description",
+    "image" : "ui_research_battle_1_formation_1",
+    "tier" : "20",
+    "row" : "3",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_1_infantry_attack_percent_2",
+    "tree" : "14",
+    "name" : "research_battle_1_infantry_attack_percent_2_name",
+    "loc_research_description_id" : "research_battle_1_infantry_attack_percent_2_description",
+    "image" : "ui_research_battle_1_infantry_attack_percent_2",
+    "tier" : "22",
+    "row" : "5",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_1_cavalry_attack_percent_2",
+    "tree" : "14",
+    "name" : "research_battle_1_cavalry_attack_percent_2_name",
+    "loc_research_description_id" : "research_battle_1_cavalry_attack_percent_2_description",
+    "image" : "ui_research_battle_1_cavalry_attack_percent_2",
+    "tier" : "22",
+    "row" : "3",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_1_ranged_attack_percent_2",
+    "tree" : "14",
+    "name" : "research_battle_1_ranged_attack_percent_2_name",
+    "loc_research_description_id" : "research_battle_1_ranged_attack_percent_2_description",
+    "image" : "ui_research_battle_1_ranged_attack_percent_2",
+    "tier" : "22",
+    "row" : "1",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_1_infantry_defend_percent_2",
+    "tree" : "14",
+    "name" : "research_battle_1_infantry_defend_percent_2_name",
+    "loc_research_description_id" : "research_battle_1_infantry_defend_percent_2_description",
+    "image" : "ui_research_battle_1_infantry_defend_percent_2",
+    "tier" : "24",
+    "row" : "5",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_1_cavalry_defend_percent_2",
+    "tree" : "14",
+    "name" : "research_battle_1_cavalry_defend_percent_2_name",
+    "loc_research_description_id" : "research_battle_1_cavalry_defend_percent_2_description",
+    "image" : "ui_research_battle_1_cavalry_defend_percent_2",
+    "tier" : "24",
+    "row" : "3",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_1_ranged_defend_percent_2",
+    "tree" : "14",
+    "name" : "research_battle_1_ranged_defend_percent_2_name",
+    "loc_research_description_id" : "research_battle_1_ranged_defend_percent_2_description",
+    "image" : "ui_research_battle_1_ranged_defend_percent_2",
+    "tier" : "24",
+    "row" : "1",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_1_infantry_hp_percent_2",
+    "tree" : "14",
+    "name" : "research_battle_1_infantry_hp_percent_2_name",
+    "loc_research_description_id" : "research_battle_1_infantry_hp_percent_2_description",
+    "image" : "ui_research_battle_1_infantry_hp_percent_2",
+    "tier" : "26",
+    "row" : "5",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_1_cavalry_hp_percent_2",
+    "tree" : "14",
+    "name" : "research_battle_1_cavalry_hp_percent_2_name",
+    "loc_research_description_id" : "research_battle_1_cavalry_hp_percent_2_description",
+    "image" : "ui_research_battle_1_cavalry_hp_percent_2",
+    "tier" : "26",
+    "row" : "3",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_1_ranged_hp_percent_2",
+    "tree" : "14",
+    "name" : "research_battle_1_ranged_hp_percent_2_name",
+    "loc_research_description_id" : "research_battle_1_ranged_hp_percent_2_description",
+    "image" : "ui_research_battle_1_ranged_hp_percent_2",
+    "tier" : "26",
+    "row" : "1",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_1_wounded_1",
+    "tree" : "14",
+    "name" : "research_battle_1_wounded_1_name",
+    "loc_research_description_id" : "research_battle_1_wounded_1_description",
+    "image" : "ui_research_battle_1_wounded_1",
+    "tier" : "28",
+    "row" : "3",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_1_unlock_siege_3",
+    "tree" : "14",
+    "name" : "research_battle_1_unlock_siege_3_name",
+    "loc_research_description_id" : "research_battle_1_unlock_siege_3_description",
+    "image" : "ui_research_battle_1_unlock_siege_3",
+    "tier" : "30",
+    "row" : "6",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_1_unlock_infantry_3",
+    "tree" : "14",
+    "name" : "research_battle_1_unlock_infantry_3_name",
+    "loc_research_description_id" : "research_battle_1_unlock_infantry_3_description",
+    "image" : "ui_research_battle_1_unlock_infantry_3",
+    "tier" : "30",
+    "row" : "4",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_1_unlock_cavalry_3",
+    "tree" : "14",
+    "name" : "research_battle_1_unlock_cavalry_3_name",
+    "loc_research_description_id" : "research_battle_1_unlock_cavalry_3_description",
+    "image" : "ui_research_battle_1_unlock_cavalry_3",
+    "tier" : "30",
+    "row" : "2",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_1_unlock_ranged_3",
+    "tree" : "14",
+    "name" : "research_battle_1_unlock_ranged_3_name",
+    "loc_research_description_id" : "research_battle_1_unlock_ranged_3_description",
+    "image" : "ui_research_battle_1_unlock_ranged_3",
+    "tier" : "30",
+    "row" : "0",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_1_march_capacity_2",
+    "tree" : "14",
+    "name" : "research_battle_1_march_capacity_2_name",
+    "loc_research_description_id" : "research_battle_1_march_capacity_2_description",
+    "image" : "ui_research_battle_1_march_capacity_2",
+    "tier" : "32",
+    "row" : "3",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_1_army_attack_percent_1",
+    "tree" : "14",
+    "name" : "research_battle_1_army_attack_percent_1_name",
+    "loc_research_description_id" : "research_battle_1_army_attack_percent_1_description",
+    "image" : "ui_research_battle_1_army_attack_percent_1",
+    "tier" : "34",
+    "row" : "5",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_1_army_defend_percent_1",
+    "tree" : "14",
+    "name" : "research_battle_1_army_defend_percent_1_name",
+    "loc_research_description_id" : "research_battle_1_army_defend_percent_1_description",
+    "image" : "ui_research_battle_1_army_defend_percent_1",
+    "tier" : "34",
+    "row" : "3",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_1_army_hp_percent_1",
+    "tree" : "14",
+    "name" : "research_battle_1_army_hp_percent_1_name",
+    "loc_research_description_id" : "research_battle_1_army_hp_percent_1_description",
+    "image" : "ui_research_battle_1_army_hp_percent_1",
+    "tier" : "34",
+    "row" : "1",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_1_march_speed_2",
+    "tree" : "14",
+    "name" : "research_battle_1_march_speed_2_name",
+    "loc_research_description_id" : "research_battle_1_march_speed_2_description",
+    "image" : "ui_research_battle_1_march_speed_2",
+    "tier" : "36",
+    "row" : "3",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_1_army_base_percent_1",
+    "tree" : "14",
+    "name" : "research_battle_1_army_base_percent_1_name",
+    "loc_research_description_id" : "research_battle_1_army_base_percent_1_description",
+    "image" : "ui_research_battle_1_army_base_percent_1",
+    "tier" : "38",
+    "row" : "3",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_2_march_capacity_1",
+    "tree" : "15",
+    "name" : "research_battle_2_march_capacity_1_name",
+    "loc_research_description_id" : "research_battle_2_march_capacity_1_description",
+    "image" : "ui_research_battle_2_march_capacity_1",
+    "tier" : "0",
+    "row" : "3",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_2_siege_attack_percent_1",
+    "tree" : "15",
+    "name" : "research_battle_2_siege_attack_percent_1_name",
+    "loc_research_description_id" : "research_battle_2_siege_attack_percent_1_description",
+    "image" : "ui_research_battle_2_siege_attack_percent_1",
+    "tier" : "2",
+    "row" : "5",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_2_siege_defend_percent_1",
+    "tree" : "15",
+    "name" : "research_battle_2_siege_defend_percent_1_name",
+    "loc_research_description_id" : "research_battle_2_siege_defend_percent_1_description",
+    "image" : "ui_research_battle_2_siege_defend_percent_1",
+    "tier" : "2",
+    "row" : "3",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_2_siege_hp_percent_1",
+    "tree" : "15",
+    "name" : "research_battle_2_siege_hp_percent_1_name",
+    "loc_research_description_id" : "research_battle_2_siege_hp_percent_1_description",
+    "image" : "ui_research_battle_2_siege_hp_percent_1",
+    "tier" : "2",
+    "row" : "1",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_2_wounded_1",
+    "tree" : "15",
+    "name" : "research_battle_2_wounded_1_name",
+    "loc_research_description_id" : "research_battle_2_wounded_1_description",
+    "image" : "ui_research_battle_2_wounded_1",
+    "tier" : "4",
+    "row" : "3",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_2_unlock_siege_1",
+    "tree" : "15",
+    "name" : "research_battle_2_unlock_siege_1_name",
+    "loc_research_description_id" : "research_battle_2_unlock_siege_1_description",
+    "image" : "ui_research_battle_2_unlock_siege_1",
+    "tier" : "6",
+    "row" : "6",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_2_unlock_infantry_1",
+    "tree" : "15",
+    "name" : "research_battle_2_unlock_infantry_1_name",
+    "loc_research_description_id" : "research_battle_2_unlock_infantry_1_description",
+    "image" : "ui_research_battle_2_unlock_infantry_1",
+    "tier" : "6",
+    "row" : "4",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_2_unlock_cavalry_1",
+    "tree" : "15",
+    "name" : "research_battle_2_unlock_cavalry_1_name",
+    "loc_research_description_id" : "research_battle_2_unlock_cavalry_1_description",
+    "image" : "ui_research_battle_2_unlock_cavalry_1",
+    "tier" : "6",
+    "row" : "2",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_2_unlock_ranged_1",
+    "tree" : "15",
+    "name" : "research_battle_2_unlock_ranged_1_name",
+    "loc_research_description_id" : "research_battle_2_unlock_ranged_1_description",
+    "image" : "ui_research_battle_2_unlock_ranged_1",
+    "tier" : "6",
+    "row" : "0",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_2_march_limit_1",
+    "tree" : "15",
+    "name" : "research_battle_2_march_limit_1_name",
+    "loc_research_description_id" : "research_battle_2_march_limit_1_description",
+    "image" : "ui_research_battle_2_march_limit_1",
+    "tier" : "8",
+    "row" : "3",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_2_infantry_attack_percent_1",
+    "tree" : "15",
+    "name" : "research_battle_2_infantry_attack_percent_1_name",
+    "loc_research_description_id" : "research_battle_2_infantry_attack_percent_1_description",
+    "image" : "ui_research_battle_2_infantry_attack_percent_1",
+    "tier" : "10",
+    "row" : "5",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_2_cavalry_attack_percent_1",
+    "tree" : "15",
+    "name" : "research_battle_2_cavalry_attack_percent_1_name",
+    "loc_research_description_id" : "research_battle_2_cavalry_attack_percent_1_description",
+    "image" : "ui_research_battle_2_cavalry_attack_percent_1",
+    "tier" : "10",
+    "row" : "3",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_2_ranged_attack_percent_1",
+    "tree" : "15",
+    "name" : "research_battle_2_ranged_attack_percent_1_name",
+    "loc_research_description_id" : "research_battle_2_ranged_attack_percent_1_description",
+    "image" : "ui_research_battle_2_ranged_attack_percent_1",
+    "tier" : "10",
+    "row" : "1",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_2_infantry_defend_percent_1",
+    "tree" : "15",
+    "name" : "research_battle_2_infantry_defend_percent_1_name",
+    "loc_research_description_id" : "research_battle_2_infantry_defend_percent_1_description",
+    "image" : "ui_research_battle_2_infantry_defend_percent_1",
+    "tier" : "12",
+    "row" : "5",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_2_cavalry_defend_percent_1",
+    "tree" : "15",
+    "name" : "research_battle_2_cavalry_defend_percent_1_name",
+    "loc_research_description_id" : "research_battle_2_cavalry_defend_percent_1_description",
+    "image" : "ui_research_battle_2_cavalry_defend_percent_1",
+    "tier" : "12",
+    "row" : "3",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_2_ranged_defend_percent_1",
+    "tree" : "15",
+    "name" : "research_battle_2_ranged_defend_percent_1_name",
+    "loc_research_description_id" : "research_battle_2_ranged_defend_percent_1_description",
+    "image" : "ui_research_battle_2_ranged_defend_percent_1",
+    "tier" : "12",
+    "row" : "1",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_2_infantry_hp_percent_1",
+    "tree" : "15",
+    "name" : "research_battle_2_infantry_hp_percent_1_name",
+    "loc_research_description_id" : "research_battle_2_infantry_hp_percent_1_description",
+    "image" : "ui_research_battle_2_infantry_hp_percent_1",
+    "tier" : "14",
+    "row" : "5",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_2_cavalry_hp_percent_1",
+    "tree" : "15",
+    "name" : "research_battle_2_cavalry_hp_percent_1_name",
+    "loc_research_description_id" : "research_battle_2_cavalry_hp_percent_1_description",
+    "image" : "ui_research_battle_2_cavalry_hp_percent_1",
+    "tier" : "14",
+    "row" : "3",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_2_ranged_hp_percent_1",
+    "tree" : "15",
+    "name" : "research_battle_2_ranged_hp_percent_1_name",
+    "loc_research_description_id" : "research_battle_2_ranged_hp_percent_1_description",
+    "image" : "ui_research_battle_2_ranged_hp_percent_1",
+    "tier" : "14",
+    "row" : "1",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_2_march_capacity_2",
+    "tree" : "15",
+    "name" : "research_battle_2_march_capacity_2_name",
+    "loc_research_description_id" : "research_battle_2_march_capacity_2_description",
+    "image" : "ui_research_battle_2_march_capacity_2",
+    "tier" : "16",
+    "row" : "3",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_2_army_attack_percent_1",
+    "tree" : "15",
+    "name" : "research_battle_2_army_attack_percent_1_name",
+    "loc_research_description_id" : "research_battle_2_army_attack_percent_1_description",
+    "image" : "ui_research_battle_2_army_attack_percent_1",
+    "tier" : "18",
+    "row" : "5",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_2_army_defend_percent_1",
+    "tree" : "15",
+    "name" : "research_battle_2_army_defend_percent_1_name",
+    "loc_research_description_id" : "research_battle_2_army_defend_percent_1_description",
+    "image" : "ui_research_battle_2_army_defend_percent_1",
+    "tier" : "18",
+    "row" : "3",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_2_army_hp_percent_1",
+    "tree" : "15",
+    "name" : "research_battle_2_army_hp_percent_1_name",
+    "loc_research_description_id" : "research_battle_2_army_hp_percent_1_description",
+    "image" : "ui_research_battle_2_army_hp_percent_1",
+    "tier" : "18",
+    "row" : "1",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_2_march_limit_2",
+    "tree" : "15",
+    "name" : "research_battle_2_march_limit_2_name",
+    "loc_research_description_id" : "research_battle_2_march_limit_2_description",
+    "image" : "ui_research_battle_2_march_limit_2",
+    "tier" : "20",
+    "row" : "3",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_2_unlock_siege_2",
+    "tree" : "15",
+    "name" : "research_battle_2_unlock_siege_2_name",
+    "loc_research_description_id" : "research_battle_2_unlock_siege_2_description",
+    "image" : "ui_research_battle_2_unlock_siege_2",
+    "tier" : "22",
+    "row" : "6",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_2_unlock_infantry_2",
+    "tree" : "15",
+    "name" : "research_battle_2_unlock_infantry_2_name",
+    "loc_research_description_id" : "research_battle_2_unlock_infantry_2_description",
+    "image" : "ui_research_battle_2_unlock_infantry_2",
+    "tier" : "22",
+    "row" : "4",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_2_unlock_cavalry_2",
+    "tree" : "15",
+    "name" : "research_battle_2_unlock_cavalry_2_name",
+    "loc_research_description_id" : "research_battle_2_unlock_cavalry_2_description",
+    "image" : "ui_research_battle_2_unlock_cavalry_2",
+    "tier" : "22",
+    "row" : "2",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_2_unlock_ranged_2",
+    "tree" : "15",
+    "name" : "research_battle_2_unlock_ranged_2_name",
+    "loc_research_description_id" : "research_battle_2_unlock_ranged_2_description",
+    "image" : "ui_research_battle_2_unlock_ranged_2",
+    "tier" : "22",
+    "row" : "0",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_2_formation_1",
+    "tree" : "15",
+    "name" : "research_battle_2_formation_1_name",
+    "loc_research_description_id" : "research_battle_2_formation_1_description",
+    "image" : "ui_research_battle_2_formation_1",
+    "tier" : "24",
+    "row" : "3",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_2_infantry_attack_percent_2",
+    "tree" : "15",
+    "name" : "research_battle_2_infantry_attack_percent_2_name",
+    "loc_research_description_id" : "research_battle_2_infantry_attack_percent_2_description",
+    "image" : "ui_research_battle_2_infantry_attack_percent_2",
+    "tier" : "26",
+    "row" : "5",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_2_cavalry_attack_percent_2",
+    "tree" : "15",
+    "name" : "research_battle_2_cavalry_attack_percent_2_name",
+    "loc_research_description_id" : "research_battle_2_cavalry_attack_percent_2_description",
+    "image" : "ui_research_battle_2_cavalry_attack_percent_2",
+    "tier" : "26",
+    "row" : "3",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_2_ranged_attack_percent_2",
+    "tree" : "15",
+    "name" : "research_battle_2_ranged_attack_percent_2_name",
+    "loc_research_description_id" : "research_battle_2_ranged_attack_percent_2_description",
+    "image" : "ui_research_battle_2_ranged_attack_percent_2",
+    "tier" : "26",
+    "row" : "1",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_2_infantry_defend_percent_2",
+    "tree" : "15",
+    "name" : "research_battle_2_infantry_defend_percent_2_name",
+    "loc_research_description_id" : "research_battle_2_infantry_defend_percent_2_description",
+    "image" : "ui_research_battle_2_infantry_defend_percent_2",
+    "tier" : "28",
+    "row" : "5",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_2_cavalry_defend_percent_2",
+    "tree" : "15",
+    "name" : "research_battle_2_cavalry_defend_percent_2_name",
+    "loc_research_description_id" : "research_battle_2_cavalry_defend_percent_2_description",
+    "image" : "ui_research_battle_2_cavalry_defend_percent_2",
+    "tier" : "28",
+    "row" : "3",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_2_ranged_defend_percent_2",
+    "tree" : "15",
+    "name" : "research_battle_2_ranged_defend_percent_2_name",
+    "loc_research_description_id" : "research_battle_2_ranged_defend_percent_2_description",
+    "image" : "ui_research_battle_2_ranged_defend_percent_2",
+    "tier" : "28",
+    "row" : "1",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_2_infantry_hp_percent_2",
+    "tree" : "15",
+    "name" : "research_battle_2_infantry_hp_percent_2_name",
+    "loc_research_description_id" : "research_battle_2_infantry_hp_percent_2_description",
+    "image" : "ui_research_battle_2_infantry_hp_percent_2",
+    "tier" : "30",
+    "row" : "5",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_2_cavalry_hp_percent_2",
+    "tree" : "15",
+    "name" : "research_battle_2_cavalry_hp_percent_2_name",
+    "loc_research_description_id" : "research_battle_2_cavalry_hp_percent_2_description",
+    "image" : "ui_research_battle_2_cavalry_hp_percent_2",
+    "tier" : "30",
+    "row" : "3",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_2_ranged_hp_percent_2",
+    "tree" : "15",
+    "name" : "research_battle_2_ranged_hp_percent_2_name",
+    "loc_research_description_id" : "research_battle_2_ranged_hp_percent_2_description",
+    "image" : "ui_research_battle_2_ranged_hp_percent_2",
+    "tier" : "30",
+    "row" : "1",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_2_march_capacity_3",
+    "tree" : "15",
+    "name" : "research_battle_2_march_capacity_3_name",
+    "loc_research_description_id" : "research_battle_2_march_capacity_3_description",
+    "image" : "ui_research_battle_2_march_capacity_3",
+    "tier" : "32",
+    "row" : "3",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_2_army_attack_percent_2",
+    "tree" : "15",
+    "name" : "research_battle_2_army_attack_percent_2_name",
+    "loc_research_description_id" : "research_battle_2_army_attack_percent_2_description",
+    "image" : "ui_research_battle_2_army_attack_percent_2",
+    "tier" : "34",
+    "row" : "5",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_2_army_defend_percent_2",
+    "tree" : "15",
+    "name" : "research_battle_2_army_defend_percent_2_name",
+    "loc_research_description_id" : "research_battle_2_army_defend_percent_2_description",
+    "image" : "ui_research_battle_2_army_defend_percent_2",
+    "tier" : "34",
+    "row" : "3",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_2_army_hp_percent_2",
+    "tree" : "15",
+    "name" : "research_battle_2_army_hp_percent_2_name",
+    "loc_research_description_id" : "research_battle_2_army_hp_percent_2_description",
+    "image" : "ui_research_battle_2_army_hp_percent_2",
+    "tier" : "34",
+    "row" : "1",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_2_wounded_2",
+    "tree" : "15",
+    "name" : "research_battle_2_wounded_2_name",
+    "loc_research_description_id" : "research_battle_2_wounded_2_description",
+    "image" : "ui_research_battle_2_wounded_2",
+    "tier" : "36",
+    "row" : "3",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_2_infantry_attack_percent_3",
+    "tree" : "15",
+    "name" : "research_battle_2_infantry_attack_percent_3_name",
+    "loc_research_description_id" : "research_battle_2_infantry_attack_percent_3_description",
+    "image" : "ui_research_battle_2_infantry_attack_percent_3",
+    "tier" : "38",
+    "row" : "5",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_2_cavalry_attack_percent_3",
+    "tree" : "15",
+    "name" : "research_battle_2_cavalry_attack_percent_3_name",
+    "loc_research_description_id" : "research_battle_2_cavalry_attack_percent_3_description",
+    "image" : "ui_research_battle_2_cavalry_attack_percent_3",
+    "tier" : "38",
+    "row" : "3",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_2_ranged_attack_percent_3",
+    "tree" : "15",
+    "name" : "research_battle_2_ranged_attack_percent_3_name",
+    "loc_research_description_id" : "research_battle_2_ranged_attack_percent_3_description",
+    "image" : "ui_research_battle_2_ranged_attack_percent_3",
+    "tier" : "38",
+    "row" : "1",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_2_army_attack_percent_3",
+    "tree" : "15",
+    "name" : "research_battle_2_army_attack_percent_3_name",
+    "loc_research_description_id" : "research_battle_2_army_attack_percent_3_description",
+    "image" : "ui_research_battle_2_army_attack_percent_3",
+    "tier" : "40",
+    "row" : "3",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_2_infantry_defend_percent_3",
+    "tree" : "15",
+    "name" : "research_battle_2_infantry_defend_percent_3_name",
+    "loc_research_description_id" : "research_battle_2_infantry_defend_percent_3_description",
+    "image" : "ui_research_battle_2_infantry_defend_percent_3",
+    "tier" : "42",
+    "row" : "5",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_2_cavalry_defend_percent_3",
+    "tree" : "15",
+    "name" : "research_battle_2_cavalry_defend_percent_3_name",
+    "loc_research_description_id" : "research_battle_2_cavalry_defend_percent_3_description",
+    "image" : "ui_research_battle_2_cavalry_defend_percent_3",
+    "tier" : "42",
+    "row" : "3",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_2_ranged_defend_percent_3",
+    "tree" : "15",
+    "name" : "research_battle_2_ranged_defend_percent_3_name",
+    "loc_research_description_id" : "research_battle_2_ranged_defend_percent_3_description",
+    "image" : "ui_research_battle_2_ranged_defend_percent_3",
+    "tier" : "42",
+    "row" : "1",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_2_army_defend_percent_3",
+    "tree" : "15",
+    "name" : "research_battle_2_army_defend_percent_3_name",
+    "loc_research_description_id" : "research_battle_2_army_defend_percent_3_description",
+    "image" : "ui_research_battle_2_army_defend_percent_3",
+    "tier" : "44",
+    "row" : "3",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_2_infantry_hp_percent_3",
+    "tree" : "15",
+    "name" : "research_battle_2_infantry_hp_percent_3_name",
+    "loc_research_description_id" : "research_battle_2_infantry_hp_percent_3_description",
+    "image" : "ui_research_battle_2_infantry_hp_percent_3",
+    "tier" : "46",
+    "row" : "5",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_2_cavalry_hp_percent_3",
+    "tree" : "15",
+    "name" : "research_battle_2_cavalry_hp_percent_3_name",
+    "loc_research_description_id" : "research_battle_2_cavalry_hp_percent_3_description",
+    "image" : "ui_research_battle_2_cavalry_hp_percent_3",
+    "tier" : "46",
+    "row" : "3",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_2_ranged_hp_percent_3",
+    "tree" : "15",
+    "name" : "research_battle_2_ranged_hp_percent_3_name",
+    "loc_research_description_id" : "research_battle_2_ranged_hp_percent_3_description",
+    "image" : "ui_research_battle_2_ranged_hp_percent_3",
+    "tier" : "46",
+    "row" : "1",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_2_army_hp_percent_3",
+    "tree" : "15",
+    "name" : "research_battle_2_army_hp_percent_3_name",
+    "loc_research_description_id" : "research_battle_2_army_hp_percent_3_description",
+    "image" : "ui_research_battle_2_army_hp_percent_3",
+    "tier" : "48",
+    "row" : "3",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_2_siege_attack_percent_2",
+    "tree" : "15",
+    "name" : "research_battle_2_siege_attack_percent_2_name",
+    "loc_research_description_id" : "research_battle_2_siege_attack_percent_2_description",
+    "image" : "ui_research_battle_2_siege_attack_percent_2",
+    "tier" : "50",
+    "row" : "5",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_2_siege_defend_percent_2",
+    "tree" : "15",
+    "name" : "research_battle_2_siege_defend_percent_2_name",
+    "loc_research_description_id" : "research_battle_2_siege_defend_percent_2_description",
+    "image" : "ui_research_battle_2_siege_defend_percent_2",
+    "tier" : "50",
+    "row" : "3",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_2_siege_hp_percent_2",
+    "tree" : "15",
+    "name" : "research_battle_2_siege_hp_percent_2_name",
+    "loc_research_description_id" : "research_battle_2_siege_hp_percent_2_description",
+    "image" : "ui_research_battle_2_siege_hp_percent_2",
+    "tier" : "50",
+    "row" : "1",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_2_march_capacity_4",
+    "tree" : "15",
+    "name" : "research_battle_2_march_capacity_4_name",
+    "loc_research_description_id" : "research_battle_2_march_capacity_4_description",
+    "image" : "ui_research_battle_2_march_capacity_4",
+    "tier" : "52",
+    "row" : "3",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_2_unlock_siege_3",
+    "tree" : "15",
+    "name" : "research_battle_2_unlock_siege_3_name",
+    "loc_research_description_id" : "research_battle_2_unlock_siege_3_description",
+    "image" : "ui_research_battle_2_unlock_siege_3",
+    "tier" : "54",
+    "row" : "6",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_2_unlock_infantry_3",
+    "tree" : "15",
+    "name" : "research_battle_2_unlock_infantry_3_name",
+    "loc_research_description_id" : "research_battle_2_unlock_infantry_3_description",
+    "image" : "ui_research_battle_2_unlock_infantry_3",
+    "tier" : "54",
+    "row" : "4",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_2_unlock_cavalry_3",
+    "tree" : "15",
+    "name" : "research_battle_2_unlock_cavalry_3_name",
+    "loc_research_description_id" : "research_battle_2_unlock_cavalry_3_description",
+    "image" : "ui_research_battle_2_unlock_cavalry_3",
+    "tier" : "54",
+    "row" : "2",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_2_unlock_ranged_3",
+    "tree" : "15",
+    "name" : "research_battle_2_unlock_ranged_3_name",
+    "loc_research_description_id" : "research_battle_2_unlock_ranged_3_description",
+    "image" : "ui_research_battle_2_unlock_ranged_3",
+    "tier" : "54",
+    "row" : "0",
+    "show" : "1"
+  }, {
+    "id" : "research_battle_2_army_base_percent_1",
+    "tree" : "15",
+    "name" : "research_battle_2_army_base_percent_1_name",
+    "loc_research_description_id" : "research_battle_2_army_base_percent_1_description",
+    "image" : "ui_research_battle_2_army_base_percent_1",
+    "tier" : "56",
+    "row" : "3",
+    "show" : "1"
+  } ]
+}

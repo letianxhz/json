@@ -1,0 +1,58 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "priority" : "priority@int",
+    "type" : "type@string",
+    "name" : "name@string^c",
+    "is_display" : "is_display@int"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "priority" : "优先级",
+    "type" : "类型",
+    "name" : "名称",
+    "is_display" : "是否显示"
+  }, {
+    "id" : "lord_title_sort_achievement",
+    "priority" : "1",
+    "type" : "achievement",
+    "name" : "id_achievements",
+    "is_display" : "1"
+  }, {
+    "id" : "lord_title_sort_merlin_trial_dragon",
+    "priority" : "2",
+    "type" : "merlin_trial_dragon",
+    "name" : "trial_dragon_subtitle",
+    "is_display" : "0"
+  }, {
+    "id" : "lord_title_sort_merlin_trial_equipment",
+    "priority" : "3",
+    "type" : "merlin_trial_equipment",
+    "name" : "trial_equipment_subtitle",
+    "is_display" : "0"
+  }, {
+    "id" : "lord_title_sort_merlin_trial_gemstone",
+    "priority" : "4",
+    "type" : "merlin_trial_gemstone",
+    "name" : "trial_gemstone_subtitle",
+    "is_display" : "0"
+  }, {
+    "id" : "lord_title_sort_merlin_trial_research",
+    "priority" : "5",
+    "type" : "merlin_trial_research",
+    "name" : "trial_research_subtitle",
+    "is_display" : "0"
+  }, {
+    "id" : "lord_title_sort_merlin_trial_building",
+    "priority" : "6",
+    "type" : "merlin_trial_building",
+    "name" : "trial_building_subtitle",
+    "is_display" : "0"
+  }, {
+    "id" : "lord_title_sort_special",
+    "priority" : "7",
+    "type" : "special",
+    "name" : "id_packages",
+    "is_display" : "0"
+  } ]
+}

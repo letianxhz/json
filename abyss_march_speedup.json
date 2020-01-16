@@ -1,0 +1,64 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "times_min" : "times_min@int",
+    "times_max" : "times_max@int",
+    "gold_cost" : "gold_cost@int"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "times_min" : "第n次加速（最小值）",
+    "times_max" : "第n次加速（最大值）",
+    "gold_cost" : "金币消耗"
+  }, {
+    "id" : "1",
+    "times_min" : "1",
+    "times_max" : "2",
+    "gold_cost" : "0"
+  }, {
+    "id" : "2",
+    "times_min" : "3",
+    "times_max" : "4",
+    "gold_cost" : "100"
+  }, {
+    "id" : "3",
+    "times_min" : "5",
+    "times_max" : "6",
+    "gold_cost" : "200"
+  }, {
+    "id" : "4",
+    "times_min" : "7",
+    "times_max" : "8",
+    "gold_cost" : "300"
+  }, {
+    "id" : "5",
+    "times_min" : "9",
+    "times_max" : "10",
+    "gold_cost" : "400"
+  }, {
+    "id" : "6",
+    "times_min" : "11",
+    "times_max" : "15",
+    "gold_cost" : "600"
+  }, {
+    "id" : "7",
+    "times_min" : "15",
+    "times_max" : "20",
+    "gold_cost" : "800"
+  }, {
+    "id" : "8",
+    "times_min" : "20",
+    "times_max" : "25",
+    "gold_cost" : "1000"
+  }, {
+    "id" : "9",
+    "times_min" : "25",
+    "times_max" : "30",
+    "gold_cost" : "1200"
+  }, {
+    "id" : "10",
+    "times_min" : "31",
+    "times_max" : "999999",
+    "gold_cost" : "1500"
+  } ]
+}

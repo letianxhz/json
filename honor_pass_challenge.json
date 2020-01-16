@@ -1,0 +1,860 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "group_id" : "group_id@string",
+    "type" : "type@string",
+    "category" : "category@honor_pass_challenge_category.id",
+    "formula" : "formula@string",
+    "exp" : "exp@int",
+    "local_key" : "local_key@string^c"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "group_id" : "组id",
+    "type" : "类型",
+    "category" : "类别",
+    "formula" : "公式",
+    "exp" : "经验",
+    "local_key" : "多语言key"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_1",
+    "group_id" : "honor_pass_challenge_group_1",
+    "type" : "daily",
+    "category" : "alliance_donate",
+    "formula" : "times=10",
+    "exp" : "357",
+    "local_key" : "honor_pass_challenge_alliance_donate_times"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_2",
+    "group_id" : "honor_pass_challenge_group_1",
+    "type" : "daily",
+    "category" : "alliance_donate",
+    "formula" : "times=24",
+    "exp" : "357",
+    "local_key" : "honor_pass_challenge_alliance_donate_times"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_3",
+    "group_id" : "honor_pass_challenge_group_1",
+    "type" : "daily",
+    "category" : "alliance_donate",
+    "formula" : "times=48",
+    "exp" : "357",
+    "local_key" : "honor_pass_challenge_alliance_donate_times"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_4",
+    "group_id" : "honor_pass_challenge_group_1",
+    "type" : "daily",
+    "category" : "alliance_donate",
+    "formula" : "times=72",
+    "exp" : "357",
+    "local_key" : "honor_pass_challenge_alliance_donate_times"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_5",
+    "group_id" : "honor_pass_challenge_group_1",
+    "type" : "daily",
+    "category" : "alliance_help",
+    "formula" : "times=5",
+    "exp" : "142",
+    "local_key" : "honor_pass_challenge_alliance_help_times"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_6",
+    "group_id" : "honor_pass_challenge_group_1",
+    "type" : "daily",
+    "category" : "alliance_help",
+    "formula" : "times=10",
+    "exp" : "142",
+    "local_key" : "honor_pass_challenge_alliance_help_times"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_7",
+    "group_id" : "honor_pass_challenge_group_1",
+    "type" : "daily",
+    "category" : "alliance_help",
+    "formula" : "times=15",
+    "exp" : "142",
+    "local_key" : "honor_pass_challenge_alliance_help_times"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_8",
+    "group_id" : "honor_pass_challenge_group_1",
+    "type" : "daily",
+    "category" : "alliance_help",
+    "formula" : "times=20",
+    "exp" : "142",
+    "local_key" : "honor_pass_challenge_alliance_help_times"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_9",
+    "group_id" : "honor_pass_challenge_group_1",
+    "type" : "daily",
+    "category" : "alliance_help",
+    "formula" : "times=25",
+    "exp" : "142",
+    "local_key" : "honor_pass_challenge_alliance_help_times"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_10",
+    "group_id" : "honor_pass_challenge_group_1",
+    "type" : "daily",
+    "category" : "npc_store",
+    "formula" : "buy_times=5",
+    "exp" : "476",
+    "local_key" : "honor_pass_challenge_npc_store_buy_times"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_11",
+    "group_id" : "honor_pass_challenge_group_1",
+    "type" : "daily",
+    "category" : "npc_store",
+    "formula" : "buy_times=10",
+    "exp" : "476",
+    "local_key" : "honor_pass_challenge_npc_store_buy_times"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_12",
+    "group_id" : "honor_pass_challenge_group_1",
+    "type" : "daily",
+    "category" : "npc_store",
+    "formula" : "buy_times=20",
+    "exp" : "476",
+    "local_key" : "honor_pass_challenge_npc_store_buy_times"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_13",
+    "group_id" : "honor_pass_challenge_group_1",
+    "type" : "daily",
+    "category" : "gather_resource",
+    "formula" : "load=400000",
+    "exp" : "428",
+    "local_key" : "honor_pass_challenge_gather_resource_load"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_14",
+    "group_id" : "honor_pass_challenge_group_1",
+    "type" : "daily",
+    "category" : "gather_resource",
+    "formula" : "load=800000",
+    "exp" : "428",
+    "local_key" : "honor_pass_challenge_gather_resource_load"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_15",
+    "group_id" : "honor_pass_challenge_group_1",
+    "type" : "daily",
+    "category" : "gather_resource",
+    "formula" : "load=1600000",
+    "exp" : "428",
+    "local_key" : "honor_pass_challenge_gather_resource_load"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_16",
+    "group_id" : "honor_pass_challenge_group_1",
+    "type" : "daily",
+    "category" : "gather_resource",
+    "formula" : "load=2500000",
+    "exp" : "428",
+    "local_key" : "honor_pass_challenge_gather_resource_load"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_17",
+    "group_id" : "honor_pass_challenge_group_1",
+    "type" : "daily",
+    "category" : "gather_resource",
+    "formula" : "load=4000000",
+    "exp" : "428",
+    "local_key" : "honor_pass_challenge_gather_resource_load"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_18",
+    "group_id" : "honor_pass_challenge_group_1",
+    "type" : "daily",
+    "category" : "use_lord_spirit",
+    "formula" : "value=40",
+    "exp" : "285",
+    "local_key" : "honor_pass_challenge_use_lord_spirit"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_19",
+    "group_id" : "honor_pass_challenge_group_1",
+    "type" : "daily",
+    "category" : "use_lord_spirit",
+    "formula" : "value=80",
+    "exp" : "285",
+    "local_key" : "honor_pass_challenge_use_lord_spirit"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_20",
+    "group_id" : "honor_pass_challenge_group_1",
+    "type" : "daily",
+    "category" : "use_lord_spirit",
+    "formula" : "value=120",
+    "exp" : "285",
+    "local_key" : "honor_pass_challenge_use_lord_spirit"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_21",
+    "group_id" : "honor_pass_challenge_group_1",
+    "type" : "daily",
+    "category" : "use_lord_spirit",
+    "formula" : "value=160",
+    "exp" : "285",
+    "local_key" : "honor_pass_challenge_use_lord_spirit"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_22",
+    "group_id" : "honor_pass_challenge_group_1",
+    "type" : "daily",
+    "category" : "use_lord_spirit",
+    "formula" : "value=200",
+    "exp" : "285",
+    "local_key" : "honor_pass_challenge_use_lord_spirit"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_27",
+    "group_id" : "honor_pass_challenge_group_1",
+    "type" : "daily",
+    "category" : "train_troops",
+    "formula" : "power=60000",
+    "exp" : "428",
+    "local_key" : "honor_pass_challenge_train_troops_power"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_28",
+    "group_id" : "honor_pass_challenge_group_1",
+    "type" : "daily",
+    "category" : "train_troops",
+    "formula" : "power=120000",
+    "exp" : "428",
+    "local_key" : "honor_pass_challenge_train_troops_power"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_29",
+    "group_id" : "honor_pass_challenge_group_1",
+    "type" : "daily",
+    "category" : "train_troops",
+    "formula" : "power=240000",
+    "exp" : "428",
+    "local_key" : "honor_pass_challenge_train_troops_power"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_30",
+    "group_id" : "honor_pass_challenge_group_1",
+    "type" : "daily",
+    "category" : "train_troops",
+    "formula" : "power=360000",
+    "exp" : "428",
+    "local_key" : "honor_pass_challenge_train_troops_power"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_31",
+    "group_id" : "honor_pass_challenge_group_1",
+    "type" : "daily",
+    "category" : "train_troops",
+    "formula" : "power=600000",
+    "exp" : "428",
+    "local_key" : "honor_pass_challenge_train_troops_power"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_32",
+    "group_id" : "honor_pass_challenge_group_1",
+    "type" : "daily",
+    "category" : "use_speedups",
+    "formula" : "time=18000",
+    "exp" : "714",
+    "local_key" : "honor_pass_challenge_use_speedups"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_33",
+    "group_id" : "honor_pass_challenge_group_1",
+    "type" : "daily",
+    "category" : "use_speedups",
+    "formula" : "time=54000",
+    "exp" : "714",
+    "local_key" : "honor_pass_challenge_use_speedups"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_34",
+    "group_id" : "honor_pass_challenge_group_1",
+    "type" : "daily",
+    "category" : "use_speedups",
+    "formula" : "time=90000",
+    "exp" : "714",
+    "local_key" : "honor_pass_challenge_use_speedups"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_35",
+    "group_id" : "honor_pass_challenge_group_1",
+    "type" : "daily",
+    "category" : "use_speedups",
+    "formula" : "time=180000",
+    "exp" : "714",
+    "local_key" : "honor_pass_challenge_use_speedups"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_42",
+    "group_id" : "honor_pass_challenge_group_1",
+    "type" : "daily",
+    "category" : "open_alliance_chest",
+    "formula" : "times=2",
+    "exp" : "238",
+    "local_key" : "honor_pass_challenge_open_alliance_chest_times"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_43",
+    "group_id" : "honor_pass_challenge_group_1",
+    "type" : "daily",
+    "category" : "open_alliance_chest",
+    "formula" : "times=4",
+    "exp" : "238",
+    "local_key" : "honor_pass_challenge_open_alliance_chest_times"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_44",
+    "group_id" : "honor_pass_challenge_group_1",
+    "type" : "daily",
+    "category" : "open_alliance_chest",
+    "formula" : "times=6",
+    "exp" : "238",
+    "local_key" : "honor_pass_challenge_open_alliance_chest_times"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_48",
+    "group_id" : "honor_pass_challenge_group_1",
+    "type" : "season",
+    "category" : "alliance_boss",
+    "formula" : "times=1",
+    "exp" : "1500",
+    "local_key" : "honor_pass_challenge_alliance_boss_times"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_49",
+    "group_id" : "honor_pass_challenge_group_1",
+    "type" : "season",
+    "category" : "alliance_boss",
+    "formula" : "times=2",
+    "exp" : "1500",
+    "local_key" : "honor_pass_challenge_alliance_boss_times"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_50",
+    "group_id" : "honor_pass_challenge_group_1",
+    "type" : "season",
+    "category" : "alliance_boss",
+    "formula" : "times=3",
+    "exp" : "1500",
+    "local_key" : "honor_pass_challenge_alliance_boss_times"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_51",
+    "group_id" : "honor_pass_challenge_group_1",
+    "type" : "season",
+    "category" : "alliance_boss",
+    "formula" : "times=4",
+    "exp" : "1500",
+    "local_key" : "honor_pass_challenge_alliance_boss_times"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_52",
+    "group_id" : "honor_pass_challenge_group_1",
+    "type" : "season",
+    "category" : "alliance_boss",
+    "formula" : "times=5",
+    "exp" : "1500",
+    "local_key" : "honor_pass_challenge_alliance_boss_times"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_53",
+    "group_id" : "honor_pass_challenge_group_1",
+    "type" : "season",
+    "category" : "alliance_boss",
+    "formula" : "times=6",
+    "exp" : "1500",
+    "local_key" : "honor_pass_challenge_alliance_boss_times"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_54",
+    "group_id" : "honor_pass_challenge_group_1",
+    "type" : "season",
+    "category" : "kingdom_boss",
+    "formula" : "attack_times=5",
+    "exp" : "2250",
+    "local_key" : "honor_pass_challenge_kingdom_boss_attack_times"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_55",
+    "group_id" : "honor_pass_challenge_group_1",
+    "type" : "season",
+    "category" : "kingdom_boss",
+    "formula" : "attack_times=10",
+    "exp" : "2250",
+    "local_key" : "honor_pass_challenge_kingdom_boss_attack_times"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_56",
+    "group_id" : "honor_pass_challenge_group_1",
+    "type" : "season",
+    "category" : "kingdom_boss",
+    "formula" : "attack_times=15",
+    "exp" : "2250",
+    "local_key" : "honor_pass_challenge_kingdom_boss_attack_times"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_57",
+    "group_id" : "honor_pass_challenge_group_1",
+    "type" : "season",
+    "category" : "kingdom_boss",
+    "formula" : "attack_times=20",
+    "exp" : "2250",
+    "local_key" : "honor_pass_challenge_kingdom_boss_attack_times"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_58",
+    "group_id" : "honor_pass_challenge_group_1",
+    "type" : "season",
+    "category" : "fallen_knight",
+    "formula" : "times=1",
+    "exp" : "3000",
+    "local_key" : "honor_pass_challenge_fallen_knight_times"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_59",
+    "group_id" : "honor_pass_challenge_group_1",
+    "type" : "season",
+    "category" : "fallen_knight",
+    "formula" : "times=2",
+    "exp" : "3000",
+    "local_key" : "honor_pass_challenge_fallen_knight_times"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_60",
+    "group_id" : "honor_pass_challenge_group_1",
+    "type" : "season",
+    "category" : "alliance_warfare",
+    "formula" : "score=3000",
+    "exp" : "1200",
+    "local_key" : "honor_pass_challenge_alliance_warfare_score"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_61",
+    "group_id" : "honor_pass_challenge_group_1",
+    "type" : "season",
+    "category" : "alliance_warfare",
+    "formula" : "score=5000",
+    "exp" : "1200",
+    "local_key" : "honor_pass_challenge_alliance_warfare_score"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_62",
+    "group_id" : "honor_pass_challenge_group_1",
+    "type" : "season",
+    "category" : "alliance_warfare",
+    "formula" : "score=8000",
+    "exp" : "1200",
+    "local_key" : "honor_pass_challenge_alliance_warfare_score"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_63",
+    "group_id" : "honor_pass_challenge_group_1",
+    "type" : "season",
+    "category" : "alliance_warfare",
+    "formula" : "score=12000",
+    "exp" : "1200",
+    "local_key" : "honor_pass_challenge_alliance_warfare_score"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_64",
+    "group_id" : "honor_pass_challenge_group_1",
+    "type" : "season",
+    "category" : "alliance_warfare",
+    "formula" : "score=18000",
+    "exp" : "1200",
+    "local_key" : "honor_pass_challenge_alliance_warfare_score"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_65",
+    "group_id" : "honor_pass_challenge_group_1",
+    "type" : "season",
+    "category" : "alliance_warfare",
+    "formula" : "score=24000",
+    "exp" : "1200",
+    "local_key" : "honor_pass_challenge_alliance_warfare_score"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_66",
+    "group_id" : "honor_pass_challenge_group_1",
+    "type" : "season",
+    "category" : "alliance_warfare",
+    "formula" : "score=32000",
+    "exp" : "1200",
+    "local_key" : "honor_pass_challenge_alliance_warfare_score"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_67",
+    "group_id" : "honor_pass_challenge_group_1",
+    "type" : "season",
+    "category" : "alliance_warfare",
+    "formula" : "score=45000",
+    "exp" : "1200",
+    "local_key" : "honor_pass_challenge_alliance_warfare_score"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_68",
+    "group_id" : "honor_pass_challenge_group_1",
+    "type" : "season",
+    "category" : "alliance_warfare",
+    "formula" : "score=60000",
+    "exp" : "1200",
+    "local_key" : "honor_pass_challenge_alliance_warfare_score"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_69",
+    "group_id" : "honor_pass_challenge_group_1",
+    "type" : "season",
+    "category" : "alliance_warfare",
+    "formula" : "score=80000",
+    "exp" : "1200",
+    "local_key" : "honor_pass_challenge_alliance_warfare_score"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_70",
+    "group_id" : "honor_pass_challenge_group_2",
+    "type" : "daily",
+    "category" : "alliance_donate",
+    "formula" : "times=10",
+    "exp" : "357",
+    "local_key" : "honor_pass_challenge_alliance_donate_times"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_71",
+    "group_id" : "honor_pass_challenge_group_2",
+    "type" : "daily",
+    "category" : "alliance_donate",
+    "formula" : "times=24",
+    "exp" : "357",
+    "local_key" : "honor_pass_challenge_alliance_donate_times"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_72",
+    "group_id" : "honor_pass_challenge_group_2",
+    "type" : "daily",
+    "category" : "alliance_donate",
+    "formula" : "times=48",
+    "exp" : "357",
+    "local_key" : "honor_pass_challenge_alliance_donate_times"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_73",
+    "group_id" : "honor_pass_challenge_group_2",
+    "type" : "daily",
+    "category" : "alliance_donate",
+    "formula" : "times=72",
+    "exp" : "357",
+    "local_key" : "honor_pass_challenge_alliance_donate_times"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_74",
+    "group_id" : "honor_pass_challenge_group_2",
+    "type" : "daily",
+    "category" : "alliance_help",
+    "formula" : "times=5",
+    "exp" : "142",
+    "local_key" : "honor_pass_challenge_alliance_help_times"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_75",
+    "group_id" : "honor_pass_challenge_group_2",
+    "type" : "daily",
+    "category" : "alliance_help",
+    "formula" : "times=10",
+    "exp" : "142",
+    "local_key" : "honor_pass_challenge_alliance_help_times"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_76",
+    "group_id" : "honor_pass_challenge_group_2",
+    "type" : "daily",
+    "category" : "alliance_help",
+    "formula" : "times=15",
+    "exp" : "142",
+    "local_key" : "honor_pass_challenge_alliance_help_times"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_77",
+    "group_id" : "honor_pass_challenge_group_2",
+    "type" : "daily",
+    "category" : "alliance_help",
+    "formula" : "times=20",
+    "exp" : "142",
+    "local_key" : "honor_pass_challenge_alliance_help_times"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_78",
+    "group_id" : "honor_pass_challenge_group_2",
+    "type" : "daily",
+    "category" : "alliance_help",
+    "formula" : "times=25",
+    "exp" : "142",
+    "local_key" : "honor_pass_challenge_alliance_help_times"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_79",
+    "group_id" : "honor_pass_challenge_group_2",
+    "type" : "daily",
+    "category" : "npc_store",
+    "formula" : "buy_times=5",
+    "exp" : "476",
+    "local_key" : "honor_pass_challenge_npc_store_buy_times"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_80",
+    "group_id" : "honor_pass_challenge_group_2",
+    "type" : "daily",
+    "category" : "npc_store",
+    "formula" : "buy_times=10",
+    "exp" : "476",
+    "local_key" : "honor_pass_challenge_npc_store_buy_times"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_81",
+    "group_id" : "honor_pass_challenge_group_2",
+    "type" : "daily",
+    "category" : "npc_store",
+    "formula" : "buy_times=20",
+    "exp" : "476",
+    "local_key" : "honor_pass_challenge_npc_store_buy_times"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_82",
+    "group_id" : "honor_pass_challenge_group_2",
+    "type" : "daily",
+    "category" : "gather_resource",
+    "formula" : "load=200000",
+    "exp" : "428",
+    "local_key" : "honor_pass_challenge_gather_resource_load"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_83",
+    "group_id" : "honor_pass_challenge_group_2",
+    "type" : "daily",
+    "category" : "gather_resource",
+    "formula" : "load=400000",
+    "exp" : "428",
+    "local_key" : "honor_pass_challenge_gather_resource_load"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_84",
+    "group_id" : "honor_pass_challenge_group_2",
+    "type" : "daily",
+    "category" : "gather_resource",
+    "formula" : "load=800000",
+    "exp" : "428",
+    "local_key" : "honor_pass_challenge_gather_resource_load"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_85",
+    "group_id" : "honor_pass_challenge_group_2",
+    "type" : "daily",
+    "category" : "gather_resource",
+    "formula" : "load=1250000",
+    "exp" : "428",
+    "local_key" : "honor_pass_challenge_gather_resource_load"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_86",
+    "group_id" : "honor_pass_challenge_group_2",
+    "type" : "daily",
+    "category" : "gather_resource",
+    "formula" : "load=2000000",
+    "exp" : "428",
+    "local_key" : "honor_pass_challenge_gather_resource_load"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_87",
+    "group_id" : "honor_pass_challenge_group_2",
+    "type" : "daily",
+    "category" : "use_lord_spirit",
+    "formula" : "value=40",
+    "exp" : "285",
+    "local_key" : "honor_pass_challenge_use_lord_spirit"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_88",
+    "group_id" : "honor_pass_challenge_group_2",
+    "type" : "daily",
+    "category" : "use_lord_spirit",
+    "formula" : "value=80",
+    "exp" : "285",
+    "local_key" : "honor_pass_challenge_use_lord_spirit"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_89",
+    "group_id" : "honor_pass_challenge_group_2",
+    "type" : "daily",
+    "category" : "use_lord_spirit",
+    "formula" : "value=120",
+    "exp" : "285",
+    "local_key" : "honor_pass_challenge_use_lord_spirit"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_90",
+    "group_id" : "honor_pass_challenge_group_2",
+    "type" : "daily",
+    "category" : "use_lord_spirit",
+    "formula" : "value=160",
+    "exp" : "285",
+    "local_key" : "honor_pass_challenge_use_lord_spirit"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_91",
+    "group_id" : "honor_pass_challenge_group_2",
+    "type" : "daily",
+    "category" : "use_lord_spirit",
+    "formula" : "value=200",
+    "exp" : "285",
+    "local_key" : "honor_pass_challenge_use_lord_spirit"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_96",
+    "group_id" : "honor_pass_challenge_group_2",
+    "type" : "daily",
+    "category" : "train_troops",
+    "formula" : "power=15000",
+    "exp" : "428",
+    "local_key" : "honor_pass_challenge_train_troops_power"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_97",
+    "group_id" : "honor_pass_challenge_group_2",
+    "type" : "daily",
+    "category" : "train_troops",
+    "formula" : "power=30000",
+    "exp" : "428",
+    "local_key" : "honor_pass_challenge_train_troops_power"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_98",
+    "group_id" : "honor_pass_challenge_group_2",
+    "type" : "daily",
+    "category" : "train_troops",
+    "formula" : "power=60000",
+    "exp" : "428",
+    "local_key" : "honor_pass_challenge_train_troops_power"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_99",
+    "group_id" : "honor_pass_challenge_group_2",
+    "type" : "daily",
+    "category" : "train_troops",
+    "formula" : "power=90000",
+    "exp" : "428",
+    "local_key" : "honor_pass_challenge_train_troops_power"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_100",
+    "group_id" : "honor_pass_challenge_group_2",
+    "type" : "daily",
+    "category" : "train_troops",
+    "formula" : "power=150000",
+    "exp" : "428",
+    "local_key" : "honor_pass_challenge_train_troops_power"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_101",
+    "group_id" : "honor_pass_challenge_group_2",
+    "type" : "daily",
+    "category" : "use_speedups",
+    "formula" : "time=6000",
+    "exp" : "714",
+    "local_key" : "honor_pass_challenge_use_speedups"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_102",
+    "group_id" : "honor_pass_challenge_group_2",
+    "type" : "daily",
+    "category" : "use_speedups",
+    "formula" : "time=18000",
+    "exp" : "714",
+    "local_key" : "honor_pass_challenge_use_speedups"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_103",
+    "group_id" : "honor_pass_challenge_group_2",
+    "type" : "daily",
+    "category" : "use_speedups",
+    "formula" : "time=30000",
+    "exp" : "714",
+    "local_key" : "honor_pass_challenge_use_speedups"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_104",
+    "group_id" : "honor_pass_challenge_group_2",
+    "type" : "daily",
+    "category" : "use_speedups",
+    "formula" : "time=60000",
+    "exp" : "714",
+    "local_key" : "honor_pass_challenge_use_speedups"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_108",
+    "group_id" : "honor_pass_challenge_group_2",
+    "type" : "daily",
+    "category" : "open_alliance_chest",
+    "formula" : "times=2",
+    "exp" : "238",
+    "local_key" : "honor_pass_challenge_open_alliance_chest_times"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_109",
+    "group_id" : "honor_pass_challenge_group_2",
+    "type" : "daily",
+    "category" : "open_alliance_chest",
+    "formula" : "times=4",
+    "exp" : "238",
+    "local_key" : "honor_pass_challenge_open_alliance_chest_times"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_110",
+    "group_id" : "honor_pass_challenge_group_2",
+    "type" : "daily",
+    "category" : "open_alliance_chest",
+    "formula" : "times=6",
+    "exp" : "238",
+    "local_key" : "honor_pass_challenge_open_alliance_chest_times"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_117",
+    "group_id" : "honor_pass_challenge_group_2",
+    "type" : "season",
+    "category" : "alliance_donate",
+    "formula" : "times=120",
+    "exp" : "3000",
+    "local_key" : "honor_pass_challenge_alliance_donate_times"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_118",
+    "group_id" : "honor_pass_challenge_group_2",
+    "type" : "season",
+    "category" : "alliance_donate",
+    "formula" : "times=280",
+    "exp" : "3000",
+    "local_key" : "honor_pass_challenge_alliance_donate_times"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_119",
+    "group_id" : "honor_pass_challenge_group_2",
+    "type" : "season",
+    "category" : "alliance_donate",
+    "formula" : "times=500",
+    "exp" : "3000",
+    "local_key" : "honor_pass_challenge_alliance_donate_times"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_120",
+    "group_id" : "honor_pass_challenge_group_2",
+    "type" : "season",
+    "category" : "alliance_help",
+    "formula" : "times=180",
+    "exp" : "3000",
+    "local_key" : "honor_pass_challenge_alliance_help_times"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_121",
+    "group_id" : "honor_pass_challenge_group_2",
+    "type" : "season",
+    "category" : "alliance_help",
+    "formula" : "times=240",
+    "exp" : "3000",
+    "local_key" : "honor_pass_challenge_alliance_help_times"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_122",
+    "group_id" : "honor_pass_challenge_group_2",
+    "type" : "season",
+    "category" : "alliance_help",
+    "formula" : "times=300",
+    "exp" : "3000",
+    "local_key" : "honor_pass_challenge_alliance_help_times"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_123",
+    "group_id" : "honor_pass_challenge_group_2",
+    "type" : "season",
+    "category" : "gather_resource",
+    "formula" : "load=2400000",
+    "exp" : "3000",
+    "local_key" : "honor_pass_challenge_gather_resource_load"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_124",
+    "group_id" : "honor_pass_challenge_group_2",
+    "type" : "season",
+    "category" : "gather_resource",
+    "formula" : "load=4800000",
+    "exp" : "3000",
+    "local_key" : "honor_pass_challenge_gather_resource_load"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_125",
+    "group_id" : "honor_pass_challenge_group_2",
+    "type" : "season",
+    "category" : "gather_resource",
+    "formula" : "load=9600000",
+    "exp" : "3000",
+    "local_key" : "honor_pass_challenge_gather_resource_load"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_126",
+    "group_id" : "honor_pass_challenge_group_2",
+    "type" : "season",
+    "category" : "use_lord_spirit",
+    "formula" : "value=1000",
+    "exp" : "3000",
+    "local_key" : "honor_pass_challenge_use_lord_spirit"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_127",
+    "group_id" : "honor_pass_challenge_group_2",
+    "type" : "season",
+    "category" : "use_lord_spirit",
+    "formula" : "value=1500",
+    "exp" : "3000",
+    "local_key" : "honor_pass_challenge_use_lord_spirit"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_128",
+    "group_id" : "honor_pass_challenge_group_2",
+    "type" : "season",
+    "category" : "use_lord_spirit",
+    "formula" : "value=2000",
+    "exp" : "3000",
+    "local_key" : "honor_pass_challenge_use_lord_spirit"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_129",
+    "group_id" : "honor_pass_challenge_group_2",
+    "type" : "season",
+    "category" : "train_troops",
+    "formula" : "power=360000",
+    "exp" : "3000",
+    "local_key" : "honor_pass_challenge_train_troops_power"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_130",
+    "group_id" : "honor_pass_challenge_group_2",
+    "type" : "season",
+    "category" : "train_troops",
+    "formula" : "power=720000",
+    "exp" : "3000",
+    "local_key" : "honor_pass_challenge_train_troops_power"
+  }, {
+    "id" : "honor_pass_challenge_group_daily_131",
+    "group_id" : "honor_pass_challenge_group_2",
+    "type" : "season",
+    "category" : "train_troops",
+    "formula" : "power=1080000",
+    "exp" : "3000",
+    "local_key" : "honor_pass_challenge_train_troops_power"
+  } ]
+}

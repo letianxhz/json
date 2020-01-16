@@ -1,0 +1,88 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "rank" : "rank@int",
+    "fund_ratio" : "fund_ratio@float",
+    "honor_ratio" : "honor_ratio@float",
+    "reward_ratio_1" : "reward_ratio_1@float",
+    "reward_ratio_2" : "reward_ratio_2@float",
+    "reward_ratio_3" : "reward_ratio_3@float",
+    "reward_ratio_4" : "reward_ratio_4@float",
+    "reward_ratio_5" : "reward_ratio_5@float",
+    "reward_ratio_6" : "reward_ratio_6@float",
+    "reward_ratio_7" : "reward_ratio_7@float",
+    "reward_ratio_8" : "reward_ratio_8@float"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "rank" : "排名",
+    "fund_ratio" : "联盟信誉倍率",
+    "honor_ratio" : "联盟荣誉倍率",
+    "reward_ratio_1" : "奖励1倍率",
+    "reward_ratio_2" : "奖励2倍率",
+    "reward_ratio_3" : "奖励3倍率",
+    "reward_ratio_4" : "奖励4倍率",
+    "reward_ratio_5" : "奖励5倍率",
+    "reward_ratio_6" : "奖励6倍率"
+  }, {
+    "id" : "1",
+    "rank" : "1",
+    "fund_ratio" : "2",
+    "honor_ratio" : "0",
+    "reward_ratio_1" : "2"
+  }, {
+    "id" : "2",
+    "rank" : "2",
+    "fund_ratio" : "1.5",
+    "honor_ratio" : "0",
+    "reward_ratio_1" : "1.5"
+  }, {
+    "id" : "3",
+    "rank" : "3",
+    "fund_ratio" : "1.2",
+    "honor_ratio" : "0",
+    "reward_ratio_1" : "1.2"
+  }, {
+    "id" : "4",
+    "rank" : "4",
+    "fund_ratio" : "1",
+    "honor_ratio" : "0",
+    "reward_ratio_1" : "1"
+  }, {
+    "id" : "5",
+    "rank" : "5",
+    "fund_ratio" : "0.8",
+    "honor_ratio" : "0",
+    "reward_ratio_1" : "0.8"
+  }, {
+    "id" : "6",
+    "rank" : "6",
+    "fund_ratio" : "0.6",
+    "honor_ratio" : "0",
+    "reward_ratio_1" : "0.6"
+  }, {
+    "id" : "7",
+    "rank" : "7",
+    "fund_ratio" : "0.5",
+    "honor_ratio" : "0",
+    "reward_ratio_1" : "0.5"
+  }, {
+    "id" : "8",
+    "rank" : "8",
+    "fund_ratio" : "0.5",
+    "honor_ratio" : "0",
+    "reward_ratio_1" : "0.5"
+  }, {
+    "id" : "9",
+    "rank" : "9",
+    "fund_ratio" : "0.5",
+    "honor_ratio" : "0",
+    "reward_ratio_1" : "0.5"
+  }, {
+    "id" : "10",
+    "rank" : "10",
+    "fund_ratio" : "0.5",
+    "honor_ratio" : "0",
+    "reward_ratio_1" : "0.5"
+  } ]
+}

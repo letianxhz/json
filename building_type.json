@@ -1,0 +1,67 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "area_id" : "area_id@building_area.id"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "area_id" : "区域类型"
+  }, {
+    "id" : "farm",
+    "area_id" : "area_farm"
+  }, {
+    "id" : "lumber_mill",
+    "area_id" : "area_lumber_mill"
+  }, {
+    "id" : "mine",
+    "area_id" : "area_mine"
+  }, {
+    "id" : "house",
+    "area_id" : "area_house"
+  }, {
+    "id" : "stronghold",
+    "area_id" : "area_stronghold"
+  }, {
+    "id" : "walls",
+    "area_id" : "area_walls"
+  }, {
+    "id" : "barracks",
+    "area_id" : "area_barracks"
+  }, {
+    "id" : "range",
+    "area_id" : "area_range"
+  }, {
+    "id" : "stables",
+    "area_id" : "area_stables"
+  }, {
+    "id" : "workshop",
+    "area_id" : "area_workshop"
+  }, {
+    "id" : "hospital",
+    "area_id" : "area_hospital"
+  }, {
+    "id" : "storehouse",
+    "area_id" : "area_storehouse"
+  }, {
+    "id" : "university",
+    "area_id" : "area_university"
+  }, {
+    "id" : "watchtower",
+    "area_id" : "area_watchtower"
+  }, {
+    "id" : "embassy",
+    "area_id" : "area_embassy"
+  }, {
+    "id" : "war_rally",
+    "area_id" : "area_war_rally"
+  }, {
+    "id" : "wish_well",
+    "area_id" : "area_wish_well"
+  }, {
+    "id" : "general_club",
+    "area_id" : "area_general_club"
+  }, {
+    "id" : "PARADEGROUND",
+    "area_id" : "area_PARADEGROUND"
+  } ]
+}

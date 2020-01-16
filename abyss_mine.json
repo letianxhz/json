@@ -1,0 +1,58 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "lvl" : "lvl@int",
+    "num" : "num@int",
+    "num_per_block" : "num_per_block@int",
+    "area_inside" : "area_inside@int",
+    "area_outside" : "area_outside@int",
+    "pickingrate_s" : "pickingrate_s@int",
+    "int_resource_value" : "int_resource_value@int"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "lvl" : "矿等级",
+    "num" : "矿数量",
+    "num_per_block" : "矿数量/地块",
+    "area_inside" : "该等级矿内圈范围",
+    "area_outside" : "该等级矿外圈范围",
+    "pickingrate_s" : "采集速度",
+    "int_resource_value" : "初始龙化石含量"
+  }, {
+    "id" : "1",
+    "lvl" : "4",
+    "num" : "1",
+    "num_per_block" : "1",
+    "area_inside" : "4",
+    "area_outside" : "4",
+    "pickingrate_s" : "20",
+    "int_resource_value" : "1000000"
+  }, {
+    "id" : "2",
+    "lvl" : "3",
+    "num" : "100",
+    "num_per_block" : "13",
+    "area_inside" : "3",
+    "area_outside" : "3",
+    "pickingrate_s" : "10",
+    "int_resource_value" : "12000"
+  }, {
+    "id" : "3",
+    "lvl" : "2",
+    "num" : "600",
+    "num_per_block" : "12",
+    "area_inside" : "2",
+    "area_outside" : "2",
+    "pickingrate_s" : "6",
+    "int_resource_value" : "5400"
+  }, {
+    "id" : "4",
+    "lvl" : "1",
+    "num" : "2000",
+    "num_per_block" : "11",
+    "area_inside" : "1",
+    "area_outside" : "1",
+    "pickingrate_s" : "3",
+    "int_resource_value" : "1800"
+  } ]
+}

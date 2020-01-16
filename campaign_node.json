@@ -1,0 +1,97 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "chapter" : "chapter@campaign_area.id",
+    "type" : "type@string",
+    "name" : "name@string",
+    "img" : "img@string",
+    "enemy" : "enemy@world_encounter.id",
+    "time" : "time@string",
+    "reward" : "reward@string",
+    "desc" : "desc@string",
+    "tactic_1" : "tactic_1@campaign_tactic_group.group",
+    "tactic_2" : "tactic_2@campaign_tactic_group.group",
+    "tactic_3" : "tactic_3@campaign_tactic_group.group"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "chapter" : "所属区域",
+    "type" : "地块类型",
+    "name" : "地块名称",
+    "img" : "图片",
+    "enemy" : "敌人信息",
+    "time" : "刷新or占领时间",
+    "reward" : "奖励数据",
+    "desc" : "战术背景文字描述",
+    "tactic_1" : "战术配置1",
+    "tactic_2" : "战术配置2",
+    "tactic_3" : "战术配置3"
+  }, {
+    "id" : "campaign_node_1_1",
+    "chapter" : "campaign_area_1_1",
+    "type" : "born"
+  }, {
+    "id" : "campaign_node_1_2",
+    "chapter" : "campaign_area_1_1",
+    "type" : "monster",
+    "enemy" : "monster_1"
+  }, {
+    "id" : "campaign_node_1_3",
+    "chapter" : "campaign_area_1_1",
+    "type" : "building",
+    "enemy" : "monster_1",
+    "tactic_1" : "group_1",
+    "tactic_2" : "group_2",
+    "tactic_3" : "group_3"
+  }, {
+    "id" : "campaign_node_1_4",
+    "chapter" : "campaign_area_1_2",
+    "type" : "fortress",
+    "enemy" : "monster_1",
+    "time" : "3",
+    "tactic_1" : "group_1",
+    "tactic_2" : "group_2",
+    "tactic_3" : "group_3"
+  }, {
+    "id" : "campaign_node_1_5",
+    "chapter" : "campaign_area_1_2",
+    "type" : "monster",
+    "enemy" : "monster_1"
+  }, {
+    "id" : "campaign_node_1_6",
+    "chapter" : "campaign_area_1_2",
+    "type" : "monster",
+    "enemy" : "monster_1"
+  }, {
+    "id" : "campaign_node_1_7",
+    "chapter" : "campaign_area_1_3",
+    "type" : "building",
+    "tactic_1" : "group_1",
+    "tactic_2" : "group_2",
+    "tactic_3" : "group_3"
+  }, {
+    "id" : "campaign_node_1_8",
+    "chapter" : "campaign_area_1_3",
+    "type" : "monster",
+    "enemy" : "monster_1",
+    "tactic_1" : "group_1",
+    "tactic_2" : "group_2",
+    "tactic_3" : "group_3"
+  }, {
+    "id" : "campaign_node_1_9",
+    "chapter" : "campaign_area_1_3",
+    "type" : "reward"
+  }, {
+    "id" : "campaign_node_1_10",
+    "chapter" : "campaign_area_1_4",
+    "type" : "reward"
+  }, {
+    "id" : "campaign_node_1_11",
+    "chapter" : "campaign_area_1_4",
+    "type" : "special"
+  }, {
+    "id" : "campaign_node_1_12",
+    "chapter" : "campaign_area_1_4",
+    "type" : "boss"
+  } ]
+}

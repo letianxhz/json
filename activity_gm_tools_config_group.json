@@ -1,0 +1,132 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "name" : "name@string",
+    "config_id" : "config_id@activity_gm_tools_config.id",
+    "is_default" : "is_default@int",
+    "is_ranking" : "is_ranking@int",
+    "interval" : "interval@int",
+    "next_id" : "next_id@self.id"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "name" : "名称",
+    "config_id" : "配置id",
+    "is_default" : "是否开启默认配置",
+    "is_ranking" : "是否有排序开关",
+    "interval" : "开启间隔",
+    "next_id" : "下一个人活动id"
+  }, {
+    "id" : "integral_1_1",
+    "name" : "integral_1_1_name",
+    "config_id" : "integral_config_1",
+    "is_default" : "0",
+    "is_ranking" : "0",
+    "interval" : "10",
+    "next_id" : "integral_1_2"
+  }, {
+    "id" : "integral_1_2",
+    "name" : "integral_1_2_name",
+    "config_id" : "integral_config_1",
+    "is_default" : "0",
+    "is_ranking" : "1",
+    "interval" : "7",
+    "next_id" : "integral_1_2"
+  }, {
+    "id" : "integral_2_1",
+    "name" : "integral_2_1_name",
+    "config_id" : "integral_config_2",
+    "is_default" : "0",
+    "is_ranking" : "0",
+    "interval" : "9",
+    "next_id" : "integral_2_2"
+  }, {
+    "id" : "integral_2_2",
+    "name" : "integral_2_2_name",
+    "config_id" : "integral_config_2",
+    "is_default" : "0",
+    "is_ranking" : "1",
+    "interval" : "7",
+    "next_id" : "integral_2_2"
+  }, {
+    "id" : "integral_3_1",
+    "name" : "integral_3_1_name",
+    "config_id" : "integral_config_3",
+    "is_default" : "0",
+    "is_ranking" : "0",
+    "interval" : "8",
+    "next_id" : "integral_3_2"
+  }, {
+    "id" : "integral_3_2",
+    "name" : "integral_3_2_name",
+    "config_id" : "integral_config_3",
+    "is_default" : "0",
+    "is_ranking" : "1",
+    "interval" : "7",
+    "next_id" : "integral_3_2"
+  }, {
+    "id" : "integral_4_1",
+    "name" : "integral_4_1_name",
+    "config_id" : "integral_config_4",
+    "is_default" : "0",
+    "is_ranking" : "0",
+    "interval" : "7",
+    "next_id" : "integral_4_2"
+  }, {
+    "id" : "integral_4_2",
+    "name" : "integral_4_2_name",
+    "config_id" : "integral_config_4",
+    "is_default" : "0",
+    "is_ranking" : "1",
+    "interval" : "7",
+    "next_id" : "integral_4_2"
+  }, {
+    "id" : "integral_5_1",
+    "name" : "integral_5_1_name",
+    "config_id" : "integral_config_5",
+    "is_default" : "0",
+    "is_ranking" : "0",
+    "interval" : "6",
+    "next_id" : "integral_5_2"
+  }, {
+    "id" : "integral_5_2",
+    "name" : "integral_5_2_name",
+    "config_id" : "integral_config_5",
+    "is_default" : "0",
+    "is_ranking" : "1",
+    "interval" : "7",
+    "next_id" : "integral_5_2"
+  }, {
+    "id" : "integral_6_1",
+    "name" : "integral_6_1_name",
+    "config_id" : "integral_config_6",
+    "is_default" : "0",
+    "is_ranking" : "0",
+    "interval" : "5",
+    "next_id" : "integral_6_2"
+  }, {
+    "id" : "integral_6_2",
+    "name" : "integral_6_2_name",
+    "config_id" : "integral_config_6",
+    "is_default" : "0",
+    "is_ranking" : "1",
+    "interval" : "7",
+    "next_id" : "integral_6_2"
+  }, {
+    "id" : "integral_7_1",
+    "name" : "integral_7_1_name",
+    "config_id" : "integral_config_7",
+    "is_default" : "0",
+    "is_ranking" : "0",
+    "interval" : "4",
+    "next_id" : "integral_7_2"
+  }, {
+    "id" : "integral_7_2",
+    "name" : "integral_7_2_name",
+    "config_id" : "integral_config_7",
+    "is_default" : "0",
+    "is_ranking" : "1",
+    "interval" : "7",
+    "next_id" : "integral_7_2"
+  } ]
+}

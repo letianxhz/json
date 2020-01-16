@@ -1,0 +1,85 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "content" : "content@string"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "content" : "内容"
+  }, {
+    "id" : "1",
+    "content" : "tutorial_city_helper_barracks_upgrade"
+  }, {
+    "id" : "2",
+    "content" : "tutorial_city_helper_range_upgrade"
+  }, {
+    "id" : "3",
+    "content" : "tutorial_city_helper_stables_upgrade"
+  }, {
+    "id" : "4",
+    "content" : "tutorial_city_helper_siege_workshop_upgrade"
+  }, {
+    "id" : "5",
+    "content" : "tutorial_city_helper_farm_upgrade"
+  }, {
+    "id" : "6",
+    "content" : "tutorial_city_helper_sawmill_upgrade"
+  }, {
+    "id" : "7",
+    "content" : "tutorial_city_helper_iron_mine_upgrade"
+  }, {
+    "id" : "8",
+    "content" : "tutorial_city_helper_silver_mine_upgrade"
+  }, {
+    "id" : "9",
+    "content" : "tutorial_city_helper_military_tent_upgrade"
+  }, {
+    "id" : "10",
+    "content" : "tutorial_city_helper_hospital_upgrade"
+  }, {
+    "id" : "11",
+    "content" : "tutorial_city_helper_university_research"
+  }, {
+    "id" : "12",
+    "content" : "tutorial_city_helper_embassy_upgrade"
+  }, {
+    "id" : "13",
+    "content" : "tutorial_city_helper_hall_of_war_upgrade"
+  }, {
+    "id" : "14",
+    "content" : "tutorial_city_helper_trap_factory_upgrade"
+  }, {
+    "id" : "15",
+    "content" : "tutorial_city_helper_wishing_well_upgrade"
+  }, {
+    "id" : "16",
+    "content" : "tutorial_city_helper_storehouse_upgrade"
+  }, {
+    "id" : "17",
+    "content" : "tutorial_city_helper_forge_upgrade"
+  }, {
+    "id" : "18",
+    "content" : "tutorial_city_helper_dragon_lair_upgrade"
+  }, {
+    "id" : "19",
+    "content" : "tutorial_city_helper_stronghold_upgrade"
+  }, {
+    "id" : "20",
+    "content" : "tutorial_city_helper_barracks_train"
+  }, {
+    "id" : "21",
+    "content" : "tutorial_city_helper_range_train"
+  }, {
+    "id" : "22",
+    "content" : "tutorial_city_helper_stables_train"
+  }, {
+    "id" : "23",
+    "content" : "tutorial_city_helper_siege_workshop_train"
+  }, {
+    "id" : "24",
+    "content" : "tutorial_city_helper_university_research"
+  }, {
+    "id" : "25",
+    "content" : "tutorial_city_helper_trap_factory_build_traps"
+  } ]
+}

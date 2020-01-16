@@ -1,0 +1,140 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "chest_name" : "chest_name@string",
+    "icon" : "icon@string^c",
+    "type" : "type@int",
+    "duration" : "duration@int",
+    "num" : "num@int",
+    "gold" : "gold@int"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "chest_name" : "宝箱名称",
+    "icon" : "图标",
+    "type" : "类型",
+    "duration" : "持续时间",
+    "num" : "可领取人数",
+    "gold" : "金币"
+  }, {
+    "id" : "alliance_activity_chest_1",
+    "chest_name" : "alliance_giftbox_name_alliance",
+    "icon" : "alliance_activity_chest",
+    "type" : "1",
+    "duration" : "86400",
+    "num" : "-1",
+    "gold" : "5"
+  }, {
+    "id" : "alliance_activity_chest_2",
+    "chest_name" : "alliance_giftbox_name_alliance",
+    "icon" : "alliance_activity_chest",
+    "type" : "1",
+    "duration" : "86400",
+    "num" : "-1",
+    "gold" : "5"
+  }, {
+    "id" : "alliance_activity_chest_3",
+    "chest_name" : "alliance_giftbox_name_alliance",
+    "icon" : "alliance_activity_chest",
+    "type" : "1",
+    "duration" : "86400",
+    "num" : "-1",
+    "gold" : "6"
+  }, {
+    "id" : "alliance_activity_chest_4",
+    "chest_name" : "alliance_giftbox_name_alliance",
+    "icon" : "alliance_activity_chest",
+    "type" : "1",
+    "duration" : "86400",
+    "num" : "-1",
+    "gold" : "6"
+  }, {
+    "id" : "alliance_activity_chest_5",
+    "chest_name" : "alliance_giftbox_name_alliance",
+    "icon" : "alliance_activity_chest",
+    "type" : "1",
+    "duration" : "86400",
+    "num" : "-1",
+    "gold" : "7"
+  }, {
+    "id" : "alliance_activity_chest_6",
+    "chest_name" : "alliance_giftbox_name_alliance",
+    "icon" : "alliance_activity_chest",
+    "type" : "1",
+    "duration" : "86400",
+    "num" : "-1",
+    "gold" : "7"
+  }, {
+    "id" : "alliance_activity_chest_7",
+    "chest_name" : "alliance_giftbox_name_alliance",
+    "icon" : "alliance_activity_chest",
+    "type" : "1",
+    "duration" : "86400",
+    "num" : "-1",
+    "gold" : "8"
+  }, {
+    "id" : "alliance_activity_chest_8",
+    "chest_name" : "alliance_giftbox_name_alliance",
+    "icon" : "alliance_activity_chest",
+    "type" : "1",
+    "duration" : "86400",
+    "num" : "-1",
+    "gold" : "8"
+  }, {
+    "id" : "alliance_activity_chest_9",
+    "chest_name" : "alliance_giftbox_name_alliance",
+    "icon" : "alliance_activity_chest",
+    "type" : "1",
+    "duration" : "86400",
+    "num" : "-1",
+    "gold" : "9"
+  }, {
+    "id" : "alliance_activity_chest_10",
+    "chest_name" : "alliance_giftbox_name_alliance",
+    "icon" : "alliance_activity_chest",
+    "type" : "1",
+    "duration" : "86400",
+    "num" : "-1",
+    "gold" : "9"
+  }, {
+    "id" : "alliance_activity_chest_11",
+    "chest_name" : "alliance_giftbox_name_alliance",
+    "icon" : "alliance_activity_chest",
+    "type" : "1",
+    "duration" : "86400",
+    "num" : "-1",
+    "gold" : "10"
+  }, {
+    "id" : "alliance_activity_chest_12",
+    "chest_name" : "alliance_giftbox_name_alliance",
+    "icon" : "alliance_activity_chest",
+    "type" : "1",
+    "duration" : "86400",
+    "num" : "-1",
+    "gold" : "10"
+  }, {
+    "id" : "alliance_activity_chest_13",
+    "chest_name" : "alliance_giftbox_name_alliance",
+    "icon" : "alliance_activity_chest",
+    "type" : "1",
+    "duration" : "86400",
+    "num" : "-1",
+    "gold" : "11"
+  }, {
+    "id" : "alliance_activity_chest_14",
+    "chest_name" : "alliance_giftbox_name_alliance",
+    "icon" : "alliance_activity_chest",
+    "type" : "1",
+    "duration" : "86400",
+    "num" : "-1",
+    "gold" : "11"
+  }, {
+    "id" : "alliance_activity_chest_15",
+    "chest_name" : "alliance_giftbox_name_alliance",
+    "icon" : "alliance_activity_chest",
+    "type" : "1",
+    "duration" : "86400",
+    "num" : "-1",
+    "gold" : "12"
+  } ]
+}

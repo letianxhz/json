@@ -1,0 +1,84 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "weight_score" : "weight_score@float",
+    "max_score" : "max_score@int",
+    "time" : "time@int"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "weight_score" : "加权分",
+    "max_score" : "分上限",
+    "time" : "X段时间内(秒)"
+  }, {
+    "id" : "alliance_language_same",
+    "weight_score" : "4000",
+    "max_score" : "4000",
+    "time" : "14400"
+  }, {
+    "id" : "alliance_language_english",
+    "weight_score" : "3000",
+    "max_score" : "3000",
+    "time" : "14400"
+  }, {
+    "id" : "alliance_language_all",
+    "weight_score" : "2000",
+    "max_score" : "2000",
+    "time" : "14400"
+  }, {
+    "id" : "alliance_leader_login",
+    "weight_score" : "1000",
+    "max_score" : "1000",
+    "time" : "14400"
+  }, {
+    "id" : "alliance_r4_login",
+    "weight_score" : "200",
+    "max_score" : "1000",
+    "time" : "14400"
+  }, {
+    "id" : "alliance_under_r4_login",
+    "weight_score" : "10",
+    "max_score" : "300",
+    "time" : "14400"
+  }, {
+    "id" : "alliance_active_value_change",
+    "weight_score" : "0.1",
+    "max_score" : "500",
+    "time" : "14400"
+  }, {
+    "id" : "alliance_help_times",
+    "weight_score" : "10",
+    "max_score" : "500",
+    "time" : "14400"
+  }, {
+    "id" : "alliance_promotion_times",
+    "weight_score" : "20",
+    "max_score" : "300",
+    "time" : "14400"
+  }, {
+    "id" : "alliance_chat",
+    "weight_score" : "20",
+    "max_score" : "500",
+    "time" : "14400"
+  }, {
+    "id" : "alliance_pay_level",
+    "weight_score" : "1",
+    "max_score" : "1000",
+    "time" : "14400"
+  }, {
+    "id" : "alliance_power",
+    "weight_score" : "1000000",
+    "max_score" : "200",
+    "time" : "14400"
+  }, {
+    "id" : "alliance_member_num",
+    "weight_score" : "2",
+    "max_score" : "150",
+    "time" : "14400"
+  }, {
+    "id" : "alliance_contribution_value",
+    "weight_score" : "1",
+    "max_score" : "200",
+    "time" : "14400"
+  } ]
+}

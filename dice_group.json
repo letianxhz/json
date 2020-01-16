@@ -1,0 +1,54 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "spend_item" : "spend_item@itemlist.id",
+    "spend_number" : "spend_number@int",
+    "title" : "title@string",
+    "get_item_gold" : "get_item_gold@int",
+    "get_item_number" : "get_item_number@int",
+    "get_item_daily_score" : "get_item_daily_score@int",
+    "get_item_daily_number" : "get_item_daily_number@int",
+    "theme" : "theme@int"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "spend_item" : "消耗道具",
+    "spend_number" : "消耗道具数量",
+    "title" : "标题名称",
+    "get_item_gold" : "获得筛子需求单位金币",
+    "get_item_number" : "每单位金币获得筛子数量",
+    "get_item_daily_score" : "获得筛子需求日活跃",
+    "get_item_daily_number" : "满足日活跃获得筛子数量",
+    "theme" : "主题"
+  }, {
+    "id" : "dice_group_1",
+    "spend_item" : "item_dice_coin",
+    "spend_number" : "5",
+    "title" : "tavern_dice_title",
+    "get_item_gold" : "1000",
+    "get_item_number" : "5",
+    "get_item_daily_score" : "350",
+    "get_item_daily_number" : "2",
+    "theme" : "1"
+  }, {
+    "id" : "dice_group_2",
+    "spend_item" : "item_dice_coin",
+    "spend_number" : "5",
+    "title" : "tavern_dice_title",
+    "get_item_gold" : "1000",
+    "get_item_number" : "5",
+    "get_item_daily_score" : "350",
+    "get_item_daily_number" : "2",
+    "theme" : "1"
+  }, {
+    "id" : "dice_group_3",
+    "spend_item" : "item_dice_coin",
+    "spend_number" : "5",
+    "title" : "tavern_dice_title",
+    "get_item_gold" : "1000",
+    "get_item_number" : "5",
+    "get_item_daily_score" : "350",
+    "get_item_daily_number" : "2",
+    "theme" : "1"
+  } ]
+}

@@ -1,0 +1,34 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "quality" : "quality@int",
+    "type" : "type@string",
+    "drop_id" : "drop_id@drop_group.id",
+    "dig_time" : "dig_time@int"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "quality" : "品质",
+    "type" : "类型",
+    "drop_id" : "掉落组id",
+    "dig_time" : "挖掘时间"
+  }, {
+    "id" : "treasure_map_festival_12_1",
+    "quality" : "0",
+    "type" : "treasure",
+    "drop_id" : "drop_group_item_festival_12_1_2",
+    "dig_time" : "1200"
+  }, {
+    "id" : "treasure_map_kingdom_task_sealed_map",
+    "quality" : "0",
+    "type" : "treasure",
+    "drop_id" : "drop_group_item_kingdom_task_sealed_map",
+    "dig_time" : "0"
+  }, {
+    "id" : "treasure_map_festival_new_year_treasure",
+    "quality" : "0",
+    "type" : "treasure",
+    "drop_id" : "drop_group_item_festival_new_year_treasure",
+    "dig_time" : "0"
+  } ]
+}

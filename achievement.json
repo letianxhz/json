@@ -1,0 +1,645 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "group_id" : "group_id@achievement_group.id",
+    "category" : "category@string",
+    "formula" : "formula@string",
+    "value" : "value@long",
+    "reward_id_1" : "reward_id_1@itemlist.id",
+    "reward_value_1" : "reward_value_1@int",
+    "reward_id_2" : "reward_id_2@itemlist.id",
+    "reward_value_2" : "reward_value_2@int",
+    "star" : "star@int",
+    "google_achievement" : "google_achievement@string",
+    "cm_env_google_achievement" : "cm_env_google_achievement@string"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "group_id" : "成就组id",
+    "category" : "类别",
+    "formula" : "条件公式",
+    "value" : "条件值",
+    "reward_id_1" : "奖励道具id_1",
+    "reward_value_1" : "奖励道具数量_1",
+    "reward_id_2" : "奖励道具id_2",
+    "reward_value_2" : "奖励道具数量_2",
+    "star" : "星级",
+    "google_achievement" : "谷歌成就识别码",
+    "cm_env_google_achievement" : "按环境取值取代google_achievement的配置"
+  }, {
+    "id" : "1",
+    "group_id" : "1",
+    "category" : "build",
+    "formula" : "type=farm&level=5",
+    "value" : "1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "50",
+    "star" : "1",
+    "google_achievement" : "CgkIz42TttYKEAIQAQ",
+    "cm_env_google_achievement" : "koa_global_default|CgkI_cOs3LUYEAIQAQ,koa_37_default|CgkI_cOs3LUYEAIQAQ,gog_global_default|CgkIqJ-YpbQBEAIQCg,gog_cn_default|CgkIqJ-YpbQBEAIQCg,gog_ly_default|CgkIqJ-YpbQBEAIQCg"
+  }, {
+    "id" : "2",
+    "group_id" : "1",
+    "category" : "build",
+    "formula" : "type=farm&level=10",
+    "value" : "1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "100",
+    "star" : "2"
+  }, {
+    "id" : "3",
+    "group_id" : "1",
+    "category" : "build",
+    "formula" : "type=farm&level=15",
+    "value" : "1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "200",
+    "star" : "3"
+  }, {
+    "id" : "4",
+    "group_id" : "1",
+    "category" : "build",
+    "formula" : "type=farm&level=20",
+    "value" : "1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "400",
+    "star" : "4"
+  }, {
+    "id" : "5",
+    "group_id" : "1",
+    "category" : "build",
+    "formula" : "type=farm&level=25",
+    "value" : "1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "800",
+    "star" : "5"
+  }, {
+    "id" : "6",
+    "group_id" : "2",
+    "category" : "build",
+    "formula" : "type=lumber_mill&level=5",
+    "value" : "1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "50",
+    "star" : "1",
+    "google_achievement" : "CgkIz42TttYKEAIQAg",
+    "cm_env_google_achievement" : "koa_global_default|CgkI_cOs3LUYEAIQAg,koa_37_default|CgkI_cOs3LUYEAIQAg,gog_global_default|CgkIqJ-YpbQBEAIQCw,gog_cn_default|CgkIqJ-YpbQBEAIQCw,gog_ly_default|CgkIqJ-YpbQBEAIQCw"
+  }, {
+    "id" : "7",
+    "group_id" : "2",
+    "category" : "build",
+    "formula" : "type=lumber_mill&level=10",
+    "value" : "1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "100",
+    "star" : "2"
+  }, {
+    "id" : "8",
+    "group_id" : "2",
+    "category" : "build",
+    "formula" : "type=lumber_mill&level=15",
+    "value" : "1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "200",
+    "star" : "3"
+  }, {
+    "id" : "9",
+    "group_id" : "2",
+    "category" : "build",
+    "formula" : "type=lumber_mill&level=20",
+    "value" : "1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "400",
+    "star" : "4"
+  }, {
+    "id" : "10",
+    "group_id" : "2",
+    "category" : "build",
+    "formula" : "type=lumber_mill&level=25",
+    "value" : "1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "800",
+    "star" : "5"
+  }, {
+    "id" : "11",
+    "group_id" : "3",
+    "category" : "resource_collect",
+    "formula" : "resource_collect@type=all",
+    "value" : "1000000",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "100",
+    "star" : "1",
+    "google_achievement" : "CgkIz42TttYKEAIQAw",
+    "cm_env_google_achievement" : "koa_global_default|CgkI_cOs3LUYEAIQBQ,koa_37_default|CgkI_cOs3LUYEAIQBQ,gog_global_default|CgkIqJ-YpbQBEAIQDA,gog_cn_default|CgkIqJ-YpbQBEAIQDA,gog_ly_default|CgkIqJ-YpbQBEAIQDA"
+  }, {
+    "id" : "12",
+    "group_id" : "3",
+    "category" : "resource_collect",
+    "formula" : "resource_collect@type=all",
+    "value" : "30000000",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "200",
+    "star" : "2"
+  }, {
+    "id" : "13",
+    "group_id" : "3",
+    "category" : "resource_collect",
+    "formula" : "resource_collect@type=all",
+    "value" : "100000000",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "400",
+    "star" : "3"
+  }, {
+    "id" : "14",
+    "group_id" : "3",
+    "category" : "resource_collect",
+    "formula" : "resource_collect@type=all",
+    "value" : "500000000",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "800",
+    "star" : "4"
+  }, {
+    "id" : "15",
+    "group_id" : "3",
+    "category" : "resource_collect",
+    "formula" : "resource_collect@type=all",
+    "value" : "2000000000",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1600",
+    "reward_id_2" : "item_lord_title_farmer",
+    "reward_value_2" : "1",
+    "star" : "5"
+  }, {
+    "id" : "16",
+    "group_id" : "4",
+    "category" : "wish",
+    "formula" : "wish_total",
+    "value" : "20",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "100",
+    "star" : "1",
+    "google_achievement" : "CgkIz42TttYKEAIQBA",
+    "cm_env_google_achievement" : "koa_global_default|CgkI_cOs3LUYEAIQBw,koa_37_default|CgkI_cOs3LUYEAIQBw,gog_global_default|CgkIqJ-YpbQBEAIQDQ,gog_cn_default|CgkIqJ-YpbQBEAIQDQ,gog_ly_default|CgkIqJ-YpbQBEAIQDQ"
+  }, {
+    "id" : "17",
+    "group_id" : "4",
+    "category" : "wish",
+    "formula" : "wish_total",
+    "value" : "200",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "200",
+    "star" : "2"
+  }, {
+    "id" : "18",
+    "group_id" : "4",
+    "category" : "wish",
+    "formula" : "wish_total",
+    "value" : "1000",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "400",
+    "star" : "3"
+  }, {
+    "id" : "19",
+    "group_id" : "4",
+    "category" : "wish",
+    "formula" : "wish_total",
+    "value" : "3000",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "800",
+    "star" : "4"
+  }, {
+    "id" : "20",
+    "group_id" : "4",
+    "category" : "wish",
+    "formula" : "wish_total",
+    "value" : "15000",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1600",
+    "reward_id_2" : "item_lord_title_devout_believer",
+    "reward_value_2" : "1",
+    "star" : "5"
+  }, {
+    "id" : "21",
+    "group_id" : "5",
+    "category" : "cure_wounded",
+    "formula" : "cure_wounded",
+    "value" : "5000",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "100",
+    "star" : "1",
+    "google_achievement" : "CgkIz42TttYKEAIQBQ",
+    "cm_env_google_achievement" : "koa_global_default|CgkI_cOs3LUYEAIQDw,koa_37_default|CgkI_cOs3LUYEAIQDw,gog_global_default|CgkIqJ-YpbQBEAIQDg,gog_cn_default|CgkIqJ-YpbQBEAIQDg,gog_ly_default|CgkIqJ-YpbQBEAIQDg"
+  }, {
+    "id" : "22",
+    "group_id" : "5",
+    "category" : "cure_wounded",
+    "formula" : "cure_wounded",
+    "value" : "50000",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "200",
+    "star" : "2"
+  }, {
+    "id" : "23",
+    "group_id" : "5",
+    "category" : "cure_wounded",
+    "formula" : "cure_wounded",
+    "value" : "150000",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "400",
+    "star" : "3"
+  }, {
+    "id" : "24",
+    "group_id" : "5",
+    "category" : "cure_wounded",
+    "formula" : "cure_wounded",
+    "value" : "450000",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "800",
+    "star" : "4"
+  }, {
+    "id" : "25",
+    "group_id" : "5",
+    "category" : "cure_wounded",
+    "formula" : "cure_wounded",
+    "value" : "1200000",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1600",
+    "star" : "5"
+  }, {
+    "id" : "26",
+    "group_id" : "6",
+    "category" : "pvp",
+    "formula" : "kill_troops@type=reinforce",
+    "value" : "5000",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "100",
+    "star" : "1",
+    "google_achievement" : "CgkIz42TttYKEAIQBg",
+    "cm_env_google_achievement" : "koa_global_default|CgkI_cOs3LUYEAIQEA,koa_37_default|CgkI_cOs3LUYEAIQEA,gog_global_default|CgkIqJ-YpbQBEAIQDw,gog_cn_default|CgkIqJ-YpbQBEAIQDw,gog_ly_default|CgkIqJ-YpbQBEAIQDw"
+  }, {
+    "id" : "27",
+    "group_id" : "6",
+    "category" : "pvp",
+    "formula" : "kill_troops@type=reinforce",
+    "value" : "50000",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "200",
+    "star" : "2"
+  }, {
+    "id" : "28",
+    "group_id" : "6",
+    "category" : "pvp",
+    "formula" : "kill_troops@type=reinforce",
+    "value" : "150000",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "400",
+    "star" : "3"
+  }, {
+    "id" : "29",
+    "group_id" : "6",
+    "category" : "pvp",
+    "formula" : "kill_troops@type=reinforce",
+    "value" : "450000",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "800",
+    "star" : "4"
+  }, {
+    "id" : "30",
+    "group_id" : "6",
+    "category" : "pvp",
+    "formula" : "kill_troops@type=reinforce",
+    "value" : "1200000",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1600",
+    "star" : "5"
+  }, {
+    "id" : "31",
+    "group_id" : "7",
+    "category" : "pvp",
+    "formula" : "kill_troops@type=rally",
+    "value" : "15000",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "100",
+    "star" : "1",
+    "google_achievement" : "CgkIz42TttYKEAIQBw",
+    "cm_env_google_achievement" : "koa_global_default|CgkI_cOs3LUYEAIQEQ,koa_37_default|CgkI_cOs3LUYEAIQEQ,gog_global_default|CgkIqJ-YpbQBEAIQEA,gog_cn_default|CgkIqJ-YpbQBEAIQEA,gog_ly_default|CgkIqJ-YpbQBEAIQEA"
+  }, {
+    "id" : "32",
+    "group_id" : "7",
+    "category" : "pvp",
+    "formula" : "kill_troops@type=rally",
+    "value" : "150000",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "200",
+    "star" : "2"
+  }, {
+    "id" : "33",
+    "group_id" : "7",
+    "category" : "pvp",
+    "formula" : "kill_troops@type=rally",
+    "value" : "450000",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "400",
+    "star" : "3"
+  }, {
+    "id" : "34",
+    "group_id" : "7",
+    "category" : "pvp",
+    "formula" : "kill_troops@type=rally",
+    "value" : "1350000",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "800",
+    "star" : "4"
+  }, {
+    "id" : "35",
+    "group_id" : "7",
+    "category" : "pvp",
+    "formula" : "kill_troops@type=rally",
+    "value" : "3600000",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1600",
+    "star" : "5"
+  }, {
+    "id" : "36",
+    "group_id" : "8",
+    "category" : "build",
+    "formula" : "type=stronghold&level=10",
+    "value" : "1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "100",
+    "star" : "1",
+    "google_achievement" : "CgkIz42TttYKEAIQCA",
+    "cm_env_google_achievement" : "koa_global_default|CgkI_cOs3LUYEAIQEg,koa_37_default|CgkI_cOs3LUYEAIQEg,gog_global_default|CgkIqJ-YpbQBEAIQEQ,gog_cn_default|CgkIqJ-YpbQBEAIQEQ,gog_ly_default|CgkIqJ-YpbQBEAIQEQ"
+  }, {
+    "id" : "37",
+    "group_id" : "8",
+    "category" : "build",
+    "formula" : "type=stronghold&level=15",
+    "value" : "1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "200",
+    "star" : "2"
+  }, {
+    "id" : "38",
+    "group_id" : "8",
+    "category" : "build",
+    "formula" : "type=stronghold&level=20",
+    "value" : "1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "400",
+    "star" : "3"
+  }, {
+    "id" : "39",
+    "group_id" : "8",
+    "category" : "build",
+    "formula" : "type=stronghold&level=25",
+    "value" : "1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "800",
+    "star" : "4"
+  }, {
+    "id" : "40",
+    "group_id" : "8",
+    "category" : "build",
+    "formula" : "type=stronghold&level=30",
+    "value" : "1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1600",
+    "star" : "5"
+  }, {
+    "id" : "41",
+    "group_id" : "9",
+    "category" : "tele",
+    "formula" : "teleport",
+    "value" : "2",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "100",
+    "star" : "1",
+    "google_achievement" : "CgkIz42TttYKEAIQCQ",
+    "cm_env_google_achievement" : "koa_global_default|CgkI_cOs3LUYEAIQEw,koa_37_default|CgkI_cOs3LUYEAIQEw,gog_global_default|CgkIqJ-YpbQBEAIQEg,gog_cn_default|CgkIqJ-YpbQBEAIQEg,gog_ly_default|CgkIqJ-YpbQBEAIQEg"
+  }, {
+    "id" : "42",
+    "group_id" : "9",
+    "category" : "tele",
+    "formula" : "teleport",
+    "value" : "5",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "200",
+    "star" : "2"
+  }, {
+    "id" : "43",
+    "group_id" : "9",
+    "category" : "tele",
+    "formula" : "teleport",
+    "value" : "8",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "400",
+    "star" : "3"
+  }, {
+    "id" : "44",
+    "group_id" : "9",
+    "category" : "tele",
+    "formula" : "teleport",
+    "value" : "15",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "800",
+    "star" : "4"
+  }, {
+    "id" : "45",
+    "group_id" : "9",
+    "category" : "tele",
+    "formula" : "teleport",
+    "value" : "20",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1600",
+    "star" : "5"
+  }, {
+    "id" : "51",
+    "group_id" : "11",
+    "category" : "research",
+    "formula" : "research",
+    "value" : "50",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "100",
+    "star" : "1",
+    "google_achievement" : "CgkIz42TttYKEAIQCw",
+    "cm_env_google_achievement" : "koa_global_default|CgkI_cOs3LUYEAIQFQ,koa_37_default|CgkI_cOs3LUYEAIQFQ,gog_global_default|CgkIqJ-YpbQBEAIQFA,gog_cn_default|CgkIqJ-YpbQBEAIQFA,gog_ly_default|CgkIqJ-YpbQBEAIQFA"
+  }, {
+    "id" : "52",
+    "group_id" : "11",
+    "category" : "research",
+    "formula" : "research",
+    "value" : "150",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "200",
+    "star" : "2"
+  }, {
+    "id" : "53",
+    "group_id" : "11",
+    "category" : "research",
+    "formula" : "research",
+    "value" : "300",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "400",
+    "star" : "3"
+  }, {
+    "id" : "54",
+    "group_id" : "11",
+    "category" : "research",
+    "formula" : "research",
+    "value" : "550",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "800",
+    "star" : "4"
+  }, {
+    "id" : "55",
+    "group_id" : "11",
+    "category" : "research",
+    "formula" : "research",
+    "value" : "700",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1600",
+    "star" : "5"
+  }, {
+    "id" : "56",
+    "group_id" : "12",
+    "category" : "resource",
+    "formula" : "rob_resource",
+    "value" : "1000000",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "100",
+    "star" : "1",
+    "google_achievement" : "CgkIz42TttYKEAIQDA",
+    "cm_env_google_achievement" : "koa_global_default|CgkI_cOs3LUYEAIQFg,koa_37_default|CgkI_cOs3LUYEAIQFg,gog_global_default|CgkIqJ-YpbQBEAIQFQ,gog_cn_default|CgkIqJ-YpbQBEAIQFQ,gog_ly_default|CgkIqJ-YpbQBEAIQFQ"
+  }, {
+    "id" : "57",
+    "group_id" : "12",
+    "category" : "resource",
+    "formula" : "rob_resource",
+    "value" : "30000000",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "200",
+    "star" : "2"
+  }, {
+    "id" : "58",
+    "group_id" : "12",
+    "category" : "resource",
+    "formula" : "rob_resource",
+    "value" : "100000000",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "400",
+    "star" : "3"
+  }, {
+    "id" : "59",
+    "group_id" : "12",
+    "category" : "resource",
+    "formula" : "rob_resource",
+    "value" : "500000000",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "800",
+    "star" : "4"
+  }, {
+    "id" : "60",
+    "group_id" : "12",
+    "category" : "resource",
+    "formula" : "rob_resource",
+    "value" : "2000000000",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1600",
+    "reward_id_2" : "item_lord_title_conqueror",
+    "reward_value_2" : "1",
+    "star" : "5"
+  }, {
+    "id" : "66",
+    "group_id" : "14",
+    "category" : "pvp",
+    "formula" : "killed_troop",
+    "value" : "15000",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "100",
+    "star" : "1",
+    "google_achievement" : "CgkIz42TttYKEAIQDg",
+    "cm_env_google_achievement" : "koa_global_default|CgkI_cOs3LUYEAIQGA,koa_37_default|CgkI_cOs3LUYEAIQGA,gog_global_default|CgkIqJ-YpbQBEAIQFw,gog_cn_default|CgkIqJ-YpbQBEAIQFw,gog_ly_default|CgkIqJ-YpbQBEAIQFw"
+  }, {
+    "id" : "67",
+    "group_id" : "14",
+    "category" : "pvp",
+    "formula" : "killed_troop",
+    "value" : "150000",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "200",
+    "star" : "2"
+  }, {
+    "id" : "68",
+    "group_id" : "14",
+    "category" : "pvp",
+    "formula" : "killed_troop",
+    "value" : "450000",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "400",
+    "star" : "3"
+  }, {
+    "id" : "69",
+    "group_id" : "14",
+    "category" : "pvp",
+    "formula" : "killed_troop",
+    "value" : "1350000",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "800",
+    "star" : "4"
+  }, {
+    "id" : "70",
+    "group_id" : "14",
+    "category" : "pvp",
+    "formula" : "killed_troop",
+    "value" : "3600000",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1600",
+    "star" : "5"
+  }, {
+    "id" : "76",
+    "group_id" : "16",
+    "category" : "build",
+    "formula" : "type=farm&level=30",
+    "value" : "1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1000",
+    "star" : "1"
+  }, {
+    "id" : "77",
+    "group_id" : "16",
+    "category" : "build",
+    "formula" : "type=farm&level=35",
+    "value" : "1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1200",
+    "star" : "2"
+  }, {
+    "id" : "78",
+    "group_id" : "17",
+    "category" : "build",
+    "formula" : "type=lumber_mill&level=30",
+    "value" : "1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1000",
+    "star" : "1"
+  }, {
+    "id" : "79",
+    "group_id" : "17",
+    "category" : "build",
+    "formula" : "type=lumber_mill&level=35",
+    "value" : "1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1200",
+    "star" : "2"
+  }, {
+    "id" : "80",
+    "group_id" : "18",
+    "category" : "build",
+    "formula" : "type=stronghold&level=35",
+    "value" : "1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "2000",
+    "star" : "1"
+  } ]
+}

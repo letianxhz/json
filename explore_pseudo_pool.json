@@ -1,0 +1,24 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "type" : "type@int",
+    "total_times" : "total_times@int"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "type" : "1-池内组可在同序列上触发最多1个；\n2-池内组可在同序列上触发多个",
+    "total_times" : "总次数"
+  }, {
+    "id" : "explore_pseudo_pool_equip_chest",
+    "type" : "1",
+    "total_times" : "100"
+  }, {
+    "id" : "explore_pseudo_pool_equip_chest_special",
+    "type" : "1",
+    "total_times" : "3"
+  }, {
+    "id" : "activity_explore_pseudo_pool_equip_chest",
+    "type" : "1",
+    "total_times" : "30"
+  } ]
+}

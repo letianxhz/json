@@ -1,0 +1,756 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "title" : "title@string^c",
+    "text" : "text@string^c",
+    "image" : "image@string^c",
+    "english_text" : "english_text@string^p"
+  },
+  "rows" : [ {
+    "id" : "toast",
+    "title" : "标题",
+    "text" : "文本内容",
+    "image" : "图片",
+    "english_text" : "英文内容"
+  }, {
+    "id" : "toast_build_upgrade_complete",
+    "title" : "toast_build_upgrade_complete_title",
+    "text" : "toast_build_upgrade_complete",
+    "english_text" : "You have successfully upgraded a building to {Level} {Building_Name}"
+  }, {
+    "id" : "toast_build_deconstruct_complete",
+    "title" : "toast_build_deconstruct_complete_title",
+    "text" : "toast_build_deconstruct_complete",
+    "english_text" : "You have successfully deconstructed {Building_Name}"
+  }, {
+    "id" : "toast_build_construction_complete",
+    "title" : "toast_build_construction_complete_title",
+    "text" : "toast_build_construction_complete",
+    "english_text" : "You have finished construction of  {Building_Name}"
+  }, {
+    "id" : "toast_research_timer_complete",
+    "title" : "toast_research_timer_complete_title",
+    "text" : "toast_research_timer_complete",
+    "english_text" : "You have successfully completed researching {Research_Name} {Level}"
+  }, {
+    "id" : "toast_crafting_timer_complete",
+    "title" : "toast_crafting_timer_complete_title",
+    "text" : "toast_crafting_timer_complete",
+    "english_text" : "You have successfully crafted {Quality} {Equipment_Name}"
+  }, {
+    "id" : "toast_training_timer_complete",
+    "title" : "toast_training_timer_complete_title",
+    "text" : "toast_training_timer_complete",
+    "english_text" : "Your troops have been successfully trained!"
+  }, {
+    "id" : "toast_trap_timer_complete",
+    "title" : "toast_trap_timer_complete_title",
+    "text" : "toast_trap_timer_complete",
+    "english_text" : "Your traps have heen successfully built!"
+  }, {
+    "id" : "toast_heal_timer_complete",
+    "title" : "toast_heal_timer_complete_title",
+    "text" : "toast_heal_timer_complete",
+    "english_text" : "Your troops have been successfully healed!"
+  }, {
+    "id" : "toast_quest_timer_complete",
+    "title" : "toast_quest_timer_complete_title",
+    "text" : "toast_quest_timer_complete",
+    "english_text" : "Your timed quest is complete! you have received {Quest_Rewards}"
+  }, {
+    "id" : "toast_quest_complete",
+    "title" : "toast_quest_complete_title",
+    "text" : "toast_quest_complete",
+    "english_text" : "You have completed a quest: {Quest_Description}"
+  }, {
+    "id" : "toast_march_atk_complete",
+    "title" : "toast_march_atk_complete_title",
+    "text" : "toast_march_atk_complete",
+    "english_text" : "Your troops have reached their destination to {K: X: Y:}"
+  }, {
+    "id" : "toast_march_return",
+    "title" : "toast_march_return_title",
+    "text" : "toast_march_return",
+    "english_text" : "A march has returned to your city!"
+  }, {
+    "id" : "toast_march_trade_arrived",
+    "title" : "toast_march_trade_arrived_title",
+    "text" : "toast_march_trade_arrived",
+    "english_text" : "Incoming resource help from {K: X: Y:}{City_Name}"
+  }, {
+    "id" : "toast_march_trade_success",
+    "title" : "toast_march_trade_success_title",
+    "text" : "toast_march_trade_success",
+    "english_text" : "Your resource help march has arrived on {K: X: Y:}{City_Name}’s city!"
+  }, {
+    "id" : "toast_march_reinforce_arrived",
+    "title" : "toast_march_reinforce_arrived_title",
+    "text" : "toast_march_reinforce_arrived",
+    "english_text" : "Incoming reinforcement from {K: X: Y:}{City_Name}"
+  }, {
+    "id" : "toast_march_incoming_scout",
+    "title" : "toast_march_incoming_scout_title",
+    "text" : "toast_march_incoming_scout",
+    "english_text" : "An incoming march from {K: X: Y:} has been detected by your Watch Tower!"
+  }, {
+    "id" : "toast_march_incoming_speedup",
+    "title" : "toast_march_incoming_speedup_title",
+    "text" : "toast_march_incoming_speedup",
+    "english_text" : "An incoming march from {K: X: Y:} has been sped up!"
+  }, {
+    "id" : "toast_march_incoming_collision",
+    "title" : "toast_march_incoming_collision_title",
+    "text" : "toast_march_incoming_collision",
+    "english_text" : "Collision Case! Incoming enemy detected to {K: X: Y:}"
+  }, {
+    "id" : "toast_march_rally_started",
+    "title" : "toast_march_rally_started_title",
+    "text" : "toast_march_rally_started",
+    "english_text" : "{K: X: Y:} {City_Name} has started a rally to {k: x: y:}{City_Name_2}"
+  }, {
+    "id" : "toast_march_rally_started_passive",
+    "title" : "toast_march_rally_started_title",
+    "text" : "toast_march_rally_started_passive",
+    "english_text" : "{K: X: Y:} {City_Name} has started a rally to your city."
+  }, {
+    "id" : "toast_march_rally_started_receipt",
+    "title" : "toast_march_rally_started_title",
+    "text" : "toast_march_rally_started_receipt",
+    "english_text" : "You have started a rally to {k: x: y:}{City_Name_2}"
+  }, {
+    "id" : "toast_march_rally_canceled",
+    "title" : "toast_march_rally_canceled_title",
+    "text" : "toast_march_rally_canceled",
+    "english_text" : "{K: X: Y:} {City_Name} has canceled the rally to {k: x: y:}{City_Name_2}"
+  }, {
+    "id" : "toast_march_rally_canceled_passive",
+    "title" : "toast_march_rally_canceled_title",
+    "text" : "toast_march_rally_canceled_passive",
+    "english_text" : "{K: X: Y:} {City_Name} has canceled the rally to your city."
+  }, {
+    "id" : "toast_event_start",
+    "title" : "toast_event_start_title",
+    "text" : "toast_event_start",
+    "english_text" : "A new event, {Event_Name}, has started!"
+  }, {
+    "id" : "toast_event_end",
+    "title" : "toast_event_end_title",
+    "text" : "toast_event_end",
+    "english_text" : "{Event_Name} has ended!"
+  }, {
+    "id" : "toast_event_reward",
+    "title" : "toast_event_reward_title",
+    "text" : "toast_event_reward",
+    "english_text" : "Event reward earned! You have received {Item_Name}!"
+  }, {
+    "id" : "toast_help_received",
+    "title" : "toast_help_received_title",
+    "text" : "toast_help_received",
+    "english_text" : "{Player_Name} has helped you with your {Level} {Building_Name}!"
+  }, {
+    "id" : "toast_help_success",
+    "title" : "toast_help_success_title",
+    "text" : "toast_help_success",
+    "english_text" : "You have successfully helped {Player_Name}"
+  }, {
+    "id" : "toast_VIP_expiring",
+    "title" : "toast_VIP_expiring_title",
+    "text" : "toast_VIP_expiring",
+    "english_text" : "Your VIP benefits have expired! Go to the Item Store to get more!"
+  }, {
+    "id" : "toast_contact_request_sent",
+    "title" : "toast_contact_request_sent_title",
+    "text" : "toast_contact_request_sent",
+    "english_text" : "You have successfully sent friend request to {Player_Name}"
+  }, {
+    "id" : "toast_contact_request_approved",
+    "title" : "toast_contact_request_approved_title",
+    "text" : "toast_contact_request_approved",
+    "english_text" : "Your friend request has approved by {Player_Name}"
+  }, {
+    "id" : "toast_contact_blocked",
+    "title" : "toast_contact_blocked_title",
+    "text" : "toast_contact_blocked",
+    "english_text" : "You have added {Player_Name} to block list!"
+  }, {
+    "id" : "toast_alliance_join",
+    "title" : "toast_alliance_join_title",
+    "text" : "toast_alliance_join",
+    "english_text" : "You have joined {Alliance_Name}!"
+  }, {
+    "id" : "toast_alliance_create",
+    "title" : "toast_alliance_create_title",
+    "text" : "toast_alliance_create",
+    "english_text" : "You have created {Alliance_Name}!"
+  }, {
+    "id" : "toast_alliance_gift_new",
+    "title" : "toast_alliance_gift_new_title",
+    "text" : "toast_alliance_gift_new",
+    "english_text" : "You have received an alliance gift!"
+  }, {
+    "id" : "toast_alliance_gift_open",
+    "title" : "toast_alliance_gift_open_title",
+    "text" : "toast_alliance_gift_open",
+    "english_text" : "You have opened an alliance gift!"
+  }, {
+    "id" : "toast_alliance_member_kicked",
+    "title" : "toast_alliance_member_kicked_title",
+    "text" : "toast_alliance_member_kicked",
+    "english_text" : "You have been kick out of {Alliance_Name}"
+  }, {
+    "id" : "toast_alliance_member_kick_success",
+    "title" : "toast_alliance_member_kick_success_title",
+    "text" : "toast_alliance_member_kick_success",
+    "english_text" : "You have successfully kicked {Player_Name} out of alliance {Alliance_Name}"
+  }, {
+    "id" : "toast_alliance_manage_block",
+    "title" : "toast_alliance_manage_block_title",
+    "text" : "toast_alliance_manage_block",
+    "english_text" : "You have successfully added {Player_Name} to Alliance Ban List"
+  }, {
+    "id" : "toast_alliance_manage_friend_request",
+    "title" : "toast_alliance_manage_friend_request_title",
+    "text" : "toast_alliance_manage_friend_request",
+    "english_text" : "You have sent friend request to alliance {Alliance_Name}"
+  }, {
+    "id" : "toast_alliance_manage_diplomacy_changed",
+    "title" : "toast_alliance_manage_diplomacy_changed_title",
+    "text" : "toast_alliance_manage_diplomacy_changed",
+    "english_text" : "Alliance relation has successfully changed with {Alliance_Name}"
+  }, {
+    "id" : "toast_alliance_manage_customize",
+    "title" : "toast_alliance_manage_customize_title",
+    "text" : "toast_alliance_manage_customize",
+    "english_text" : "You have successfully changed alliance customization!"
+  }, {
+    "id" : "toast_alliance_manage_leader_transfer",
+    "title" : "toast_alliance_manage_leader_transfer_title",
+    "text" : "toast_alliance_manage_leader_transfer",
+    "english_text" : "Alliance leadership has successfully changed to {Player_Name}"
+  }, {
+    "id" : "toast_alliance_leave",
+    "title" : "toast_alliance_leave_title",
+    "text" : "toast_alliance_leave",
+    "english_text" : "You have left the alliance {Alliance_Name}"
+  }, {
+    "id" : "toast_alliance_disband",
+    "title" : "toast_alliance_disband_title",
+    "text" : "toast_alliance_disband",
+    "english_text" : "Your alliance {Alliance_Name} has been disbanded!"
+  }, {
+    "id" : "toast_contact_sent_complete",
+    "title" : "toast_contact_sent_complete_title",
+    "text" : "toast_contact_sent_complete",
+    "english_text" : "Contact invite sent successfully!"
+  }, {
+    "id" : "toast_contact_receive_complete",
+    "title" : "toast_contact_receive_complete_title",
+    "text" : "toast_contact_receive_complete",
+    "english_text" : "You received a contact invite from {Player_Name}"
+  }, {
+    "id" : "toast_contact_add_complete",
+    "title" : "toast_contact_add_complete_title",
+    "text" : "toast_contact_add_complete",
+    "english_text" : "You and {Player_Name} now are contacts"
+  }, {
+    "id" : "toast_contact_sent_fail_contact",
+    "title" : "toast_contact_sent_fail_contact_title",
+    "text" : "toast_contact_sent_fail_contact",
+    "english_text" : "You have reached the maximum number of contacts"
+  }, {
+    "id" : "toast_contact_sent_fail_blocklist",
+    "title" : "toast_contact_sent_fail_blocklist_title",
+    "text" : "toast_contact_sent_fail_blocklist",
+    "english_text" : "You have reached the maximum number of block list"
+  }, {
+    "id" : "toast_contact_sent_fail_block",
+    "title" : "toast_contact_sent_fail_block_title",
+    "text" : "toast_contact_sent_fail_block",
+    "english_text" : "You cannot add a person blocked by you!"
+  }, {
+    "id" : "toast_contact_remove_complete",
+    "title" : "toast_contact_remove_complete_title",
+    "text" : "toast_contact_remove_complete",
+    "english_text" : "Contact removed!"
+  }, {
+    "id" : "toast_contact_add_fail_contact",
+    "title" : "toast_contact_add_fail_contact_title",
+    "text" : "toast_contact_add_fail_contact",
+    "english_text" : "This player is already in your contact!"
+  }, {
+    "id" : "toast_contact_add_fail_block",
+    "title" : "toast_contact_add_fail_block_title",
+    "text" : "toast_contact_add_fail_block",
+    "english_text" : "This player is already blocked by you!"
+  }, {
+    "id" : "toast_contact_add_fail_you",
+    "title" : "toast_contact_add_fail_you_title",
+    "text" : "toast_contact_add_fail_you",
+    "english_text" : "You cannot add yourself as contact"
+  }, {
+    "id" : "toast_bookmark_success",
+    "title" : "toast_bookmark_success_title",
+    "text" : "toast_bookmark_success_description",
+    "english_text" : "The selected coordinates have been saved."
+  }, {
+    "id" : "toast_favorite_add",
+    "title" : "toast_favorite_add_title",
+    "text" : "toast_favorite_add"
+  }, {
+    "id" : "toast_favorite_delete",
+    "title" : "toast_favorite_delete_title",
+    "text" : "toast_favorite_delete"
+  }, {
+    "id" : "toast_alliance_application",
+    "title" : "toast_alliance_application_title",
+    "text" : "toast_alliance_application"
+  }, {
+    "id" : "toast_alliance_invite_success",
+    "title" : "toast_alliance_invite_success_title",
+    "text" : "toast_alliance_invite_success"
+  }, {
+    "id" : "toast_item_use_item",
+    "title" : "toast_item_use_item_title",
+    "text" : "toast_item_use_item_description"
+  }, {
+    "id" : "toast_item_buy_item",
+    "title" : "toast_item_buy_item_title",
+    "text" : "toast_item_buy_item_description"
+  }, {
+    "id" : "toast_march_reach_target",
+    "title" : "toast_march_reach_target_title",
+    "text" : "toast_march_reach_target"
+  }, {
+    "id" : "toast_march_come_back",
+    "title" : "toast_march_come_back_title",
+    "text" : "toast_march_come_back"
+  }, {
+    "id" : "toast_battle_victory_pvp",
+    "title" : "toast_battle_victory_pvp_title",
+    "text" : "toast_battle_victory_pvp"
+  }, {
+    "id" : "toast_battle_failed_pvp",
+    "title" : "toast_battle_failed_pvp_title",
+    "text" : "toast_battle_failed_pvp"
+  }, {
+    "id" : "toast_battle_victory_pve",
+    "title" : "toast_battle_victory_pve_title",
+    "text" : "toast_battle_victory_pve"
+  }, {
+    "id" : "toast_battle_failed_pve",
+    "title" : "toast_battle_failed_pve_title",
+    "text" : "toast_battle_failed_pve"
+  }, {
+    "id" : "toast_battle_victory_pvp_defend",
+    "title" : "toast_battle_victory_pvp_defend_title",
+    "text" : "toast_battle_victory_pvp_defend"
+  }, {
+    "id" : "toast_battle_failed_pvp_defend",
+    "title" : "toast_battle_failed_pvp_defend_title",
+    "text" : "toast_battle_failed_pvp_defend"
+  }, {
+    "id" : "toast_battle_blood_bath",
+    "title" : "toast_battle_blood_bath_title",
+    "text" : "toast_battle_blood_bath"
+  }, {
+    "id" : "toast_battle_report_share_success",
+    "title" : "toast_battle_report_share_success_title",
+    "text" : "toast_battle_report_share_success"
+  }, {
+    "id" : "toast_event_synthesis_success",
+    "title" : "toast_event_synthesis_success_title",
+    "text" : "toast_event_synthesis_success"
+  }, {
+    "id" : "toast_equipment_equip_success",
+    "title" : "toast_equipment_equip_success_title",
+    "text" : "toast_equipment_equip_success"
+  }, {
+    "id" : "toast_equipment_replace_success",
+    "title" : "toast_equipment_replace_success_title",
+    "text" : "toast_equipment_replace_success"
+  }, {
+    "id" : "toast_equipment_remove_success",
+    "title" : "toast_equipment_remove_success_title",
+    "text" : "toast_equipment_remove_success"
+  }, {
+    "id" : "toast_fallen_knight_event_start",
+    "title" : "toast_fallen_knight_event_start_title",
+    "text" : "toast_fallen_knight_event_start_description"
+  }, {
+    "id" : "toast_fallen_knight_event_attack",
+    "title" : "toast_fallen_knight_event_attack_title",
+    "text" : "toast_fallen_knight_event_attack_description"
+  }, {
+    "id" : "toast_fallen_knight_event_fortress_attack",
+    "title" : "toast_fallen_knight_event_fortress_attack_title",
+    "text" : "toast_fallen_knight_event_fortress_attack_description"
+  }, {
+    "id" : "toast_tavern_rewards_share_success",
+    "title" : "toast_tavern_rewards_share_success_title",
+    "text" : "toast_tavern_rewards_share_success"
+  }, {
+    "id" : "toast_coordinates_shared_success",
+    "title" : "toast_coordinates_shared_success_title",
+    "text" : "toast_coordinates_shared_success"
+  }, {
+    "id" : "toast_equipment_enhance_success",
+    "title" : "toast_equipment_enhance_success_title",
+    "text" : "toast_equipment_enhance_success"
+  }, {
+    "id" : "toast_helpshift_message",
+    "title" : "toast_helpshift_message_title",
+    "text" : "toast_helpshift_message"
+  }, {
+    "id" : "toast_treasure_map_treasure_discovered",
+    "title" : "toast_treasure_map_treasure_discovered_title",
+    "text" : "toast_treasure_map_treasure_discovered"
+  }, {
+    "id" : "toast_exchange_hall_listed_item_expired",
+    "title" : "toast_exchange_hall_listed_item_expired_title",
+    "text" : "toast_exchange_hall_listed_item_expired"
+  }, {
+    "id" : "toast_exchange_hall_sell_success",
+    "title" : "toast_exchange_hall_sell_success_title",
+    "text" : "toast_exchange_hall_sell_success"
+  }, {
+    "id" : "toast_exchange_hall_expired_item_returned",
+    "title" : "toast_exchange_hall_expired_item_returned_title",
+    "text" : "toast_exchange_hall_expired_item_returned"
+  }, {
+    "id" : "toast_exchange_hall_list_success",
+    "title" : "toast_exchange_hall_list_success_title",
+    "text" : "toast_exchange_hall_list_success"
+  }, {
+    "id" : "toast_exchange_hall_buy_success",
+    "title" : "toast_exchange_hall_buy_success_title",
+    "text" : "toast_exchange_hall_buy_success"
+  }, {
+    "id" : "toast_1_year_tournament_level_too_low",
+    "title" : "toast_1_year_tournament_level_too_low_title",
+    "text" : "toast_1_year_tournament_level_too_low"
+  }, {
+    "id" : "toast_1_year_tournament_title_taken",
+    "title" : "toast_1_year_tournament_title_taken_title",
+    "text" : "toast_1_year_tournament_title_taken"
+  }, {
+    "id" : "toast_1_year_tournament_title_changed",
+    "title" : "toast_1_year_tournament_title_changed_title",
+    "text" : "toast_1_year_tournament_title_changed"
+  }, {
+    "id" : "toast_1_year_tournament_praise_level_low",
+    "title" : "toast_1_year_tournament_praise_level_low_title",
+    "text" : "toast_1_year_tournament_praise_level_low"
+  }, {
+    "id" : "world_auction_exceeded",
+    "title" : "toast_world_auction_exceeded_title",
+    "text" : "toast_world_auction_exceeded"
+  }, {
+    "id" : "toast_trial_complete_final_challenge",
+    "title" : "toast_trial_complete_final_challenge_title",
+    "text" : "toast_trial_complete_final_challenge"
+  }, {
+    "id" : "toast_trial_complete_previous_challenge",
+    "title" : "toast_trial_complete_previous_challenge_title",
+    "text" : "toast_trial_complete_previous_challenge"
+  }, {
+    "id" : "toast_trial_rewards_collect_success",
+    "title" : "toast_trial_rewards_collect_success_title",
+    "text" : "toast_trial_rewards_collect_success"
+  }, {
+    "id" : "toast_trial_locked",
+    "title" : "toast_trial_locked_title",
+    "text" : "toast_trial_locked"
+  }, {
+    "id" : "toast_trial_num_troops_no_change",
+    "title" : "toast_trial_num_troops_no_change_title",
+    "text" : "toast_trial_num_troops_no_change"
+  }, {
+    "id" : "toast_trial_not_open",
+    "title" : "toast_trial_not_open_title",
+    "text" : "toast_trial_not_open"
+  }, {
+    "id" : "toast_trial_rewards_tip",
+    "title" : "toast_trial_rewards_tip_title",
+    "text" : "toast_trial_rewards_tip"
+  }, {
+    "id" : "toast_alliance_warfare_only_leader",
+    "title" : "toast_alliance_warfare_only_leader_title",
+    "text" : "toast_alliance_warfare_only_leader"
+  }, {
+    "id" : "toast_alliance_warfare_registration_success",
+    "title" : "toast_alliance_warfare_registration_success_title",
+    "text" : "toast_alliance_warfare_registration_success"
+  }, {
+    "id" : "toast_alliance_warfare_registration_cancelled",
+    "title" : "toast_alliance_warfare_registration_cancelled_title",
+    "text" : "toast_alliance_warfare_registration_cancelled"
+  }, {
+    "id" : "toast_alliance_warfare_not_open",
+    "title" : "toast_alliance_warfare_not_open_title",
+    "text" : "toast_alliance_warfare_not_open"
+  }, {
+    "id" : "toast_alliance_warfare_lord_assigned",
+    "title" : "toast_alliance_warfare_lord_assigned_title",
+    "text" : "toast_alliance_warfare_lord_assigned"
+  }, {
+    "id" : "toast_alliance_warfare_lord_name",
+    "title" : "toast_alliance_warfare_lord_name_title",
+    "text" : "toast_alliance_warfare_lord_name"
+  }, {
+    "id" : "toast_alliance_warfare_contributions",
+    "title" : "toast_alliance_warfare_contributions_title",
+    "text" : "toast_alliance_warfare_contributions"
+  }, {
+    "id" : "toast_alliance_warfare_kingdom_rank_low",
+    "title" : "toast_alliance_warfare_kingdom_rank_low_title",
+    "text" : "toast_alliance_warfare_kingdom_rank_low"
+  }, {
+    "id" : "toast_alliance_warfare_kingdom_invasion_open",
+    "title" : "toast_alliance_warfare_kingdom_invasion_open_title",
+    "text" : "toast_alliance_warfare_kingdom_invasion_open"
+  }, {
+    "id" : "toast_alliance_warfare_alliance_level_join",
+    "title" : "toast_alliance_warfare_alliance_level_join_title",
+    "text" : "toast_alliance_warfare_alliance_level_join"
+  }, {
+    "id" : "toast_alliance_warfare_alliance_power_join",
+    "title" : "toast_alliance_warfare_alliance_power_join_title",
+    "text" : "toast_alliance_warfare_alliance_power_join"
+  }, {
+    "id" : "toast_alliance_warfare_alliance_members_join",
+    "title" : "toast_alliance_warfare_alliance_members_join_title",
+    "text" : "toast_alliance_warfare_alliance_members_join"
+  }, {
+    "id" : "toast_alliance_warfare_alliance_cannot_join",
+    "title" : "toast_alliance_warfare_alliance_cannot_join_title",
+    "text" : "toast_alliance_warfare_alliance_cannot_join"
+  }, {
+    "id" : "toast_alliance_warfare_player_cannot_join",
+    "title" : "toast_alliance_warfare_player_cannot_join_title",
+    "text" : "toast_alliance_warfare_player_cannot_join"
+  }, {
+    "id" : "toast_alliance_warfare_open_cannot_join",
+    "title" : "toast_alliance_warfare_open_cannot_join_title",
+    "text" : "toast_alliance_warfare_open_cannot_join"
+  }, {
+    "id" : "toast_alliance_warfare_open_cannot_invite",
+    "title" : "toast_alliance_warfare_open_cannot_invite_title",
+    "text" : "toast_alliance_warfare_open_cannot_invite"
+  }, {
+    "id" : "toast_alliance_warfare_assigned_opponent",
+    "title" : "toast_alliance_warfare_assigned_opponent_title",
+    "text" : "toast_alliance_warfare_assigned_opponent"
+  }, {
+    "id" : "toast_alliance_warfare_kingdom_pick",
+    "title" : "toast_alliance_warfare_kingdom_pick_title",
+    "text" : "toast_alliance_warfare_kingdom_pick"
+  }, {
+    "id" : "toast_alliance_warfare_kingdom_store",
+    "title" : "toast_alliance_warfare_kingdom_store_title",
+    "text" : "toast_alliance_warfare_kingdom_store"
+  }, {
+    "id" : "toast_alliance_warfare_no_leader_teleport",
+    "title" : "toast_alliance_warfare_no_leader_teleport_title",
+    "text" : "toast_alliance_warfare_no_leader_teleport"
+  }, {
+    "id" : "toast_alliance_warfare_cannot_use",
+    "title" : "toast_alliance_warfare_cannot_use_title",
+    "text" : "toast_alliance_warfare_cannot_use"
+  }, {
+    "id" : "toast_alliance_warfare_kingdom_cannot_teleport",
+    "title" : "toast_alliance_warfare_kingdom_cannot_teleport_title",
+    "text" : "toast_alliance_warfare_kingdom_cannot_teleport"
+  }, {
+    "id" : "toast_alliance_warfare_fortress_marching",
+    "title" : "toast_alliance_warfare_fortress_marching_title",
+    "text" : "toast_alliance_warfare_fortress_marching"
+  }, {
+    "id" : "toast_alliance_warfare_troops_kingdom",
+    "title" : "toast_alliance_warfare_troops_kingdom_title",
+    "text" : "toast_alliance_warfare_troops_kingdom"
+  }, {
+    "id" : "toast_alliance_warfare_embassy_reinforcements",
+    "title" : "toast_alliance_warfare_embassy_reinforcements_title",
+    "text" : "toast_alliance_warfare_embassy_reinforcements"
+  }, {
+    "id" : "toast_alliance_warfare_kingdom_no_opponents",
+    "title" : "toast_alliance_warfare_kingdom_no_opponents_title",
+    "text" : "toast_alliance_warfare_kingdom_no_opponents"
+  }, {
+    "id" : "toast_research_university_level",
+    "title" : "toast_research_university_level_title",
+    "text" : "toast_research_university_level"
+  }, {
+    "id" : "toast_mega_defense_activated",
+    "title" : "toast_mega_defense_activated_title",
+    "text" : "toast_mega_defense_activated"
+  }, {
+    "id" : "toast_mega_rally_started",
+    "title" : "toast_mega_rally_started_title",
+    "text" : "toast_mega_rally_started"
+  }, {
+    "id" : "toast_march_mega_rally_sent",
+    "title" : "toast_march_mega_rally_sent_title",
+    "text" : "toast_march_mega_rally_sent"
+  }, {
+    "id" : "toast_mega_rally_already_started",
+    "title" : "toast_mega_rally_already_started_title",
+    "text" : "toast_mega_rally_already_started"
+  }, {
+    "id" : "toast_mega_rally_already_started_description",
+    "title" : "toast_mega_rally_already_started_description_title",
+    "text" : "toast_mega_rally_already_started_description"
+  }, {
+    "id" : "toast_mega_rally_increase_time_limit",
+    "title" : "toast_mega_rally_increase_time_limit_title",
+    "text" : "toast_mega_rally_increase_time_limit"
+  }, {
+    "id" : "toast_mega_defense_only_inside_add_time",
+    "title" : "toast_mega_defense_only_inside_add_time_title",
+    "text" : "toast_mega_defense_only_inside_add_time"
+  }, {
+    "id" : "toast_mega_rally_sent_target",
+    "title" : "toast_mega_rally_sent_target_title",
+    "text" : "toast_mega_rally_sent_target"
+  }, {
+    "id" : "toast_mega_garrison_activated",
+    "title" : "toast_mega_garrison_activated_title",
+    "text" : "toast_mega_garrison_activated"
+  }, {
+    "id" : "toast_target_launched_mega_defense",
+    "title" : "toast_target_launched_mega_defense_title",
+    "text" : "toast_target_launched_mega_defense"
+  }, {
+    "id" : "toast_alliance_hero_hall_not_there",
+    "title" : "toast_alliance_hero_hall_not_there_title",
+    "text" : "toast_alliance_hero_hall_not_there"
+  }, {
+    "id" : "toast_alliance_hero_hall_locked_materials",
+    "title" : "toast_alliance_hero_hall_locked_materials_title",
+    "text" : "toast_alliance_hero_hall_locked_materials"
+  }, {
+    "id" : "toast_alliance_hero_hall_unlock_materials",
+    "title" : "toast_alliance_hero_hall_unlock_materials_title",
+    "text" : "toast_alliance_hero_hall_unlock_materials"
+  }, {
+    "id" : "toast_alliance_hero_hall_ceremony_rewards_not_picked",
+    "title" : "toast_alliance_hero_hall_ceremony_rewards_not_picked_title",
+    "text" : "toast_alliance_hero_hall_ceremony_rewards_not_picked"
+  }, {
+    "id" : "toast_alliance_hero_hall_ceremony_requirements_not_met",
+    "title" : "toast_alliance_hero_hall_ceremony_requirements_not_met_title",
+    "text" : "toast_alliance_hero_hall_ceremony_requirements_not_met"
+  }, {
+    "id" : "toast_alliance_hero_hall_ceremony_still_in_cooldown",
+    "title" : "toast_alliance_hero_hall_ceremony_still_in_cooldown_title",
+    "text" : "toast_alliance_hero_hall_ceremony_still_in_cooldown"
+  }, {
+    "id" : "toast_alliance_hero_hall_store_not_enough",
+    "title" : "toast_alliance_hero_hall_store_not_enough_title",
+    "text" : "toast_alliance_hero_hall_store_not_enough"
+  }, {
+    "id" : "toast_alliance_summon_not_chosen",
+    "title" : "toast_alliance_summon_not_chosen_title",
+    "text" : "toast_alliance_summon_not_chosen"
+  }, {
+    "id" : "toast_alliance_summon_level_too_low",
+    "title" : "toast_alliance_summon_level_too_low_title",
+    "text" : "toast_alliance_summon_level_too_low"
+  }, {
+    "id" : "toast_alliance_hero_hall_temporary_closed",
+    "title" : "toast_alliance_hero_hall_temporary_closed_title",
+    "text" : "toast_alliance_hero_hall_temporary_closed"
+  }, {
+    "id" : "toast_not_enough_gold",
+    "title" : "toast_not_enough_gold_title",
+    "text" : "toast_not_enough_gold"
+  }, {
+    "id" : "toast_only_reinforcements_activate_mega_defense",
+    "title" : "toast_only_reinforcements_activate_mega_defense_title",
+    "text" : "toast_only_reinforcements_activate_mega_defense"
+  }, {
+    "id" : "toast_kingdom_task_meet_goal_get_rewards",
+    "title" : "toast_kingdom_task_meet_goal_get_rewards_title",
+    "text" : "toast_kingdom_task_meet_goal_get_rewards"
+  }, {
+    "id" : "toast_kingdom_task_seal_broken",
+    "title" : "toast_kingdom_task_seal_broken_title",
+    "text" : "toast_kingdom_task_seal_broken"
+  }, {
+    "id" : "toast_dragon_shadow_scroll_used",
+    "title" : "toast_dragon_shadow_scroll_used",
+    "text" : "toast_dragon_shadow_scroll_amount_used"
+  }, {
+    "id" : "toast_dragon_shadow_ended",
+    "title" : "toast_title_dragon_shadow_ended",
+    "text" : "toast_dragon_shadow_ended"
+  }, {
+    "id" : "toast_account_movement_success",
+    "title" : "toast_account_movement_success_title",
+    "text" : "toast_account_movement_success"
+  }, {
+    "id" : "toast_return_search_continue",
+    "title" : "toast_return_search_continue_title",
+    "text" : "toast_return_search_continue"
+  }, {
+    "id" : "toast_claim_success_congrats",
+    "title" : "toast_claim_success_congrats_title",
+    "text" : "toast_claim_success_congrats"
+  }, {
+    "id" : "toast_event_return_activate_success",
+    "title" : "toast_event_return_activate_success_title",
+    "text" : "toast_event_return_activate_success"
+  }, {
+    "id" : "toast_activation_code_fail",
+    "title" : "toast_activation_code_fail_title",
+    "text" : "toast_activation_code_fail"
+  }, {
+    "id" : "toast_event_return_rewards_claimed",
+    "title" : "toast_event_return_rewards_claimed_title",
+    "text" : "toast_event_return_rewards_claimed"
+  }, {
+    "id" : "toast_kingdom_conquest_not_started_yet",
+    "title" : "toast_kingdom_conquest_not_started_yet_title",
+    "text" : "toast_kingdom_conquest_not_started_yet"
+  }, {
+    "id" : "toast_kingdom_conquest_qualifying_ongoing",
+    "title" : "toast_kingdom_conquest_qualifying_ongoing_title",
+    "text" : "toast_kingdom_conquest_qualifying_ongoing"
+  }, {
+    "id" : "toast_search_success",
+    "title" : "toast_search_success_title",
+    "text" : "toast_search_success"
+  }, {
+    "id" : "toast_search_kingdom_not_found",
+    "title" : "toast_search_kingdom_not_found_title",
+    "text" : "toast_search_kingdom_not_found"
+  }, {
+    "id" : "toast_level_low_no_support",
+    "title" : "toast_level_low_no_support_title",
+    "text" : "toast_level_low_no_support"
+  }, {
+    "id" : "toast_kingdom_conquest_support_success",
+    "title" : "toast_kingdom_conquest_support_success_title",
+    "text" : "toast_kingdom_conquest_support_success"
+  }, {
+    "id" : "toast_kingdom_conquest_shop_not_open",
+    "title" : "toast_kingdom_conquest_shop_not_open_title",
+    "text" : "toast_kingdom_conquest_shop_not_open"
+  }, {
+    "id" : "toast_kingdom_conquest_shop_not_enuogh_coin",
+    "title" : "toast_kingdom_conquest_shop_not_enuogh_coin_title",
+    "text" : "toast_kingdom_conquest_shop_not_enuogh_coin"
+  }, {
+    "id" : "toast_kingdom_conquest_registration_conditions",
+    "title" : "toast_kingdom_conquest_registration_conditions_title",
+    "text" : "toast_kingdom_conquest_registration_conditions"
+  }, {
+    "id" : "toast_big_horn_use_needs",
+    "title" : "toast_big_horn_use_needs_title",
+    "text" : "toast_big_horn_use_needs"
+  }, {
+    "id" : "toast_function_not_open_no_join",
+    "title" : "toast_function_not_open_no_join_title",
+    "text" : "toast_function_not_open_no_join"
+  } ]
+}

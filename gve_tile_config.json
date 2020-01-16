@@ -1,0 +1,432 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "tile_level" : "tile_level@int",
+    "refresh_time" : "refresh_time@int",
+    "boss_id_1" : "boss_id_1@gve_boss.id",
+    "boss_id_2" : "boss_id_2@gve_boss.id",
+    "boss_id_3" : "boss_id_3@gve_boss.id",
+    "boss_id_4" : "boss_id_4@gve_boss.id",
+    "boss_id_5" : "boss_id_5@gve_boss.id",
+    "boss_id_6" : "boss_id_6@gve_boss.id",
+    "boss_id_7" : "boss_id_7@gve_boss.id",
+    "boss_id_8" : "boss_id_8@gve_boss.id",
+    "boss_id_9" : "boss_id_9@gve_boss.id",
+    "boss_id_10" : "boss_id_10@gve_boss.id"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "tile_level" : "等级",
+    "refresh_time" : "刷新时间",
+    "boss_id_1" : "boss_id_1",
+    "boss_id_2" : "boss_id_2",
+    "boss_id_3" : "boss_id_3",
+    "boss_id_4" : "boss_id_4",
+    "boss_id_5" : "boss_id_5",
+    "boss_id_6" : "boss_id_6",
+    "boss_id_7" : "boss_id_7",
+    "boss_id_8" : "boss_id_8",
+    "boss_id_9" : "boss_id_9",
+    "boss_id_10" : "boss_id_10"
+  }, {
+    "id" : "new_gve_tile_1_1",
+    "tile_level" : "1",
+    "refresh_time" : "10800",
+    "boss_id_1" : "new_gve_boss_1_1",
+    "boss_id_2" : "new_gve_boss_1_1",
+    "boss_id_3" : "new_gve_boss_1_1",
+    "boss_id_4" : "new_gve_boss_1_2",
+    "boss_id_5" : "new_gve_boss_1_3",
+    "boss_id_6" : "new_gve_boss_1_4"
+  }, {
+    "id" : "new_gve_tile_1_2",
+    "tile_level" : "1",
+    "refresh_time" : "10800",
+    "boss_id_1" : "new_gve_boss_1_2",
+    "boss_id_2" : "new_gve_boss_1_2",
+    "boss_id_3" : "new_gve_boss_1_2",
+    "boss_id_4" : "new_gve_boss_1_2",
+    "boss_id_5" : "new_gve_boss_1_3",
+    "boss_id_6" : "new_gve_boss_1_4"
+  }, {
+    "id" : "new_gve_tile_1_3",
+    "tile_level" : "1",
+    "refresh_time" : "10800",
+    "boss_id_1" : "new_gve_boss_1_3",
+    "boss_id_2" : "new_gve_boss_1_3",
+    "boss_id_3" : "new_gve_boss_1_3",
+    "boss_id_4" : "new_gve_boss_1_2",
+    "boss_id_5" : "new_gve_boss_1_3",
+    "boss_id_6" : "new_gve_boss_1_4"
+  }, {
+    "id" : "new_gve_tile_1_4",
+    "tile_level" : "1",
+    "refresh_time" : "10800",
+    "boss_id_1" : "new_gve_boss_1_4",
+    "boss_id_2" : "new_gve_boss_1_4",
+    "boss_id_3" : "new_gve_boss_1_4",
+    "boss_id_4" : "new_gve_boss_1_2",
+    "boss_id_5" : "new_gve_boss_1_3",
+    "boss_id_6" : "new_gve_boss_1_4"
+  }, {
+    "id" : "new_gve_tile_2_1",
+    "tile_level" : "2",
+    "refresh_time" : "11880",
+    "boss_id_1" : "new_gve_boss_2_1",
+    "boss_id_2" : "new_gve_boss_2_1",
+    "boss_id_3" : "new_gve_boss_2_1",
+    "boss_id_4" : "new_gve_boss_2_2",
+    "boss_id_5" : "new_gve_boss_2_3",
+    "boss_id_6" : "new_gve_boss_2_4"
+  }, {
+    "id" : "new_gve_tile_2_2",
+    "tile_level" : "2",
+    "refresh_time" : "11880",
+    "boss_id_1" : "new_gve_boss_2_2",
+    "boss_id_2" : "new_gve_boss_2_2",
+    "boss_id_3" : "new_gve_boss_2_2",
+    "boss_id_4" : "new_gve_boss_2_2",
+    "boss_id_5" : "new_gve_boss_2_3",
+    "boss_id_6" : "new_gve_boss_2_4"
+  }, {
+    "id" : "new_gve_tile_2_3",
+    "tile_level" : "2",
+    "refresh_time" : "11880",
+    "boss_id_1" : "new_gve_boss_2_3",
+    "boss_id_2" : "new_gve_boss_2_3",
+    "boss_id_3" : "new_gve_boss_2_3",
+    "boss_id_4" : "new_gve_boss_2_2",
+    "boss_id_5" : "new_gve_boss_2_3",
+    "boss_id_6" : "new_gve_boss_2_4"
+  }, {
+    "id" : "new_gve_tile_2_4",
+    "tile_level" : "2",
+    "refresh_time" : "11880",
+    "boss_id_1" : "new_gve_boss_2_4",
+    "boss_id_2" : "new_gve_boss_2_4",
+    "boss_id_3" : "new_gve_boss_2_4",
+    "boss_id_4" : "new_gve_boss_2_2",
+    "boss_id_5" : "new_gve_boss_2_3",
+    "boss_id_6" : "new_gve_boss_2_4"
+  }, {
+    "id" : "new_gve_tile_3_1",
+    "tile_level" : "3",
+    "refresh_time" : "13500",
+    "boss_id_1" : "new_gve_boss_3_1",
+    "boss_id_2" : "new_gve_boss_3_1",
+    "boss_id_3" : "new_gve_boss_3_1",
+    "boss_id_4" : "new_gve_boss_3_2",
+    "boss_id_5" : "new_gve_boss_3_3",
+    "boss_id_6" : "new_gve_boss_3_4"
+  }, {
+    "id" : "new_gve_tile_3_2",
+    "tile_level" : "3",
+    "refresh_time" : "13500",
+    "boss_id_1" : "new_gve_boss_3_2",
+    "boss_id_2" : "new_gve_boss_3_2",
+    "boss_id_3" : "new_gve_boss_3_2",
+    "boss_id_4" : "new_gve_boss_3_2",
+    "boss_id_5" : "new_gve_boss_3_3",
+    "boss_id_6" : "new_gve_boss_3_4"
+  }, {
+    "id" : "new_gve_tile_3_3",
+    "tile_level" : "3",
+    "refresh_time" : "13500",
+    "boss_id_1" : "new_gve_boss_3_3",
+    "boss_id_2" : "new_gve_boss_3_3",
+    "boss_id_3" : "new_gve_boss_3_3",
+    "boss_id_4" : "new_gve_boss_3_2",
+    "boss_id_5" : "new_gve_boss_3_3",
+    "boss_id_6" : "new_gve_boss_3_4"
+  }, {
+    "id" : "new_gve_tile_3_4",
+    "tile_level" : "3",
+    "refresh_time" : "13500",
+    "boss_id_1" : "new_gve_boss_3_4",
+    "boss_id_2" : "new_gve_boss_3_4",
+    "boss_id_3" : "new_gve_boss_3_4",
+    "boss_id_4" : "new_gve_boss_3_2",
+    "boss_id_5" : "new_gve_boss_3_3",
+    "boss_id_6" : "new_gve_boss_3_4"
+  }, {
+    "id" : "new_gve_tile_4_1",
+    "tile_level" : "4",
+    "refresh_time" : "16200",
+    "boss_id_1" : "new_gve_boss_4_1",
+    "boss_id_2" : "new_gve_boss_4_1",
+    "boss_id_3" : "new_gve_boss_4_1",
+    "boss_id_4" : "new_gve_boss_4_2",
+    "boss_id_5" : "new_gve_boss_4_3",
+    "boss_id_6" : "new_gve_boss_4_4"
+  }, {
+    "id" : "new_gve_tile_4_2",
+    "tile_level" : "4",
+    "refresh_time" : "16200",
+    "boss_id_1" : "new_gve_boss_4_2",
+    "boss_id_2" : "new_gve_boss_4_2",
+    "boss_id_3" : "new_gve_boss_4_2",
+    "boss_id_4" : "new_gve_boss_4_2",
+    "boss_id_5" : "new_gve_boss_4_3",
+    "boss_id_6" : "new_gve_boss_4_4"
+  }, {
+    "id" : "new_gve_tile_4_3",
+    "tile_level" : "4",
+    "refresh_time" : "16200",
+    "boss_id_1" : "new_gve_boss_4_3",
+    "boss_id_2" : "new_gve_boss_4_3",
+    "boss_id_3" : "new_gve_boss_4_3",
+    "boss_id_4" : "new_gve_boss_4_2",
+    "boss_id_5" : "new_gve_boss_4_3",
+    "boss_id_6" : "new_gve_boss_4_4"
+  }, {
+    "id" : "new_gve_tile_4_4",
+    "tile_level" : "4",
+    "refresh_time" : "16200",
+    "boss_id_1" : "new_gve_boss_4_4",
+    "boss_id_2" : "new_gve_boss_4_4",
+    "boss_id_3" : "new_gve_boss_4_4",
+    "boss_id_4" : "new_gve_boss_4_2",
+    "boss_id_5" : "new_gve_boss_4_3",
+    "boss_id_6" : "new_gve_boss_4_4"
+  }, {
+    "id" : "new_gve_tile_5_1",
+    "tile_level" : "5",
+    "refresh_time" : "19440",
+    "boss_id_1" : "new_gve_boss_5_1",
+    "boss_id_2" : "new_gve_boss_5_1",
+    "boss_id_3" : "new_gve_boss_5_1",
+    "boss_id_4" : "new_gve_boss_5_2",
+    "boss_id_5" : "new_gve_boss_5_3",
+    "boss_id_6" : "new_gve_boss_5_4"
+  }, {
+    "id" : "new_gve_tile_5_2",
+    "tile_level" : "5",
+    "refresh_time" : "19440",
+    "boss_id_1" : "new_gve_boss_5_2",
+    "boss_id_2" : "new_gve_boss_5_2",
+    "boss_id_3" : "new_gve_boss_5_2",
+    "boss_id_4" : "new_gve_boss_5_2",
+    "boss_id_5" : "new_gve_boss_5_3",
+    "boss_id_6" : "new_gve_boss_5_4"
+  }, {
+    "id" : "new_gve_tile_5_3",
+    "tile_level" : "5",
+    "refresh_time" : "19440",
+    "boss_id_1" : "new_gve_boss_5_3",
+    "boss_id_2" : "new_gve_boss_5_3",
+    "boss_id_3" : "new_gve_boss_5_3",
+    "boss_id_4" : "new_gve_boss_5_2",
+    "boss_id_5" : "new_gve_boss_5_3",
+    "boss_id_6" : "new_gve_boss_5_4"
+  }, {
+    "id" : "new_gve_tile_5_4",
+    "tile_level" : "5",
+    "refresh_time" : "19440",
+    "boss_id_1" : "new_gve_boss_5_4",
+    "boss_id_2" : "new_gve_boss_5_4",
+    "boss_id_3" : "new_gve_boss_5_4",
+    "boss_id_4" : "new_gve_boss_5_2",
+    "boss_id_5" : "new_gve_boss_5_3",
+    "boss_id_6" : "new_gve_boss_5_4"
+  }, {
+    "id" : "new_gve_tile_6_1",
+    "tile_level" : "6",
+    "refresh_time" : "23760",
+    "boss_id_1" : "new_gve_boss_6_1",
+    "boss_id_2" : "new_gve_boss_6_1",
+    "boss_id_3" : "new_gve_boss_6_1",
+    "boss_id_4" : "new_gve_boss_6_2",
+    "boss_id_5" : "new_gve_boss_6_3",
+    "boss_id_6" : "new_gve_boss_6_4"
+  }, {
+    "id" : "new_gve_tile_6_2",
+    "tile_level" : "6",
+    "refresh_time" : "23760",
+    "boss_id_1" : "new_gve_boss_6_2",
+    "boss_id_2" : "new_gve_boss_6_2",
+    "boss_id_3" : "new_gve_boss_6_2",
+    "boss_id_4" : "new_gve_boss_6_2",
+    "boss_id_5" : "new_gve_boss_6_3",
+    "boss_id_6" : "new_gve_boss_6_4"
+  }, {
+    "id" : "new_gve_tile_6_3",
+    "tile_level" : "6",
+    "refresh_time" : "23760",
+    "boss_id_1" : "new_gve_boss_6_3",
+    "boss_id_2" : "new_gve_boss_6_3",
+    "boss_id_3" : "new_gve_boss_6_3",
+    "boss_id_4" : "new_gve_boss_6_2",
+    "boss_id_5" : "new_gve_boss_6_3",
+    "boss_id_6" : "new_gve_boss_6_4"
+  }, {
+    "id" : "new_gve_tile_6_4",
+    "tile_level" : "6",
+    "refresh_time" : "23760",
+    "boss_id_1" : "new_gve_boss_6_4",
+    "boss_id_2" : "new_gve_boss_6_4",
+    "boss_id_3" : "new_gve_boss_6_4",
+    "boss_id_4" : "new_gve_boss_6_2",
+    "boss_id_5" : "new_gve_boss_6_3",
+    "boss_id_6" : "new_gve_boss_6_4"
+  }, {
+    "id" : "new_gve_tile_7_1",
+    "tile_level" : "7",
+    "refresh_time" : "29160",
+    "boss_id_1" : "new_gve_boss_7_1",
+    "boss_id_2" : "new_gve_boss_7_1",
+    "boss_id_3" : "new_gve_boss_7_1",
+    "boss_id_4" : "new_gve_boss_7_2",
+    "boss_id_5" : "new_gve_boss_7_3",
+    "boss_id_6" : "new_gve_boss_7_4"
+  }, {
+    "id" : "new_gve_tile_7_2",
+    "tile_level" : "7",
+    "refresh_time" : "29160",
+    "boss_id_1" : "new_gve_boss_7_2",
+    "boss_id_2" : "new_gve_boss_7_2",
+    "boss_id_3" : "new_gve_boss_7_2",
+    "boss_id_4" : "new_gve_boss_7_2",
+    "boss_id_5" : "new_gve_boss_7_3",
+    "boss_id_6" : "new_gve_boss_7_4"
+  }, {
+    "id" : "new_gve_tile_7_3",
+    "tile_level" : "7",
+    "refresh_time" : "29160",
+    "boss_id_1" : "new_gve_boss_7_3",
+    "boss_id_2" : "new_gve_boss_7_3",
+    "boss_id_3" : "new_gve_boss_7_3",
+    "boss_id_4" : "new_gve_boss_7_2",
+    "boss_id_5" : "new_gve_boss_7_3",
+    "boss_id_6" : "new_gve_boss_7_4"
+  }, {
+    "id" : "new_gve_tile_7_4",
+    "tile_level" : "7",
+    "refresh_time" : "29160",
+    "boss_id_1" : "new_gve_boss_7_4",
+    "boss_id_2" : "new_gve_boss_7_4",
+    "boss_id_3" : "new_gve_boss_7_4",
+    "boss_id_4" : "new_gve_boss_7_2",
+    "boss_id_5" : "new_gve_boss_7_3",
+    "boss_id_6" : "new_gve_boss_7_4"
+  }, {
+    "id" : "new_gve_tile_8_1",
+    "tile_level" : "8",
+    "refresh_time" : "35640",
+    "boss_id_1" : "new_gve_boss_8_1",
+    "boss_id_2" : "new_gve_boss_8_1",
+    "boss_id_3" : "new_gve_boss_8_1",
+    "boss_id_4" : "new_gve_boss_8_2",
+    "boss_id_5" : "new_gve_boss_8_3",
+    "boss_id_6" : "new_gve_boss_8_4"
+  }, {
+    "id" : "new_gve_tile_8_2",
+    "tile_level" : "8",
+    "refresh_time" : "35640",
+    "boss_id_1" : "new_gve_boss_8_2",
+    "boss_id_2" : "new_gve_boss_8_2",
+    "boss_id_3" : "new_gve_boss_8_2",
+    "boss_id_4" : "new_gve_boss_8_2",
+    "boss_id_5" : "new_gve_boss_8_3",
+    "boss_id_6" : "new_gve_boss_8_4"
+  }, {
+    "id" : "new_gve_tile_8_3",
+    "tile_level" : "8",
+    "refresh_time" : "35640",
+    "boss_id_1" : "new_gve_boss_8_3",
+    "boss_id_2" : "new_gve_boss_8_3",
+    "boss_id_3" : "new_gve_boss_8_3",
+    "boss_id_4" : "new_gve_boss_8_2",
+    "boss_id_5" : "new_gve_boss_8_3",
+    "boss_id_6" : "new_gve_boss_8_4"
+  }, {
+    "id" : "new_gve_tile_8_4",
+    "tile_level" : "8",
+    "refresh_time" : "35640",
+    "boss_id_1" : "new_gve_boss_8_4",
+    "boss_id_2" : "new_gve_boss_8_4",
+    "boss_id_3" : "new_gve_boss_8_4",
+    "boss_id_4" : "new_gve_boss_8_2",
+    "boss_id_5" : "new_gve_boss_8_3",
+    "boss_id_6" : "new_gve_boss_8_4"
+  }, {
+    "id" : "new_gve_tile_9_1",
+    "tile_level" : "9",
+    "refresh_time" : "43200",
+    "boss_id_1" : "new_gve_boss_9_1",
+    "boss_id_2" : "new_gve_boss_9_1",
+    "boss_id_3" : "new_gve_boss_9_1",
+    "boss_id_4" : "new_gve_boss_9_2",
+    "boss_id_5" : "new_gve_boss_9_3",
+    "boss_id_6" : "new_gve_boss_9_4"
+  }, {
+    "id" : "new_gve_tile_9_2",
+    "tile_level" : "9",
+    "refresh_time" : "43200",
+    "boss_id_1" : "new_gve_boss_9_2",
+    "boss_id_2" : "new_gve_boss_9_2",
+    "boss_id_3" : "new_gve_boss_9_2",
+    "boss_id_4" : "new_gve_boss_9_2",
+    "boss_id_5" : "new_gve_boss_9_3",
+    "boss_id_6" : "new_gve_boss_9_4"
+  }, {
+    "id" : "new_gve_tile_9_3",
+    "tile_level" : "9",
+    "refresh_time" : "43200",
+    "boss_id_1" : "new_gve_boss_9_3",
+    "boss_id_2" : "new_gve_boss_9_3",
+    "boss_id_3" : "new_gve_boss_9_3",
+    "boss_id_4" : "new_gve_boss_9_2",
+    "boss_id_5" : "new_gve_boss_9_3",
+    "boss_id_6" : "new_gve_boss_9_4"
+  }, {
+    "id" : "new_gve_tile_9_4",
+    "tile_level" : "9",
+    "refresh_time" : "43200",
+    "boss_id_1" : "new_gve_boss_9_4",
+    "boss_id_2" : "new_gve_boss_9_4",
+    "boss_id_3" : "new_gve_boss_9_4",
+    "boss_id_4" : "new_gve_boss_9_2",
+    "boss_id_5" : "new_gve_boss_9_3",
+    "boss_id_6" : "new_gve_boss_9_4"
+  }, {
+    "id" : "new_gve_tile_10_1",
+    "tile_level" : "10",
+    "refresh_time" : "49200",
+    "boss_id_1" : "new_gve_boss_10_1",
+    "boss_id_2" : "new_gve_boss_10_1",
+    "boss_id_3" : "new_gve_boss_10_1",
+    "boss_id_4" : "new_gve_boss_10_2",
+    "boss_id_5" : "new_gve_boss_10_3",
+    "boss_id_6" : "new_gve_boss_10_4"
+  }, {
+    "id" : "new_gve_tile_10_2",
+    "tile_level" : "10",
+    "refresh_time" : "49200",
+    "boss_id_1" : "new_gve_boss_10_2",
+    "boss_id_2" : "new_gve_boss_10_2",
+    "boss_id_3" : "new_gve_boss_10_2",
+    "boss_id_4" : "new_gve_boss_10_2",
+    "boss_id_5" : "new_gve_boss_10_3",
+    "boss_id_6" : "new_gve_boss_10_4"
+  }, {
+    "id" : "new_gve_tile_10_3",
+    "tile_level" : "10",
+    "refresh_time" : "49200",
+    "boss_id_1" : "new_gve_boss_10_3",
+    "boss_id_2" : "new_gve_boss_10_3",
+    "boss_id_3" : "new_gve_boss_10_3",
+    "boss_id_4" : "new_gve_boss_10_2",
+    "boss_id_5" : "new_gve_boss_10_3",
+    "boss_id_6" : "new_gve_boss_10_4"
+  }, {
+    "id" : "new_gve_tile_10_4",
+    "tile_level" : "10",
+    "refresh_time" : "49200",
+    "boss_id_1" : "new_gve_boss_10_4",
+    "boss_id_2" : "new_gve_boss_10_4",
+    "boss_id_3" : "new_gve_boss_10_4",
+    "boss_id_4" : "new_gve_boss_10_2",
+    "boss_id_5" : "new_gve_boss_10_3",
+    "boss_id_6" : "new_gve_boss_10_4"
+  } ]
+}

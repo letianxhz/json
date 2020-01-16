@@ -1,0 +1,65 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "priority" : "priority@int",
+    "req_tree_id" : "req_tree_id@researches.id",
+    "name" : "name@string",
+    "description" : "description@string",
+    "image" : "image@string",
+    "show" : "show@string"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "priority" : "排序",
+    "req_tree_id" : "显示条件:需要完成科技id",
+    "name" : "科技树名称",
+    "description" : "科技树描述",
+    "image" : "图"
+  }, {
+    "id" : "1",
+    "priority" : "1",
+    "show" : "0"
+  }, {
+    "id" : "2",
+    "priority" : "2",
+    "show" : "0"
+  }, {
+    "id" : "3",
+    "priority" : "3",
+    "show" : "0"
+  }, {
+    "id" : "4",
+    "priority" : "4",
+    "show" : "0"
+  }, {
+    "id" : "5",
+    "priority" : "5",
+    "show" : "0"
+  }, {
+    "id" : "6",
+    "priority" : "6",
+    "show" : "0"
+  }, {
+    "id" : "13",
+    "priority" : "13",
+    "name" : "research_tree_name_13",
+    "description" : "research_tree_description_13",
+    "image" : "research_tree_image_13",
+    "show" : "1"
+  }, {
+    "id" : "14",
+    "priority" : "14",
+    "name" : "research_tree_name_14",
+    "description" : "research_tree_description_14",
+    "image" : "research_tree_image_14",
+    "show" : "1"
+  }, {
+    "id" : "15",
+    "priority" : "15",
+    "req_tree_id" : "research_battle_1_army_base_percent_1_1",
+    "name" : "research_tree_name_15",
+    "description" : "research_tree_description_15",
+    "image" : "research_tree_image_15",
+    "show" : "1"
+  } ]
+}

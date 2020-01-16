@@ -1,0 +1,52 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "start_date" : "start_date@string",
+    "start_month" : "start_month@string",
+    "start_year" : "start_year@string",
+    "max_day" : "max_day@int",
+    "cm_env_start_date" : "cm_env_start_date@string",
+    "cm_env_start_month" : "cm_env_start_month@string",
+    "cm_env_start_year" : "cm_env_start_year@string",
+    "cm_env_max_day" : "cm_env_max_day@string",
+    "description" : "description@string",
+    "display" : "display@string^c",
+    "mail" : "mail@mail.id"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "start_date" : "起始日期",
+    "start_month" : "起始月份",
+    "start_year" : "起始年份",
+    "max_day" : "最大天数",
+    "cm_env_start_date" : "按环境取得起始日期的配置",
+    "cm_env_start_month" : "按环境取得起始月份的配置",
+    "cm_env_start_year" : "按环境取得起始年份的配置",
+    "cm_env_max_day" : "按环境取得最大天数的配置",
+    "description" : "描述",
+    "display" : "显示特效",
+    "mail" : "邮件id"
+  }, {
+    "id" : "super_log_in_christmas",
+    "cm_env_start_date" : "koa_global_default|1,koa_37_default|1,gog_global_default|1,gog_cn_default|1,gog_ly_default|1,ww2_global_default|1,ww2_cn_default|1",
+    "cm_env_start_month" : "koa_global_default|12,koa_37_default|12,gog_global_default|12,gog_cn_default|12,gog_ly_default|12,ww2_global_default|12,ww2_cn_default|12",
+    "cm_env_max_day" : "koa_global_default|25,koa_37_default|25,gog_global_default|25,gog_cn_default|25,gog_ly_default|25,ww2_global_default|25,ww2_cn_default|25",
+    "description" : "圣诞节自动活动",
+    "display" : "christmas",
+    "mail" : "super_log_in_christmas"
+  }, {
+    "id" : "super_log_in_1_year_celebration",
+    "cm_env_start_date" : "koa_global_default|8,koa_37_default|8,gog_global_default|8,gog_cn_default|8,gog_ly_default|8,ww2_global_default|8,ww2_cn_default|8",
+    "cm_env_start_month" : "koa_global_default|7,koa_37_default|7,gog_global_default|7,gog_cn_default|7,gog_ly_default|7,ww2_global_default|7,ww2_cn_default|7",
+    "cm_env_start_year" : "koa_global_default|2017,koa_37_default|2017,gog_global_default|2017,gog_cn_default|2017,gog_ly_default|2017,ww2_global_default|2017,ww2_cn_default|2017",
+    "cm_env_max_day" : "koa_global_default|7,koa_37_default|7,gog_global_default|7,gog_cn_default|7,gog_ly_default|7,ww2_global_default|7,ww2_cn_default|7",
+    "description" : "1周年庆典",
+    "display" : "1_year_celebration",
+    "mail" : "event_1_year_celebration_calendar_unclaimed_gifts"
+  }, {
+    "id" : "super_log_in_anniversary_2",
+    "description" : "2周年庆典",
+    "display" : "anniversary_2",
+    "mail" : "2_year_celebration_rewards"
+  } ]
+}

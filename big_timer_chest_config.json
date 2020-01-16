@@ -1,0 +1,53 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "server_time_min" : "server_time_min@int",
+    "is_open" : "is_open@int",
+    "cd_time" : "cd_time@float",
+    "claim_time" : "claim_time@float",
+    "drop_group" : "drop_group@int"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "server_time_min" : "服务器开启时间：小时",
+    "is_open" : "是否开启",
+    "cd_time" : "冷却时间：小时",
+    "claim_time" : "持续时间（小时）",
+    "drop_group" : "掉落组"
+  }, {
+    "id" : "1",
+    "server_time_min" : "0",
+    "is_open" : "0",
+    "cd_time" : "2",
+    "claim_time" : "0.5",
+    "drop_group" : "1"
+  }, {
+    "id" : "2",
+    "server_time_min" : "24",
+    "is_open" : "0",
+    "cd_time" : "2",
+    "claim_time" : "0.5",
+    "drop_group" : "1"
+  }, {
+    "id" : "3",
+    "server_time_min" : "168",
+    "is_open" : "0",
+    "cd_time" : "2",
+    "claim_time" : "0.5",
+    "drop_group" : "2"
+  }, {
+    "id" : "4",
+    "server_time_min" : "720",
+    "is_open" : "0",
+    "cd_time" : "2",
+    "claim_time" : "0.5",
+    "drop_group" : "3"
+  }, {
+    "id" : "5",
+    "server_time_min" : "4320",
+    "is_open" : "0",
+    "cd_time" : "2",
+    "claim_time" : "0.5",
+    "drop_group" : "4"
+  } ]
+}

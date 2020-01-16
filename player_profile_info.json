@@ -1,0 +1,506 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "is_benefit" : "is_benefit@int",
+    "category" : "category@string",
+    "is_private" : "is_private@int",
+    "order" : "order@int",
+    "loc" : "loc@string^c",
+    "calc_id" : "calc_id@benefit_calc.id",
+    "benefit_id_1" : "benefit_id_1@benefits.id",
+    "benefit_id_2" : "benefit_id_2@benefits.id",
+    "benefit_id_3" : "benefit_id_3@benefits.id",
+    "benefit_id_4" : "benefit_id_4@benefits.id",
+    "base_id" : "base_id@benefits.id",
+    "base_source_type" : "base_source_type@string",
+    "nagative_type" : "nagative_type@int",
+    "info_content" : "info_content@string^p"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "is_benefit" : "benefit统计方式",
+    "category" : "类别",
+    "is_private" : "是否他人不可见",
+    "order" : "排序",
+    "loc" : "名称",
+    "calc_id" : "benefit公式id",
+    "benefit_id_1" : "benefit_id_1",
+    "benefit_id_2" : "benefit_id_2",
+    "benefit_id_3" : "benefit_id_3",
+    "benefit_id_4" : "benefit_id_4",
+    "base_id" : "基础benefit_id",
+    "base_source_type" : "基础benefit来源",
+    "nagative_type" : "是否负数",
+    "info_content" : "内容"
+  }, {
+    "id" : "overall_power",
+    "is_benefit" : "0",
+    "category" : "power",
+    "is_private" : "1",
+    "order" : "1",
+    "loc" : "player_profile_overall_power_name",
+    "info_content" : "总战斗力"
+  }, {
+    "id" : "troop_power",
+    "is_benefit" : "0",
+    "category" : "power",
+    "is_private" : "1",
+    "order" : "4",
+    "loc" : "player_profile_troop_power_name",
+    "info_content" : "部队战斗力"
+  }, {
+    "id" : "building_power",
+    "is_benefit" : "0",
+    "category" : "power",
+    "is_private" : "1",
+    "order" : "5",
+    "loc" : "player_profile_building_power_name",
+    "info_content" : "建筑战斗力"
+  }, {
+    "id" : "research_power",
+    "is_benefit" : "0",
+    "category" : "power",
+    "is_private" : "1",
+    "order" : "6",
+    "loc" : "player_profile_research_power_name",
+    "info_content" : "科技战斗力"
+  }, {
+    "id" : "troops_killed",
+    "is_benefit" : "0",
+    "category" : "combat_stats",
+    "is_private" : "0",
+    "order" : "1",
+    "loc" : "player_profile_troops_killed_name",
+    "info_content" : "消灭部队数量"
+  }, {
+    "id" : "troops_lost",
+    "is_benefit" : "0",
+    "category" : "combat_stats",
+    "is_private" : "0",
+    "order" : "2",
+    "loc" : "player_profile_troops_lost_name",
+    "info_content" : "部队损失数量"
+  }, {
+    "id" : "troops_healed",
+    "is_benefit" : "0",
+    "category" : "combat_stats",
+    "is_private" : "0",
+    "order" : "3",
+    "loc" : "player_profile_troops_healed_name",
+    "info_content" : "部队治疗数量"
+  }, {
+    "id" : "battles_won",
+    "is_benefit" : "0",
+    "category" : "combat_stats",
+    "is_private" : "0",
+    "order" : "4",
+    "loc" : "player_profile_battles_won_name",
+    "info_content" : "战斗胜利次数"
+  }, {
+    "id" : "battles_lost",
+    "is_benefit" : "0",
+    "category" : "combat_stats",
+    "is_private" : "0",
+    "order" : "5",
+    "loc" : "player_profile_battles_lost_name",
+    "info_content" : "战斗失败次数"
+  }, {
+    "id" : "attack_won",
+    "is_benefit" : "0",
+    "category" : "combat_stats",
+    "is_private" : "0",
+    "order" : "6",
+    "loc" : "player_profile_attack_won_name",
+    "info_content" : "进攻胜利次数"
+  }, {
+    "id" : "attack_lost",
+    "is_benefit" : "0",
+    "category" : "combat_stats",
+    "is_private" : "0",
+    "order" : "7",
+    "loc" : "player_profile_attack_lost_name",
+    "info_content" : "进攻失败次数"
+  }, {
+    "id" : "defense_won",
+    "is_benefit" : "0",
+    "category" : "combat_stats",
+    "is_private" : "0",
+    "order" : "8",
+    "loc" : "player_profile_defense_won_name",
+    "info_content" : "防御胜率次数"
+  }, {
+    "id" : "win_ratio",
+    "is_benefit" : "0",
+    "category" : "combat_stats",
+    "is_private" : "0",
+    "order" : "9",
+    "loc" : "player_profile_win_ratio_name",
+    "info_content" : "胜率"
+  }, {
+    "id" : "march_slot",
+    "is_benefit" : "1",
+    "category" : "military",
+    "is_private" : "1",
+    "order" : "101",
+    "loc" : "player_profile_march_slot_name",
+    "calc_id" : "calc_march_limit",
+    "base_id" : "prop_march_limit_base_value",
+    "base_source_type" : "0",
+    "nagative_type" : "0",
+    "info_content" : "行军部队总数"
+  }, {
+    "id" : "march_capacity",
+    "is_benefit" : "1",
+    "category" : "military",
+    "is_private" : "1",
+    "order" : "102",
+    "loc" : "player_profile_march_capacity_name",
+    "calc_id" : "calc_march_capacity",
+    "base_id" : "prop_march_capacity_base_value",
+    "base_source_type" : "0",
+    "nagative_type" : "0",
+    "info_content" : "单只出征兵力上限"
+  }, {
+    "id" : "training_speed",
+    "is_benefit" : "1",
+    "category" : "military",
+    "is_private" : "1",
+    "order" : "104",
+    "loc" : "player_profile_training_speed_name",
+    "benefit_id_1" : "prop_army_training_time_percent",
+    "nagative_type" : "1",
+    "info_content" : "训练士兵速度"
+  }, {
+    "id" : "march_speed",
+    "is_benefit" : "1",
+    "category" : "military",
+    "is_private" : "1",
+    "order" : "105",
+    "loc" : "player_profile_march_speed_name",
+    "benefit_id_1" : "prop_army_speed_percent",
+    "nagative_type" : "1",
+    "info_content" : "部队行军速度"
+  }, {
+    "id" : "army_attack",
+    "is_benefit" : "1",
+    "category" : "military",
+    "is_private" : "1",
+    "order" : "106",
+    "loc" : "prop_army_attack_percent_name",
+    "benefit_id_1" : "prop_army_attack_percent",
+    "nagative_type" : "1",
+    "info_content" : "部队攻击"
+  }, {
+    "id" : "army_defense",
+    "is_benefit" : "1",
+    "category" : "military",
+    "is_private" : "1",
+    "order" : "107",
+    "loc" : "prop_army_defense_percent_name",
+    "benefit_id_1" : "prop_army_defense_percent",
+    "nagative_type" : "1",
+    "info_content" : "部队防御"
+  }, {
+    "id" : "army_health",
+    "is_benefit" : "1",
+    "category" : "military",
+    "is_private" : "1",
+    "order" : "108",
+    "loc" : "prop_army_health_percent_name",
+    "benefit_id_1" : "prop_army_health_percent",
+    "nagative_type" : "1",
+    "info_content" : "部队血量"
+  }, {
+    "id" : "infantry_attack",
+    "is_benefit" : "1",
+    "category" : "military",
+    "is_private" : "1",
+    "order" : "109",
+    "loc" : "player_profile_infantry_attack_name",
+    "benefit_id_1" : "prop_infantry_attack_percent",
+    "nagative_type" : "1",
+    "info_content" : "步兵攻击"
+  }, {
+    "id" : "infantry_defense",
+    "is_benefit" : "1",
+    "category" : "military",
+    "is_private" : "1",
+    "order" : "110",
+    "loc" : "player_profile_infantry_defense_name",
+    "benefit_id_1" : "prop_infantry_defense_percent",
+    "nagative_type" : "1",
+    "info_content" : "步兵防御"
+  }, {
+    "id" : "infantry_health",
+    "is_benefit" : "1",
+    "category" : "military",
+    "is_private" : "1",
+    "order" : "111",
+    "loc" : "player_profile_infantry_health_name",
+    "benefit_id_1" : "prop_infantry_health_percent",
+    "nagative_type" : "1",
+    "info_content" : "步兵生命"
+  }, {
+    "id" : "cavalry_attack",
+    "is_benefit" : "1",
+    "category" : "military",
+    "is_private" : "1",
+    "order" : "112",
+    "loc" : "player_profile_cavalry_attack_name",
+    "benefit_id_1" : "prop_cavalry_attack_percent",
+    "nagative_type" : "1",
+    "info_content" : "骑兵攻击"
+  }, {
+    "id" : "cavalry_defense",
+    "is_benefit" : "1",
+    "category" : "military",
+    "is_private" : "1",
+    "order" : "113",
+    "loc" : "player_profile_cavalry_defense_name",
+    "benefit_id_1" : "prop_cavalry_defense_percent",
+    "nagative_type" : "1",
+    "info_content" : "骑兵防御"
+  }, {
+    "id" : "cavalry_health",
+    "is_benefit" : "1",
+    "category" : "military",
+    "is_private" : "1",
+    "order" : "114",
+    "loc" : "player_profile_cavalry_health_name",
+    "benefit_id_1" : "prop_cavalry_health_percent",
+    "nagative_type" : "1",
+    "info_content" : "骑兵生命"
+  }, {
+    "id" : "ranged_attack",
+    "is_benefit" : "1",
+    "category" : "military",
+    "is_private" : "1",
+    "order" : "115",
+    "loc" : "player_profile_ranged_attack_name",
+    "benefit_id_1" : "prop_ranged_attack_percent",
+    "nagative_type" : "1",
+    "info_content" : "弓兵攻击"
+  }, {
+    "id" : "ranged_defense",
+    "is_benefit" : "1",
+    "category" : "military",
+    "is_private" : "1",
+    "order" : "116",
+    "loc" : "player_profile_ranged_defense_name",
+    "benefit_id_1" : "prop_ranged_defense_percent",
+    "nagative_type" : "1",
+    "info_content" : "弓兵防御"
+  }, {
+    "id" : "ranged_health",
+    "is_benefit" : "1",
+    "category" : "military",
+    "is_private" : "1",
+    "order" : "117",
+    "loc" : "player_profile_ranged_health_name",
+    "benefit_id_1" : "prop_ranged_health_percent",
+    "nagative_type" : "1",
+    "info_content" : "弓兵生命"
+  }, {
+    "id" : "siege_attack",
+    "is_benefit" : "1",
+    "category" : "military",
+    "is_private" : "1",
+    "order" : "118",
+    "loc" : "player_profile_siege_attack_name",
+    "benefit_id_1" : "prop_siege_attack_percent",
+    "nagative_type" : "1",
+    "info_content" : "车兵攻击"
+  }, {
+    "id" : "siege_defense",
+    "is_benefit" : "1",
+    "category" : "military",
+    "is_private" : "1",
+    "order" : "119",
+    "loc" : "player_profile_siege_defense_name",
+    "benefit_id_1" : "prop_siege_defense_percent",
+    "nagative_type" : "1",
+    "info_content" : "车兵防御"
+  }, {
+    "id" : "siege_health",
+    "is_benefit" : "1",
+    "category" : "military",
+    "is_private" : "1",
+    "order" : "120",
+    "loc" : "player_profile_siege_health_name",
+    "benefit_id_1" : "prop_siege_health_percent",
+    "nagative_type" : "1",
+    "info_content" : "车兵生命"
+  }, {
+    "id" : "wood_production",
+    "is_benefit" : "1",
+    "category" : "resource",
+    "is_private" : "1",
+    "order" : "1",
+    "loc" : "player_profile_wood_production_name",
+    "benefit_id_1" : "prop_wood_generation_percent",
+    "benefit_id_2" : "prop_resource_generation_percent",
+    "nagative_type" : "1",
+    "info_content" : "木材产量"
+  }, {
+    "id" : "wood_gather_speed",
+    "is_benefit" : "1",
+    "category" : "resource",
+    "is_private" : "1",
+    "order" : "2",
+    "loc" : "player_profile_wood_gather_speed_name",
+    "benefit_id_1" : "prop_wood_gather_percent",
+    "benefit_id_2" : "prop_resource_gather_percent",
+    "nagative_type" : "1",
+    "info_content" : "木材采集速度"
+  }, {
+    "id" : "food_production",
+    "is_benefit" : "1",
+    "category" : "resource",
+    "is_private" : "1",
+    "order" : "3",
+    "loc" : "player_profile_food_production_name",
+    "benefit_id_1" : "prop_food_generation_percent",
+    "benefit_id_2" : "prop_resource_generation_percent",
+    "nagative_type" : "1",
+    "info_content" : "粮食产量"
+  }, {
+    "id" : "food_gather_speed",
+    "is_benefit" : "1",
+    "category" : "resource",
+    "is_private" : "1",
+    "order" : "4",
+    "loc" : "player_profile_food_gather_speed_name",
+    "benefit_id_1" : "prop_food_gather_percent",
+    "benefit_id_2" : "prop_resource_gather_percent",
+    "nagative_type" : "1",
+    "info_content" : "粮食采集速度"
+  }, {
+    "id" : "ore_production",
+    "is_benefit" : "1",
+    "category" : "resource",
+    "is_private" : "1",
+    "order" : "5",
+    "loc" : "player_profile_ore_production_name",
+    "benefit_id_1" : "prop_ore_generation_percent",
+    "benefit_id_2" : "prop_resource_generation_percent",
+    "nagative_type" : "1",
+    "info_content" : "矿石产量"
+  }, {
+    "id" : "ore_gather_speed",
+    "is_benefit" : "1",
+    "category" : "resource",
+    "is_private" : "1",
+    "order" : "6",
+    "loc" : "player_profile_ore_gather_speed_name",
+    "benefit_id_1" : "prop_ore_gather_percent",
+    "benefit_id_2" : "prop_resource_gather_percent",
+    "nagative_type" : "1",
+    "info_content" : "矿石采集速度"
+  }, {
+    "id" : "silver_production",
+    "is_benefit" : "1",
+    "category" : "resource",
+    "is_private" : "1",
+    "order" : "7",
+    "loc" : "player_profile_silver_production_name",
+    "benefit_id_1" : "prop_silver_generation_percent",
+    "benefit_id_2" : "prop_resource_generation_percent",
+    "nagative_type" : "1",
+    "info_content" : "银币产量"
+  }, {
+    "id" : "silver_gather_speed",
+    "is_benefit" : "1",
+    "category" : "resource",
+    "is_private" : "1",
+    "order" : "8",
+    "loc" : "player_profile_silver_gather_speed_name",
+    "benefit_id_1" : "prop_silver_gather_percent",
+    "benefit_id_2" : "prop_resource_gather_percent",
+    "nagative_type" : "1",
+    "info_content" : "银币采集速度"
+  }, {
+    "id" : "storage_capacity",
+    "is_benefit" : "1",
+    "category" : "resource",
+    "is_private" : "1",
+    "order" : "9",
+    "loc" : "player_profile_storage_capacity_name",
+    "calc_id" : "calc_storage_protect",
+    "base_id" : "prop_storage_protect_base_value",
+    "base_source_type" : "0",
+    "nagative_type" : "0",
+    "info_content" : "仓库上限"
+  }, {
+    "id" : "construct_speed",
+    "is_benefit" : "1",
+    "category" : "city_development",
+    "is_private" : "1",
+    "order" : "1",
+    "loc" : "player_profile_construct_speed_name",
+    "benefit_id_1" : "prop_construction_time_percent",
+    "nagative_type" : "1",
+    "info_content" : "建筑建造速度"
+  }, {
+    "id" : "research_speed",
+    "is_benefit" : "1",
+    "category" : "city_development",
+    "is_private" : "1",
+    "order" : "2",
+    "loc" : "player_profile_research_speed_name",
+    "benefit_id_1" : "prop_research_time_percent",
+    "nagative_type" : "1",
+    "info_content" : "科技研究速度"
+  }, {
+    "id" : "troop_load",
+    "is_benefit" : "1",
+    "category" : "city_development",
+    "is_private" : "1",
+    "order" : "4",
+    "loc" : "player_profile_troop_load_name",
+    "benefit_id_1" : "prop_army_load_percent",
+    "nagative_type" : "1",
+    "info_content" : "部队负重"
+  }, {
+    "id" : "hospital_capacity",
+    "is_benefit" : "1",
+    "category" : "city_development",
+    "is_private" : "1",
+    "order" : "5",
+    "loc" : "player_profile_hospital_capacity_name",
+    "calc_id" : "calc_healing_capacity",
+    "base_id" : "prop_healing_capacity_base_value",
+    "base_source_type" : "0",
+    "nagative_type" : "0",
+    "info_content" : "急救帐篷容量"
+  }, {
+    "id" : "healing_speed",
+    "is_benefit" : "1",
+    "category" : "city_development",
+    "is_private" : "1",
+    "order" : "6",
+    "loc" : "player_profile_healing_speed_name",
+    "benefit_id_1" : "prop_army_healing_time_percent",
+    "nagative_type" : "1",
+    "info_content" : "急救帐篷治疗速度"
+  }, {
+    "id" : "monster_march_speed",
+    "is_benefit" : "1",
+    "category" : "city_development",
+    "is_private" : "1",
+    "order" : "8",
+    "loc" : "player_profile_monster_march_speed_name",
+    "benefit_id_1" : "prop_pve_speed_percent",
+    "nagative_type" : "1",
+    "info_content" : "攻击怪物行军速度"
+  }, {
+    "id" : "stamina_recovery_speed",
+    "is_benefit" : "1",
+    "category" : "city_development",
+    "is_private" : "1",
+    "order" : "9",
+    "loc" : "player_profile_stamina_recovery_speed_name",
+    "benefit_id_1" : "prop_spirit_recover_speed_percent",
+    "nagative_type" : "1",
+    "info_content" : "体力恢复速度"
+  } ]
+}

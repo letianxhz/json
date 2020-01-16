@@ -1,0 +1,33 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "group_id" : "group_id@alliance_activity_config_group.id",
+    "activity_id" : "activity_id@alliance_activity_score_main.id",
+    "next_id" : "next_id@self.id"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "group_id" : "活动组id",
+    "activity_id" : "活动id",
+    "next_id" : "下一活动id"
+  }, {
+    "id" : "alliance_activity_1_1",
+    "group_id" : "alliance_activity_1",
+    "activity_id" : "alliance_activity_score_main_1",
+    "next_id" : "alliance_activity_1_2"
+  }, {
+    "id" : "alliance_activity_1_2",
+    "group_id" : "alliance_activity_1",
+    "activity_id" : "alliance_activity_score_main_2",
+    "next_id" : "alliance_activity_1_3"
+  }, {
+    "id" : "alliance_activity_1_3",
+    "group_id" : "alliance_activity_1",
+    "activity_id" : "alliance_activity_score_main_3",
+    "next_id" : "alliance_activity_1_4"
+  }, {
+    "id" : "alliance_activity_1_4",
+    "group_id" : "alliance_activity_1",
+    "activity_id" : "alliance_activity_score_main_4"
+  } ]
+}

@@ -1,0 +1,46 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "chapter" : "chapter@explore_chapter.id",
+    "parliament_hero" : "parliament_hero@general.id",
+    "star" : "star@int",
+    "type" : "type@string",
+    "item_id" : "item_id@itemlist.id",
+    "item_value" : "item_value@int",
+    "benefit_rate" : "benefit_rate@float"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "chapter" : "对应主题",
+    "parliament_hero" : "英雄id",
+    "star" : "星级",
+    "type" : "奖励形式类型\n1-每次拾取slg宝箱时",
+    "item_id" : "额外奖励道具",
+    "item_value" : "额外道具数量",
+    "benefit_rate" : "额外属性比例"
+  }, {
+    "id" : "1",
+    "chapter" : "activity_explore_1",
+    "star" : "1",
+    "type" : "1",
+    "item_id" : "item_activity_explore_torches",
+    "item_value" : "1",
+    "benefit_rate" : "1"
+  }, {
+    "id" : "2",
+    "chapter" : "activity_explore_1",
+    "star" : "1",
+    "type" : "1",
+    "item_id" : "item_activity_explore_torches",
+    "item_value" : "1",
+    "benefit_rate" : "1"
+  }, {
+    "id" : "3",
+    "chapter" : "activity_explore_1",
+    "star" : "1",
+    "type" : "1",
+    "item_id" : "item_activity_explore_torches",
+    "item_value" : "1",
+    "benefit_rate" : "1"
+  } ]
+}

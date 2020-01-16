@@ -1,0 +1,61 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "group" : "group@general_summon_group.id",
+    "weight" : "weight@int",
+    "is_default" : "is_default@int"
+  },
+  "rows" : [ {
+    "id" : "奖池id",
+    "group" : "所属活动",
+    "weight" : "权重",
+    "is_default" : "是否为默认奖池"
+  }, {
+    "id" : "101",
+    "group" : "101",
+    "weight" : "400"
+  }, {
+    "id" : "102",
+    "group" : "101",
+    "weight" : "900"
+  }, {
+    "id" : "103",
+    "group" : "101",
+    "weight" : "1000"
+  }, {
+    "id" : "104",
+    "group" : "101",
+    "weight" : "1300"
+  }, {
+    "id" : "105",
+    "group" : "101",
+    "weight" : "6400"
+  }, {
+    "id" : "201",
+    "group" : "201",
+    "weight" : "700"
+  }, {
+    "id" : "202",
+    "group" : "201",
+    "weight" : "800"
+  }, {
+    "id" : "203",
+    "group" : "201",
+    "weight" : "1000"
+  }, {
+    "id" : "204",
+    "group" : "201",
+    "weight" : "700"
+  }, {
+    "id" : "205",
+    "group" : "201",
+    "weight" : "800"
+  }, {
+    "id" : "206",
+    "group" : "201",
+    "weight" : "6000"
+  }, {
+    "id" : "1001",
+    "is_default" : "1"
+  } ]
+}

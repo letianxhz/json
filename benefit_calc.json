@@ -1,0 +1,1363 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "formula" : "formula@int",
+    "para1_1" : "para1_1@string",
+    "para1_2" : "para1_2@string",
+    "para1_3" : "para1_3@string",
+    "para1_4" : "para1_4@string",
+    "para1_5" : "para1_5@string",
+    "para2_1" : "para2_1@string",
+    "para2_2" : "para2_2@string",
+    "para2_3" : "para2_3@string",
+    "para2_4" : "para2_4@string",
+    "para2_5" : "para2_5@string",
+    "comment" : "comment^p",
+    "formula_format" : "formula_format^p"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "formula" : "公式类型",
+    "para1_1" : "参数1_1",
+    "para1_2" : "参数1_2",
+    "para1_3" : "参数1_3",
+    "para1_4" : "参数1_4",
+    "para1_5" : "参数1_5",
+    "para2_1" : "参数2_1",
+    "para2_2" : "参数2_2",
+    "para2_3" : "参数2_3",
+    "para2_4" : "参数2_4",
+    "para2_5" : "参数2_5",
+    "comment" : "内容 ",
+    "formula_format" : "公式"
+  }, {
+    "id" : "calc_construction_time",
+    "formula" : "4",
+    "para1_1" : "prop_construction_time_percent",
+    "para2_1" : "prop_construction_time_reduction_percent",
+    "formula_format" : "formula1:base value/(1+para1)-para2"
+  }, {
+    "id" : "calc_research_time",
+    "formula" : "4",
+    "para1_1" : "prop_research_time_percent",
+    "para2_1" : "prop_research_time_reduction_percent",
+    "formula_format" : "formula2:base value*(1+para1)+para2"
+  }, {
+    "formula_format" : "formula3:para1+para2"
+  }, {
+    "formula_format" : "formula4:base value/(1+para1)*(1+para2)"
+  }, {
+    "id" : "calc_infantry_warrior_attack",
+    "formula" : "5",
+    "para1_2" : "prop_infantry_attack_percent",
+    "para1_3" : "prop_army_attack_percent",
+    "formula_format" : "formula5:base value*(1+para1/battle_benefit_scalage)"
+  }, {
+    "id" : "calc_infantry_spearman_attack",
+    "formula" : "5",
+    "para1_2" : "prop_infantry_attack_percent",
+    "para1_3" : "prop_army_attack_percent",
+    "formula_format" : "formula6:para1/battle_benefit_scalage"
+  }, {
+    "id" : "calc_cavalry_cavalry_attack",
+    "formula" : "5",
+    "para1_2" : "prop_cavalry_attack_percent",
+    "para1_3" : "prop_army_attack_percent"
+  }, {
+    "id" : "calc_cavalry_heavycavalry_attack",
+    "formula" : "5",
+    "para1_2" : "prop_cavalry_attack_percent",
+    "para1_3" : "prop_army_attack_percent"
+  }, {
+    "id" : "calc_ranged_archer_attack",
+    "formula" : "5",
+    "para1_2" : "prop_ranged_attack_percent",
+    "para1_3" : "prop_army_attack_percent"
+  }, {
+    "id" : "calc_ranged_crossbowman_attack",
+    "formula" : "5",
+    "para1_2" : "prop_ranged_attack_percent",
+    "para1_3" : "prop_army_attack_percent"
+  }, {
+    "id" : "calc_siege_distance_attack",
+    "formula" : "5",
+    "para1_2" : "prop_siege_attack_percent",
+    "para1_3" : "prop_army_attack_percent"
+  }, {
+    "id" : "calc_siege_batteringram_attack",
+    "formula" : "5",
+    "para1_2" : "prop_siege_attack_percent",
+    "para1_3" : "prop_army_attack_percent"
+  }, {
+    "id" : "calc_trap_dropped_attack",
+    "formula" : "5",
+    "para1_2" : "prop_trap_attack_percent"
+  }, {
+    "id" : "calc_trap_stationary_attack",
+    "formula" : "5",
+    "para1_2" : "prop_trap_attack_percent"
+  }, {
+    "id" : "calc_trap_targeted_attack",
+    "formula" : "5",
+    "para1_2" : "prop_trap_attack_percent"
+  }, {
+    "id" : "calc_infantry_warrior_defense",
+    "formula" : "5",
+    "para1_2" : "prop_infantry_defense_percent",
+    "para1_3" : "prop_army_defense_percent"
+  }, {
+    "id" : "calc_infantry_spearman_defense",
+    "formula" : "5",
+    "para1_2" : "prop_infantry_defense_percent",
+    "para1_3" : "prop_army_defense_percent"
+  }, {
+    "id" : "calc_cavalry_cavalry_defense",
+    "formula" : "5",
+    "para1_2" : "prop_cavalry_defense_percent",
+    "para1_3" : "prop_army_defense_percent"
+  }, {
+    "id" : "calc_cavalry_heavycavalry_defense",
+    "formula" : "5",
+    "para1_2" : "prop_cavalry_defense_percent",
+    "para1_3" : "prop_army_defense_percent"
+  }, {
+    "id" : "calc_ranged_archer_defense",
+    "formula" : "5",
+    "para1_2" : "prop_ranged_defense_percent",
+    "para1_3" : "prop_army_defense_percent"
+  }, {
+    "id" : "calc_ranged_crossbowman_defense",
+    "formula" : "5",
+    "para1_2" : "prop_ranged_defense_percent",
+    "para1_3" : "prop_army_defense_percent"
+  }, {
+    "id" : "calc_siege_distance_defense",
+    "formula" : "5",
+    "para1_2" : "prop_siege_defense_percent",
+    "para1_3" : "prop_army_defense_percent"
+  }, {
+    "id" : "calc_siege_batteringram_defense",
+    "formula" : "5",
+    "para1_2" : "prop_siege_defense_percent",
+    "para1_3" : "prop_army_defense_percent"
+  }, {
+    "id" : "calc_trap_dropped_defense",
+    "formula" : "5",
+    "para1_2" : "prop_trap_defense_percent"
+  }, {
+    "id" : "calc_trap_stationary_defense",
+    "formula" : "5",
+    "para1_2" : "prop_trap_defense_percent"
+  }, {
+    "id" : "calc_trap_targeted_defense",
+    "formula" : "5",
+    "para1_2" : "prop_trap_defense_percent"
+  }, {
+    "id" : "calc_infantry_warrior_health",
+    "formula" : "5",
+    "para1_2" : "prop_infantry_health_percent",
+    "para1_3" : "prop_army_health_percent"
+  }, {
+    "id" : "calc_infantry_spearman_health",
+    "formula" : "5",
+    "para1_2" : "prop_infantry_health_percent",
+    "para1_3" : "prop_army_health_percent"
+  }, {
+    "id" : "calc_cavalry_cavalry_health",
+    "formula" : "5",
+    "para1_2" : "prop_cavalry_health_percent",
+    "para1_3" : "prop_army_health_percent"
+  }, {
+    "id" : "calc_cavalry_heavycavalry_health",
+    "formula" : "5",
+    "para1_2" : "prop_cavalry_health_percent",
+    "para1_3" : "prop_army_health_percent"
+  }, {
+    "id" : "calc_ranged_archer_health",
+    "formula" : "5",
+    "para1_2" : "prop_ranged_health_percent",
+    "para1_3" : "prop_army_health_percent"
+  }, {
+    "id" : "calc_ranged_crossbowman_health",
+    "formula" : "5",
+    "para1_2" : "prop_ranged_health_percent",
+    "para1_3" : "prop_army_health_percent"
+  }, {
+    "id" : "calc_siege_distance_health",
+    "formula" : "5",
+    "para1_2" : "prop_siege_health_percent",
+    "para1_3" : "prop_army_health_percent"
+  }, {
+    "id" : "calc_siege_batteringram_health",
+    "formula" : "5",
+    "para1_2" : "prop_siege_health_percent",
+    "para1_3" : "prop_army_health_percent"
+  }, {
+    "id" : "calc_trap_dropped_health",
+    "formula" : "5",
+    "para1_2" : "prop_trap_health_percent"
+  }, {
+    "id" : "calc_trap_stationary_health",
+    "formula" : "5",
+    "para1_2" : "prop_trap_health_percent"
+  }, {
+    "id" : "calc_trap_targeted_health",
+    "formula" : "5",
+    "para1_2" : "prop_trap_health_percent"
+  }, {
+    "id" : "calc_infantry_warrior_speed",
+    "formula" : "2",
+    "para1_3" : "prop_army_speed_percent"
+  }, {
+    "id" : "calc_infantry_spearman_speed",
+    "formula" : "2",
+    "para1_3" : "prop_army_speed_percent"
+  }, {
+    "id" : "calc_cavalry_cavalry_speed",
+    "formula" : "2",
+    "para1_3" : "prop_army_speed_percent"
+  }, {
+    "id" : "calc_cavalry_heavycavalry_speed",
+    "formula" : "2",
+    "para1_3" : "prop_army_speed_percent"
+  }, {
+    "id" : "calc_ranged_archer_speed",
+    "formula" : "2",
+    "para1_3" : "prop_army_speed_percent"
+  }, {
+    "id" : "calc_ranged_crossbowman_speed",
+    "formula" : "2",
+    "para1_3" : "prop_army_speed_percent"
+  }, {
+    "id" : "calc_siege_distance_speed",
+    "formula" : "2",
+    "para1_3" : "prop_army_speed_percent"
+  }, {
+    "id" : "calc_siege_batteringram_speed",
+    "formula" : "2",
+    "para1_3" : "prop_army_speed_percent"
+  }, {
+    "id" : "calc_infantry_warrior_upkeep",
+    "formula" : "2",
+    "para1_3" : "prop_army_upkeep_percent"
+  }, {
+    "id" : "calc_infantry_spearman_upkeep",
+    "formula" : "2",
+    "para1_3" : "prop_army_upkeep_percent"
+  }, {
+    "id" : "calc_cavalry_cavalry_upkeep",
+    "formula" : "2",
+    "para1_3" : "prop_army_upkeep_percent"
+  }, {
+    "id" : "calc_cavalry_heavycavalry_upkeep",
+    "formula" : "2",
+    "para1_3" : "prop_army_upkeep_percent"
+  }, {
+    "id" : "calc_ranged_archer_upkeep",
+    "formula" : "2",
+    "para1_3" : "prop_army_upkeep_percent"
+  }, {
+    "id" : "calc_ranged_crossbowman_upkeep",
+    "formula" : "2",
+    "para1_3" : "prop_army_upkeep_percent"
+  }, {
+    "id" : "calc_siege_distance_upkeep",
+    "formula" : "2",
+    "para1_3" : "prop_army_upkeep_percent"
+  }, {
+    "id" : "calc_siege_batteringram_upkeep",
+    "formula" : "2",
+    "para1_3" : "prop_army_upkeep_percent"
+  }, {
+    "id" : "calc_infantry_warrior_load",
+    "formula" : "2",
+    "para1_3" : "prop_army_load_percent"
+  }, {
+    "id" : "calc_infantry_spearman_load",
+    "formula" : "2",
+    "para1_3" : "prop_army_load_percent"
+  }, {
+    "id" : "calc_cavalry_cavalry_load",
+    "formula" : "2",
+    "para1_3" : "prop_army_load_percent"
+  }, {
+    "id" : "calc_cavalry_heavycavalry_load",
+    "formula" : "2",
+    "para1_3" : "prop_army_load_percent"
+  }, {
+    "id" : "calc_ranged_archer_load",
+    "formula" : "2",
+    "para1_3" : "prop_army_load_percent"
+  }, {
+    "id" : "calc_ranged_crossbowman_load",
+    "formula" : "2",
+    "para1_3" : "prop_army_load_percent"
+  }, {
+    "id" : "calc_siege_distance_load",
+    "formula" : "2",
+    "para1_3" : "prop_army_load_percent"
+  }, {
+    "id" : "calc_siege_batteringram_load",
+    "formula" : "2",
+    "para1_3" : "prop_army_load_percent"
+  }, {
+    "id" : "calc_infantry_warrior_training_time",
+    "formula" : "1",
+    "para1_1" : "prop_infantry_training_time_percent",
+    "para1_3" : "prop_army_training_time_percent"
+  }, {
+    "id" : "calc_infantry_spearman_training_time",
+    "formula" : "1",
+    "para1_1" : "prop_infantry_training_time_percent",
+    "para1_3" : "prop_army_training_time_percent"
+  }, {
+    "id" : "calc_cavalry_cavalry_training_time",
+    "formula" : "1",
+    "para1_1" : "prop_cavalry_training_time_percent",
+    "para1_3" : "prop_army_training_time_percent"
+  }, {
+    "id" : "calc_cavalry_heavycavalry_training_time",
+    "formula" : "1",
+    "para1_1" : "prop_cavalry_training_time_percent",
+    "para1_3" : "prop_army_training_time_percent"
+  }, {
+    "id" : "calc_ranged_archer_training_time",
+    "formula" : "1",
+    "para1_1" : "prop_ranged_training_time_percent",
+    "para1_3" : "prop_army_training_time_percent"
+  }, {
+    "id" : "calc_ranged_crossbowman_training_time",
+    "formula" : "1",
+    "para1_1" : "prop_ranged_training_time_percent",
+    "para1_3" : "prop_army_training_time_percent"
+  }, {
+    "id" : "calc_siege_distance_training_time",
+    "formula" : "1",
+    "para1_1" : "prop_siege_training_time_percent",
+    "para1_3" : "prop_army_training_time_percent"
+  }, {
+    "id" : "calc_siege_batteringram_training_time",
+    "formula" : "1",
+    "para1_1" : "prop_siege_training_time_percent",
+    "para1_3" : "prop_army_training_time_percent"
+  }, {
+    "id" : "calc_trap_dropped_training_time",
+    "formula" : "1",
+    "para1_2" : "prop_trap_training_time_percent"
+  }, {
+    "id" : "calc_trap_stationary_training_time",
+    "formula" : "1",
+    "para1_2" : "prop_trap_training_time_percent"
+  }, {
+    "id" : "calc_trap_targeted_training_time",
+    "formula" : "1",
+    "para1_2" : "prop_trap_training_time_percent"
+  }, {
+    "id" : "calc_infantry_warrior_healing_time",
+    "formula" : "1",
+    "para1_3" : "prop_army_healing_time_percent"
+  }, {
+    "id" : "calc_infantry_spearman_healing_time",
+    "formula" : "1",
+    "para1_3" : "prop_army_healing_time_percent"
+  }, {
+    "id" : "calc_cavalry_cavalry_healing_time",
+    "formula" : "1",
+    "para1_3" : "prop_army_healing_time_percent"
+  }, {
+    "id" : "calc_cavalry_heavycavalry_healing_time",
+    "formula" : "1",
+    "para1_3" : "prop_army_healing_time_percent"
+  }, {
+    "id" : "calc_ranged_archer_healing_time",
+    "formula" : "1",
+    "para1_3" : "prop_army_healing_time_percent"
+  }, {
+    "id" : "calc_ranged_crossbowman_healing_time",
+    "formula" : "1",
+    "para1_3" : "prop_army_healing_time_percent"
+  }, {
+    "id" : "calc_siege_distance_healing_time",
+    "formula" : "1",
+    "para1_3" : "prop_army_healing_time_percent"
+  }, {
+    "id" : "calc_siege_batteringram_healing_time",
+    "formula" : "1",
+    "para1_3" : "prop_army_healing_time_percent"
+  }, {
+    "id" : "calc_infantry_warrior_training_capacity",
+    "formula" : "2",
+    "para1_3" : "prop_army_training_capacity_percent",
+    "para2_2" : "prop_army_training_capacity_value"
+  }, {
+    "id" : "calc_infantry_spearman_training_capacity",
+    "formula" : "2",
+    "para1_3" : "prop_army_training_capacity_percent",
+    "para2_2" : "prop_army_training_capacity_value"
+  }, {
+    "id" : "calc_cavalry_cavalry_training_capacity",
+    "formula" : "2",
+    "para1_3" : "prop_army_training_capacity_percent",
+    "para2_2" : "prop_army_training_capacity_value"
+  }, {
+    "id" : "calc_cavalry_heavycavalry_training_capacity",
+    "formula" : "2",
+    "para1_3" : "prop_army_training_capacity_percent",
+    "para2_2" : "prop_army_training_capacity_value"
+  }, {
+    "id" : "calc_ranged_archer_training_capacity",
+    "formula" : "2",
+    "para1_3" : "prop_army_training_capacity_percent",
+    "para2_2" : "prop_army_training_capacity_value"
+  }, {
+    "id" : "calc_ranged_crossbowman_training_capacity",
+    "formula" : "2",
+    "para1_3" : "prop_army_training_capacity_percent",
+    "para2_2" : "prop_army_training_capacity_value"
+  }, {
+    "id" : "calc_siege_distance_training_capacity",
+    "formula" : "2",
+    "para1_3" : "prop_army_training_capacity_percent",
+    "para2_2" : "prop_army_training_capacity_value"
+  }, {
+    "id" : "calc_siege_batteringram_training_capacity",
+    "formula" : "2",
+    "para1_3" : "prop_army_training_capacity_percent",
+    "para2_2" : "prop_army_training_capacity_value"
+  }, {
+    "id" : "calc_food_generation",
+    "formula" : "2",
+    "para1_1" : "prop_food_generation_percent",
+    "para1_2" : "prop_resource_generation_percent",
+    "para2_1" : "prop_food_generation_value",
+    "para2_2" : "prop_resource_generation_value"
+  }, {
+    "id" : "calc_wood_generation",
+    "formula" : "2",
+    "para1_1" : "prop_wood_generation_percent",
+    "para1_2" : "prop_resource_generation_percent",
+    "para2_1" : "prop_wood_generation_value",
+    "para2_2" : "prop_resource_generation_value"
+  }, {
+    "id" : "calc_ore_generation",
+    "formula" : "2",
+    "para1_1" : "prop_ore_generation_percent",
+    "para1_2" : "prop_resource_generation_percent",
+    "para2_1" : "prop_ore_generation_value",
+    "para2_2" : "prop_resource_generation_value"
+  }, {
+    "id" : "calc_silver_generation",
+    "formula" : "2",
+    "para1_1" : "prop_silver_generation_percent",
+    "para1_2" : "prop_resource_generation_percent",
+    "para2_1" : "prop_silver_generation_value",
+    "para2_2" : "prop_resource_generation_value"
+  }, {
+    "id" : "calc_food_storage",
+    "formula" : "2",
+    "para1_1" : "prop_food_storage_percent",
+    "para1_2" : "prop_resource_storage_percent",
+    "para2_1" : "prop_food_storage_value",
+    "para2_2" : "prop_resource_storage_value"
+  }, {
+    "id" : "calc_wood_storage",
+    "formula" : "2",
+    "para1_1" : "prop_wood_storage_percent",
+    "para1_2" : "prop_resource_storage_percent",
+    "para2_1" : "prop_wood_storage_value",
+    "para2_2" : "prop_resource_storage_value"
+  }, {
+    "id" : "calc_ore_storage",
+    "formula" : "2",
+    "para1_1" : "prop_ore_storage_percent",
+    "para1_2" : "prop_resource_storage_percent",
+    "para2_1" : "prop_ore_storage_value",
+    "para2_2" : "prop_resource_storage_value"
+  }, {
+    "id" : "calc_silver_storage",
+    "formula" : "2",
+    "para1_1" : "prop_silver_storage_percent",
+    "para1_2" : "prop_resource_storage_percent",
+    "para2_1" : "prop_silver_storage_value",
+    "para2_2" : "prop_resource_storage_value"
+  }, {
+    "id" : "calc_food_gather",
+    "formula" : "2",
+    "para1_1" : "prop_food_gather_percent",
+    "para1_2" : "prop_resource_gather_percent"
+  }, {
+    "id" : "calc_wood_gather",
+    "formula" : "2",
+    "para1_1" : "prop_wood_gather_percent",
+    "para1_2" : "prop_resource_gather_percent"
+  }, {
+    "id" : "calc_ore_gather",
+    "formula" : "2",
+    "para1_1" : "prop_ore_gather_percent",
+    "para1_2" : "prop_resource_gather_percent"
+  }, {
+    "id" : "calc_silver_gather",
+    "formula" : "2",
+    "para1_1" : "prop_silver_gather_percent",
+    "para1_2" : "prop_resource_gather_percent"
+  }, {
+    "id" : "calc_training_capacity",
+    "formula" : "2",
+    "para1_3" : "prop_army_training_capacity_percent",
+    "para2_2" : "prop_army_training_capacity_value"
+  }, {
+    "id" : "calc_storage_protect",
+    "formula" : "2",
+    "para1_1" : "prop_storage_protect_percent",
+    "para2_1" : "prop_storage_protect_value"
+  }, {
+    "id" : "calc_trade_capacity",
+    "formula" : "2",
+    "para1_1" : "prop_trade_capacity_percent",
+    "para2_1" : "prop_trade_capacity_value"
+  }, {
+    "id" : "calc_healing_capacity",
+    "formula" : "2",
+    "para1_1" : "prop_healing_capacity_percent",
+    "para2_1" : "prop_healing_capacity_value"
+  }, {
+    "id" : "calc_march_capacity",
+    "formula" : "2",
+    "para1_1" : "prop_march_capacity_percent",
+    "para2_1" : "prop_march_capacity_value"
+  }, {
+    "id" : "calc_trap_capacity",
+    "formula" : "2",
+    "para1_1" : "prop_trap_capacity_percent",
+    "para2_1" : "prop_trap_capacity_value"
+  }, {
+    "id" : "calc_city_reinforcement_capacity",
+    "formula" : "2",
+    "para1_1" : "prop_city_reinforcement_capacity_percent",
+    "para2_1" : "prop_city_reinforcement_capacity_value"
+  }, {
+    "id" : "calc_rally_capacity",
+    "formula" : "2",
+    "para1_1" : "prop_rally_capacity_percent",
+    "para2_1" : "prop_rally_capacity_value"
+  }, {
+    "id" : "calc_march_limit",
+    "formula" : "2",
+    "para2_1" : "prop_march_limit_value"
+  }, {
+    "id" : "calc_tradetax",
+    "formula" : "2",
+    "para2_1" : "prop_tradetax_value"
+  }, {
+    "id" : "calc_speedup_time",
+    "formula" : "2",
+    "para1_1" : "prop_speedup_time_percent",
+    "para2_1" : "prop_speedup_time_value"
+  }, {
+    "id" : "calc_infantry_warrior_damage_increase",
+    "formula" : "6",
+    "para1_1" : "prop_army_damage_increase_percent",
+    "para1_3" : "prop_infantry_damage_increase_percent"
+  }, {
+    "id" : "calc_infantry_spearman_damage_increase",
+    "formula" : "6",
+    "para1_1" : "prop_army_damage_increase_percent",
+    "para1_3" : "prop_infantry_damage_increase_percent"
+  }, {
+    "id" : "calc_cavalry_cavalry_damage_increase",
+    "formula" : "6",
+    "para1_1" : "prop_army_damage_increase_percent",
+    "para1_3" : "prop_cavalry_damage_increase_percent"
+  }, {
+    "id" : "calc_cavalry_heavycavalry_damage_increase",
+    "formula" : "6",
+    "para1_1" : "prop_army_damage_increase_percent",
+    "para1_3" : "prop_cavalry_damage_increase_percent"
+  }, {
+    "id" : "calc_ranged_archer_damage_increase",
+    "formula" : "6",
+    "para1_1" : "prop_army_damage_increase_percent",
+    "para1_3" : "prop_ranged_damage_increase_percent"
+  }, {
+    "id" : "calc_ranged_crossbowman_damage_increase",
+    "formula" : "6",
+    "para1_1" : "prop_army_damage_increase_percent",
+    "para1_3" : "prop_ranged_damage_increase_percent"
+  }, {
+    "id" : "calc_siege_distance_damage_increase",
+    "formula" : "6",
+    "para1_1" : "prop_army_damage_increase_percent",
+    "para1_3" : "prop_siege_damage_increase_percent"
+  }, {
+    "id" : "calc_siege_batteringram_damage_increase",
+    "formula" : "6",
+    "para1_1" : "prop_army_damage_increase_percent",
+    "para1_3" : "prop_siege_damage_increase_percent"
+  }, {
+    "id" : "calc_trap_dropped_damage_increase",
+    "formula" : "6",
+    "para1_1" : "prop_army_damage_increase_percent",
+    "para1_3" : "prop_trap_damage_increase_percent"
+  }, {
+    "id" : "calc_trap_stationary_damage_increase",
+    "formula" : "6",
+    "para1_1" : "prop_army_damage_increase_percent",
+    "para1_3" : "prop_trap_damage_increase_percent"
+  }, {
+    "id" : "calc_trap_targeted_damage_increase",
+    "formula" : "6",
+    "para1_1" : "prop_army_damage_increase_percent",
+    "para1_3" : "prop_trap_damage_increase_percent"
+  }, {
+    "id" : "calc_infantry_damage_increase",
+    "formula" : "6",
+    "para1_1" : "prop_army_damage_increase_percent",
+    "para1_2" : "prop_infantry_damage_increase_percent"
+  }, {
+    "id" : "calc_cavalry_damage_increase",
+    "formula" : "6",
+    "para1_1" : "prop_army_damage_increase_percent",
+    "para1_2" : "prop_cavalry_damage_increase_percent"
+  }, {
+    "id" : "calc_ranged_damage_increase",
+    "formula" : "6",
+    "para1_1" : "prop_army_damage_increase_percent",
+    "para1_2" : "prop_ranged_damage_increase_percent"
+  }, {
+    "id" : "calc_siege_damage_increase",
+    "formula" : "6",
+    "para1_1" : "prop_army_damage_increase_percent",
+    "para1_2" : "prop_siege_damage_increase_percent"
+  }, {
+    "id" : "calc_trap_damage_increase",
+    "formula" : "6",
+    "para1_1" : "prop_army_damage_increase_percent",
+    "para1_2" : "prop_trap_damage_increase_percent"
+  }, {
+    "id" : "calc_infantry_warrior_damage_decrease",
+    "formula" : "6",
+    "para1_1" : "prop_army_damage_decrease_percent",
+    "para1_3" : "prop_infantry_damage_decrease_percent"
+  }, {
+    "id" : "calc_infantry_spearman_damage_decrease",
+    "formula" : "6",
+    "para1_1" : "prop_army_damage_decrease_percent",
+    "para1_3" : "prop_infantry_damage_decrease_percent"
+  }, {
+    "id" : "calc_cavalry_cavalry_damage_decrease",
+    "formula" : "6",
+    "para1_1" : "prop_army_damage_decrease_percent",
+    "para1_3" : "prop_cavalry_damage_decrease_percent"
+  }, {
+    "id" : "calc_cavalry_heavycavalry_damage_decrease",
+    "formula" : "6",
+    "para1_1" : "prop_army_damage_decrease_percent",
+    "para1_3" : "prop_cavalry_damage_decrease_percent"
+  }, {
+    "id" : "calc_ranged_archer_damage_decrease",
+    "formula" : "6",
+    "para1_1" : "prop_army_damage_decrease_percent",
+    "para1_3" : "prop_ranged_damage_decrease_percent"
+  }, {
+    "id" : "calc_ranged_crossbowman_damage_decrease",
+    "formula" : "6",
+    "para1_1" : "prop_army_damage_decrease_percent",
+    "para1_3" : "prop_ranged_damage_decrease_percent"
+  }, {
+    "id" : "calc_siege_distance_damage_decrease",
+    "formula" : "6",
+    "para1_1" : "prop_army_damage_decrease_percent",
+    "para1_3" : "prop_siege_damage_decrease_percent"
+  }, {
+    "id" : "calc_siege_batteringram_damage_decrease",
+    "formula" : "6",
+    "para1_1" : "prop_army_damage_decrease_percent",
+    "para1_3" : "prop_siege_damage_decrease_percent"
+  }, {
+    "id" : "calc_trap_dropped_damage_decrease",
+    "formula" : "6",
+    "para1_1" : "prop_army_damage_decrease_percent",
+    "para1_3" : "prop_trap_damage_decrease_percent"
+  }, {
+    "id" : "calc_trap_stationary_damage_decrease",
+    "formula" : "6",
+    "para1_1" : "prop_army_damage_decrease_percent",
+    "para1_3" : "prop_trap_damage_decrease_percent"
+  }, {
+    "id" : "calc_trap_targeted_damage_decrease",
+    "formula" : "6",
+    "para1_1" : "prop_army_damage_decrease_percent",
+    "para1_3" : "prop_trap_damage_decrease_percent"
+  }, {
+    "id" : "calc_infantry_damage_decrease",
+    "formula" : "6",
+    "para1_1" : "prop_army_damage_decrease_percent",
+    "para1_2" : "prop_infantry_damage_decrease_percent"
+  }, {
+    "id" : "calc_cavalry_damage_decrease",
+    "formula" : "6",
+    "para1_1" : "prop_army_damage_decrease_percent",
+    "para1_2" : "prop_cavalry_damage_decrease_percent"
+  }, {
+    "id" : "calc_ranged_damage_decrease",
+    "formula" : "6",
+    "para1_1" : "prop_army_damage_decrease_percent",
+    "para1_2" : "prop_ranged_damage_decrease_percent"
+  }, {
+    "id" : "calc_siege_damage_decrease",
+    "formula" : "6",
+    "para1_1" : "prop_army_damage_decrease_percent",
+    "para1_2" : "prop_siege_damage_decrease_percent"
+  }, {
+    "id" : "calc_trap_damage_decrease",
+    "formula" : "6",
+    "para1_1" : "prop_army_damage_decrease_percent",
+    "para1_2" : "prop_trap_damage_decrease_percent"
+  }, {
+    "id" : "calc_city_defense",
+    "formula" : "2",
+    "para2_1" : "prop_city_defense_value"
+  }, {
+    "id" : "calc_alliance_member",
+    "formula" : "2",
+    "para2_1" : "prop_alliance_member_value"
+  }, {
+    "id" : "calc_alliance_help",
+    "formula" : "2",
+    "para2_1" : "prop_alliance_help_value"
+  }, {
+    "id" : "calc_alliance_help_max",
+    "formula" : "2",
+    "para2_1" : "prop_alliance_help_max_value"
+  }, {
+    "id" : "calc_rally_slot",
+    "formula" : "2",
+    "para2_1" : "prop_rally_slot_value"
+  }, {
+    "id" : "calc_spirit_recover_speed",
+    "formula" : "1",
+    "para1_1" : "prop_spirit_recover_speed_percent"
+  }, {
+    "id" : "calc_dragon_light_cost",
+    "formula" : "2",
+    "para1_1" : "prop_dragon_light_reduce_percent"
+  }, {
+    "id" : "calc_dragon_dark_cost",
+    "formula" : "2",
+    "para1_1" : "prop_dragon_dark_reduce_percent"
+  }, {
+    "id" : "calc_wounded",
+    "formula" : "2",
+    "para2_1" : "prop_wounded_percent"
+  }, {
+    "id" : "calc_pve_speed",
+    "formula" : "2",
+    "para1_1" : "prop_pve_speed_percent"
+  }, {
+    "id" : "calc_train_army_cost_decrease",
+    "formula" : "2",
+    "para1_1" : "prop_train_army_cost_decrease_percent"
+  }, {
+    "id" : "calc_healing_army_cost_decrease",
+    "formula" : "2",
+    "para1_1" : "prop_healing_army_cost_decrease_percent"
+  }, {
+    "id" : "calc_monster_spirit_cost",
+    "formula" : "2",
+    "para1_1" : "prop_monster_spirit_cost_reduction_percent"
+  }, {
+    "id" : "calc_trap_training_capacity",
+    "formula" : "2",
+    "para1_1" : "prop_trap_training_capacity_percent",
+    "para2_1" : "prop_trap_training_capacity_value"
+  }, {
+    "id" : "calc_crafting_time",
+    "formula" : "1",
+    "para1_1" : "prop_crafting_time_percent"
+  }, {
+    "id" : "calc_crafting_steel_cost",
+    "formula" : "2",
+    "para1_1" : "prop_crafting_steel_cost_percent"
+  }, {
+    "id" : "calc_alliance_storage_daily_limit",
+    "formula" : "2",
+    "para1_1" : "prop_alliance_storage_daily_limit_percent",
+    "para2_1" : "prop_alliance_storage_daily_limit_value"
+  }, {
+    "id" : "calc_alliance_storage_total_limit",
+    "formula" : "2",
+    "para1_1" : "prop_alliance_storage_total_limit_percent",
+    "para2_1" : "prop_alliance_storage_total_limit_value"
+  }, {
+    "id" : "calc_alliance_resource_gather_speed",
+    "formula" : "2",
+    "para1_1" : "prop_alliance_resource_gather_speed_percent"
+  }, {
+    "id" : "calc_alliance_hospital_capacity",
+    "formula" : "2",
+    "para1_1" : "prop_alliance_hospital_capacity_percent",
+    "para2_1" : "prop_alliance_hospital_capacity_value"
+  }, {
+    "id" : "calc_alliance_hospital_healing_time",
+    "formula" : "1",
+    "para1_1" : "prop_alliance_hospital_healing_speed_percent"
+  }, {
+    "id" : "calc_alliance_hospital_healing_cost",
+    "formula" : "2",
+    "para1_1" : "prop_alliance_hospital_healing_cost_percent"
+  }, {
+    "id" : "calc_alliance_build_speed",
+    "formula" : "2",
+    "para1_1" : "prop_alliance_build_speed_percent"
+  }, {
+    "id" : "calc_alliance_demolished_speed",
+    "formula" : "2",
+    "para1_1" : "prop_alliance_demolished_speed_percent"
+  }, {
+    "id" : "calc_defender_infantry_warrior_attack",
+    "formula" : "5",
+    "para1_1" : "prop_defender_army_attack_percent",
+    "para1_2" : "prop_infantry_attack_percent",
+    "para1_3" : "prop_army_attack_percent"
+  }, {
+    "id" : "calc_defender_infantry_spearman_attack",
+    "formula" : "5",
+    "para1_1" : "prop_defender_army_attack_percent",
+    "para1_2" : "prop_infantry_attack_percent",
+    "para1_3" : "prop_army_attack_percent"
+  }, {
+    "id" : "calc_defender_cavalry_cavalry_attack",
+    "formula" : "5",
+    "para1_1" : "prop_defender_army_attack_percent",
+    "para1_2" : "prop_cavalry_attack_percent",
+    "para1_3" : "prop_army_attack_percent"
+  }, {
+    "id" : "calc_defender_cavalry_heavycavalry_attack",
+    "formula" : "5",
+    "para1_1" : "prop_defender_army_attack_percent",
+    "para1_2" : "prop_cavalry_attack_percent",
+    "para1_3" : "prop_army_attack_percent"
+  }, {
+    "id" : "calc_defender_ranged_archer_attack",
+    "formula" : "5",
+    "para1_1" : "prop_defender_army_attack_percent",
+    "para1_2" : "prop_ranged_attack_percent",
+    "para1_3" : "prop_army_attack_percent"
+  }, {
+    "id" : "calc_defender_ranged_crossbowman_attack",
+    "formula" : "5",
+    "para1_1" : "prop_defender_army_attack_percent",
+    "para1_2" : "prop_ranged_attack_percent",
+    "para1_3" : "prop_army_attack_percent"
+  }, {
+    "id" : "calc_defender_siege_distance_attack",
+    "formula" : "5",
+    "para1_1" : "prop_defender_army_attack_percent",
+    "para1_2" : "prop_siege_attack_percent",
+    "para1_3" : "prop_army_attack_percent"
+  }, {
+    "id" : "calc_defender_siege_batteringram_attack",
+    "formula" : "5",
+    "para1_1" : "prop_defender_army_attack_percent",
+    "para1_2" : "prop_siege_attack_percent",
+    "para1_3" : "prop_army_attack_percent"
+  }, {
+    "id" : "calc_defender_trap_dropped_attack",
+    "formula" : "5",
+    "para1_2" : "prop_trap_attack_percent"
+  }, {
+    "id" : "calc_defender_trap_stationary_attack",
+    "formula" : "5",
+    "para1_2" : "prop_trap_attack_percent"
+  }, {
+    "id" : "calc_defender_trap_targeted_attack",
+    "formula" : "5",
+    "para1_2" : "prop_trap_attack_percent"
+  }, {
+    "id" : "calc_defender_infantry_warrior_defense",
+    "formula" : "5",
+    "para1_1" : "prop_defender_army_defense_percent",
+    "para1_2" : "prop_infantry_defense_percent",
+    "para1_3" : "prop_army_defense_percent"
+  }, {
+    "id" : "calc_defender_infantry_spearman_defense",
+    "formula" : "5",
+    "para1_1" : "prop_defender_army_defense_percent",
+    "para1_2" : "prop_infantry_defense_percent",
+    "para1_3" : "prop_army_defense_percent"
+  }, {
+    "id" : "calc_defender_cavalry_cavalry_defense",
+    "formula" : "5",
+    "para1_1" : "prop_defender_army_defense_percent",
+    "para1_2" : "prop_cavalry_defense_percent",
+    "para1_3" : "prop_army_defense_percent"
+  }, {
+    "id" : "calc_defender_cavalry_heavycavalry_defense",
+    "formula" : "5",
+    "para1_1" : "prop_defender_army_defense_percent",
+    "para1_2" : "prop_cavalry_defense_percent",
+    "para1_3" : "prop_army_defense_percent"
+  }, {
+    "id" : "calc_defender_ranged_archer_defense",
+    "formula" : "5",
+    "para1_1" : "prop_defender_army_defense_percent",
+    "para1_2" : "prop_ranged_defense_percent",
+    "para1_3" : "prop_army_defense_percent"
+  }, {
+    "id" : "calc_defender_ranged_crossbowman_defense",
+    "formula" : "5",
+    "para1_1" : "prop_defender_army_defense_percent",
+    "para1_2" : "prop_ranged_defense_percent",
+    "para1_3" : "prop_army_defense_percent"
+  }, {
+    "id" : "calc_defender_siege_distance_defense",
+    "formula" : "5",
+    "para1_1" : "prop_defender_army_defense_percent",
+    "para1_2" : "prop_siege_defense_percent",
+    "para1_3" : "prop_army_defense_percent"
+  }, {
+    "id" : "calc_defender_siege_batteringram_defense",
+    "formula" : "5",
+    "para1_1" : "prop_defender_army_defense_percent",
+    "para1_2" : "prop_siege_defense_percent",
+    "para1_3" : "prop_army_defense_percent"
+  }, {
+    "id" : "calc_defender_trap_dropped_defense",
+    "formula" : "5",
+    "para1_2" : "prop_trap_defense_percent"
+  }, {
+    "id" : "calc_defender_trap_stationary_defense",
+    "formula" : "5",
+    "para1_2" : "prop_trap_defense_percent"
+  }, {
+    "id" : "calc_defender_trap_targeted_defense",
+    "formula" : "5",
+    "para1_2" : "prop_trap_defense_percent"
+  }, {
+    "id" : "calc_defender_infantry_warrior_health",
+    "formula" : "5",
+    "para1_1" : "prop_defender_army_health_percent",
+    "para1_2" : "prop_infantry_health_percent",
+    "para1_3" : "prop_army_health_percent"
+  }, {
+    "id" : "calc_defender_infantry_spearman_health",
+    "formula" : "5",
+    "para1_1" : "prop_defender_army_health_percent",
+    "para1_2" : "prop_infantry_health_percent",
+    "para1_3" : "prop_army_health_percent"
+  }, {
+    "id" : "calc_defender_cavalry_cavalry_health",
+    "formula" : "5",
+    "para1_1" : "prop_defender_army_health_percent",
+    "para1_2" : "prop_cavalry_health_percent",
+    "para1_3" : "prop_army_health_percent"
+  }, {
+    "id" : "calc_defender_cavalry_heavycavalry_health",
+    "formula" : "5",
+    "para1_1" : "prop_defender_army_health_percent",
+    "para1_2" : "prop_cavalry_health_percent",
+    "para1_3" : "prop_army_health_percent"
+  }, {
+    "id" : "calc_defender_ranged_archer_health",
+    "formula" : "5",
+    "para1_1" : "prop_defender_army_health_percent",
+    "para1_2" : "prop_ranged_health_percent",
+    "para1_3" : "prop_army_health_percent"
+  }, {
+    "id" : "calc_defender_ranged_crossbowman_health",
+    "formula" : "5",
+    "para1_1" : "prop_defender_army_health_percent",
+    "para1_2" : "prop_ranged_health_percent",
+    "para1_3" : "prop_army_health_percent"
+  }, {
+    "id" : "calc_defender_siege_distance_health",
+    "formula" : "5",
+    "para1_1" : "prop_defender_army_health_percent",
+    "para1_2" : "prop_siege_health_percent",
+    "para1_3" : "prop_army_health_percent"
+  }, {
+    "id" : "calc_defender_siege_batteringram_health",
+    "formula" : "5",
+    "para1_1" : "prop_defender_army_health_percent",
+    "para1_2" : "prop_siege_health_percent",
+    "para1_3" : "prop_army_health_percent"
+  }, {
+    "id" : "calc_defender_trap_dropped_health",
+    "formula" : "5",
+    "para1_2" : "prop_trap_health_percent"
+  }, {
+    "id" : "calc_defender_trap_stationary_health",
+    "formula" : "5",
+    "para1_2" : "prop_trap_health_percent"
+  }, {
+    "id" : "calc_defender_trap_targeted_health",
+    "formula" : "5",
+    "para1_2" : "prop_trap_health_percent"
+  }, {
+    "id" : "calc_dragon_knight_strength",
+    "formula" : "2",
+    "para1_1" : "prop_dragon_knight_strength_percent"
+  }, {
+    "id" : "calc_dragon_knight_intelligent",
+    "formula" : "2",
+    "para1_1" : "prop_dragon_knight_intelligent_percent"
+  }, {
+    "id" : "calc_dragon_knight_armor",
+    "formula" : "2",
+    "para1_1" : "prop_dragon_knight_armor_percent"
+  }, {
+    "id" : "calc_dragon_knight_constitution",
+    "formula" : "2",
+    "para1_1" : "prop_dragon_knight_constitution_percent"
+  }, {
+    "id" : "calc_dragon_knight_attack",
+    "formula" : "2",
+    "para1_1" : "prop_dragon_knight_attack_percent"
+  }, {
+    "id" : "calc_dragon_knight_magic",
+    "formula" : "2",
+    "para1_1" : "prop_dragon_knight_magic_percent"
+  }, {
+    "id" : "calc_dragon_knight_defence",
+    "formula" : "2",
+    "para1_1" : "prop_dragon_knight_defence_percent"
+  }, {
+    "id" : "calc_dragon_knight_health",
+    "formula" : "2",
+    "para1_1" : "prop_dragon_knight_health_percent"
+  }, {
+    "id" : "calc_dragon_knight_mana",
+    "formula" : "2",
+    "para1_1" : "prop_dragon_knight_mana_percent"
+  }, {
+    "id" : "calc_dragon_knight_health_recover",
+    "formula" : "2",
+    "para1_1" : "prop_dragon_knight_health_recover_percent"
+  }, {
+    "id" : "calc_dragon_knight_mana_recover",
+    "formula" : "2",
+    "para1_1" : "prop_dragon_knight_mana_recover_percent"
+  }, {
+    "id" : "calc_dragon_knight_fire_power",
+    "formula" : "2",
+    "para1_1" : "prop_dragon_knight_fire_power_percent"
+  }, {
+    "id" : "calc_dragon_knight_water_power",
+    "formula" : "2",
+    "para1_1" : "prop_dragon_knight_water_power_percent"
+  }, {
+    "id" : "calc_dragon_knight_nature_power",
+    "formula" : "2",
+    "para1_1" : "prop_dragon_knight_nature_power_percent"
+  }, {
+    "id" : "calc_dragon_knight_dungeon_stamina",
+    "formula" : "2",
+    "para1_1" : "prop_dragon_knight_dungeon_stamina_percent",
+    "para2_1" : "prop_dragon_knight_dungeon_stamina_value"
+  }, {
+    "id" : "calc_dragon_knight_bag_capacity",
+    "formula" : "2",
+    "para2_1" : "prop_dragon_knight_bag_capacity_value"
+  }, {
+    "id" : "calc_dragon_knight_load",
+    "formula" : "2",
+    "para1_1" : "prop_dragon_knight_load_percent",
+    "para2_1" : "prop_dragon_knight_load_value"
+  }, {
+    "id" : "calc_dragon_knight_addition_stamina_count",
+    "formula" : "2",
+    "para2_1" : "prop_dragon_knight_addition_stamina_count_value"
+  }, {
+    "id" : "calc_dragon_knight_addition_mana_count",
+    "formula" : "2",
+    "para2_1" : "prop_dragon_knight_addition_mana_count_value"
+  }, {
+    "id" : "calc_dragon_knight_addition_health_count",
+    "formula" : "2",
+    "para2_1" : "prop_dragon_knight_addition_health_count_value"
+  }, {
+    "id" : "calc_dragon_knight_addition_stamina_effect",
+    "formula" : "2",
+    "para1_1" : "prop_dragon_knight_addition_stamina_effect_percent",
+    "para2_1" : "prop_dragon_knight_addition_stamina_effect_value"
+  }, {
+    "id" : "calc_dragon_knight_addition_mana_effect",
+    "formula" : "2",
+    "para1_1" : "prop_dragon_knight_addition_mana_effect_percent",
+    "para2_1" : "prop_dragon_knight_addition_mana_effect_value"
+  }, {
+    "id" : "calc_dragon_knight_addition_health_effect",
+    "formula" : "2",
+    "para1_1" : "prop_dragon_knight_addition_health_effect_percent",
+    "para2_1" : "prop_dragon_knight_addition_health_effect_value"
+  }, {
+    "id" : "calc_dragon_knight_skill_equip",
+    "formula" : "2",
+    "para2_1" : "prop_dragon_knight_skill_equip_value"
+  }, {
+    "id" : "calc_dragon_knight_inbattle_strength",
+    "formula" : "2",
+    "para1_1" : "prop_dragon_knight_inbattle_strength_percent",
+    "para2_1" : "prop_dragon_knight_inbattle_strength_value"
+  }, {
+    "id" : "calc_dragon_knight_inbattle_intelligent",
+    "formula" : "2",
+    "para1_1" : "prop_dragon_knight_inbattle_intelligent_percent",
+    "para2_1" : "prop_dragon_knight_inbattle_intelligent_value"
+  }, {
+    "id" : "calc_dragon_knight_inbattle_armor",
+    "formula" : "2",
+    "para1_1" : "prop_dragon_knight_inbattle_armor_percent",
+    "para2_1" : "prop_dragon_knight_inbattle_armor_value"
+  }, {
+    "id" : "calc_dragon_knight_inbattle_constitution",
+    "formula" : "2",
+    "para1_1" : "prop_dragon_knight_inbattle_constitution_percent",
+    "para2_1" : "prop_dragon_knight_inbattle_constitution_value"
+  }, {
+    "id" : "calc_dragon_knight_inbattle_attack",
+    "formula" : "2",
+    "para1_1" : "prop_dragon_knight_inbattle_attack_percent",
+    "para2_1" : "prop_dragon_knight_inbattle_attack_value"
+  }, {
+    "id" : "calc_dragon_knight_inbattle_magic",
+    "formula" : "2",
+    "para1_1" : "prop_dragon_knight_inbattle_magic_percent",
+    "para2_1" : "prop_dragon_knight_inbattle_magic_value"
+  }, {
+    "id" : "calc_dragon_knight_inbattle_defence",
+    "formula" : "2",
+    "para1_1" : "prop_dragon_knight_inbattle_defence_percent",
+    "para2_1" : "prop_dragon_knight_inbattle_defence_value"
+  }, {
+    "id" : "calc_dragon_knight_inbattle_fire_power",
+    "formula" : "2",
+    "para1_1" : "prop_dragon_knight_inbattle_fire_power_percent",
+    "para2_1" : "prop_dragon_knight_inbattle_fire_power_value"
+  }, {
+    "id" : "calc_dragon_knight_inbattle_water_power",
+    "formula" : "2",
+    "para1_1" : "prop_dragon_knight_inbattle_water_power_percent",
+    "para2_1" : "prop_dragon_knight_inbattle_water_power_value"
+  }, {
+    "id" : "calc_dragon_knight_inbattle_nature_power",
+    "formula" : "2",
+    "para1_1" : "prop_dragon_knight_inbattle_nature_power_percent",
+    "para2_1" : "prop_dragon_knight_inbattle_nature_power_value"
+  }, {
+    "id" : "calc_dragon_knight_speed",
+    "formula" : "2",
+    "para1_1" : "prop_dragon_knight_speed_percent",
+    "para2_1" : "prop_dragon_knight_speed_value"
+  }, {
+    "id" : "calc_dragon_knight_dungeon_cd",
+    "formula" : "2",
+    "para1_1" : "prop_dragon_knight_dungeon_cd_percent",
+    "para2_1" : "prop_dragon_knight_dungeon_cd_value"
+  }, {
+    "id" : "calc_dragon_knight_rebound",
+    "formula" : "2",
+    "para1_1" : "prop_dragon_knight_rebound_percent",
+    "para2_1" : "prop_dragon_knight_rebound_value"
+  }, {
+    "id" : "calc_troop_formation_save",
+    "formula" : "2",
+    "para2_1" : "prop_troop_formation_save_value"
+  }, {
+    "id" : "calc_equipment_save",
+    "formula" : "2",
+    "para2_1" : "prop_equipment_save_value"
+  }, {
+    "id" : "calc_construct_food_cost",
+    "formula" : "2",
+    "para1_1" : "prop_construct_food_cost_percent",
+    "para2_1" : "prop_construct_food_cost_value"
+  }, {
+    "id" : "calc_construct_wood_cost",
+    "formula" : "2",
+    "para1_1" : "prop_construct_wood_cost_percent",
+    "para2_1" : "prop_construct_wood_cost_value"
+  }, {
+    "id" : "calc_construct_ore_cost",
+    "formula" : "2",
+    "para1_1" : "prop_construct_ore_cost_percent",
+    "para2_1" : "prop_construct_ore_cost_value"
+  }, {
+    "id" : "calc_construct_silver_cost",
+    "formula" : "2",
+    "para1_1" : "prop_construct_silver_cost_percent",
+    "para2_1" : "prop_construct_silver_cost_value"
+  }, {
+    "id" : "calc_research_food_cost",
+    "formula" : "2",
+    "para1_1" : "prop_research_food_cost_percent",
+    "para2_1" : "prop_research_food_cost_value"
+  }, {
+    "id" : "calc_research_wood_cost",
+    "formula" : "2",
+    "para1_1" : "prop_research_wood_cost_percent",
+    "para2_1" : "prop_research_wood_cost_value"
+  }, {
+    "id" : "calc_research_ore_cost",
+    "formula" : "2",
+    "para1_1" : "prop_research_ore_cost_percent",
+    "para2_1" : "prop_research_ore_cost_value"
+  }, {
+    "id" : "calc_research_silver_cost",
+    "formula" : "2",
+    "para1_1" : "prop_research_silver_cost_percent",
+    "para2_1" : "prop_research_silver_cost_value"
+  }, {
+    "id" : "calc_talent_extra_scheme",
+    "formula" : "2",
+    "para2_1" : "prop_talent_extra_scheme_value"
+  }, {
+    "id" : "calc_building_glory_material_1_cost_decrease",
+    "formula" : "2",
+    "para2_1" : "prop_building_glory_material_1_cost_decrease_value"
+  }, {
+    "id" : "calc_wounded_soldier_conversion_rate",
+    "formula" : "2",
+    "para2_1" : "prop_wounded_soldier_conversion_rate_percent"
+  }, {
+    "id" : "calc_church_capacity_rate",
+    "formula" : "2",
+    "para2_1" : "prop_church_capacity_rate_percent"
+  }, {
+    "id" : "calc_trading_assistance_send_weight",
+    "formula" : "2",
+    "para1_1" : "prop_trading_assistance_send_weight_percent",
+    "para2_1" : "prop_trading_assistance_send_weight_value"
+  }, {
+    "id" : "calc_iap_package_gold_increase",
+    "formula" : "2",
+    "para1_1" : "prop_iap_package_gold_increase_percent"
+  }, {
+    "id" : "calc_dragon_knight_dungeon_stamina_new",
+    "formula" : "2",
+    "para2_1" : "prop_dragon_knight_dungeon_stamina_new_base_value"
+  }, {
+    "id" : "calc_king_road_food_generation",
+    "formula" : "2",
+    "para1_1" : "prop_king_road_resource_generation_percent"
+  }, {
+    "id" : "calc_king_road_wood_generation",
+    "formula" : "2",
+    "para1_1" : "prop_king_road_resource_generation_percent"
+  }, {
+    "id" : "calc_king_road_ore_generation",
+    "formula" : "2",
+    "para1_1" : "prop_king_road_resource_generation_percent"
+  }, {
+    "id" : "calc_king_road_silver_generation",
+    "formula" : "2",
+    "para1_1" : "prop_king_road_resource_generation_percent"
+  }, {
+    "id" : "calc_king_road_food_storage",
+    "formula" : "2",
+    "para1_1" : "prop_king_road_resource_storage_percent"
+  }, {
+    "id" : "calc_king_road_wood_storage",
+    "formula" : "2",
+    "para1_1" : "prop_king_road_resource_storage_percent"
+  }, {
+    "id" : "calc_king_road_ore_storage",
+    "formula" : "2",
+    "para1_1" : "prop_king_road_resource_storage_percent"
+  }, {
+    "id" : "calc_king_road_silver_storage",
+    "formula" : "2",
+    "para1_1" : "prop_king_road_resource_storage_percent"
+  }, {
+    "id" : "calc_explore_attack",
+    "formula" : "2",
+    "para1_1" : "prop_explore_attack_percent",
+    "para2_1" : "prop_explore_attack_value"
+  }, {
+    "id" : "calc_explore_hp",
+    "formula" : "2",
+    "para1_1" : "prop_explore_hp_percent",
+    "para2_1" : "prop_explore_hp_value"
+  }, {
+    "id" : "calc_explore_miss",
+    "formula" : "2",
+    "para1_1" : "prop_explore_miss_percent",
+    "para2_1" : "prop_explore_miss_value"
+  }, {
+    "id" : "calc_explore_damage_up_percent",
+    "formula" : "2",
+    "para1_1" : "prop_explore_damage_up_percent"
+  }, {
+    "id" : "calc_explore_damage_down_percent",
+    "formula" : "2",
+    "para1_1" : "prop_explore_damage_down_percent"
+  }, {
+    "id" : "calc_explore_be_damage_up_percent",
+    "formula" : "2",
+    "para1_1" : "prop_explore_be_damage_up_percent"
+  }, {
+    "id" : "calc_explore_be_damage_down_percent",
+    "formula" : "2",
+    "para1_1" : "prop_explore_be_damage_down_percent"
+  }, {
+    "id" : "calc_explore_damage_up_value",
+    "formula" : "2",
+    "para2_1" : "prop_explore_damage_up_value"
+  }, {
+    "id" : "calc_explore_damage_down_value",
+    "formula" : "2",
+    "para2_1" : "prop_explore_damage_down_value"
+  }, {
+    "id" : "calc_explore_be_damage_up_value",
+    "formula" : "2",
+    "para2_1" : "prop_explore_be_damage_up_value"
+  }, {
+    "id" : "calc_explore_be_damage_down_value",
+    "formula" : "2",
+    "para2_1" : "prop_explore_be_damage_down_value"
+  }, {
+    "id" : "calc_hero_infantry_damage_increase_percent",
+    "formula" : "5",
+    "para1_1" : "prop_hero_infantry_damage_increase_percent",
+    "para1_2" : "prop_hero_army_damage_increase_percent"
+  }, {
+    "id" : "calc_hero_cavalry_damage_increase_percent",
+    "formula" : "5",
+    "para1_1" : "prop_hero_cavalry_damage_increase_percent",
+    "para1_2" : "prop_hero_army_damage_increase_percent"
+  }, {
+    "id" : "calc_hero_ranged_damage_increase_percent",
+    "formula" : "5",
+    "para1_1" : "prop_hero_ranged_damage_increase_percent",
+    "para1_2" : "prop_hero_army_damage_increase_percent"
+  }, {
+    "id" : "calc_hero_siege_damage_increase_percent",
+    "formula" : "5",
+    "para1_1" : "prop_hero_siege_damage_increase_percent",
+    "para1_2" : "prop_hero_army_damage_increase_percent"
+  }, {
+    "id" : "calc_hero_infantry_damage_decrease_percent",
+    "formula" : "5",
+    "para1_1" : "prop_hero_infantry_damage_decrease_percent",
+    "para1_2" : "prop_hero_army_damage_decrease_percent"
+  }, {
+    "id" : "calc_hero_cavalry_damage_decrease_percent",
+    "formula" : "5",
+    "para1_1" : "prop_hero_cavalry_damage_decrease_percent",
+    "para1_2" : "prop_hero_army_damage_decrease_percent"
+  }, {
+    "id" : "calc_hero_ranged_damage_decrease_percent",
+    "formula" : "5",
+    "para1_1" : "prop_hero_ranged_damage_decrease_percent",
+    "para1_2" : "prop_hero_army_damage_decrease_percent"
+  }, {
+    "id" : "calc_hero_siege_damage_decrease_percent",
+    "formula" : "5",
+    "para1_1" : "prop_hero_siege_damage_decrease_percent",
+    "para1_2" : "prop_hero_army_damage_decrease_percent"
+  }, {
+    "id" : "calc_army_base_property",
+    "formula" : "5",
+    "para1_1" : "prop_army_base_property_percent"
+  } ]
+}

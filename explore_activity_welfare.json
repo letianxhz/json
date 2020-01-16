@@ -1,0 +1,25 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "type" : "type@string",
+    "title" : "title@string",
+    "description" : "description@string",
+    "bg_image" : "bg_image@string",
+    "welfare_id" : "welfare_id@welfare_center.id"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "type" : "对应福利中心type",
+    "title" : "标题",
+    "description" : "描述",
+    "bg_image" : "背景图",
+    "welfare_id" : "对应的福利中心id"
+  }, {
+    "id" : "explore_midsummer",
+    "type" : "roguelike_rank_and_store",
+    "title" : "event_explore_title",
+    "description" : "event_explore_description",
+    "bg_image" : "event_explore_midsummer",
+    "welfare_id" : "11"
+  } ]
+}

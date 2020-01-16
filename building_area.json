@@ -1,0 +1,88 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "plot_id" : "plot_id@string[]",
+    "stronghold_level" : "stronghold_level@int"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "plot_id" : "地块id",
+    "stronghold_level" : "解锁需要主城等级"
+  }, {
+    "id" : "area_farm",
+    "plot_id" : "51,53",
+    "stronghold_level" : "1"
+  }, {
+    "id" : "area_lumber_mill",
+    "plot_id" : "52,54",
+    "stronghold_level" : "1"
+  }, {
+    "id" : "area_mine",
+    "plot_id" : "55,56",
+    "stronghold_level" : "10"
+  }, {
+    "id" : "area_house",
+    "plot_id" : "57,58",
+    "stronghold_level" : "15"
+  }, {
+    "id" : "area_stronghold",
+    "plot_id" : "4",
+    "stronghold_level" : "1"
+  }, {
+    "id" : "area_walls",
+    "plot_id" : "5",
+    "stronghold_level" : "1"
+  }, {
+    "id" : "area_barracks",
+    "plot_id" : "9",
+    "stronghold_level" : "3"
+  }, {
+    "id" : "area_range",
+    "plot_id" : "3",
+    "stronghold_level" : "4"
+  }, {
+    "id" : "area_stables",
+    "plot_id" : "8",
+    "stronghold_level" : "5"
+  }, {
+    "id" : "area_workshop",
+    "plot_id" : "2",
+    "stronghold_level" : "1"
+  }, {
+    "id" : "area_hospital",
+    "plot_id" : "15",
+    "stronghold_level" : "4"
+  }, {
+    "id" : "area_storehouse",
+    "plot_id" : "1",
+    "stronghold_level" : "6"
+  }, {
+    "id" : "area_university",
+    "plot_id" : "7",
+    "stronghold_level" : "3"
+  }, {
+    "id" : "area_watchtower",
+    "plot_id" : "10",
+    "stronghold_level" : "7"
+  }, {
+    "id" : "area_embassy",
+    "plot_id" : "13",
+    "stronghold_level" : "5"
+  }, {
+    "id" : "area_war_rally",
+    "plot_id" : "14",
+    "stronghold_level" : "6"
+  }, {
+    "id" : "area_wish_well",
+    "plot_id" : "11",
+    "stronghold_level" : "8"
+  }, {
+    "id" : "area_general_club",
+    "plot_id" : "12",
+    "stronghold_level" : "1"
+  }, {
+    "id" : "area_PARADEGROUND",
+    "plot_id" : "6",
+    "stronghold_level" : "1"
+  } ]
+}

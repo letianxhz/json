@@ -1,0 +1,126 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "type" : "type@string",
+    "param1" : "param1@int",
+    "param2" : "param2@int",
+    "rate" : "rate@float",
+    "description" : "description@string"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "type" : "增益条件",
+    "param1" : "参数1",
+    "param2" : "参数2",
+    "rate" : "倍率(time+alliance)",
+    "description" : "多语言参数"
+  }, {
+    "id" : "1",
+    "type" : "time",
+    "param1" : "0",
+    "param2" : "7",
+    "rate" : "0.8333"
+  }, {
+    "id" : "2",
+    "type" : "time",
+    "param1" : "8",
+    "param2" : "15",
+    "rate" : "0.8"
+  }, {
+    "id" : "3",
+    "type" : "time",
+    "param1" : "16",
+    "param2" : "22",
+    "rate" : "0.7692"
+  }, {
+    "id" : "4",
+    "type" : "time",
+    "param1" : "23",
+    "param2" : "30",
+    "rate" : "0.7739"
+  }, {
+    "id" : "5",
+    "type" : "time",
+    "param1" : "31",
+    "param2" : "45",
+    "rate" : "0.7796"
+  }, {
+    "id" : "6",
+    "type" : "time",
+    "param1" : "46",
+    "param2" : "90",
+    "rate" : "0.7601"
+  }, {
+    "id" : "7",
+    "type" : "time",
+    "param1" : "91",
+    "param2" : "120",
+    "rate" : "0.7445"
+  }, {
+    "id" : "8",
+    "type" : "time",
+    "param1" : "121",
+    "param2" : "150",
+    "rate" : "0.7111"
+  }, {
+    "id" : "9",
+    "type" : "time",
+    "param1" : "151",
+    "param2" : "180",
+    "rate" : "0.6842"
+  }, {
+    "id" : "10",
+    "type" : "time",
+    "param1" : "181",
+    "param2" : "-1",
+    "rate" : "0.6842"
+  }, {
+    "id" : "11",
+    "type" : "alliance",
+    "param1" : "0",
+    "param2" : "2",
+    "rate" : "0.6158"
+  }, {
+    "id" : "12",
+    "type" : "alliance",
+    "param1" : "3",
+    "param2" : "5",
+    "rate" : "0.3129"
+  }, {
+    "id" : "13",
+    "type" : "alliance",
+    "param1" : "6",
+    "param2" : "10",
+    "rate" : "0.2119"
+  }, {
+    "id" : "14",
+    "type" : "alliance",
+    "param1" : "11",
+    "param2" : "15",
+    "rate" : "0.1615"
+  }, {
+    "id" : "15",
+    "type" : "alliance",
+    "param1" : "16",
+    "param2" : "20",
+    "rate" : "0.1312"
+  }, {
+    "id" : "16",
+    "type" : "alliance",
+    "param1" : "21",
+    "param2" : "25",
+    "rate" : "0.111"
+  }, {
+    "id" : "17",
+    "type" : "alliance",
+    "param1" : "26",
+    "param2" : "30",
+    "rate" : "0.0965"
+  }, {
+    "id" : "18",
+    "type" : "alliance",
+    "param1" : "31",
+    "param2" : "-1",
+    "rate" : "0.0857"
+  } ]
+}

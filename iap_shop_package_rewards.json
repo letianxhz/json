@@ -1,0 +1,339 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "display_icon" : "display_icon@itemlist.id",
+    "reward_id_1" : "reward_id_1@itemlist.id",
+    "reward_value_1" : "reward_value_1@int",
+    "reward_id_2" : "reward_id_2@itemlist.id",
+    "reward_value_2" : "reward_value_2@int",
+    "reward_id_3" : "reward_id_3@itemlist.id",
+    "reward_value_3" : "reward_value_3@int",
+    "reward_id_4" : "reward_id_4@itemlist.id",
+    "reward_value_4" : "reward_value_4@int"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "display_icon" : "多道具时展示的icon",
+    "reward_id_1" : "奖励道具id_1",
+    "reward_value_1" : "奖励道具数量_1",
+    "reward_id_2" : "奖励道具id_2",
+    "reward_value_2" : "奖励道具数量_2",
+    "reward_id_3" : "奖励道具id_3",
+    "reward_value_3" : "奖励道具数量_3",
+    "reward_id_4" : "奖励道具id_4",
+    "reward_value_4" : "奖励道具数量_4"
+  }, {
+    "id" : "iap_package_level_5_5_1_reward",
+    "reward_id_1" : "item_food_small1",
+    "reward_value_1" : "1000",
+    "reward_id_2" : "item_wood_small1",
+    "reward_value_2" : "1000"
+  }, {
+    "id" : "iap_package_level_7_5_1_reward",
+    "reward_id_1" : "item_food_small1",
+    "reward_value_1" : "1000",
+    "reward_id_2" : "item_wood_small1",
+    "reward_value_2" : "1000"
+  }, {
+    "id" : "iap_package_level_10_5_1_reward",
+    "reward_id_1" : "item_food_small2",
+    "reward_value_1" : "250",
+    "reward_id_2" : "item_wood_small2",
+    "reward_value_2" : "250"
+  }, {
+    "id" : "iap_package_level_13_5_1_reward",
+    "reward_id_1" : "item_food_small2",
+    "reward_value_1" : "250",
+    "reward_id_2" : "item_wood_small2",
+    "reward_value_2" : "250"
+  }, {
+    "id" : "iap_package_level_15_10_1_reward",
+    "reward_id_1" : "item_food_medium1",
+    "reward_value_1" : "200",
+    "reward_id_2" : "item_wood_medium1",
+    "reward_value_2" : "200"
+  }, {
+    "id" : "iap_package_level_16_20_1_reward",
+    "reward_id_1" : "item_food_medium1",
+    "reward_value_1" : "400",
+    "reward_id_2" : "item_wood_medium1",
+    "reward_value_2" : "400"
+  }, {
+    "id" : "iap_package_new_first_pay_1_1_reward",
+    "reward_id_1" : "item_speedup_60m",
+    "reward_value_1" : "30",
+    "reward_id_2" : "item_speedup_5m",
+    "reward_value_2" : "100"
+  }, {
+    "id" : "iap_package_new_first_pay_5_1_reward",
+    "reward_id_1" : "item_speedup_60m",
+    "reward_value_1" : "120",
+    "reward_id_2" : "item_speedup_5m",
+    "reward_value_2" : "400"
+  }, {
+    "id" : "iap_package_new_first_pay_10_1_reward",
+    "reward_id_1" : "item_speedup_60m",
+    "reward_value_1" : "200",
+    "reward_id_2" : "item_speedup_5m",
+    "reward_value_2" : "600"
+  }, {
+    "id" : "iap_package_new_first_pay_20_1_reward",
+    "reward_id_1" : "item_speedup_60m",
+    "reward_value_1" : "300",
+    "reward_id_2" : "item_speedup_5m",
+    "reward_value_2" : "900"
+  }, {
+    "id" : "iap_package_new_first_pay_50_1_reward",
+    "reward_id_1" : "item_speedup_3h",
+    "reward_value_1" : "50",
+    "reward_id_2" : "item_speedup_60m",
+    "reward_value_2" : "500"
+  }, {
+    "id" : "iap_package_new_first_pay_100_1_reward",
+    "reward_id_1" : "item_speedup_3h",
+    "reward_value_1" : "100",
+    "reward_id_2" : "item_speedup_60m",
+    "reward_value_2" : "700"
+  }, {
+    "id" : "iap_package_new_first_pay_100_2_reward",
+    "reward_id_1" : "item_parliament_hero_summon_coin",
+    "reward_value_1" : "500",
+    "reward_id_2" : "item_speedup_3h",
+    "reward_value_2" : "80"
+  }, {
+    "id" : "iap_package_new_first_pay_100_3_reward",
+    "reward_id_1" : "item_parliament_hero_summon_coin",
+    "reward_value_1" : "500",
+    "reward_id_2" : "item_speedup_3h",
+    "reward_value_2" : "60"
+  }, {
+    "id" : "iap_package_recruit_vip_5_1_reward",
+    "reward_id_1" : "item_vip_7d",
+    "reward_value_1" : "1",
+    "reward_id_2" : "item_vip_point_100",
+    "reward_value_2" : "100"
+  }, {
+    "id" : "iap_package_recruit_speed_5_1_reward",
+    "reward_id_1" : "item_speedup_60m",
+    "reward_value_1" : "100",
+    "reward_id_2" : "item_speedup_5m",
+    "reward_value_2" : "500",
+    "reward_id_3" : ""
+  }, {
+    "id" : "iap_package_recruit_speed_10_1_reward",
+    "reward_id_1" : "item_speedup_60m",
+    "reward_value_1" : "150",
+    "reward_id_2" : "item_speedup_5m",
+    "reward_value_2" : "1000",
+    "reward_id_3" : ""
+  }, {
+    "id" : "iap_package_recover_2_5_1_reward",
+    "reward_id_1" : "item_church_blessing_coin",
+    "reward_value_1" : "12500"
+  }, {
+    "id" : "iap_package_recover_3_10_1_reward",
+    "reward_id_1" : "item_church_blessing_coin",
+    "reward_value_1" : "25000"
+  }, {
+    "id" : "iap_package_recover_4_20_1_reward",
+    "reward_id_1" : "item_church_blessing_coin",
+    "reward_value_1" : "50000"
+  }, {
+    "id" : "iap_package_recover_5_50_1_reward",
+    "reward_id_1" : "item_church_blessing_coin",
+    "reward_value_1" : "125000"
+  }, {
+    "id" : "iap_package_recover_6_100_1_reward",
+    "reward_id_1" : "item_church_blessing_coin",
+    "reward_value_1" : "240000"
+  }, {
+    "id" : "iap_package_honor_pass_treasure_5_1_reward",
+    "reward_id_1" : "item_honor_pass_chest_treasure",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "iap_package_honor_pass_treasure_1_5_1_reward",
+    "reward_id_1" : "item_honor_pass_chest_treasure_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "iap_package_activity_pve_ticket_1_1_reward",
+    "reward_id_1" : "item_activity_pve_ticket_1",
+    "reward_value_1" : "25"
+  }, {
+    "id" : "iap_package_activity_pve_ticket_5_1_reward",
+    "reward_id_1" : "item_activity_pve_ticket_1",
+    "reward_value_1" : "100"
+  }, {
+    "id" : "iap_package_activity_pve_ticket_10_1_reward",
+    "reward_id_1" : "item_activity_pve_ticket_1",
+    "reward_value_1" : "180"
+  }, {
+    "id" : "iap_package_spirit_1_1_reward",
+    "reward_id_1" : "item_lord_spirit_small",
+    "reward_value_1" : "3",
+    "reward_id_2" : "",
+    "reward_value_2" : "",
+    "reward_id_3" : "",
+    "reward_value_3" : "",
+    "reward_id_4" : ""
+  }, {
+    "id" : "iap_package_spirit_5_1_reward",
+    "reward_id_1" : "item_lord_spirit_middle",
+    "reward_value_1" : "2",
+    "reward_id_2" : "item_lord_spirit_small",
+    "reward_value_2" : "4",
+    "reward_id_3" : "",
+    "reward_value_3" : "",
+    "reward_id_4" : ""
+  }, {
+    "id" : "iap_package_spirit_10_1_reward",
+    "reward_id_1" : "item_lord_spirit_large",
+    "reward_value_1" : "1",
+    "reward_id_2" : "item_lord_spirit_middle",
+    "reward_value_2" : "3",
+    "reward_id_3" : "item_lord_spirit_small",
+    "reward_value_3" : "2",
+    "reward_id_4" : ""
+  }, {
+    "id" : "iap_package_alliance_discount_20_1_reward",
+    "reward_id_1" : "item_targettele",
+    "reward_value_1" : "10",
+    "reward_id_2" : "item_postman",
+    "reward_value_2" : "1"
+  }, {
+    "id" : "iap_package_shoot_lottery_coin_1_1_reward",
+    "reward_id_1" : "item_shoot_lottery_coin",
+    "reward_value_1" : "60"
+  }, {
+    "id" : "iap_package_shoot_lottery_coin_5_1_reward",
+    "reward_id_1" : "item_shoot_lottery_coin",
+    "reward_value_1" : "300"
+  }, {
+    "id" : "iap_package_shoot_lottery_coin_10_1_reward",
+    "reward_id_1" : "item_shoot_lottery_coin",
+    "reward_value_1" : "600"
+  }, {
+    "id" : "iap_package_shoot_lottery_coin_20_1_reward",
+    "reward_id_1" : "item_shoot_lottery_coin",
+    "reward_value_1" : "1200"
+  }, {
+    "id" : "iap_package_honor_pass_key_1_1_reward",
+    "reward_id_1" : "item_honor_pass_chest_treasure_key",
+    "reward_value_1" : "2"
+  }, {
+    "id" : "iap_package_honor_pass_key_5_1_reward",
+    "reward_id_1" : "item_honor_pass_chest_treasure_key",
+    "reward_value_1" : "8"
+  }, {
+    "id" : "iap_package_honor_pass_key_10_1_reward",
+    "reward_id_1" : "item_honor_pass_chest_treasure_key",
+    "reward_value_1" : "12"
+  }, {
+    "id" : "iap_package_honor_pass_key_20_1_reward",
+    "reward_id_1" : "item_honor_pass_chest_treasure_key",
+    "reward_value_1" : "16"
+  }, {
+    "id" : "iap_package_operations_honor_pass_key_10_1_reward",
+    "reward_id_1" : "item_honor_pass_chest_treasure_key",
+    "reward_value_1" : "8"
+  }, {
+    "id" : "iap_package_food_5_1_reward",
+    "reward_id_1" : "item_food_medium1",
+    "reward_value_1" : "1100"
+  }, {
+    "id" : "iap_package_food_10_1_reward",
+    "reward_id_1" : "item_food_medium1",
+    "reward_value_1" : "2200"
+  }, {
+    "id" : "iap_package_food_20_1_reward",
+    "reward_id_1" : "item_food_medium2",
+    "reward_value_1" : "1500"
+  }, {
+    "id" : "iap_package_food_50_1_reward",
+    "reward_id_1" : "item_food_medium2",
+    "reward_value_1" : "3600"
+  }, {
+    "id" : "iap_package_food_100_1_reward",
+    "reward_id_1" : "item_food_medium3",
+    "reward_value_1" : "4300"
+  }, {
+    "id" : "iap_package_wood_5_1_reward",
+    "reward_id_1" : "item_wood_medium1",
+    "reward_value_1" : "2200"
+  }, {
+    "id" : "iap_package_wood_10_1_reward",
+    "reward_id_1" : "item_wood_medium1",
+    "reward_value_1" : "4300"
+  }, {
+    "id" : "iap_package_wood_20_1_reward",
+    "reward_id_1" : "item_wood_medium2",
+    "reward_value_1" : "2900"
+  }, {
+    "id" : "iap_package_wood_50_1_reward",
+    "reward_id_1" : "item_wood_medium2",
+    "reward_value_1" : "7100"
+  }, {
+    "id" : "iap_package_wood_100_1_reward",
+    "reward_id_1" : "item_wood_medium3",
+    "reward_value_1" : "8600"
+  }, {
+    "id" : "iap_package_iron_5_1_reward",
+    "reward_id_1" : "item_ore_medium1",
+    "reward_value_1" : "1100"
+  }, {
+    "id" : "iap_package_iron_10_1_reward",
+    "reward_id_1" : "item_ore_medium1",
+    "reward_value_1" : "2200"
+  }, {
+    "id" : "iap_package_iron_20_1_reward",
+    "reward_id_1" : "item_ore_medium2",
+    "reward_value_1" : "1500"
+  }, {
+    "id" : "iap_package_iron_50_1_reward",
+    "reward_id_1" : "item_ore_medium2",
+    "reward_value_1" : "3700"
+  }, {
+    "id" : "iap_package_iron_100_1_reward",
+    "reward_id_1" : "item_ore_medium3",
+    "reward_value_1" : "4400"
+  }, {
+    "id" : "iap_package_silver_5_1_reward",
+    "reward_id_1" : "item_silver_medium1",
+    "reward_value_1" : "1200"
+  }, {
+    "id" : "iap_package_silver_10_1_reward",
+    "reward_id_1" : "item_silver_medium1",
+    "reward_value_1" : "2300"
+  }, {
+    "id" : "iap_package_silver_20_1_reward",
+    "reward_id_1" : "item_silver_medium2",
+    "reward_value_1" : "1500"
+  }, {
+    "id" : "iap_package_silver_50_1_reward",
+    "reward_id_1" : "item_silver_medium2",
+    "reward_value_1" : "3800"
+  }, {
+    "id" : "iap_package_silver_100_1_reward",
+    "reward_id_1" : "item_silver_medium3",
+    "reward_value_1" : "4500"
+  }, {
+    "id" : "iap_package_speedup_5_1_reward",
+    "reward_id_1" : "item_speedup_5m",
+    "reward_value_1" : "600"
+  }, {
+    "id" : "iap_package_speedup_10_1_reward",
+    "reward_id_1" : "item_speedup_60m",
+    "reward_value_1" : "100"
+  }, {
+    "id" : "iap_package_speedup_20_1_reward",
+    "reward_id_1" : "item_speedup_60m",
+    "reward_value_1" : "200"
+  }, {
+    "id" : "iap_package_speedup_50_1_reward",
+    "reward_id_1" : "item_speedup_60m",
+    "reward_value_1" : "500"
+  }, {
+    "id" : "iap_package_speedup_100_1_reward",
+    "reward_id_1" : "item_speedup_60m",
+    "reward_value_1" : "1000"
+  } ]
+}

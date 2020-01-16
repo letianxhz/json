@@ -1,0 +1,132 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "gender" : "gender@string^c",
+    "initial_name" : "initial_name@string^s",
+    "image" : "image@int",
+    "cost_id" : "cost_id@itemlist.id",
+    "cost_value" : "cost_value@int",
+    "is_new" : "is_new@int",
+    "is_locked" : "is_locked@int"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "gender" : "性别",
+    "initial_name" : "初始姓名",
+    "image" : "图片",
+    "cost_id" : "消耗道具id",
+    "cost_value" : "消耗道具数量",
+    "is_new" : "是否有标签",
+    "is_locked" : "是否需要解锁"
+  }, {
+    "id" : "1",
+    "image" : "0",
+    "is_new" : "0",
+    "is_locked" : "0"
+  }, {
+    "id" : "2",
+    "image" : "1",
+    "is_new" : "0",
+    "is_locked" : "0"
+  }, {
+    "id" : "3",
+    "image" : "2",
+    "is_new" : "0",
+    "is_locked" : "0"
+  }, {
+    "id" : "4",
+    "image" : "3",
+    "is_new" : "0",
+    "is_locked" : "0"
+  }, {
+    "id" : "5",
+    "image" : "4",
+    "is_new" : "0",
+    "is_locked" : "0"
+  }, {
+    "id" : "6",
+    "image" : "5",
+    "is_new" : "0",
+    "is_locked" : "0"
+  }, {
+    "id" : "7",
+    "image" : "6",
+    "is_new" : "0",
+    "is_locked" : "0"
+  }, {
+    "id" : "8",
+    "image" : "7",
+    "is_new" : "0",
+    "is_locked" : "0"
+  }, {
+    "id" : "9",
+    "image" : "9",
+    "cost_id" : "item_player_portrait_material_8",
+    "cost_value" : "100",
+    "is_new" : "0",
+    "is_locked" : "1"
+  }, {
+    "id" : "10",
+    "image" : "10",
+    "cost_id" : "item_player_portrait_material_9",
+    "cost_value" : "100",
+    "is_new" : "0",
+    "is_locked" : "1"
+  }, {
+    "id" : "11",
+    "image" : "11",
+    "cost_id" : "item_player_portrait_material_10",
+    "cost_value" : "100",
+    "is_new" : "1",
+    "is_locked" : "1"
+  }, {
+    "id" : "12",
+    "image" : "12",
+    "cost_id" : "item_player_portrait_material_11",
+    "cost_value" : "100",
+    "is_new" : "1",
+    "is_locked" : "1"
+  }, {
+    "id" : "13",
+    "image" : "13",
+    "cost_id" : "item_player_portrait_material_12",
+    "cost_value" : "1",
+    "is_new" : "1",
+    "is_locked" : "1"
+  }, {
+    "id" : "14",
+    "image" : "14",
+    "cost_id" : "item_player_portrait_material_13",
+    "cost_value" : "1",
+    "is_new" : "1",
+    "is_locked" : "1"
+  }, {
+    "id" : "15",
+    "image" : "15",
+    "cost_id" : "item_player_portrait_material_14",
+    "cost_value" : "1",
+    "is_new" : "1",
+    "is_locked" : "1"
+  }, {
+    "id" : "16",
+    "image" : "16",
+    "cost_id" : "item_player_portrait_material_15",
+    "cost_value" : "1",
+    "is_new" : "1",
+    "is_locked" : "1"
+  }, {
+    "id" : "17",
+    "image" : "17",
+    "cost_id" : "item_player_portrait_material_16",
+    "cost_value" : "1",
+    "is_new" : "1",
+    "is_locked" : "1"
+  }, {
+    "id" : "18",
+    "image" : "18",
+    "cost_id" : "item_player_portrait_material_17",
+    "cost_value" : "1",
+    "is_new" : "1",
+    "is_locked" : "1"
+  } ]
+}

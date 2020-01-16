@@ -1,0 +1,96 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "group" : "group@charge_rebate_shop_group.id",
+    "need_energy_num" : "need_energy_num@int",
+    "index" : "index@int",
+    "times" : "times@int",
+    "reward_id_1" : "reward_id_1@itemlist.id",
+    "reward_value_1" : "reward_value_1@int",
+    "reward_id_2" : "reward_id_2@itemlist.id",
+    "reward_value_2" : "reward_value_2@int",
+    "reward_id_3" : "reward_id_3@itemlist.id",
+    "reward_value_3" : "reward_value_3@int",
+    "reward_id_4" : "reward_id_4@itemlist.id",
+    "reward_value_4" : "reward_value_4@int"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "group" : "所属组",
+    "need_energy_num" : "需要能量点数量",
+    "index" : "序列",
+    "times" : "次数",
+    "reward_id_1" : "奖励道具id",
+    "reward_value_1" : "奖励道具数量",
+    "reward_id_2" : "奖励道具id",
+    "reward_value_2" : "奖励道具数量",
+    "reward_id_3" : "奖励道具id",
+    "reward_value_3" : "奖励道具数量",
+    "reward_id_4" : "奖励道具id",
+    "reward_value_4" : "奖励道具数量"
+  }, {
+    "id" : "charge_rebate_shop_chest_1",
+    "group" : "charge_rebate_shop_group_1",
+    "need_energy_num" : "5",
+    "index" : "1",
+    "times" : "6",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "charge_rebate_shop_chest_2",
+    "group" : "charge_rebate_shop_group_1",
+    "need_energy_num" : "5",
+    "index" : "2",
+    "times" : "-1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "charge_rebate_shop_chest_3",
+    "group" : "charge_rebate_shop_group_2",
+    "need_energy_num" : "5",
+    "index" : "1",
+    "times" : "5",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "charge_rebate_shop_chest_4",
+    "group" : "charge_rebate_shop_group_2",
+    "need_energy_num" : "5",
+    "index" : "2",
+    "times" : "-1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "charge_rebate_shop_chest_5",
+    "group" : "charge_rebate_shop_group_3",
+    "need_energy_num" : "5",
+    "index" : "1",
+    "times" : "5",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "charge_rebate_shop_chest_6",
+    "group" : "charge_rebate_shop_group_3",
+    "need_energy_num" : "5",
+    "index" : "2",
+    "times" : "-1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "charge_rebate_shop_chest_7",
+    "group" : "charge_rebate_shop_group_4",
+    "need_energy_num" : "5",
+    "index" : "1",
+    "times" : "6",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  }, {
+    "id" : "charge_rebate_shop_chest_8",
+    "group" : "charge_rebate_shop_group_4",
+    "need_energy_num" : "5",
+    "index" : "2",
+    "times" : "-1",
+    "reward_id_1" : "item_gold_1",
+    "reward_value_1" : "1"
+  } ]
+}

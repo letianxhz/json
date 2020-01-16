@@ -1,0 +1,97 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "level" : "level@int",
+    "score" : "score@int",
+    "rewards_1" : "rewards_1@itemlist.id",
+    "rewards_value_1" : "rewards_value_1@int",
+    "rewards_2" : "rewards_2@itemlist.id",
+    "rewards_value_2" : "rewards_value_2@int",
+    "rewards_3" : "rewards_3@itemlist.id",
+    "rewards_value_3" : "rewards_value_3@int",
+    "rewards_4" : "rewards_4@itemlist.id",
+    "rewards_value_4" : "rewards_value_4@int",
+    "rewards_5" : "rewards_5@itemlist.id",
+    "rewards_value_5" : "rewards_value_5@int",
+    "system_select" : "system_select@int"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "level" : "等级",
+    "score" : "积分",
+    "rewards_1" : "奖励道具id_1",
+    "rewards_value_1" : "奖励道具数量_1",
+    "rewards_2" : "奖励道具id_2",
+    "rewards_value_2" : "奖励道具数量_2",
+    "rewards_3" : "奖励道具id_3",
+    "rewards_value_3" : "奖励道具数量_3",
+    "rewards_4" : "奖励道具id_4",
+    "rewards_value_4" : "奖励道具数量_4",
+    "rewards_5" : "奖励道具id_5",
+    "rewards_value_5" : "奖励道具数量_5",
+    "system_select" : "系统默认选择奖励位置"
+  }, {
+    "id" : "1",
+    "level" : "1",
+    "score" : "60",
+    "rewards_1" : "item_gold_1",
+    "rewards_value_1" : "1",
+    "system_select" : "1"
+  }, {
+    "id" : "2",
+    "level" : "2",
+    "score" : "180",
+    "rewards_1" : "item_gold_1",
+    "rewards_value_1" : "1",
+    "system_select" : "1"
+  }, {
+    "id" : "3",
+    "level" : "3",
+    "score" : "550",
+    "rewards_1" : "item_gold_1",
+    "rewards_value_1" : "1",
+    "system_select" : "1"
+  }, {
+    "id" : "4",
+    "level" : "4",
+    "score" : "1200",
+    "rewards_1" : "item_gold_1",
+    "rewards_value_1" : "1",
+    "system_select" : "1"
+  }, {
+    "id" : "5",
+    "level" : "5",
+    "score" : "2400",
+    "rewards_1" : "item_gold_1",
+    "rewards_value_1" : "1",
+    "system_select" : "1"
+  }, {
+    "id" : "6",
+    "level" : "6",
+    "score" : "4300",
+    "rewards_1" : "item_gold_1",
+    "rewards_value_1" : "1",
+    "system_select" : "1"
+  }, {
+    "id" : "7",
+    "level" : "7",
+    "score" : "8000",
+    "rewards_1" : "item_gold_1",
+    "rewards_value_1" : "1",
+    "system_select" : "1"
+  }, {
+    "id" : "8",
+    "level" : "8",
+    "score" : "18000",
+    "rewards_1" : "item_gold_1",
+    "rewards_value_1" : "1",
+    "system_select" : "1"
+  }, {
+    "id" : "9",
+    "level" : "9",
+    "score" : "55000",
+    "rewards_1" : "item_gold_1",
+    "rewards_value_1" : "1",
+    "system_select" : "1"
+  } ]
+}

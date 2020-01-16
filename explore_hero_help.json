@@ -1,0 +1,28 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "hero_id" : "hero_id@general.id",
+    "star" : "star@int",
+    "level" : "level@int",
+    "rank" : "rank@int",
+    "explore_skill_id_1" : "explore_skill_id_1@explore_skill.id",
+    "explore_skill_id_2" : "explore_skill_id_2@explore_skill.id"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "hero_id" : "英雄id",
+    "star" : "星级",
+    "level" : "等级",
+    "rank" : "军阶",
+    "explore_skill_id_1" : "技能1",
+    "explore_skill_id_2" : "技能2"
+  }, {
+    "id" : "parliament_hero_3_4_1_5_50_3",
+    "hero_id" : "general_5001",
+    "star" : "3",
+    "level" : "20",
+    "rank" : "3",
+    "explore_skill_id_1" : "ghost_sniper_skill_1_11",
+    "explore_skill_id_2" : "ghost_sniper_skill_2_11"
+  } ]
+}

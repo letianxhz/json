@@ -1,0 +1,22 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "stronghold_level" : "stronghold_level@int",
+    "iap_id" : "iap_id@iap_shop_package_group.id",
+    "unit_stats_1" : "unit_stats_1@unit_stats.id",
+    "unit_stats_2" : "unit_stats_2@unit_stats.id",
+    "unit_stats_3" : "unit_stats_3@unit_stats.id",
+    "unit_stats_4" : "unit_stats_4@unit_stats.id"
+  },
+  "rows" : [ {
+    "id" : "序列",
+    "stronghold_level" : "对应等级",
+    "iap_id" : "弹出礼包id",
+    "unit_stats_1" : "图1",
+    "unit_stats_2" : "图2",
+    "unit_stats_3" : "图3",
+    "unit_stats_4" : "图4"
+  }, {
+    "id" : "1"
+  } ]
+}

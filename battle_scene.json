@@ -1,0 +1,595 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "loss_rate" : "loss_rate@float",
+    "wound_rate" : "wound_rate@float",
+    "type" : "type^p",
+    "land" : "land@string",
+    "action" : "action@string",
+    "rally" : "rally@string",
+    "pvepvp" : "pvepvp@string",
+    "time" : "time@string",
+    "stage" : "stage@string"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "loss_rate" : "损兵比例",
+    "wound_rate" : "参数计算伤兵比例",
+    "type" : "类型",
+    "land" : "地块",
+    "action" : "进攻防守",
+    "rally" : "是否集结",
+    "pvepvp" : "pvepvp",
+    "time" : "深渊盟战",
+    "stage" : "战斗场景"
+  }, {
+    "id" : "city_attack",
+    "loss_rate" : "0.3",
+    "wound_rate" : "0",
+    "type" : "进攻司令部",
+    "land" : "city",
+    "action" : "attack",
+    "pvepvp" : "pvp",
+    "stage" : "attackcity"
+  }, {
+    "id" : "city_defense",
+    "loss_rate" : "0.3",
+    "wound_rate" : "1",
+    "type" : "防守司令部",
+    "land" : "city",
+    "action" : "defense",
+    "pvepvp" : "pvp",
+    "stage" : "garrison"
+  }, {
+    "id" : "city_support",
+    "loss_rate" : "0.3",
+    "wound_rate" : "1",
+    "type" : "支援司令部",
+    "land" : "city",
+    "action" : "defense",
+    "pvepvp" : "pvp"
+  }, {
+    "id" : "city_rally",
+    "loss_rate" : "0.3",
+    "wound_rate" : "0",
+    "type" : "集结进攻司令部",
+    "land" : "city",
+    "action" : "attack",
+    "rally" : "rally",
+    "pvepvp" : "pvp",
+    "stage" : "attackcity"
+  }, {
+    "id" : "alliance_fortress_attack_enemy",
+    "loss_rate" : "0.3",
+    "wound_rate" : "0",
+    "type" : "进攻于敌方要塞",
+    "land" : "alliance_fortress",
+    "action" : "attack",
+    "pvepvp" : "pvp",
+    "stage" : "attackcity"
+  }, {
+    "id" : "alliance_fortress_defense_enemy",
+    "loss_rate" : "0.3",
+    "wound_rate" : "0",
+    "type" : "驻防于敌方要塞",
+    "land" : "alliance_fortress",
+    "action" : "defense",
+    "pvepvp" : "pvp",
+    "stage" : "garrison"
+  }, {
+    "id" : "alliance_fortress_attack_self",
+    "loss_rate" : "0.3",
+    "wound_rate" : "1",
+    "type" : "进攻于本方要塞",
+    "land" : "alliance_fortress",
+    "action" : "attack",
+    "pvepvp" : "pvp",
+    "stage" : "attackcity"
+  }, {
+    "id" : "alliance_fortress_defense_self",
+    "loss_rate" : "0.3",
+    "wound_rate" : "1",
+    "type" : "驻防于本方要塞",
+    "land" : "alliance_fortress",
+    "action" : "defense",
+    "pvepvp" : "pvp",
+    "stage" : "garrison"
+  }, {
+    "id" : "alliance_fortress_rally_enemy",
+    "loss_rate" : "0.3",
+    "wound_rate" : "0",
+    "type" : "集结进攻敌方要塞",
+    "land" : "alliance_fortress",
+    "action" : "attack",
+    "rally" : "rally",
+    "pvepvp" : "pvp",
+    "stage" : "attackcity"
+  }, {
+    "id" : "alliance_fortress_rally_self",
+    "loss_rate" : "0.3",
+    "wound_rate" : "1",
+    "type" : "集结进攻于本方要塞",
+    "land" : "alliance_fortress",
+    "action" : "attack",
+    "rally" : "rally",
+    "pvepvp" : "pvp",
+    "stage" : "attackcity"
+  }, {
+    "id" : "alliance_tower_attack_enemy",
+    "loss_rate" : "0.3",
+    "wound_rate" : "0",
+    "type" : "进攻于敌方哨塔",
+    "land" : "alliance_tower",
+    "action" : "attack",
+    "pvepvp" : "pvp",
+    "stage" : "attackcity"
+  }, {
+    "id" : "alliance_tower_defense_enemy",
+    "loss_rate" : "0.3",
+    "wound_rate" : "0",
+    "type" : "驻防于敌方哨塔",
+    "land" : "alliance_tower",
+    "action" : "defense",
+    "pvepvp" : "pvp",
+    "stage" : "garrison"
+  }, {
+    "id" : "alliance_tower_attack_self",
+    "loss_rate" : "0.3",
+    "wound_rate" : "1",
+    "type" : "进攻于本方哨塔",
+    "land" : "alliance_tower",
+    "action" : "attack",
+    "pvepvp" : "pvp",
+    "stage" : "attackcity"
+  }, {
+    "id" : "alliance_tower_defense_self",
+    "loss_rate" : "0.3",
+    "wound_rate" : "1",
+    "type" : "驻防于本方哨塔",
+    "land" : "alliance_tower",
+    "action" : "defense",
+    "pvepvp" : "pvp",
+    "stage" : "garrison"
+  }, {
+    "id" : "alliance_tower_rally_enemy",
+    "loss_rate" : "0.3",
+    "wound_rate" : "0",
+    "type" : "集结进攻敌方哨塔",
+    "land" : "alliance_tower",
+    "action" : "attack",
+    "rally" : "rally",
+    "pvepvp" : "pvp",
+    "stage" : "attackcity"
+  }, {
+    "id" : "alliance_tower_rally_self",
+    "loss_rate" : "0.3",
+    "wound_rate" : "1",
+    "type" : "集结进攻于本方哨塔",
+    "land" : "alliance_tower",
+    "action" : "attack",
+    "rally" : "rally",
+    "pvepvp" : "pvp",
+    "stage" : "attackcity"
+  }, {
+    "id" : "dig_site_attack",
+    "loss_rate" : "0.3",
+    "wound_rate" : "1",
+    "type" : "进攻藏宝图",
+    "land" : "dig_site",
+    "action" : "attack",
+    "pvepvp" : "pvp"
+  }, {
+    "id" : "dig_site_defense",
+    "loss_rate" : "0.3",
+    "wound_rate" : "1",
+    "type" : "防守藏宝图",
+    "land" : "dig_site",
+    "action" : "defense",
+    "pvepvp" : "pvp"
+  }, {
+    "id" : "wonder_attack",
+    "loss_rate" : "0.3",
+    "wound_rate" : "0",
+    "type" : "进攻王城",
+    "land" : "wonder",
+    "action" : "attack",
+    "pvepvp" : "pvp",
+    "stage" : "attackcity"
+  }, {
+    "id" : "wonder_defense",
+    "loss_rate" : "0.3",
+    "wound_rate" : "0",
+    "type" : "防守王城",
+    "land" : "wonder",
+    "action" : "defense",
+    "pvepvp" : "pvp",
+    "stage" : "garrison"
+  }, {
+    "id" : "wonder_rally",
+    "loss_rate" : "0.3",
+    "wound_rate" : "0",
+    "type" : "集结进攻王城",
+    "land" : "wonder",
+    "action" : "attack",
+    "rally" : "rally",
+    "pvepvp" : "pvp",
+    "stage" : "attackcity"
+  }, {
+    "id" : "wonder_tower_attack",
+    "loss_rate" : "0.3",
+    "wound_rate" : "0",
+    "type" : "进攻王塔",
+    "land" : "wonder_tower",
+    "action" : "attack",
+    "pvepvp" : "pvp",
+    "stage" : "attackcity"
+  }, {
+    "id" : "wonder_tower_defense",
+    "loss_rate" : "0.3",
+    "wound_rate" : "0",
+    "type" : "防守王塔",
+    "land" : "wonder_tower",
+    "action" : "defense",
+    "pvepvp" : "pvp",
+    "stage" : "garrison"
+  }, {
+    "id" : "wonder_tower_rally",
+    "loss_rate" : "0.3",
+    "wound_rate" : "0",
+    "type" : "集结进攻王城塔",
+    "land" : "wonder_tower",
+    "action" : "attack",
+    "rally" : "rally",
+    "pvepvp" : "pvp",
+    "stage" : "attackcity"
+  }, {
+    "id" : "resource_attack",
+    "loss_rate" : "0.3",
+    "wound_rate" : "1",
+    "type" : "进攻资源田",
+    "land" : "resource",
+    "action" : "attack",
+    "pvepvp" : "pvp"
+  }, {
+    "id" : "resource_defense",
+    "loss_rate" : "0.3",
+    "wound_rate" : "1",
+    "type" : "防守资源田",
+    "land" : "resource",
+    "action" : "defense",
+    "pvepvp" : "pvp"
+  }, {
+    "id" : "camp_attack",
+    "loss_rate" : "0.3",
+    "wound_rate" : "1",
+    "type" : "进攻驻扎营地",
+    "land" : "camp",
+    "action" : "attack",
+    "pvepvp" : "pvp"
+  }, {
+    "id" : "camp_defense",
+    "loss_rate" : "0.3",
+    "wound_rate" : "1",
+    "type" : "防守驻扎营地",
+    "land" : "camp",
+    "action" : "defense",
+    "pvepvp" : "pvp"
+  }, {
+    "id" : "monster_attack",
+    "loss_rate" : "0.002",
+    "wound_rate" : "1",
+    "type" : "进攻野怪",
+    "land" : "monster",
+    "action" : "attack",
+    "pvepvp" : "pve",
+    "stage" : "jungle"
+  }, {
+    "id" : "gve_camp_attack",
+    "loss_rate" : "0.3",
+    "wound_rate" : "1",
+    "type" : "进攻敌军军团营地",
+    "land" : "gve_camp",
+    "action" : "attack",
+    "pvepvp" : "pve",
+    "stage" : "jungle"
+  }, {
+    "id" : "portal_attack",
+    "loss_rate" : "0.3",
+    "wound_rate" : "1",
+    "type" : "进攻传送门",
+    "land" : "portal",
+    "action" : "attack",
+    "pvepvp" : "pve",
+    "stage" : "jungle"
+  }, {
+    "id" : "festival_boss_attack",
+    "loss_rate" : "0.3",
+    "wound_rate" : "1",
+    "type" : "进攻节日boss",
+    "land" : "festival_boss",
+    "action" : "attack",
+    "pvepvp" : "pve",
+    "stage" : "jungle"
+  }, {
+    "id" : "world_boss_attack",
+    "loss_rate" : "0.3",
+    "wound_rate" : "1",
+    "type" : "进攻世界boss",
+    "land" : "world_boss",
+    "action" : "attack",
+    "pvepvp" : "pve",
+    "stage" : "jungle"
+  }, {
+    "id" : "war_symphony_attack",
+    "loss_rate" : "0.3",
+    "wound_rate" : "1",
+    "type" : "进攻战争交响曲",
+    "land" : "war_symphony",
+    "action" : "attack",
+    "pvepvp" : "pve",
+    "stage" : "jungle"
+  }, {
+    "id" : "pve_unlock_attack",
+    "loss_rate" : "0",
+    "wound_rate" : "1",
+    "type" : "城外地块解锁",
+    "land" : "pve_unlock",
+    "action" : "attack",
+    "pvepvp" : "pve",
+    "stage" : "jungle"
+  }, {
+    "id" : "alliancewar_city_attack",
+    "loss_rate" : "0.3",
+    "wound_rate" : "1",
+    "type" : "盟战进攻司令部",
+    "land" : "city",
+    "action" : "attack",
+    "pvepvp" : "pvp",
+    "time" : "alliancewar",
+    "stage" : "attackcity"
+  }, {
+    "id" : "alliancewar_city_defense",
+    "loss_rate" : "0.3",
+    "wound_rate" : "1",
+    "type" : "盟战防守司令部",
+    "land" : "city",
+    "action" : "defense",
+    "pvepvp" : "pvp",
+    "time" : "alliancewar",
+    "stage" : "garrison"
+  }, {
+    "id" : "alliancewar_city_support",
+    "loss_rate" : "0.3",
+    "wound_rate" : "1",
+    "type" : "盟战支援司令部",
+    "land" : "city",
+    "action" : "defense",
+    "pvepvp" : "pvp",
+    "time" : "alliancewar"
+  }, {
+    "id" : "alliancewar_city_rally",
+    "loss_rate" : "0.3",
+    "wound_rate" : "1",
+    "type" : "盟战集结进攻司令部",
+    "land" : "city",
+    "action" : "attack",
+    "rally" : "rally",
+    "pvepvp" : "pvp",
+    "time" : "alliancewar",
+    "stage" : "attackcity"
+  }, {
+    "id" : "alliancewar_alliance_fortress_attack_enemy",
+    "loss_rate" : "0.3",
+    "wound_rate" : "1",
+    "type" : "盟战进攻于敌方要塞",
+    "land" : "alliance_fortress",
+    "action" : "attack",
+    "pvepvp" : "pvp",
+    "time" : "alliancewar",
+    "stage" : "attackcity"
+  }, {
+    "id" : "alliancewar_alliance_fortress_defense_enemy",
+    "loss_rate" : "0.3",
+    "wound_rate" : "1",
+    "type" : "盟战驻防于敌方要塞",
+    "land" : "alliance_fortress",
+    "action" : "defense",
+    "pvepvp" : "pvp",
+    "time" : "alliancewar",
+    "stage" : "garrison"
+  }, {
+    "id" : "alliancewar_alliance_fortress_attack_self",
+    "loss_rate" : "0.3",
+    "wound_rate" : "1",
+    "type" : "盟战进攻于本方要塞",
+    "land" : "alliance_fortress",
+    "action" : "attack",
+    "pvepvp" : "pvp",
+    "time" : "alliancewar",
+    "stage" : "attackcity"
+  }, {
+    "id" : "alliancewar_alliance_fortress_defense_self",
+    "loss_rate" : "0.3",
+    "wound_rate" : "1",
+    "type" : "盟战驻防于本方要塞",
+    "land" : "alliance_fortress",
+    "action" : "defense",
+    "pvepvp" : "pvp",
+    "time" : "alliancewar",
+    "stage" : "garrison"
+  }, {
+    "id" : "alliancewar_alliance_fortress_rally_enemy",
+    "loss_rate" : "0.3",
+    "wound_rate" : "1",
+    "type" : "盟战集结进攻敌方要塞",
+    "land" : "alliance_fortress",
+    "action" : "attack",
+    "rally" : "rally",
+    "pvepvp" : "pvp",
+    "time" : "alliancewar",
+    "stage" : "attackcity"
+  }, {
+    "id" : "alliancewar_alliance_fortress_rally_self",
+    "loss_rate" : "0.3",
+    "wound_rate" : "1",
+    "type" : "盟战集结进攻于本方要塞",
+    "land" : "alliance_fortress",
+    "action" : "attack",
+    "rally" : "rally",
+    "pvepvp" : "pvp",
+    "time" : "alliancewar",
+    "stage" : "attackcity"
+  }, {
+    "id" : "alliancewar_alliance_tower_attack_enemy",
+    "loss_rate" : "0.3",
+    "wound_rate" : "1",
+    "type" : "盟战进攻于敌方哨塔",
+    "land" : "alliance_tower",
+    "action" : "attack",
+    "pvepvp" : "pvp",
+    "time" : "alliancewar",
+    "stage" : "attackcity"
+  }, {
+    "id" : "alliancewar_alliance_tower_defense_enemy",
+    "loss_rate" : "0.3",
+    "wound_rate" : "1",
+    "type" : "盟战驻防于敌方哨塔",
+    "land" : "alliance_tower",
+    "action" : "defense",
+    "pvepvp" : "pvp",
+    "time" : "alliancewar",
+    "stage" : "garrison"
+  }, {
+    "id" : "alliancewar_alliance_tower_attack_self",
+    "loss_rate" : "0.3",
+    "wound_rate" : "1",
+    "type" : "盟战进攻于本方哨塔",
+    "land" : "alliance_tower",
+    "action" : "attack",
+    "pvepvp" : "pvp",
+    "time" : "alliancewar",
+    "stage" : "attackcity"
+  }, {
+    "id" : "alliancewar_alliance_tower_defense_self",
+    "loss_rate" : "0.3",
+    "wound_rate" : "1",
+    "type" : "盟战驻防于本方哨塔",
+    "land" : "alliance_tower",
+    "action" : "defense",
+    "pvepvp" : "pvp",
+    "time" : "alliancewar",
+    "stage" : "garrison"
+  }, {
+    "id" : "alliancewar_alliance_tower_rally_enemy",
+    "loss_rate" : "0.3",
+    "wound_rate" : "1",
+    "type" : "盟战集结进攻敌方哨塔",
+    "land" : "alliance_tower",
+    "action" : "attack",
+    "rally" : "rally",
+    "pvepvp" : "pvp",
+    "time" : "alliancewar",
+    "stage" : "attackcity"
+  }, {
+    "id" : "alliancewar_alliance_tower_rally_self",
+    "loss_rate" : "0.3",
+    "wound_rate" : "1",
+    "type" : "盟战集结进攻于本方哨塔",
+    "land" : "alliance_tower",
+    "action" : "attack",
+    "rally" : "rally",
+    "pvepvp" : "pvp",
+    "time" : "alliancewar",
+    "stage" : "attackcity"
+  }, {
+    "id" : "abyss_city_attack",
+    "loss_rate" : "0.3",
+    "wound_rate" : "1",
+    "type" : "深渊进攻司令部",
+    "land" : "city",
+    "action" : "attack",
+    "pvepvp" : "pvp",
+    "time" : "abyss",
+    "stage" : "attackcity"
+  }, {
+    "id" : "abyss_city_defense",
+    "loss_rate" : "0.3",
+    "wound_rate" : "1",
+    "type" : "深渊防守司令部",
+    "land" : "city",
+    "action" : "defense",
+    "pvepvp" : "pvp",
+    "time" : "abyss",
+    "stage" : "garrison"
+  }, {
+    "id" : "abyss_city_support",
+    "loss_rate" : "0.3",
+    "wound_rate" : "1",
+    "type" : "深渊支援司令部",
+    "land" : "city",
+    "action" : "defense",
+    "pvepvp" : "pvp",
+    "time" : "abyss"
+  }, {
+    "id" : "abyss_city_rally",
+    "loss_rate" : "0.3",
+    "wound_rate" : "1",
+    "type" : "深渊集结进攻司令部",
+    "land" : "city",
+    "action" : "attack",
+    "rally" : "rally",
+    "pvepvp" : "pvp",
+    "time" : "abyss",
+    "stage" : "attackcity"
+  }, {
+    "id" : "abyss_resource_attack",
+    "loss_rate" : "0.3",
+    "wound_rate" : "1",
+    "type" : "深渊进攻资源田",
+    "land" : "abyss_resource",
+    "action" : "attack",
+    "pvepvp" : "pvp",
+    "time" : "abyss"
+  }, {
+    "id" : "abyss_resource_defense",
+    "loss_rate" : "0.3",
+    "wound_rate" : "1",
+    "type" : "深渊防守资源田",
+    "land" : "abyss_resource",
+    "action" : "defense",
+    "pvepvp" : "pvp",
+    "time" : "abyss"
+  }, {
+    "id" : "knight_city_defense",
+    "loss_rate" : "0.002",
+    "wound_rate" : "1",
+    "type" : "黑骑士防守司令部",
+    "land" : "city",
+    "action" : "defense",
+    "pvepvp" : "pve",
+    "time" : "knight",
+    "stage" : "jungle"
+  }, {
+    "id" : "knight_alliance_fortress_defense",
+    "loss_rate" : "0.002",
+    "wound_rate" : "1",
+    "type" : "黑骑士防守要塞",
+    "land" : "alliance_fortress",
+    "action" : "defense",
+    "pvepvp" : "pve",
+    "time" : "knight",
+    "stage" : "jungle"
+  }, {
+    "id" : "knight_city_support",
+    "loss_rate" : "0.002",
+    "wound_rate" : "1",
+    "type" : "黑骑士支援司令部",
+    "land" : "city",
+    "action" : "support",
+    "pvepvp" : "pve",
+    "time" : "knight",
+    "stage" : "jungle"
+  }, {
+    "action" : "1"
+  } ]
+}

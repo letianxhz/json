@@ -1,0 +1,69 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "group_id" : "group_id@shop_common_group.id",
+    "priority" : "priority@int^c",
+    "name" : "name@string^c"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "group_id" : "商店组id",
+    "priority" : "优先级",
+    "name" : "名称"
+  }, {
+    "id" : "dk_dungeon_shop_resource",
+    "group_id" : "dk_dungeon_shop",
+    "priority" : "1005",
+    "name" : "dk_dungeon_shop_resource_name"
+  }, {
+    "id" : "dk_dungeon_shop_lord_title",
+    "group_id" : "dk_dungeon_shop",
+    "priority" : "1006",
+    "name" : "dk_dungeon_shop_lord_title_name"
+  }, {
+    "id" : "dk_dungeon_shop_dragon_emblem",
+    "group_id" : "dk_dungeon_shop",
+    "priority" : "1007",
+    "name" : "dk_dungeon_shop_dragon_emblem_name"
+  }, {
+    "id" : "dk_dungeon_shop_building_statue",
+    "group_id" : "dk_dungeon_shop",
+    "priority" : "1008",
+    "name" : "dk_dungeon_shop_building_statue_name"
+  }, {
+    "id" : "merlin_trials_shop_hero",
+    "group_id" : "merlin_trials_shop",
+    "priority" : "2001",
+    "name" : "id_uppercase_heroes"
+  }, {
+    "id" : "merlin_trials_shop_lord",
+    "group_id" : "merlin_trials_shop",
+    "priority" : "2002",
+    "name" : "help_lord_title"
+  }, {
+    "id" : "merlin_trials_shop_dragon",
+    "group_id" : "merlin_trials_shop",
+    "priority" : "2003",
+    "name" : "id_dragon"
+  }, {
+    "id" : "merlin_trials_shop_speedup",
+    "group_id" : "merlin_trials_shop",
+    "priority" : "2004",
+    "name" : "item_uppercase_speedup_title"
+  }, {
+    "id" : "magic_shop_lord",
+    "group_id" : "magic_shop",
+    "priority" : "3001",
+    "name" : "exchange_magic_store_lord_subtitle"
+  }, {
+    "id" : "magic_shop_dk",
+    "group_id" : "magic_shop",
+    "priority" : "3002",
+    "name" : "exchange_magic_store_dk_subtitle"
+  }, {
+    "id" : "magic_shop_hero",
+    "group_id" : "magic_shop",
+    "priority" : "3003",
+    "name" : "exchange_magic_store_hero_subtitle"
+  } ]
+}

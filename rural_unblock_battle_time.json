@@ -1,0 +1,114 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "battle_min_times" : "battle_min_times@int",
+    "battle_max_times" : "battle_max_times@int",
+    "play_times" : "play_times@int"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "battle_min_times" : "战斗回合下限",
+    "battle_max_times" : "战斗回合上限",
+    "play_times" : "动画播放回合"
+  }, {
+    "id" : "1",
+    "battle_min_times" : "1",
+    "battle_max_times" : "10",
+    "play_times" : "2"
+  }, {
+    "id" : "2",
+    "battle_min_times" : "11",
+    "battle_max_times" : "20",
+    "play_times" : "2"
+  }, {
+    "id" : "3",
+    "battle_min_times" : "21",
+    "battle_max_times" : "30",
+    "play_times" : "3"
+  }, {
+    "id" : "4",
+    "battle_min_times" : "31",
+    "battle_max_times" : "40",
+    "play_times" : "3"
+  }, {
+    "id" : "5",
+    "battle_min_times" : "41",
+    "battle_max_times" : "50",
+    "play_times" : "4"
+  }, {
+    "id" : "6",
+    "battle_min_times" : "51",
+    "battle_max_times" : "60",
+    "play_times" : "4"
+  }, {
+    "id" : "7",
+    "battle_min_times" : "61",
+    "battle_max_times" : "70",
+    "play_times" : "5"
+  }, {
+    "id" : "8",
+    "battle_min_times" : "71",
+    "battle_max_times" : "80",
+    "play_times" : "5"
+  }, {
+    "id" : "9",
+    "battle_min_times" : "81",
+    "battle_max_times" : "90",
+    "play_times" : "6"
+  }, {
+    "id" : "10",
+    "battle_min_times" : "91",
+    "battle_max_times" : "100",
+    "play_times" : "6"
+  }, {
+    "id" : "11",
+    "battle_min_times" : "101",
+    "battle_max_times" : "120",
+    "play_times" : "6"
+  }, {
+    "id" : "12",
+    "battle_min_times" : "121",
+    "battle_max_times" : "140",
+    "play_times" : "6"
+  }, {
+    "id" : "13",
+    "battle_min_times" : "141",
+    "battle_max_times" : "160",
+    "play_times" : "6"
+  }, {
+    "id" : "14",
+    "battle_min_times" : "161",
+    "battle_max_times" : "180",
+    "play_times" : "6"
+  }, {
+    "id" : "15",
+    "battle_min_times" : "181",
+    "battle_max_times" : "200",
+    "play_times" : "6"
+  }, {
+    "id" : "16",
+    "battle_min_times" : "201",
+    "battle_max_times" : "250",
+    "play_times" : "7"
+  }, {
+    "id" : "17",
+    "battle_min_times" : "251",
+    "battle_max_times" : "300",
+    "play_times" : "7"
+  }, {
+    "id" : "18",
+    "battle_min_times" : "301",
+    "battle_max_times" : "350",
+    "play_times" : "8"
+  }, {
+    "id" : "19",
+    "battle_min_times" : "351",
+    "battle_max_times" : "400",
+    "play_times" : "8"
+  }, {
+    "id" : "20",
+    "battle_min_times" : "401",
+    "battle_max_times" : "99999",
+    "play_times" : "9"
+  } ]
+}

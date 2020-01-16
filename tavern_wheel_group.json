@@ -1,0 +1,49 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "item_id" : "item_id@itemlist.id",
+    "spend" : "spend@int",
+    "win_threshold" : "win_threshold@int",
+    "item_gold" : "item_gold@int",
+    "item_number" : "item_number@int",
+    "item_daily_score" : "item_daily_score@int",
+    "item_daily_number" : "item_daily_number@int"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "item_id" : "道具id",
+    "spend" : "消耗",
+    "win_threshold" : "获得高品质道具保底次数",
+    "item_gold" : "单位充值金币",
+    "item_number" : "获得道具数量",
+    "item_daily_score" : "每日积分需求",
+    "item_daily_number" : "获得道具数量"
+  }, {
+    "id" : "tavern_whee_group_1",
+    "item_id" : "item_gold_1",
+    "spend" : "1",
+    "win_threshold" : "10",
+    "item_gold" : "1000",
+    "item_number" : "10",
+    "item_daily_score" : "350",
+    "item_daily_number" : "5"
+  }, {
+    "id" : "tavern_whee_group_2",
+    "item_id" : "item_gold_1",
+    "spend" : "1",
+    "win_threshold" : "10",
+    "item_gold" : "1000",
+    "item_number" : "10",
+    "item_daily_score" : "350",
+    "item_daily_number" : "5"
+  }, {
+    "id" : "tavern_whee_group_3",
+    "item_id" : "item_gold_1",
+    "spend" : "1",
+    "win_threshold" : "10",
+    "item_gold" : "1000",
+    "item_number" : "10",
+    "item_daily_score" : "350",
+    "item_daily_number" : "8"
+  } ]
+}

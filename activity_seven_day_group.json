@@ -1,0 +1,25 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "open_day" : "open_day@int",
+    "mission_end_time" : "mission_end_time@int",
+    "reward_end_time" : "reward_end_time@int",
+    "entrance_icon" : "entrance_icon@string",
+    "default_open" : "default_open@int"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "open_day" : "建角色第X天开启( -1则不开)",
+    "mission_end_time" : "任务到第X天0:00截止",
+    "reward_end_time" : "领奖到第X天0:00截止",
+    "entrance_icon" : "入口图标",
+    "default_open" : "新服默认开启"
+  }, {
+    "id" : "activity_seven_day_group_1",
+    "open_day" : "1",
+    "mission_end_time" : "8",
+    "reward_end_time" : "9",
+    "entrance_icon" : "activity_seven_day_1",
+    "default_open" : "1"
+  } ]
+}

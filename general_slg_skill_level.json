@@ -1,0 +1,1689 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "slg_skill_id" : "slg_skill_id@general_slg_skill.id",
+    "level" : "level@int",
+    "info_param" : "info_param@string[]",
+    "is_change" : "is_change@string[]",
+    "score" : "score@int",
+    "probability" : "probability@int",
+    "benefit_id_1" : "benefit_id_1@benefits.id",
+    "benefit_value_1" : "benefit_value_1@float",
+    "benefit_id_2" : "benefit_id_2@benefits.id",
+    "benefit_value_2" : "benefit_value_2@float",
+    "benefit_id_3" : "benefit_id_3@benefits.id",
+    "benefit_value_3" : "benefit_value_3@float"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "slg_skill_id" : "技能id",
+    "level" : "技能等级",
+    "info_param" : "多语言key参数数组",
+    "is_change" : "多语言参数是否带括号。0不变，1变",
+    "score" : "战力",
+    "probability" : "概率触发",
+    "benefit_id_1" : "benefit_id_1",
+    "benefit_value_1" : "benefit值_1",
+    "benefit_id_2" : "benefit_id_2",
+    "benefit_value_2" : "benefit值_2",
+    "benefit_id_3" : "benefit_id_3",
+    "benefit_value_3" : "benefit值_3"
+  }, {
+    "id" : "general_slg_skill_500601_level1",
+    "slg_skill_id" : "general_slg_skill_500601",
+    "level" : "1",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_500601_level2",
+    "slg_skill_id" : "general_slg_skill_500601",
+    "level" : "2",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_500601_level3",
+    "slg_skill_id" : "general_slg_skill_500601",
+    "level" : "3",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_500601_level4",
+    "slg_skill_id" : "general_slg_skill_500601",
+    "level" : "4",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_500601_level5",
+    "slg_skill_id" : "general_slg_skill_500601",
+    "level" : "5",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_500602_level1",
+    "slg_skill_id" : "general_slg_skill_500602",
+    "level" : "1",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_500602_level2",
+    "slg_skill_id" : "general_slg_skill_500602",
+    "level" : "2",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_500602_level3",
+    "slg_skill_id" : "general_slg_skill_500602",
+    "level" : "3",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_500602_level4",
+    "slg_skill_id" : "general_slg_skill_500602",
+    "level" : "4",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_500602_level5",
+    "slg_skill_id" : "general_slg_skill_500602",
+    "level" : "5",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_500603_level1",
+    "slg_skill_id" : "general_slg_skill_500603",
+    "level" : "1",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_500603_level2",
+    "slg_skill_id" : "general_slg_skill_500603",
+    "level" : "2",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_500603_level3",
+    "slg_skill_id" : "general_slg_skill_500603",
+    "level" : "3",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_500603_level4",
+    "slg_skill_id" : "general_slg_skill_500603",
+    "level" : "4",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_500603_level5",
+    "slg_skill_id" : "general_slg_skill_500603",
+    "level" : "5",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_500604_level1",
+    "slg_skill_id" : "general_slg_skill_500604",
+    "level" : "1",
+    "probability" : "0",
+    "benefit_id_1" : "prop_resource_gather_percent",
+    "benefit_value_1" : "0.1"
+  }, {
+    "id" : "general_slg_skill_500604_level2",
+    "slg_skill_id" : "general_slg_skill_500604",
+    "level" : "2",
+    "probability" : "0",
+    "benefit_id_1" : "prop_resource_gather_percent",
+    "benefit_value_1" : "0.2"
+  }, {
+    "id" : "general_slg_skill_500604_level3",
+    "slg_skill_id" : "general_slg_skill_500604",
+    "level" : "3",
+    "probability" : "0",
+    "benefit_id_1" : "prop_resource_gather_percent",
+    "benefit_value_1" : "0.3"
+  }, {
+    "id" : "general_slg_skill_500604_level4",
+    "slg_skill_id" : "general_slg_skill_500604",
+    "level" : "4",
+    "probability" : "0",
+    "benefit_id_1" : "prop_resource_gather_percent",
+    "benefit_value_1" : "0.4"
+  }, {
+    "id" : "general_slg_skill_500604_level5",
+    "slg_skill_id" : "general_slg_skill_500604",
+    "level" : "5",
+    "probability" : "0",
+    "benefit_id_1" : "prop_resource_gather_percent",
+    "benefit_value_1" : "0.5"
+  }, {
+    "id" : "general_slg_skill_500605_level1",
+    "slg_skill_id" : "general_slg_skill_500605",
+    "level" : "1",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_500101_level1",
+    "slg_skill_id" : "general_slg_skill_500101",
+    "level" : "1",
+    "info_param" : "500",
+    "is_change" : "1",
+    "score" : "40000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_500101_level2",
+    "slg_skill_id" : "general_slg_skill_500101",
+    "level" : "2",
+    "info_param" : "600",
+    "is_change" : "1",
+    "score" : "60000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_500101_level3",
+    "slg_skill_id" : "general_slg_skill_500101",
+    "level" : "3",
+    "info_param" : "700",
+    "is_change" : "1",
+    "score" : "80000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_500101_level4",
+    "slg_skill_id" : "general_slg_skill_500101",
+    "level" : "4",
+    "info_param" : "800",
+    "is_change" : "1",
+    "score" : "100000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_500101_level5",
+    "slg_skill_id" : "general_slg_skill_500101",
+    "level" : "5",
+    "info_param" : "1000",
+    "is_change" : "1",
+    "score" : "120000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_500102_level1",
+    "slg_skill_id" : "general_slg_skill_500102",
+    "level" : "1",
+    "info_param" : "10%",
+    "is_change" : "1",
+    "score" : "40000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_500102_level2",
+    "slg_skill_id" : "general_slg_skill_500102",
+    "level" : "2",
+    "info_param" : "15%",
+    "is_change" : "1",
+    "score" : "60000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_500102_level3",
+    "slg_skill_id" : "general_slg_skill_500102",
+    "level" : "3",
+    "info_param" : "20%",
+    "is_change" : "1",
+    "score" : "80000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_500102_level4",
+    "slg_skill_id" : "general_slg_skill_500102",
+    "level" : "4",
+    "info_param" : "25%",
+    "is_change" : "1",
+    "score" : "100000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_500102_level5",
+    "slg_skill_id" : "general_slg_skill_500102",
+    "level" : "5",
+    "info_param" : "30%",
+    "is_change" : "1",
+    "score" : "120000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_500103_level1",
+    "slg_skill_id" : "general_slg_skill_500103",
+    "level" : "1",
+    "info_param" : "10%",
+    "is_change" : "1",
+    "score" : "40000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_500103_level2",
+    "slg_skill_id" : "general_slg_skill_500103",
+    "level" : "2",
+    "info_param" : "15%",
+    "is_change" : "1",
+    "score" : "60000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_500103_level3",
+    "slg_skill_id" : "general_slg_skill_500103",
+    "level" : "3",
+    "info_param" : "20%",
+    "is_change" : "1",
+    "score" : "80000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_500103_level4",
+    "slg_skill_id" : "general_slg_skill_500103",
+    "level" : "4",
+    "info_param" : "25%",
+    "is_change" : "1",
+    "score" : "100000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_500103_level5",
+    "slg_skill_id" : "general_slg_skill_500103",
+    "level" : "5",
+    "info_param" : "30%",
+    "is_change" : "1",
+    "score" : "120000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_500104_level1",
+    "slg_skill_id" : "general_slg_skill_500104",
+    "level" : "1",
+    "info_param" : "2%",
+    "is_change" : "1",
+    "score" : "40000",
+    "probability" : "0",
+    "benefit_id_1" : "prop_rally_capacity_percent",
+    "benefit_value_1" : "0.02"
+  }, {
+    "id" : "general_slg_skill_500104_level2",
+    "slg_skill_id" : "general_slg_skill_500104",
+    "level" : "2",
+    "info_param" : "4%",
+    "is_change" : "1",
+    "score" : "60000",
+    "probability" : "0",
+    "benefit_id_1" : "prop_rally_capacity_percent",
+    "benefit_value_1" : "0.04"
+  }, {
+    "id" : "general_slg_skill_500104_level3",
+    "slg_skill_id" : "general_slg_skill_500104",
+    "level" : "3",
+    "info_param" : "6%",
+    "is_change" : "1",
+    "score" : "80000",
+    "probability" : "0",
+    "benefit_id_1" : "prop_rally_capacity_percent",
+    "benefit_value_1" : "0.06"
+  }, {
+    "id" : "general_slg_skill_500104_level4",
+    "slg_skill_id" : "general_slg_skill_500104",
+    "level" : "4",
+    "info_param" : "8%",
+    "is_change" : "1",
+    "score" : "100000",
+    "probability" : "0",
+    "benefit_id_1" : "prop_rally_capacity_percent",
+    "benefit_value_1" : "0.08"
+  }, {
+    "id" : "general_slg_skill_500104_level5",
+    "slg_skill_id" : "general_slg_skill_500104",
+    "level" : "5",
+    "info_param" : "10%",
+    "is_change" : "1",
+    "score" : "120000",
+    "probability" : "0",
+    "benefit_id_1" : "prop_rally_capacity_percent",
+    "benefit_value_1" : "0.1"
+  }, {
+    "id" : "general_slg_skill_500105_level1",
+    "slg_skill_id" : "general_slg_skill_500105",
+    "level" : "1",
+    "score" : "120000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_500201_level1",
+    "slg_skill_id" : "general_slg_skill_500201",
+    "level" : "1",
+    "info_param" : "250,20%",
+    "is_change" : "1,1",
+    "score" : "40000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_500201_level2",
+    "slg_skill_id" : "general_slg_skill_500201",
+    "level" : "2",
+    "info_param" : "300,25%",
+    "is_change" : "1,1",
+    "score" : "60000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_500201_level3",
+    "slg_skill_id" : "general_slg_skill_500201",
+    "level" : "3",
+    "info_param" : "350,30%",
+    "is_change" : "1,1",
+    "score" : "80000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_500201_level4",
+    "slg_skill_id" : "general_slg_skill_500201",
+    "level" : "4",
+    "info_param" : "400,35%",
+    "is_change" : "1,1",
+    "score" : "100000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_500201_level5",
+    "slg_skill_id" : "general_slg_skill_500201",
+    "level" : "5",
+    "info_param" : "500,40%",
+    "is_change" : "1,1",
+    "score" : "120000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_500202_level1",
+    "slg_skill_id" : "general_slg_skill_500202",
+    "level" : "1",
+    "info_param" : "100",
+    "is_change" : "1",
+    "score" : "40000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_500202_level2",
+    "slg_skill_id" : "general_slg_skill_500202",
+    "level" : "2",
+    "info_param" : "200",
+    "is_change" : "1",
+    "score" : "60000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_500202_level3",
+    "slg_skill_id" : "general_slg_skill_500202",
+    "level" : "3",
+    "info_param" : "300",
+    "is_change" : "1",
+    "score" : "80000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_500202_level4",
+    "slg_skill_id" : "general_slg_skill_500202",
+    "level" : "4",
+    "info_param" : "400",
+    "is_change" : "1",
+    "score" : "100000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_500202_level5",
+    "slg_skill_id" : "general_slg_skill_500202",
+    "level" : "5",
+    "info_param" : "500",
+    "is_change" : "1",
+    "score" : "120000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_500203_level1",
+    "slg_skill_id" : "general_slg_skill_500203",
+    "level" : "1",
+    "info_param" : "10%",
+    "is_change" : "1",
+    "score" : "40000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_500203_level2",
+    "slg_skill_id" : "general_slg_skill_500203",
+    "level" : "2",
+    "info_param" : "15%",
+    "is_change" : "1",
+    "score" : "60000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_500203_level3",
+    "slg_skill_id" : "general_slg_skill_500203",
+    "level" : "3",
+    "info_param" : "20%",
+    "is_change" : "1",
+    "score" : "80000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_500203_level4",
+    "slg_skill_id" : "general_slg_skill_500203",
+    "level" : "4",
+    "info_param" : "25%",
+    "is_change" : "1",
+    "score" : "100000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_500203_level5",
+    "slg_skill_id" : "general_slg_skill_500203",
+    "level" : "5",
+    "info_param" : "30%",
+    "is_change" : "1",
+    "score" : "120000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_500204_level1",
+    "slg_skill_id" : "general_slg_skill_500204",
+    "level" : "1",
+    "info_param" : "2%",
+    "is_change" : "1",
+    "score" : "40000",
+    "probability" : "0",
+    "benefit_id_1" : "prop_march_capacity_percent",
+    "benefit_value_1" : "0.02"
+  }, {
+    "id" : "general_slg_skill_500204_level2",
+    "slg_skill_id" : "general_slg_skill_500204",
+    "level" : "2",
+    "info_param" : "4%",
+    "is_change" : "1",
+    "score" : "60000",
+    "probability" : "0",
+    "benefit_id_1" : "prop_march_capacity_percent",
+    "benefit_value_1" : "0.04"
+  }, {
+    "id" : "general_slg_skill_500204_level3",
+    "slg_skill_id" : "general_slg_skill_500204",
+    "level" : "3",
+    "info_param" : "6%",
+    "is_change" : "1",
+    "score" : "80000",
+    "probability" : "0",
+    "benefit_id_1" : "prop_march_capacity_percent",
+    "benefit_value_1" : "0.06"
+  }, {
+    "id" : "general_slg_skill_500204_level4",
+    "slg_skill_id" : "general_slg_skill_500204",
+    "level" : "4",
+    "info_param" : "8%",
+    "is_change" : "1",
+    "score" : "100000",
+    "probability" : "0",
+    "benefit_id_1" : "prop_march_capacity_percent",
+    "benefit_value_1" : "0.08"
+  }, {
+    "id" : "general_slg_skill_500204_level5",
+    "slg_skill_id" : "general_slg_skill_500204",
+    "level" : "5",
+    "info_param" : "10%",
+    "is_change" : "1",
+    "score" : "120000",
+    "probability" : "0",
+    "benefit_id_1" : "prop_march_capacity_percent",
+    "benefit_value_1" : "0.1"
+  }, {
+    "id" : "general_slg_skill_500205_level1",
+    "slg_skill_id" : "general_slg_skill_500205",
+    "level" : "1",
+    "score" : "120000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_500501_level1",
+    "slg_skill_id" : "general_slg_skill_500501",
+    "level" : "1",
+    "info_param" : "400",
+    "is_change" : "1",
+    "score" : "40000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_500501_level2",
+    "slg_skill_id" : "general_slg_skill_500501",
+    "level" : "2",
+    "info_param" : "500",
+    "is_change" : "1",
+    "score" : "60000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_500501_level3",
+    "slg_skill_id" : "general_slg_skill_500501",
+    "level" : "3",
+    "info_param" : "600",
+    "is_change" : "1",
+    "score" : "80000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_500501_level4",
+    "slg_skill_id" : "general_slg_skill_500501",
+    "level" : "4",
+    "info_param" : "700",
+    "is_change" : "1",
+    "score" : "100000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_500501_level5",
+    "slg_skill_id" : "general_slg_skill_500501",
+    "level" : "5",
+    "info_param" : "800",
+    "is_change" : "1",
+    "score" : "120000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_500502_level1",
+    "slg_skill_id" : "general_slg_skill_500502",
+    "level" : "1",
+    "info_param" : "10%",
+    "is_change" : "1",
+    "score" : "40000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_500502_level2",
+    "slg_skill_id" : "general_slg_skill_500502",
+    "level" : "2",
+    "info_param" : "15%",
+    "is_change" : "1",
+    "score" : "60000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_500502_level3",
+    "slg_skill_id" : "general_slg_skill_500502",
+    "level" : "3",
+    "info_param" : "20%",
+    "is_change" : "1",
+    "score" : "80000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_500502_level4",
+    "slg_skill_id" : "general_slg_skill_500502",
+    "level" : "4",
+    "info_param" : "25%",
+    "is_change" : "1",
+    "score" : "100000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_500502_level5",
+    "slg_skill_id" : "general_slg_skill_500502",
+    "level" : "5",
+    "info_param" : "30%",
+    "is_change" : "1",
+    "score" : "120000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_500503_level1",
+    "slg_skill_id" : "general_slg_skill_500503",
+    "level" : "1",
+    "info_param" : "2%,4%",
+    "is_change" : "1,1",
+    "score" : "40000",
+    "probability" : "0",
+    "benefit_id_1" : "prop_pve_speed_percent",
+    "benefit_value_1" : "0.02"
+  }, {
+    "id" : "general_slg_skill_500503_level2",
+    "slg_skill_id" : "general_slg_skill_500503",
+    "level" : "2",
+    "info_param" : "4%,8%",
+    "is_change" : "1,1",
+    "score" : "60000",
+    "probability" : "0",
+    "benefit_id_1" : "prop_pve_speed_percent",
+    "benefit_value_1" : "0.04"
+  }, {
+    "id" : "general_slg_skill_500503_level3",
+    "slg_skill_id" : "general_slg_skill_500503",
+    "level" : "3",
+    "info_param" : "6%,12%",
+    "is_change" : "1,1",
+    "score" : "80000",
+    "probability" : "0",
+    "benefit_id_1" : "prop_pve_speed_percent",
+    "benefit_value_1" : "0.06"
+  }, {
+    "id" : "general_slg_skill_500503_level4",
+    "slg_skill_id" : "general_slg_skill_500503",
+    "level" : "4",
+    "info_param" : "8%,16%",
+    "is_change" : "1,1",
+    "score" : "100000",
+    "probability" : "0",
+    "benefit_id_1" : "prop_pve_speed_percent",
+    "benefit_value_1" : "0.08"
+  }, {
+    "id" : "general_slg_skill_500503_level5",
+    "slg_skill_id" : "general_slg_skill_500503",
+    "level" : "5",
+    "info_param" : "10%,20%",
+    "is_change" : "1,1",
+    "score" : "120000",
+    "probability" : "0",
+    "benefit_id_1" : "prop_pve_speed_percent",
+    "benefit_value_1" : "0.1"
+  }, {
+    "id" : "general_slg_skill_500504_level1",
+    "slg_skill_id" : "general_slg_skill_500504",
+    "level" : "1",
+    "info_param" : "20%",
+    "is_change" : "1",
+    "score" : "40000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_500504_level2",
+    "slg_skill_id" : "general_slg_skill_500504",
+    "level" : "2",
+    "info_param" : "40%",
+    "is_change" : "1",
+    "score" : "60000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_500504_level3",
+    "slg_skill_id" : "general_slg_skill_500504",
+    "level" : "3",
+    "info_param" : "60%",
+    "is_change" : "1",
+    "score" : "80000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_500504_level4",
+    "slg_skill_id" : "general_slg_skill_500504",
+    "level" : "4",
+    "info_param" : "80%",
+    "is_change" : "1",
+    "score" : "100000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_500504_level5",
+    "slg_skill_id" : "general_slg_skill_500504",
+    "level" : "5",
+    "info_param" : "100%",
+    "is_change" : "1",
+    "score" : "120000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_500505_level1",
+    "slg_skill_id" : "general_slg_skill_500505",
+    "level" : "1",
+    "score" : "120000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_500801_level1",
+    "slg_skill_id" : "general_slg_skill_500801",
+    "level" : "1",
+    "info_param" : "50%",
+    "is_change" : "1",
+    "score" : "40000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_500801_level2",
+    "slg_skill_id" : "general_slg_skill_500801",
+    "level" : "2",
+    "info_param" : "60%",
+    "is_change" : "1",
+    "score" : "60000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_500801_level3",
+    "slg_skill_id" : "general_slg_skill_500801",
+    "level" : "3",
+    "info_param" : "70%",
+    "is_change" : "1",
+    "score" : "80000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_500801_level4",
+    "slg_skill_id" : "general_slg_skill_500801",
+    "level" : "4",
+    "info_param" : "80%",
+    "is_change" : "1",
+    "score" : "100000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_500801_level5",
+    "slg_skill_id" : "general_slg_skill_500801",
+    "level" : "5",
+    "info_param" : "100%",
+    "is_change" : "1",
+    "score" : "120000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_500802_level1",
+    "slg_skill_id" : "general_slg_skill_500802",
+    "level" : "1",
+    "info_param" : "10%",
+    "is_change" : "1",
+    "score" : "40000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_500802_level2",
+    "slg_skill_id" : "general_slg_skill_500802",
+    "level" : "2",
+    "info_param" : "15%",
+    "is_change" : "1",
+    "score" : "60000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_500802_level3",
+    "slg_skill_id" : "general_slg_skill_500802",
+    "level" : "3",
+    "info_param" : "20%",
+    "is_change" : "1",
+    "score" : "80000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_500802_level4",
+    "slg_skill_id" : "general_slg_skill_500802",
+    "level" : "4",
+    "info_param" : "25%",
+    "is_change" : "1",
+    "score" : "100000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_500802_level5",
+    "slg_skill_id" : "general_slg_skill_500802",
+    "level" : "5",
+    "info_param" : "30%",
+    "is_change" : "1",
+    "score" : "120000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_500803_level1",
+    "slg_skill_id" : "general_slg_skill_500803",
+    "level" : "1",
+    "info_param" : "10%",
+    "is_change" : "1",
+    "score" : "40000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_500803_level2",
+    "slg_skill_id" : "general_slg_skill_500803",
+    "level" : "2",
+    "info_param" : "15%",
+    "is_change" : "1",
+    "score" : "60000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_500803_level3",
+    "slg_skill_id" : "general_slg_skill_500803",
+    "level" : "3",
+    "info_param" : "20%",
+    "is_change" : "1",
+    "score" : "80000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_500803_level4",
+    "slg_skill_id" : "general_slg_skill_500803",
+    "level" : "4",
+    "info_param" : "25%",
+    "is_change" : "1",
+    "score" : "100000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_500803_level5",
+    "slg_skill_id" : "general_slg_skill_500803",
+    "level" : "5",
+    "info_param" : "30%",
+    "is_change" : "1",
+    "score" : "120000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_500804_level1",
+    "slg_skill_id" : "general_slg_skill_500804",
+    "level" : "1",
+    "info_param" : "10%",
+    "is_change" : "1",
+    "score" : "40000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_500804_level2",
+    "slg_skill_id" : "general_slg_skill_500804",
+    "level" : "2",
+    "info_param" : "15%",
+    "is_change" : "1",
+    "score" : "60000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_500804_level3",
+    "slg_skill_id" : "general_slg_skill_500804",
+    "level" : "3",
+    "info_param" : "20%",
+    "is_change" : "1",
+    "score" : "80000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_500804_level4",
+    "slg_skill_id" : "general_slg_skill_500804",
+    "level" : "4",
+    "info_param" : "25%",
+    "is_change" : "1",
+    "score" : "100000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_500804_level5",
+    "slg_skill_id" : "general_slg_skill_500804",
+    "level" : "5",
+    "info_param" : "30%",
+    "is_change" : "1",
+    "score" : "120000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_500805_level1",
+    "slg_skill_id" : "general_slg_skill_500805",
+    "level" : "1",
+    "score" : "120000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_400301_level1",
+    "slg_skill_id" : "general_slg_skill_400301",
+    "level" : "1",
+    "info_param" : "120",
+    "is_change" : "1",
+    "score" : "30000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_400301_level2",
+    "slg_skill_id" : "general_slg_skill_400301",
+    "level" : "2",
+    "info_param" : "240",
+    "is_change" : "1",
+    "score" : "45000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_400301_level3",
+    "slg_skill_id" : "general_slg_skill_400301",
+    "level" : "3",
+    "info_param" : "360",
+    "is_change" : "1",
+    "score" : "60000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_400301_level4",
+    "slg_skill_id" : "general_slg_skill_400301",
+    "level" : "4",
+    "info_param" : "480",
+    "is_change" : "1",
+    "score" : "75000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_400301_level5",
+    "slg_skill_id" : "general_slg_skill_400301",
+    "level" : "5",
+    "info_param" : "600",
+    "is_change" : "1",
+    "score" : "90000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_400302_level1",
+    "slg_skill_id" : "general_slg_skill_400302",
+    "level" : "1",
+    "info_param" : "4%",
+    "is_change" : "1",
+    "score" : "30000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_400302_level2",
+    "slg_skill_id" : "general_slg_skill_400302",
+    "level" : "2",
+    "info_param" : "8%",
+    "is_change" : "1",
+    "score" : "45000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_400302_level3",
+    "slg_skill_id" : "general_slg_skill_400302",
+    "level" : "3",
+    "info_param" : "12%",
+    "is_change" : "1",
+    "score" : "60000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_400302_level4",
+    "slg_skill_id" : "general_slg_skill_400302",
+    "level" : "4",
+    "info_param" : "16%",
+    "is_change" : "1",
+    "score" : "75000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_400302_level5",
+    "slg_skill_id" : "general_slg_skill_400302",
+    "level" : "5",
+    "info_param" : "20%",
+    "is_change" : "1",
+    "score" : "90000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_400303_level1",
+    "slg_skill_id" : "general_slg_skill_400303",
+    "level" : "1",
+    "info_param" : "4%",
+    "is_change" : "1",
+    "score" : "30000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_400303_level2",
+    "slg_skill_id" : "general_slg_skill_400303",
+    "level" : "2",
+    "info_param" : "8%",
+    "is_change" : "1",
+    "score" : "45000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_400303_level3",
+    "slg_skill_id" : "general_slg_skill_400303",
+    "level" : "3",
+    "info_param" : "12%",
+    "is_change" : "1",
+    "score" : "60000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_400303_level4",
+    "slg_skill_id" : "general_slg_skill_400303",
+    "level" : "4",
+    "info_param" : "16%",
+    "is_change" : "1",
+    "score" : "75000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_400303_level5",
+    "slg_skill_id" : "general_slg_skill_400303",
+    "level" : "5",
+    "info_param" : "20%",
+    "is_change" : "1",
+    "score" : "90000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_400304_level1",
+    "slg_skill_id" : "general_slg_skill_400304",
+    "level" : "1",
+    "info_param" : "4%",
+    "is_change" : "1",
+    "score" : "30000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_400304_level2",
+    "slg_skill_id" : "general_slg_skill_400304",
+    "level" : "2",
+    "info_param" : "8%",
+    "is_change" : "1",
+    "score" : "45000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_400304_level3",
+    "slg_skill_id" : "general_slg_skill_400304",
+    "level" : "3",
+    "info_param" : "12%",
+    "is_change" : "1",
+    "score" : "60000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_400304_level4",
+    "slg_skill_id" : "general_slg_skill_400304",
+    "level" : "4",
+    "info_param" : "16%",
+    "is_change" : "1",
+    "score" : "75000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_400304_level5",
+    "slg_skill_id" : "general_slg_skill_400304",
+    "level" : "5",
+    "info_param" : "20%",
+    "is_change" : "1",
+    "score" : "90000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_400305_level1",
+    "slg_skill_id" : "general_slg_skill_400305",
+    "level" : "1",
+    "score" : "90000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_400501_level1",
+    "slg_skill_id" : "general_slg_skill_400501",
+    "level" : "1",
+    "info_param" : "120",
+    "is_change" : "1",
+    "score" : "30000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_400501_level2",
+    "slg_skill_id" : "general_slg_skill_400501",
+    "level" : "2",
+    "info_param" : "240",
+    "is_change" : "1",
+    "score" : "45000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_400501_level3",
+    "slg_skill_id" : "general_slg_skill_400501",
+    "level" : "3",
+    "info_param" : "360",
+    "is_change" : "1",
+    "score" : "60000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_400501_level4",
+    "slg_skill_id" : "general_slg_skill_400501",
+    "level" : "4",
+    "info_param" : "480",
+    "is_change" : "1",
+    "score" : "75000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_400501_level5",
+    "slg_skill_id" : "general_slg_skill_400501",
+    "level" : "5",
+    "info_param" : "600",
+    "is_change" : "1",
+    "score" : "90000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_400502_level1",
+    "slg_skill_id" : "general_slg_skill_400502",
+    "level" : "1",
+    "info_param" : "4%",
+    "is_change" : "1",
+    "score" : "30000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_400502_level2",
+    "slg_skill_id" : "general_slg_skill_400502",
+    "level" : "2",
+    "info_param" : "8%",
+    "is_change" : "1",
+    "score" : "45000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_400502_level3",
+    "slg_skill_id" : "general_slg_skill_400502",
+    "level" : "3",
+    "info_param" : "12%",
+    "is_change" : "1",
+    "score" : "60000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_400502_level4",
+    "slg_skill_id" : "general_slg_skill_400502",
+    "level" : "4",
+    "info_param" : "16%",
+    "is_change" : "1",
+    "score" : "75000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_400502_level5",
+    "slg_skill_id" : "general_slg_skill_400502",
+    "level" : "5",
+    "info_param" : "20%",
+    "is_change" : "1",
+    "score" : "90000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_400503_level1",
+    "slg_skill_id" : "general_slg_skill_400503",
+    "level" : "1",
+    "info_param" : "4%",
+    "is_change" : "1",
+    "score" : "30000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_400503_level2",
+    "slg_skill_id" : "general_slg_skill_400503",
+    "level" : "2",
+    "info_param" : "8%",
+    "is_change" : "1",
+    "score" : "45000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_400503_level3",
+    "slg_skill_id" : "general_slg_skill_400503",
+    "level" : "3",
+    "info_param" : "12%",
+    "is_change" : "1",
+    "score" : "60000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_400503_level4",
+    "slg_skill_id" : "general_slg_skill_400503",
+    "level" : "4",
+    "info_param" : "16%",
+    "is_change" : "1",
+    "score" : "75000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_400503_level5",
+    "slg_skill_id" : "general_slg_skill_400503",
+    "level" : "5",
+    "info_param" : "20%",
+    "is_change" : "1",
+    "score" : "90000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_400504_level1",
+    "slg_skill_id" : "general_slg_skill_400504",
+    "level" : "1",
+    "info_param" : "4%",
+    "is_change" : "1",
+    "score" : "30000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_400504_level2",
+    "slg_skill_id" : "general_slg_skill_400504",
+    "level" : "2",
+    "info_param" : "8%",
+    "is_change" : "1",
+    "score" : "45000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_400504_level3",
+    "slg_skill_id" : "general_slg_skill_400504",
+    "level" : "3",
+    "info_param" : "12%",
+    "is_change" : "1",
+    "score" : "60000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_400504_level4",
+    "slg_skill_id" : "general_slg_skill_400504",
+    "level" : "4",
+    "info_param" : "16%",
+    "is_change" : "1",
+    "score" : "75000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_400504_level5",
+    "slg_skill_id" : "general_slg_skill_400504",
+    "level" : "5",
+    "info_param" : "20%",
+    "is_change" : "1",
+    "score" : "90000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_400505_level1",
+    "slg_skill_id" : "general_slg_skill_400505",
+    "level" : "1",
+    "score" : "90000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_400701_level1",
+    "slg_skill_id" : "general_slg_skill_400701",
+    "level" : "1",
+    "info_param" : "10%",
+    "is_change" : "1",
+    "score" : "30000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_400701_level2",
+    "slg_skill_id" : "general_slg_skill_400701",
+    "level" : "2",
+    "info_param" : "20%",
+    "is_change" : "1",
+    "score" : "45000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_400701_level3",
+    "slg_skill_id" : "general_slg_skill_400701",
+    "level" : "3",
+    "info_param" : "30%",
+    "is_change" : "1",
+    "score" : "60000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_400701_level4",
+    "slg_skill_id" : "general_slg_skill_400701",
+    "level" : "4",
+    "info_param" : "40%",
+    "is_change" : "1",
+    "score" : "75000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_400701_level5",
+    "slg_skill_id" : "general_slg_skill_400701",
+    "level" : "5",
+    "info_param" : "50%",
+    "is_change" : "1",
+    "score" : "90000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_400702_level1",
+    "slg_skill_id" : "general_slg_skill_400702",
+    "level" : "1",
+    "info_param" : "4%",
+    "is_change" : "1",
+    "score" : "30000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_400702_level2",
+    "slg_skill_id" : "general_slg_skill_400702",
+    "level" : "2",
+    "info_param" : "8%",
+    "is_change" : "1",
+    "score" : "45000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_400702_level3",
+    "slg_skill_id" : "general_slg_skill_400702",
+    "level" : "3",
+    "info_param" : "12%",
+    "is_change" : "1",
+    "score" : "60000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_400702_level4",
+    "slg_skill_id" : "general_slg_skill_400702",
+    "level" : "4",
+    "info_param" : "16%",
+    "is_change" : "1",
+    "score" : "75000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_400702_level5",
+    "slg_skill_id" : "general_slg_skill_400702",
+    "level" : "5",
+    "info_param" : "20%",
+    "is_change" : "1",
+    "score" : "90000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_400703_level1",
+    "slg_skill_id" : "general_slg_skill_400703",
+    "level" : "1",
+    "info_param" : "4%",
+    "is_change" : "1",
+    "score" : "30000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_400703_level2",
+    "slg_skill_id" : "general_slg_skill_400703",
+    "level" : "2",
+    "info_param" : "8%",
+    "is_change" : "1",
+    "score" : "45000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_400703_level3",
+    "slg_skill_id" : "general_slg_skill_400703",
+    "level" : "3",
+    "info_param" : "12%",
+    "is_change" : "1",
+    "score" : "60000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_400703_level4",
+    "slg_skill_id" : "general_slg_skill_400703",
+    "level" : "4",
+    "info_param" : "16%",
+    "is_change" : "1",
+    "score" : "75000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_400703_level5",
+    "slg_skill_id" : "general_slg_skill_400703",
+    "level" : "5",
+    "info_param" : "20%",
+    "is_change" : "1",
+    "score" : "90000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_400704_level1",
+    "slg_skill_id" : "general_slg_skill_400704",
+    "level" : "1",
+    "info_param" : "4%",
+    "is_change" : "1",
+    "score" : "30000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_400704_level2",
+    "slg_skill_id" : "general_slg_skill_400704",
+    "level" : "2",
+    "info_param" : "8%",
+    "is_change" : "1",
+    "score" : "45000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_400704_level3",
+    "slg_skill_id" : "general_slg_skill_400704",
+    "level" : "3",
+    "info_param" : "12%",
+    "is_change" : "1",
+    "score" : "60000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_400704_level4",
+    "slg_skill_id" : "general_slg_skill_400704",
+    "level" : "4",
+    "info_param" : "16%",
+    "is_change" : "1",
+    "score" : "75000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_400704_level5",
+    "slg_skill_id" : "general_slg_skill_400704",
+    "level" : "5",
+    "info_param" : "20%",
+    "is_change" : "1",
+    "score" : "90000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_400705_level1",
+    "slg_skill_id" : "general_slg_skill_400705",
+    "level" : "1",
+    "score" : "90000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_300301_level1",
+    "slg_skill_id" : "general_slg_skill_300301",
+    "level" : "1",
+    "info_param" : "80",
+    "is_change" : "1",
+    "score" : "20000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_300301_level2",
+    "slg_skill_id" : "general_slg_skill_300301",
+    "level" : "2",
+    "info_param" : "160",
+    "is_change" : "1",
+    "score" : "30000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_300301_level3",
+    "slg_skill_id" : "general_slg_skill_300301",
+    "level" : "3",
+    "info_param" : "240",
+    "is_change" : "1",
+    "score" : "40000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_300301_level4",
+    "slg_skill_id" : "general_slg_skill_300301",
+    "level" : "4",
+    "info_param" : "320",
+    "is_change" : "1",
+    "score" : "50000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_300301_level5",
+    "slg_skill_id" : "general_slg_skill_300301",
+    "level" : "5",
+    "info_param" : "400",
+    "is_change" : "1",
+    "score" : "60000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_300302_level1",
+    "slg_skill_id" : "general_slg_skill_300302",
+    "level" : "1",
+    "info_param" : "2%",
+    "is_change" : "1",
+    "score" : "20000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_300302_level2",
+    "slg_skill_id" : "general_slg_skill_300302",
+    "level" : "2",
+    "info_param" : "4%",
+    "is_change" : "1",
+    "score" : "30000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_300302_level3",
+    "slg_skill_id" : "general_slg_skill_300302",
+    "level" : "3",
+    "info_param" : "6%",
+    "is_change" : "1",
+    "score" : "40000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_300302_level4",
+    "slg_skill_id" : "general_slg_skill_300302",
+    "level" : "4",
+    "info_param" : "8%",
+    "is_change" : "1",
+    "score" : "50000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_300302_level5",
+    "slg_skill_id" : "general_slg_skill_300302",
+    "level" : "5",
+    "info_param" : "10%",
+    "is_change" : "1",
+    "score" : "60000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_300303_level1",
+    "slg_skill_id" : "general_slg_skill_300303",
+    "level" : "1",
+    "info_param" : "10%",
+    "is_change" : "1",
+    "score" : "20000",
+    "probability" : "0",
+    "benefit_id_1" : "prop_resource_gather_percent",
+    "benefit_value_1" : "0.1"
+  }, {
+    "id" : "general_slg_skill_300303_level2",
+    "slg_skill_id" : "general_slg_skill_300303",
+    "level" : "2",
+    "info_param" : "15%",
+    "is_change" : "1",
+    "score" : "30000",
+    "probability" : "0",
+    "benefit_id_1" : "prop_resource_gather_percent",
+    "benefit_value_1" : "0.15"
+  }, {
+    "id" : "general_slg_skill_300303_level3",
+    "slg_skill_id" : "general_slg_skill_300303",
+    "level" : "3",
+    "info_param" : "20%",
+    "is_change" : "1",
+    "score" : "40000",
+    "probability" : "0",
+    "benefit_id_1" : "prop_resource_gather_percent",
+    "benefit_value_1" : "0.2"
+  }, {
+    "id" : "general_slg_skill_300303_level4",
+    "slg_skill_id" : "general_slg_skill_300303",
+    "level" : "4",
+    "info_param" : "25%",
+    "is_change" : "1",
+    "score" : "50000",
+    "probability" : "0",
+    "benefit_id_1" : "prop_resource_gather_percent",
+    "benefit_value_1" : "0.25"
+  }, {
+    "id" : "general_slg_skill_300303_level5",
+    "slg_skill_id" : "general_slg_skill_300303",
+    "level" : "5",
+    "info_param" : "30%",
+    "is_change" : "1",
+    "score" : "60000",
+    "probability" : "0",
+    "benefit_id_1" : "prop_resource_gather_percent",
+    "benefit_value_1" : "0.3"
+  }, {
+    "id" : "general_slg_skill_300304_level1",
+    "slg_skill_id" : "general_slg_skill_300304",
+    "level" : "1",
+    "info_param" : "1",
+    "is_change" : "1",
+    "score" : "20000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_300304_level2",
+    "slg_skill_id" : "general_slg_skill_300304",
+    "level" : "2",
+    "info_param" : "2",
+    "is_change" : "1",
+    "score" : "30000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_300304_level3",
+    "slg_skill_id" : "general_slg_skill_300304",
+    "level" : "3",
+    "info_param" : "3",
+    "is_change" : "1",
+    "score" : "40000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_300304_level4",
+    "slg_skill_id" : "general_slg_skill_300304",
+    "level" : "4",
+    "info_param" : "4",
+    "is_change" : "1",
+    "score" : "50000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_300304_level5",
+    "slg_skill_id" : "general_slg_skill_300304",
+    "level" : "5",
+    "info_param" : "5",
+    "is_change" : "1",
+    "score" : "60000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_200101_level1",
+    "slg_skill_id" : "general_slg_skill_200101",
+    "level" : "1",
+    "info_param" : "40",
+    "is_change" : "1",
+    "score" : "10000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_200101_level2",
+    "slg_skill_id" : "general_slg_skill_200101",
+    "level" : "2",
+    "info_param" : "80",
+    "is_change" : "1",
+    "score" : "15000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_200101_level3",
+    "slg_skill_id" : "general_slg_skill_200101",
+    "level" : "3",
+    "info_param" : "120",
+    "is_change" : "1",
+    "score" : "20000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_200101_level4",
+    "slg_skill_id" : "general_slg_skill_200101",
+    "level" : "4",
+    "info_param" : "160",
+    "is_change" : "1",
+    "score" : "25000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_200101_level5",
+    "slg_skill_id" : "general_slg_skill_200101",
+    "level" : "5",
+    "info_param" : "200",
+    "is_change" : "1",
+    "score" : "30000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_200102_level1",
+    "slg_skill_id" : "general_slg_skill_200102",
+    "level" : "1",
+    "info_param" : "1%",
+    "is_change" : "1",
+    "score" : "10000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_200102_level2",
+    "slg_skill_id" : "general_slg_skill_200102",
+    "level" : "2",
+    "info_param" : "2%",
+    "is_change" : "1",
+    "score" : "15000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_200102_level3",
+    "slg_skill_id" : "general_slg_skill_200102",
+    "level" : "3",
+    "info_param" : "3%",
+    "is_change" : "1",
+    "score" : "20000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_200102_level4",
+    "slg_skill_id" : "general_slg_skill_200102",
+    "level" : "4",
+    "info_param" : "4%",
+    "is_change" : "1",
+    "score" : "25000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_200102_level5",
+    "slg_skill_id" : "general_slg_skill_200102",
+    "level" : "5",
+    "info_param" : "5%",
+    "is_change" : "1",
+    "score" : "30000",
+    "probability" : "10000"
+  }, {
+    "id" : "general_slg_skill_200103_level1",
+    "slg_skill_id" : "general_slg_skill_200103",
+    "level" : "1",
+    "info_param" : "4%",
+    "is_change" : "1",
+    "score" : "10000",
+    "probability" : "0",
+    "benefit_id_1" : "prop_resource_gather_percent",
+    "benefit_value_1" : "0.04"
+  }, {
+    "id" : "general_slg_skill_200103_level2",
+    "slg_skill_id" : "general_slg_skill_200103",
+    "level" : "2",
+    "info_param" : "8%",
+    "is_change" : "1",
+    "score" : "15000",
+    "probability" : "0",
+    "benefit_id_1" : "prop_resource_gather_percent",
+    "benefit_value_1" : "0.08"
+  }, {
+    "id" : "general_slg_skill_200103_level3",
+    "slg_skill_id" : "general_slg_skill_200103",
+    "level" : "3",
+    "info_param" : "12%",
+    "is_change" : "1",
+    "score" : "20000",
+    "probability" : "0",
+    "benefit_id_1" : "prop_resource_gather_percent",
+    "benefit_value_1" : "0.12"
+  }, {
+    "id" : "general_slg_skill_200103_level4",
+    "slg_skill_id" : "general_slg_skill_200103",
+    "level" : "4",
+    "info_param" : "16%",
+    "is_change" : "1",
+    "score" : "25000",
+    "probability" : "0",
+    "benefit_id_1" : "prop_resource_gather_percent",
+    "benefit_value_1" : "0.16"
+  }, {
+    "id" : "general_slg_skill_200103_level5",
+    "slg_skill_id" : "general_slg_skill_200103",
+    "level" : "5",
+    "info_param" : "20%",
+    "is_change" : "1",
+    "score" : "30000",
+    "probability" : "0",
+    "benefit_id_1" : "prop_resource_gather_percent",
+    "benefit_value_1" : "0.2"
+  }, {
+    "id" : "general_slg_skill_200104_level1",
+    "slg_skill_id" : "general_slg_skill_200104",
+    "level" : "1",
+    "info_param" : "1%",
+    "is_change" : "1",
+    "score" : "10000",
+    "probability" : "0",
+    "benefit_id_1" : "prop_march_capacity_percent",
+    "benefit_value_1" : "0.01"
+  }, {
+    "id" : "general_slg_skill_200104_level2",
+    "slg_skill_id" : "general_slg_skill_200104",
+    "level" : "2",
+    "info_param" : "1.5%",
+    "is_change" : "1",
+    "score" : "15000",
+    "probability" : "0",
+    "benefit_id_1" : "prop_march_capacity_percent",
+    "benefit_value_1" : "0.015"
+  }, {
+    "id" : "general_slg_skill_200104_level3",
+    "slg_skill_id" : "general_slg_skill_200104",
+    "level" : "3",
+    "info_param" : "2%",
+    "is_change" : "1",
+    "score" : "20000",
+    "probability" : "0",
+    "benefit_id_1" : "prop_march_capacity_percent",
+    "benefit_value_1" : "0.02"
+  }, {
+    "id" : "general_slg_skill_200104_level4",
+    "slg_skill_id" : "general_slg_skill_200104",
+    "level" : "4",
+    "info_param" : "2.5%",
+    "is_change" : "1",
+    "score" : "25000",
+    "probability" : "0",
+    "benefit_id_1" : "prop_march_capacity_percent",
+    "benefit_value_1" : "0.025"
+  }, {
+    "id" : "general_slg_skill_200104_level5",
+    "slg_skill_id" : "general_slg_skill_200104",
+    "level" : "5",
+    "info_param" : "3%",
+    "is_change" : "1",
+    "score" : "30000",
+    "probability" : "0",
+    "benefit_id_1" : "prop_march_capacity_percent",
+    "benefit_value_1" : "0.03"
+  } ]
+}

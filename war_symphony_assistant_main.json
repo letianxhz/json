@@ -1,0 +1,78 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "group_id" : "group_id@war_symphony_assistant_group.id",
+    "stronghold_level_min" : "stronghold_level_min@int",
+    "stronghold_level_max" : "stronghold_level_max@int",
+    "loc_key" : "loc_key@string",
+    "priority" : "priority@int",
+    "remark" : "remark@string",
+    "formula" : "formula@string",
+    "value" : "value@int",
+    "goto_type" : "goto_type@string",
+    "para1" : "para1@string",
+    "para2" : "para2@string"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "group_id" : "类别id",
+    "stronghold_level_min" : "最小主城等级",
+    "stronghold_level_max" : "最大主城等级",
+    "loc_key" : "多语言key",
+    "priority" : "排序",
+    "remark" : "备注",
+    "formula" : "任务类型",
+    "value" : "任务值",
+    "goto_type" : "引导类型",
+    "para1" : "参数1",
+    "para2" : "参数2"
+  }, {
+    "id" : "war_symphony_assistant_group_1_1_3",
+    "group_id" : "war_symphony_assistant_group_1",
+    "stronghold_level_min" : "1",
+    "stronghold_level_max" : "99",
+    "loc_key" : "get_stronger_get_troops_train_troops",
+    "priority" : "1010103",
+    "remark" : "训练士兵",
+    "goto_type" : "train"
+  }, {
+    "id" : "war_symphony_assistant_group_1_2_1",
+    "group_id" : "war_symphony_assistant_group_2",
+    "stronghold_level_min" : "1",
+    "stronghold_level_max" : "99",
+    "loc_key" : "get_stronger_march_capacity_upgrade_stronghold",
+    "priority" : "1010201",
+    "remark" : "升级司令部",
+    "goto_type" : "stronghold"
+  }, {
+    "id" : "war_symphony_assistant_group_1_2_3",
+    "group_id" : "war_symphony_assistant_group_2",
+    "stronghold_level_min" : "1",
+    "stronghold_level_max" : "99",
+    "loc_key" : "get_stronger_march_capacity_research",
+    "priority" : "1010203",
+    "remark" : "研究",
+    "goto_type" : "research",
+    "para1" : "research_troop_march_size_1_1"
+  }, {
+    "id" : "war_symphony_assistant_group_1_3_1",
+    "group_id" : "war_symphony_assistant_group_3",
+    "stronghold_level_min" : "1",
+    "stronghold_level_max" : "99",
+    "loc_key" : "get_stronger_march_slot_vip",
+    "priority" : "1010301",
+    "remark" : "VIP",
+    "goto_type" : "VIP",
+    "para2" : "8"
+  }, {
+    "id" : "war_symphony_assistant_group_1_3_2",
+    "group_id" : "war_symphony_assistant_group_3",
+    "stronghold_level_min" : "1",
+    "stronghold_level_max" : "99",
+    "loc_key" : "get_stronger_march_slot_research",
+    "priority" : "1010302",
+    "remark" : "研究",
+    "goto_type" : "research",
+    "para1" : "research_troop_march_limit_1_1"
+  } ]
+}

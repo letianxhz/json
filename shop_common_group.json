@@ -1,0 +1,28 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "name" : "name@string^c"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "name" : "名称"
+  }, {
+    "id" : "event_kingdom_conquest_shop",
+    "name" : "event_kingdom_conquest_shop_title"
+  }, {
+    "id" : "dk_dungeon_shop",
+    "name" : "dragon_knight_store_name"
+  }, {
+    "id" : "magic_tower_shop",
+    "name" : "tower_shop_name"
+  }, {
+    "id" : "merlin_trials_shop",
+    "name" : "merlin_trial_shop_name"
+  }, {
+    "id" : "magic_shop",
+    "name" : "exchange_magic_store_name"
+  }, {
+    "id" : "activity_explore_1_1",
+    "name" : "id_uppercase_event_store"
+  } ]
+}

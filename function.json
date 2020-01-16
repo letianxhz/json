@@ -1,0 +1,94 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "function_id" : "function_id@string",
+    "version" : "version@string",
+    "criteria" : "criteria@string",
+    "name" : "name@string^c",
+    "description" : "description@string^c",
+    "image" : "image@string^c",
+    "goto_id" : "goto_id@goto.id^c",
+    "priority" : "priority@int",
+    "is_display" : "is_display@int"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "function_id" : "功能id",
+    "version" : "客户端最低支持版本(配置版本以上时生效)",
+    "criteria" : "stronghold-主城等级\nquest_group_finish-完成某章史诗任务\nserver_start_time-开服时间\nlord_create_time-创角时间\nlord_level - 领主等级\nroguelike_level-explore_level表的id\nroguelike_chapter_index=1&level_type=1&level_index=1&floor_index=-1",
+    "name" : "名字",
+    "description" : "描述",
+    "image" : "图片",
+    "goto_id" : "引导goto",
+    "priority" : "同主城等级开启时推荐优先级,大的优先",
+    "is_display" : "是否在主城升级时弹出展示\n1-提示   0-不提示"
+  }, {
+    "id" : "daily_package",
+    "function_id" : "daily_package",
+    "version" : "1.0",
+    "criteria" : "stronghold=6",
+    "name" : "iap_daily_gift_pack_name",
+    "image" : "icon_stronghold_levelup_daily_package",
+    "goto_id" : "203",
+    "priority" : "1",
+    "is_display" : "1"
+  }, {
+    "id" : "explore",
+    "function_id" : "explore",
+    "version" : "1.0",
+    "criteria" : "quest_group_finish=301",
+    "is_display" : "0"
+  }, {
+    "id" : "personal_activity",
+    "function_id" : "personal_activity",
+    "version" : "1.0",
+    "criteria" : "stronghold=8",
+    "image" : "solo_activity_icon_new",
+    "is_display" : "0"
+  }, {
+    "id" : "pve_unlock",
+    "function_id" : "pve_unlock",
+    "version" : "1.0",
+    "criteria" : "quest_group_finish=296",
+    "is_display" : "0"
+  }, {
+    "id" : "alliance_recommend",
+    "function_id" : "alliance_recommend",
+    "version" : "1.0",
+    "criteria" : "quest_group_finish=299",
+    "is_display" : "0"
+  }, {
+    "id" : "war_symphony",
+    "function_id" : "war_symphony",
+    "version" : "1.0",
+    "criteria" : "quest_group_finish=297",
+    "is_display" : "0"
+  }, {
+    "id" : "month_type_card",
+    "function_id" : "month_type_card",
+    "version" : "1.0",
+    "criteria" : "stronghold=1",
+    "is_display" : "0"
+  }, {
+    "id" : "fund_city_level",
+    "function_id" : "fund_city_level",
+    "version" : "1.0",
+    "criteria" : "stronghold=15",
+    "is_display" : "0"
+  }, {
+    "id" : "march_second_general_position",
+    "function_id" : "march_second_general_position",
+    "version" : "1.0",
+    "criteria" : "stronghold=6"
+  }, {
+    "id" : "defend_city_second_general_position",
+    "function_id" : "defend_city_second_general_position",
+    "version" : "1.0",
+    "criteria" : "stronghold=6"
+  }, {
+    "id" : "timer_chest",
+    "function_id" : "timer_chest",
+    "version" : "1.0",
+    "criteria" : "quest_group_finish=299"
+  } ]
+}

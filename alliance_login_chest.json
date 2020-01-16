@@ -1,0 +1,52 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "index" : "index@int",
+    "num" : "num@int",
+    "reward_id_1" : "reward_id_1@itemlist.id",
+    "reward_value_1" : "reward_value_1@int",
+    "reward_id_2" : "reward_id_2@itemlist.id",
+    "reward_value_2" : "reward_value_2@int",
+    "reward_id_3" : "reward_id_3@itemlist.id",
+    "reward_value_3" : "reward_value_3@int",
+    "leader_item_id" : "leader_item_id@itemlist.id",
+    "leader_item_value" : "leader_item_value@int"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "index" : "序列",
+    "num" : "需要登陆人数",
+    "reward_id_1" : "奖励道具数量_1",
+    "reward_value_1" : "奖励道具id_2",
+    "reward_id_2" : "奖励道具数量_2",
+    "reward_value_2" : "奖励道具id_3",
+    "reward_id_3" : "奖励道具数量_3",
+    "reward_value_3" : "奖励道具id_4",
+    "leader_item_id" : "盟主额外奖励",
+    "leader_item_value" : "盟主额外奖励"
+  }, {
+    "id" : "1",
+    "index" : "1",
+    "num" : "10",
+    "reward_id_1" : "item_parliament_hero_summon_coin_normal",
+    "reward_value_1" : "2",
+    "leader_item_id" : "item_vip_point_10",
+    "leader_item_value" : "5"
+  }, {
+    "id" : "2",
+    "index" : "2",
+    "num" : "30",
+    "reward_id_1" : "item_parliament_hero_summon_coin_normal",
+    "reward_value_1" : "4",
+    "leader_item_id" : "item_gold_10",
+    "leader_item_value" : "5"
+  }, {
+    "id" : "3",
+    "index" : "3",
+    "num" : "50",
+    "reward_id_1" : "item_parliament_hero_summon_coin",
+    "reward_value_1" : "1",
+    "leader_item_id" : "item_gold_100",
+    "leader_item_value" : "1"
+  } ]
+}

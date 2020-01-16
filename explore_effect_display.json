@@ -1,0 +1,64 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "effect_1_display" : "effect_1_display@int",
+    "image" : "image@string",
+    "name" : "name@string",
+    "description" : "description@string"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "effect_1_display" : "效果显示类型:\n0:不显示\n1:纯图标\n2:剩余数\n",
+    "image" : "效果图标",
+    "name" : "效果名字",
+    "description" : "效果描述"
+  }, {
+    "id" : "explore_battlebuff_fire",
+    "effect_1_display" : "2",
+    "image" : "explore_battlebuff_fire",
+    "name" : "explore_battlebuff_fire_name",
+    "description" : "explore_battlebuff_fire_description"
+  }, {
+    "id" : "explore_battlebuff_crazy_scientist_skill_replica_1",
+    "effect_1_display" : "2",
+    "image" : "explore_battlebuff_crazy_scientist_skill_replica_1",
+    "name" : "explore_battlebuff_crazy_scientist_skill_replica_1_name",
+    "description" : "explore_battlebuff_crazy_scientist_skill_replica_1_description"
+  }, {
+    "id" : "explore_battlebuff_equip_suit_1",
+    "effect_1_display" : "2",
+    "image" : "equip_suit",
+    "name" : "explore_battlebuff_equip_suit_1_name",
+    "description" : "explore_battlebuff_equip_suit_1_description"
+  }, {
+    "id" : "explore_battlebuff_equip_suit_2",
+    "effect_1_display" : "2",
+    "image" : "equip_suit",
+    "name" : "explore_battlebuff_equip_suit_2_name",
+    "description" : "explore_battlebuff_equip_suit_2_description"
+  }, {
+    "id" : "explore_battlebuff_equip_suit_3",
+    "effect_1_display" : "1",
+    "image" : "equip_suit",
+    "name" : "explore_battlebuff_equip_suit_3_name",
+    "description" : "explore_battlebuff_equip_suit_3_description"
+  }, {
+    "id" : "explore_battlebuff_equip_suit_4",
+    "effect_1_display" : "2",
+    "image" : "equip_suit",
+    "name" : "explore_battlebuff_equip_suit_4_name",
+    "description" : "explore_battlebuff_equip_suit_4_description"
+  }, {
+    "id" : "explore_battlebuff_talent_attack_3_1",
+    "effect_1_display" : "1",
+    "image" : "explore_battlebuff_talent_attack_3_1",
+    "name" : "explore_battlebuff_talent_attack_3_1_name",
+    "description" : "explore_battlebuff_talent_attack_3_1_description"
+  }, {
+    "id" : "explore_battlebuff_talent_hp_3_1",
+    "effect_1_display" : "1",
+    "image" : "explore_battlebuff_talent_hp_3_1",
+    "name" : "explore_battlebuff_talent_hp_3_1_name",
+    "description" : "explore_battlebuff_talent_hp_3_1_description"
+  } ]
+}

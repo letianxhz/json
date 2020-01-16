@@ -1,0 +1,1002 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "path" : "path@string",
+    "description_pm" : "description_pm@string^p"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "path" : "路径",
+    "description_pm" : "描述"
+  }, {
+    "id" : "bgm_city",
+    "path" : "Audio/BGM/m_city",
+    "description_pm" : "城市背景音乐"
+  }, {
+    "id" : "bgm_kingdom",
+    "path" : "Audio/BGM/m_field",
+    "description_pm" : "Kingdom背景音乐"
+  }, {
+    "id" : "bgm_city_on_fire",
+    "path" : "Audio/BGM/m_incoming",
+    "description_pm" : "城市被攻打"
+  }, {
+    "id" : "bgm_loading",
+    "path" : "Audio/BGM/sfx_logo_loading",
+    "description_pm" : "loading"
+  }, {
+    "id" : "sfx_ui_click",
+    "path" : "Audio/SFX/city_click",
+    "description_pm" : "基础Click"
+  }, {
+    "id" : "sfx_ui_reward",
+    "path" : "Audio/SFX/ui_reward",
+    "description_pm" : "收取奖励"
+  }, {
+    "id" : "sfx_ui_levelup",
+    "path" : "Audio/SFX/ui_levelup",
+    "description_pm" : "升级"
+  }, {
+    "id" : "sfx_ui_comfirm",
+    "path" : "Audio/SFX/world_atcbutton",
+    "description_pm" : "确认按钮"
+  }, {
+    "id" : "sfx_ui_cancel",
+    "path" : "Audio/SFX/ui_cancle",
+    "description_pm" : "取消按钮"
+  }, {
+    "id" : "sfx_building_begin",
+    "path" : "Audio/SFX/city_build",
+    "description_pm" : "建筑升级开始"
+  }, {
+    "id" : "sfx_building_complete",
+    "path" : "Audio/SFX/city_complete",
+    "description_pm" : "建筑建造、升级完成"
+  }, {
+    "id" : "sfx_city_click_stronghold",
+    "path" : "Audio/SFX/city_castle",
+    "description_pm" : "城内建筑选中（以下↓）"
+  }, {
+    "id" : "sfx_city_click_university",
+    "path" : "Audio/SFX/city_college"
+  }, {
+    "id" : "sfx_city_click_barracks",
+    "path" : "Audio/SFX/city_barrack"
+  }, {
+    "id" : "sfx_city_click_stables",
+    "path" : "Audio/SFX/city_stable"
+  }, {
+    "id" : "sfx_city_click_range",
+    "path" : "Audio/SFX/city_range"
+  }, {
+    "id" : "sfx_city_click_sanctum",
+    "path" : "Audio/SFX/city_military"
+  }, {
+    "id" : "sfx_city_click_workshop",
+    "path" : "Audio/SFX/city_chariot"
+  }, {
+    "id" : "sfx_city_click_hall_of_war",
+    "path" : "Audio/SFX/city_hall"
+  }, {
+    "id" : "sfx_city_click_hospital",
+    "path" : "Audio/SFX/city_hospital"
+  }, {
+    "id" : "sfx_city_click_embassy",
+    "path" : "Audio/SFX/city_embassy"
+  }, {
+    "id" : "sfx_city_click_wall",
+    "path" : "Audio/SFX/city_walls"
+  }, {
+    "id" : "sfx_city_click_watchtower",
+    "path" : "Audio/SFX/city_watchtower"
+  }, {
+    "id" : "sfx_city_click_merchant_guild",
+    "path" : "Audio/SFX/city_market"
+  }, {
+    "id" : "sfx_city_click_parade_ground",
+    "path" : "Audio/SFX/city_drill"
+  }, {
+    "id" : "sfx_city_click_storehouse",
+    "path" : "Audio/SFX/city_depot"
+  }, {
+    "id" : "sfx_city_hero_altar",
+    "path" : "Audio/SFX/city_hero_altar"
+  }, {
+    "id" : "sfx_city_click_forge",
+    "path" : "Audio/SFX/city_blacksmith"
+  }, {
+    "id" : "sfx_city_click_trap_factory",
+    "path" : "Audio/SFX/city_trap_factory"
+  }, {
+    "id" : "sfx_city_click_trading_post",
+    "path" : "Audio/SFX/city_trading_post",
+    "description_pm" : "城内建筑选中（以上↑）"
+  }, {
+    "id" : "sfx_city_research",
+    "path" : "Audio/SFX/city_research"
+  }, {
+    "id" : "sfx_rural_click_farm",
+    "path" : "Audio/SFX/city_farm",
+    "description_pm" : "城外建筑选中（以下↓）"
+  }, {
+    "id" : "sfx_rural_click_sawmill",
+    "path" : "Audio/SFX/city_wood"
+  }, {
+    "id" : "sfx_rural_click_mine",
+    "path" : "Audio/SFX/city_iron"
+  }, {
+    "id" : "sfx_rural_click_house",
+    "path" : "Audio/SFX/city_mithril"
+  }, {
+    "id" : "sfx_rural_click_military_tent",
+    "path" : "Audio/SFX/city_military_tent"
+  }, {
+    "id" : "sfx_rural_unlock_rural_area",
+    "path" : "Audio/SFX/city_unlock_rural_area"
+  }, {
+    "id" : "sfx_rural_locked_rural_area",
+    "path" : "Audio/SFX/city_locked_rural_area"
+  }, {
+    "id" : "sfx_rural_collect_farm",
+    "path" : "Audio/SFX/city_farm_collect"
+  }, {
+    "id" : "sfx_rural_collect_sawmill",
+    "path" : "Audio/SFX/city_wood_collect"
+  }, {
+    "id" : "sfx_rural_collect_mine",
+    "path" : "Audio/SFX/city_iron_collect"
+  }, {
+    "id" : "sfx_rural_collect_house",
+    "path" : "Audio/SFX/city_mithril_collect"
+  }, {
+    "id" : "sfx_rural_deconstruct",
+    "path" : "Audio/SFX/city_deconstruct"
+  }, {
+    "id" : "sfx_rural_resource_boost",
+    "path" : "Audio/SFX/city_resource_boost",
+    "description_pm" : "城外建筑选中（以上↑）"
+  }, {
+    "id" : "sfx_alliance_help_request",
+    "path" : "Audio/SFX/city_alliance_help_request"
+  }, {
+    "id" : "sfx_switch_city_kingdom",
+    "path" : "Audio/SFX/ui_slide",
+    "description_pm" : "City/Kingdom切换"
+  }, {
+    "id" : "sfx_troop_training_start",
+    "path" : "Audio/SFX/city_train",
+    "description_pm" : "开始造兵/造攻城器械"
+  }, {
+    "id" : "sfx_troop_training_complete",
+    "path" : "Audio/SFX/harvest_soldier",
+    "description_pm" : "造完兵（自动播放提示）"
+  }, {
+    "id" : "sfx_hero_summoned",
+    "path" : "Audio/SFX/hero_summoned"
+  }, {
+    "id" : "sfx_harvest_barracks",
+    "path" : "Audio/SFX/harvest_infantry",
+    "description_pm" : "收取：造完兵、农田等（多）"
+  }, {
+    "id" : "sfx_harvest_stables",
+    "path" : "Audio/SFX/harvest_cavalryman"
+  }, {
+    "id" : "sfx_harvest_range",
+    "path" : "Audio/SFX/harvest_bowman"
+  }, {
+    "id" : "sfx_harvest_sanctum",
+    "path" : "Audio/SFX/harvest_light"
+  }, {
+    "id" : "sfx_harvest_workshop",
+    "path" : "Audio/SFX/harvest_chariot"
+  }, {
+    "id" : "sfx_harvest_forge",
+    "path" : "Audio/SFX/harvest_equipment"
+  }, {
+    "id" : "sfx_harvest_walls",
+    "path" : "Audio/SFX/harvest_walls"
+  }, {
+    "id" : "sfx_harvest_fortress",
+    "path" : "Audio/SFX/harvest_traps"
+  }, {
+    "id" : "sfx_harvest_farm",
+    "path" : "Audio/SFX/harvest_farm"
+  }, {
+    "id" : "sfx_harvest_sawmill",
+    "path" : "Audio/SFX/harvest_wood"
+  }, {
+    "id" : "sfx_harvest_mine",
+    "path" : "Audio/SFX/harvest_iron"
+  }, {
+    "id" : "sfx_harvest_house",
+    "path" : "Audio/SFX/harvest_mithril"
+  }, {
+    "id" : "sfx_harvest_timed_chest",
+    "path" : "Audio/SFX/harvest_timed_chest"
+  }, {
+    "id" : "sfx_city_click_space",
+    "path" : "Audio/SFX/city_details",
+    "description_pm" : "选中city/rural空地"
+  }, {
+    "id" : "sfx_kingdom_map_click_space",
+    "path" : "Audio/SFX/world_space",
+    "description_pm" : "选中资源点（多）/选中空地"
+  }, {
+    "id" : "sfx_kingdom_map_click_water",
+    "path" : "Audio/SFX/world_water"
+  }, {
+    "id" : "sfx_kingdom_map_click_rock",
+    "path" : "Audio/SFX/world_rock"
+  }, {
+    "id" : "sfx_kingdom_map_click_city",
+    "path" : "Audio/SFX/world_city"
+  }, {
+    "id" : "sfx_march_attacking",
+    "path" : "Audio/SFX/world_attack",
+    "description_pm" : "进攻（PVP、PVE）"
+  }, {
+    "id" : "sfx_march_begin",
+    "path" : "Audio/SFX/world_march",
+    "description_pm" : "March开始"
+  }, {
+    "id" : "sfx_march_resources",
+    "path" : "Audio/SFX/world_march_resources"
+  }, {
+    "id" : "sfx_march_arrive",
+    "path" : "Audio/SFX/world_march_arrive",
+    "description_pm" : "March抵达"
+  }, {
+    "id" : "sfx_march_returned",
+    "path" : "Audio/SFX/world_march_return",
+    "description_pm" : "march回到city"
+  }, {
+    "id" : "sfx_march_speed_up",
+    "path" : "Audio/SFX/world_march_speed_up"
+  }, {
+    "id" : "sfx_kingdom_click_player_attack",
+    "path" : "Audio/SFX/world_player_attack",
+    "description_pm" : "Button click: kingdom_city_player_attack"
+  }, {
+    "id" : "sfx_kingdom_scout_begin",
+    "path" : "Audio/SFX/world_scout_begin"
+  }, {
+    "id" : "sfx_kingdom_scout_arrive",
+    "path" : "Audio/SFX/world_scout_begin"
+  }, {
+    "id" : "sfx_kingdom_scout_return",
+    "path" : "Audio/SFX/world_scout_return"
+  }, {
+    "id" : "sfx_teleport",
+    "path" : "Audio/SFX/teleport",
+    "description_pm" : "teleport"
+  }, {
+    "id" : "sfx_claim",
+    "path" : "Audio/SFX/ui_claim",
+    "description_pm" : "claim"
+  }, {
+    "description_pm" : "alliance"
+  }, {
+    "id" : "sfx_monster_click_goblin",
+    "path" : "Audio/SFX/world_monster_goblin"
+  }, {
+    "id" : "sfx_monster_click_lizard",
+    "path" : "Audio/SFX/world_monster_lizard"
+  }, {
+    "id" : "sfx_monster_click_cyclops",
+    "path" : "Audio/SFX/world_monster_cyclops"
+  }, {
+    "id" : "sfx_monster_click_dragon",
+    "path" : "Audio/SFX/world_monster_dragon"
+  }, {
+    "id" : "sfx_city_click_wishing_well",
+    "path" : "Audio/SFX/city_wishing_well"
+  }, {
+    "id" : "sfx_city_make_wish",
+    "path" : "Audio/SFX/city_make_wish"
+  }, {
+    "id" : "sfx_ui_signin",
+    "path" : "Audio/SFX/ui_signin"
+  }, {
+    "id" : "sfx_city_click_signin_rewards",
+    "path" : "Audio/SFX/city_signin_rewards"
+  }, {
+    "id" : "sfx_city_wish_food",
+    "path" : "Audio/SFX/city_wish_food"
+  }, {
+    "id" : "sfx_city_wish_wood",
+    "path" : "Audio/SFX/city_wish_wood"
+  }, {
+    "id" : "sfx_city_wish_silver",
+    "path" : "Audio/SFX/city_wish_silver"
+  }, {
+    "id" : "sfx_city_wish_ore",
+    "path" : "Audio/SFX/city_wish_ore"
+  }, {
+    "id" : "sfx_city_trading_post_refresh",
+    "path" : "Audio/SFX/city_trading_post_refresh"
+  }, {
+    "id" : "sfx_city_trading_post_buy",
+    "path" : "Audio/SFX/city_trading_post_buy"
+  }, {
+    "id" : "sfx_city_dragon_skill_upgrade",
+    "path" : "Audio/SFX/city_dragon_skill_upgrade"
+  }, {
+    "id" : "sfx_city_dragon_skill_reset_all",
+    "path" : "Audio/SFX/city_dragon_skill_reset_all"
+  }, {
+    "id" : "sfx_harvest_dragon_egg",
+    "path" : "Audio/SFX/harvest_dragon_egg"
+  }, {
+    "id" : "sfx_item_dragon_power_buy",
+    "path" : "Audio/SFX/item_dragon_power_buy"
+  }, {
+    "id" : "sfx_city_dragon_skill_assign",
+    "path" : "Audio/SFX/city_dragon_skill_assign"
+  }, {
+    "id" : "sfx_lord_talent_unlock",
+    "path" : "audio/sfx/ui_lord_talent_unlock"
+  }, {
+    "id" : "sfx_item_buy",
+    "path" : "Audio/SFX/item_buy"
+  }, {
+    "id" : "bgm_loading2",
+    "path" : "Audio/BGM/m_loading"
+  }, {
+    "id" : "bgm_city2",
+    "path" : "Audio/BGM/m_city"
+  }, {
+    "id" : "bgm_kingdom2",
+    "path" : "Audio/BGM/m_kingdom"
+  }, {
+    "id" : "sfx_monster_click_dog",
+    "path" : "Audio/SFX/world_monster_dog"
+  }, {
+    "id" : "sfx_monster_click_wolf",
+    "path" : "Audio/SFX/world_monster_wolf"
+  }, {
+    "id" : "sfx_city_click_tavern",
+    "path" : "Audio/SFX/city_tavern"
+  }, {
+    "id" : "sfx_city_click_event_center",
+    "path" : "Audio/SFX/city_event_center"
+  }, {
+    "id" : "sfx_gve_camp_click",
+    "path" : "Audio/SFX/world_gve_camp"
+  }, {
+    "id" : "sfx_ui_dragon_levelup",
+    "path" : "Audio/SFX/ui_dragon_levelup"
+  }, {
+    "id" : "sfx_mail_reward",
+    "path" : "Audio/SFX/ui_mail_reward"
+  }, {
+    "id" : "sfx_item_use",
+    "path" : "Audio/SFX/item_use"
+  }, {
+    "id" : "sfx_city_daily_activity_reward",
+    "path" : "Audio/SFX/city_daily_activity_reward"
+  }, {
+    "id" : "bgm_opening",
+    "path" : "Audio/BGM/m_opening"
+  }, {
+    "id" : "sfx_intro_attack",
+    "path" : "Audio/SFX/intro_attack"
+  }, {
+    "id" : "sfx_city_casino_spin",
+    "path" : "Audio/SFX/city_casino_spin"
+  }, {
+    "id" : "sfx_city_casino_shuffle",
+    "path" : "Audio/SFX/city_casino_shuffle"
+  }, {
+    "id" : "sfx_city_casino_turn",
+    "path" : "Audio/SFX/city_casino_turn"
+  }, {
+    "id" : "sfx_monster_click_event_white_knight",
+    "path" : "Audio/SFX/world_monster_event_white_knight"
+  }, {
+    "id" : "sfx_kingdom_map_click_alliance_fort",
+    "path" : "Audio/SFX/world_alliance_fort"
+  }, {
+    "id" : "sfx_kingdom_map_click_alliance_portal",
+    "path" : "Audio/SFX/world_alliance_portal"
+  }, {
+    "id" : "sfx_city_vault_open",
+    "path" : "Audio/SFX/city_vault_open"
+  }, {
+    "id" : "sfx_city_vault_close",
+    "path" : "Audio/SFX/city_vault_close"
+  }, {
+    "id" : "sfx_city_vault_in_use",
+    "path" : "Audio/SFX/city_vault_in_use"
+  }, {
+    "id" : "sfx_city_vault_withdraw",
+    "path" : "Audio/SFX/city_vault_withdraw"
+  }, {
+    "id" : "sfx_city_jackpot_start",
+    "path" : "Audio/SFX/city_jackpot_start"
+  }, {
+    "id" : "sfx_city_jackpot_item",
+    "path" : "Audio/SFX/city_jackpot_item"
+  }, {
+    "id" : "sfx_city_jackpot_item_special",
+    "path" : "Audio/SFX/city_jackpot_item_special"
+  }, {
+    "id" : "sfx_city_jackpot_win",
+    "path" : "Audio/SFX/city_jackpot_win"
+  }, {
+    "id" : "sfx_city_jackpot_win_special",
+    "path" : "Audio/SFX/city_jackpot_win_special"
+  }, {
+    "id" : "sfx_kingdom_map_click_alliance_altar",
+    "path" : "Audio/SFX/world_alliance_altar"
+  }, {
+    "id" : "sfx_alliance_altar_cast_spell",
+    "path" : "Audio/SFX/alliance_altar_cast_spell"
+  }, {
+    "id" : "sfx_kingdom_map_click_wonder",
+    "path" : "Audio/SFX/world_wonder"
+  }, {
+    "id" : "sfx_kingdom_map_click_miniwonder",
+    "path" : "Audio/SFX/world_miniwonder"
+  }, {
+    "id" : "sfx_kingdom_miniwonder_fire_attack",
+    "path" : "Audio/SFX/world_miniwonder_fire_attack"
+  }, {
+    "id" : "sfx_kingdom_wonder_fire_receive",
+    "path" : "Audio/SFX/world_wonder_fire_receive"
+  }, {
+    "id" : "sfx_kingdom_miniwonder_lightning_attack",
+    "path" : "Audio/SFX/world_miniwonder_lightning_attack"
+  }, {
+    "id" : "sfx_kingdom_wonder_lightning_receive",
+    "path" : "Audio/SFX/world_wonder_lightning_receive"
+  }, {
+    "id" : "sfx_monster_click_event_vampire",
+    "path" : "Audio/SFX/world_monster_event_vampire"
+  }, {
+    "id" : "sfx_dragon_knight_summon_spirit",
+    "path" : "Audio/SFX/dragon_knight_summon_spirit"
+  }, {
+    "id" : "sfx_dragon_knight_standard_atk_1",
+    "path" : "Audio/SFX/dragon_knight_standard_atk_1"
+  }, {
+    "id" : "sfx_dragon_knight_monster_atk_1",
+    "path" : "Audio/SFX/dragon_knight_monster_atk_1"
+  }, {
+    "id" : "sfx_dragon_knight_monster_death_1",
+    "path" : "Audio/SFX/dragon_knight_monster_death_1"
+  }, {
+    "id" : "sfx_dragon_knight_beserker_skill_1",
+    "path" : "Audio/SFX/dragon_knight_beserker_skill_1"
+  }, {
+    "id" : "sfx_dragon_knight_beserker_skill_2",
+    "path" : "Audio/SFX/dragon_knight_beserker_skill_2"
+  }, {
+    "id" : "sfx_dragon_knight_knight_skill_1",
+    "path" : "Audio/SFX/dragon_knight_knight_skill_1"
+  }, {
+    "id" : "sfx_dragon_knight_knight_skill_2",
+    "path" : "Audio/SFX/dragon_knight_knight_skill_2"
+  }, {
+    "id" : "sfx_dragon_knight_mage_skill_1",
+    "path" : "Audio/SFX/dragon_knight_mage_skill_1"
+  }, {
+    "id" : "sfx_dragon_knight_mage_skill_2",
+    "path" : "Audio/SFX/dragon_knight_mage_skill_2"
+  }, {
+    "id" : "bgm_dungeon",
+    "path" : "Audio/BGM/m_dungeon"
+  }, {
+    "id" : "sfx_dragon_knight_move",
+    "path" : "Audio/SFX/dragon_knight_move"
+  }, {
+    "id" : "sfx_dragon_knight_battle_room",
+    "path" : "Audio/SFX/dragon_knight_battle_room"
+  }, {
+    "id" : "sfx_dragon_knight_battle_boss",
+    "path" : "Audio/SFX/dragon_knight_battle_boss"
+  }, {
+    "id" : "sfx_dragon_knight_floor_exit",
+    "path" : "Audio/SFX/dragon_knight_floor_exit"
+  }, {
+    "id" : "sfx_dragon_knight_open_chest",
+    "path" : "Audio/SFX/dragon_knight_open_chest"
+  }, {
+    "id" : "sfx_city_click_dragon_knight_chamber",
+    "path" : "Audio/SFX/city_dragon_knight_chamber"
+  }, {
+    "id" : "sfx_city_click_dragon_knight_cave",
+    "path" : "Audio/SFX/city_dragon_knight_cave"
+  }, {
+    "id" : "sfx_dragon_knight_activate_skill",
+    "path" : "Audio/SFX/dragon_knight_activate_skill"
+  }, {
+    "id" : "sfx_dragon_knight_monster_rhino_atk",
+    "path" : "Audio/SFX/dragon_knight_monster_rhino_atk"
+  }, {
+    "id" : "sfx_dragon_knight_monster_wolf_atk",
+    "path" : "Audio/SFX/dragon_knight_monster_wolf_atk"
+  }, {
+    "id" : "sfx_dragon_knight_monster_dog_atk",
+    "path" : "Audio/SFX/dragon_knight_monster_dog_atk"
+  }, {
+    "id" : "sfx_dragon_knight_monster_death_2",
+    "path" : "Audio/SFX/dragon_knight_monster_death_2"
+  }, {
+    "id" : "sfx_monster_click_event_cny",
+    "path" : "Audio/SFX/world_monster_click_event_cny"
+  }, {
+    "id" : "sfx_city_gemstone_refine",
+    "path" : "Audio/SFX/city_gemstone_refine"
+  }, {
+    "id" : "sfx_city_gemstone_embed",
+    "path" : "Audio/SFX/city_gemstone_embed"
+  }, {
+    "id" : "sfx_city_gemstone_reclaim",
+    "path" : "Audio/SFX/city_gemstone_reclaim"
+  }, {
+    "id" : "sfx_city_gemstone_destroy",
+    "path" : "Audio/SFX/city_gemstone_destroy"
+  }, {
+    "id" : "sfx_city_lucky_archer_shot",
+    "path" : "Audio/SFX/city_lucky_archer_shot"
+  }, {
+    "id" : "sfx_dragon_knight_monster_lizard_atk",
+    "path" : "Audio/SFX/dk_lizard_atk"
+  }, {
+    "id" : "sfx_dragon_knight_monster_lizard_death",
+    "path" : "Audio/SFX/dk_lizard_death"
+  }, {
+    "id" : "sfx_dragon_knight_monster_fat_atk",
+    "path" : "Audio/SFX/dk_fat_atk"
+  }, {
+    "id" : "sfx_dragon_knight_monster_fat_death",
+    "path" : "Audio/SFX/dk_fat_death"
+  }, {
+    "id" : "sfx_dragon_knight_monster_3head_atk",
+    "path" : "Audio/SFX/dk_3head_atk"
+  }, {
+    "id" : "sfx_dragon_knight_monster_3head_death",
+    "path" : "Audio/SFX/dk_3head_death"
+  }, {
+    "id" : "sfx_city_click_hero_council",
+    "path" : "Audio/SFX/city_hero_council"
+  }, {
+    "id" : "sfx_city_hero_summon",
+    "path" : "Audio/SFX/city_hero_summon"
+  }, {
+    "id" : "sfx_city_hero_appoint",
+    "path" : "Audio/SFX/city_hero_appoint"
+  }, {
+    "id" : "sfx_city_hero_dismiss",
+    "path" : "Audio/SFX/city_hero_dismiss"
+  }, {
+    "id" : "sfx_dragon_knight_pvp_win",
+    "path" : "Audio/SFX/dragon_knight_pvp_win"
+  }, {
+    "id" : "sfx_dragon_knight_pvp_lose",
+    "path" : "Audio/SFX/dragon_knight_pvp_lose"
+  }, {
+    "id" : "sfx_city_dice_roll",
+    "path" : "Audio/SFX/city_dice_roll"
+  }, {
+    "id" : "sfx_monster_click_boss_golem",
+    "path" : "Audio/SFX/world_monster_boss_golem"
+  }, {
+    "id" : "sfx_city_click_merlin_trial",
+    "path" : "Audio/SFX/city_merlin_trial"
+  }, {
+    "id" : "sfx_opening_1_troops",
+    "path" : "Audio/SFX/sfx_opening_1_troops"
+  }, {
+    "id" : "sfx_opening_2_tanks",
+    "path" : "Audio/SFX/sfx_opening_2_tanks"
+  }, {
+    "id" : "sfx_opening_3_airship",
+    "path" : "Audio/SFX/sfx_opening_3_airship"
+  }, {
+    "id" : "sfx_opening_4_airship_fire",
+    "path" : "Audio/SFX/sfx_opening_4_airship_fire"
+  }, {
+    "id" : "sfx_opening_5_zombies",
+    "path" : "Audio/SFX/sfx_opening_5_zombies"
+  }, {
+    "id" : "sfx_opening_dialog_1",
+    "path" : "Audio/SFX/sfx_opening_dialog_1"
+  }, {
+    "id" : "sfx_opening_dialog_2",
+    "path" : "Audio/SFX/sfx_opening_dialog_2"
+  }, {
+    "id" : "sfx_opening_dialog_3",
+    "path" : "Audio/SFX/sfx_opening_dialog_3"
+  }, {
+    "id" : "sfx_opening_dialog_4",
+    "path" : "Audio/SFX/sfx_opening_dialog_4"
+  }, {
+    "id" : "sfx_opening_dialog_5",
+    "path" : "Audio/SFX/sfx_opening_dialog_5"
+  }, {
+    "id" : "sfx_dk_new_boss_1_atk",
+    "path" : "Audio/SFX/dk_new_boss_1_atk"
+  }, {
+    "id" : "sfx_dk_new_boss_1_death",
+    "path" : "Audio/SFX/dk_new_boss_1_death"
+  }, {
+    "id" : "sfx_dk_new_boss_2_atk",
+    "path" : "Audio/SFX/dk_new_boss_2_atk"
+  }, {
+    "id" : "sfx_dk_new_boss_2_death",
+    "path" : "Audio/SFX/dk_new_boss_2_death"
+  }, {
+    "id" : "sfx_dk_new_boss_3_atk",
+    "path" : "Audio/SFX/dk_new_boss_3_atk"
+  }, {
+    "id" : "sfx_dk_new_boss_3_death",
+    "path" : "Audio/SFX/dk_new_boss_3_death"
+  }, {
+    "id" : "sfx_dk_new_boss_4_atk",
+    "path" : "Audio/SFX/dk_new_boss_4_atk"
+  }, {
+    "id" : "sfx_dk_new_boss_4_death",
+    "path" : "Audio/SFX/dk_new_boss_4_death"
+  }, {
+    "id" : "sfx_dk_new_boss_5_atk",
+    "path" : "Audio/SFX/dk_new_boss_5_atk"
+  }, {
+    "id" : "sfx_dk_new_boss_5_death",
+    "path" : "Audio/SFX/dk_new_boss_5_death"
+  }, {
+    "id" : "sfx_opening_new_battle_1",
+    "path" : "Audio/SFX/sfx_opening_new_battle_1"
+  }, {
+    "id" : "sfx_opening_new_battle_2",
+    "path" : "Audio/SFX/sfx_opening_new_battle_2"
+  }, {
+    "id" : "sfx_opening_new_battle_3",
+    "path" : "Audio/SFX/sfx_opening_new_battle_3"
+  }, {
+    "id" : "sfx_opening_new_battle_4",
+    "path" : "Audio/SFX/sfx_opening_new_battle_4"
+  }, {
+    "id" : "sfx_opening_dialog_new_1",
+    "path" : "Audio/SFX/sfx_opening_dialog_new_1"
+  }, {
+    "id" : "sfx_opening_dialog_new_2",
+    "path" : "Audio/SFX/sfx_opening_dialog_new_2"
+  }, {
+    "id" : "sfx_opening_dialog_new_3",
+    "path" : "Audio/SFX/sfx_opening_dialog_new_3"
+  }, {
+    "id" : "sfx_opening_dialog_new_4",
+    "path" : "Audio/SFX/sfx_opening_dialog_new_4"
+  }, {
+    "id" : "sfx_opening_dialog_new_5",
+    "path" : "Audio/SFX/sfx_opening_dialog_new_5"
+  }, {
+    "id" : "sfx_opening_dialog_new_6",
+    "path" : "Audio/SFX/sfx_opening_dialog_new_6"
+  }, {
+    "id" : "sfx_opening_new_button",
+    "path" : "Audio/SFX/sfx_opening_new_button"
+  }, {
+    "id" : "sfx_dragon_knight_floor_complete",
+    "path" : "Audio/SFX/dragon_knight_floor_complete"
+  }, {
+    "id" : "sfx_dragon_knight_monster_atk_2",
+    "path" : "Audio/SFX/dragon_knight_monster_atk_2"
+  }, {
+    "id" : "sfx_monster_click_dark_dragon",
+    "path" : "Audio/SFX/world_monster_dark_dragon"
+  }, {
+    "id" : "sfx_he_monster_boss_1_atk",
+    "path" : "Audio/SFX/he_monster_boss_1_atk",
+    "description_pm" : "boss攻击音效"
+  }, {
+    "id" : "sfx_he_monster_enemy_1_atk",
+    "path" : "Audio/SFX/he_monster_enemy_1_atk",
+    "description_pm" : "敌人小兵攻击音效"
+  }, {
+    "id" : "sfx_he_hero_fire_1_atk",
+    "path" : "Audio/SFX/he_hero_fire_1_atk",
+    "description_pm" : "我方开火音效"
+  }, {
+    "id" : "sfx_he_all_miss_1_atk",
+    "path" : "Audio/SFX/he_all_miss_1_atk",
+    "description_pm" : "通用攻击miss音效"
+  }, {
+    "id" : "sfx_he_skill_cure_1_atk",
+    "path" : "Audio/SFX/he_skill_cure_1_atk",
+    "description_pm" : "英雄技能治疗音效"
+  }, {
+    "id" : "sfx_he_skill_sniping_1_atk",
+    "path" : "Audio/SFX/he_skill_sniping_1_atk",
+    "description_pm" : "英雄技能精准打击音效"
+  }, {
+    "id" : "sfx_he_skill_airraid_1_atk",
+    "path" : "Audio/SFX/he_skill_airraid_1_atk",
+    "description_pm" : "英雄技能空袭音效"
+  }, {
+    "id" : "sfx_he_skill_flash_1_atk",
+    "path" : "Audio/SFX/he_skill_flash_1_atk",
+    "description_pm" : "英雄技能闪光弹音效"
+  }, {
+    "id" : "sfx_he_UI_talent_1_open",
+    "path" : "Audio/SFX/he_UI_talent_1_open",
+    "description_pm" : "天赋界面打开音效"
+  }, {
+    "id" : "sfx_he_UI_talent_1_Lvup",
+    "path" : "Audio/SFX/he_UI_talent_1_Lvup",
+    "description_pm" : "天赋升级成功音效"
+  }, {
+    "id" : "sfx_he_UI_equipment_1_open",
+    "path" : "Audio/SFX/he_UI_equipment_1_open",
+    "description_pm" : "装备界面打开音效"
+  }, {
+    "id" : "sfx_he_UI_equipment_1_get",
+    "path" : "Audio/SFX/he_UI_equipment_1_get",
+    "description_pm" : "获得装备进包音效"
+  }, {
+    "id" : "sfx_he_UI_equipment_1_equip",
+    "path" : "Audio/SFX/he_UI_equipment_1_equip",
+    "description_pm" : "装备穿戴音效"
+  }, {
+    "id" : "sfx_he_UI_settlement_1_start",
+    "path" : "Audio/SFX/he_UI_settlement_1_start",
+    "description_pm" : "结算界面开启音效"
+  }, {
+    "id" : "sfx_he_item_attack_1_click",
+    "path" : "Audio/SFX/he_item_attack_1_click",
+    "description_pm" : "拾取加攻击道具音效"
+  }, {
+    "id" : "sfx_he_item_health_1_click",
+    "path" : "Audio/SFX/he_item_health_1_click",
+    "description_pm" : "拾取加生命道具音效"
+  }, {
+    "id" : "sfx_he_item_energy_1_click",
+    "path" : "Audio/SFX/he_item_energy_1_click",
+    "description_pm" : "拾取能量点道具音效"
+  }, {
+    "id" : "sfx_he_item_sourcebox_1_click",
+    "path" : "Audio/SFX/he_item_sourcebox_1_click",
+    "description_pm" : "拾取资源道具箱子音效"
+  }, {
+    "id" : "sfx_he_item_seniorbox_1_click",
+    "path" : "Audio/SFX/he_item_seniorbox_1_click",
+    "description_pm" : "拾取其他箱子音效"
+  }, {
+    "id" : "sfx_he_surface_tree_1_click",
+    "path" : "Audio/SFX/he_surface_tree_1_click",
+    "description_pm" : "点击清除森林地貌的音效"
+  }, {
+    "id" : "sfx_he_surface_building_1_click",
+    "path" : "Audio/SFX/he_surface_building_1_click",
+    "description_pm" : "点击清除建筑地貌的音效"
+  }, {
+    "id" : "sfx_explore_health_low_heartbeat",
+    "path" : "Audio/SFX/sfx_explore_health_low_heartbeat"
+  }, {
+    "id" : "sfx_he_surface_door_1_go",
+    "path" : "Audio/SFX/he_surface_door_1_go",
+    "description_pm" : "离开本层时，直升机来"
+  }, {
+    "id" : "sfx_he_UI_stage_1_clear",
+    "path" : "Audio/SFX/he_UI_stage_1_clear",
+    "description_pm" : "完美通关"
+  }, {
+    "id" : "sfx_he_UI_rank_1_reset",
+    "path" : "Audio/SFX/he_UI_rank_1_reset",
+    "description_pm" : "重置军衔"
+  }, {
+    "id" : "sfx_he_item_key_1_click",
+    "path" : "Audio/SFX/he_item_key_1_click",
+    "description_pm" : "拾取过关信笺"
+  }, {
+    "id" : "sfx_he_monster_enemy_2_atk",
+    "path" : "Audio/SFX/he_monster_enemy_2_atk",
+    "description_pm" : "敌人坦克攻击音效"
+  }, {
+    "id" : "sfx_he_background_music_1_loop",
+    "path" : "Audio/SFX/he_background_music_1_loop",
+    "description_pm" : "探索关卡1背景音乐"
+  }, {
+    "id" : "sfx_he_battle_defeat",
+    "path" : "Audio/SFX/he_battle_defeat",
+    "description_pm" : "探索关卡战斗失败"
+  }, {
+    "id" : "sfx_he_Boss_alarm_1_begin",
+    "path" : "Audio/SFX/he_Boss_alarm_1_begin",
+    "description_pm" : "BOSS出现音效"
+  }, {
+    "id" : "sfx_he_Box_boss_1_open",
+    "path" : "Audio/SFX/he_Box_boss_1_open",
+    "description_pm" : "boss关开启宝箱的音效"
+  }, {
+    "id" : "bgm_explore",
+    "path" : "Audio/BGM/m_explore",
+    "description_pm" : "远征bgm"
+  }, {
+    "id" : "bgm_explore_boss",
+    "path" : "Audio/BGM/m_explore_boss",
+    "description_pm" : "远征bossbgm"
+  }, {
+    "id" : "sfx_he_monster_boss_2_skill",
+    "path" : "Audio/SFX/he_monster_boss_2_skill",
+    "description_pm" : "boss战争形态技能效果音效"
+  }, {
+    "id" : "sfx_he_monster_boss_change_form",
+    "path" : "Audio/SFX/he_monster_boss_change_form",
+    "description_pm" : "boss切换形态的音效"
+  }, {
+    "id" : "sfx_he_skill_hero_begin",
+    "path" : "Audio/SFX/he_skill_hero_begin"
+  }, {
+    "id" : "sfx_he_skill_airship_bombs_1_atk",
+    "path" : "Audio/SFX/he_skill_airship_bombs_1_atk"
+  }, {
+    "id" : "sfx_he_radar_scan_begin",
+    "path" : "Audio/SFX/he_radar_scan_begin"
+  }, {
+    "id" : "sfx_tutorial_truck_movement",
+    "path" : "Audio/SFX/tutorial_truck_movement"
+  }, {
+    "id" : "sfx_tutorial_truck_troops",
+    "path" : "Audio/SFX/tutorial_truck_troops"
+  }, {
+    "id" : "sfx_tutorial_airship_arrival",
+    "path" : "Audio/SFX/tutorial_airship_arrival"
+  }, {
+    "id" : "sfx_tutorial_rocket_launch",
+    "path" : "Audio/SFX/tutorial_rocket_launch"
+  }, {
+    "id" : "sfx_tutorial_rocket_explode",
+    "path" : "Audio/SFX/tutorial_rocket_explode"
+  }, {
+    "id" : "sfx_tutorial_tanks_enemy",
+    "path" : "Audio/SFX/tutorial_tanks_enemy"
+  }, {
+    "id" : "sfx_tutorial_landmine_explosion",
+    "path" : "Audio/SFX/tutorial_landmine_explosion"
+  }, {
+    "id" : "sfx_tutorial_battle_troops",
+    "path" : "Audio/SFX/tutorial_battle_troops"
+  }, {
+    "id" : "sfx_tutorial_battle_tanks",
+    "path" : "Audio/SFX/tutorial_battle_tanks"
+  }, {
+    "id" : "sfx_rural_unblock",
+    "path" : "Audio/SFX/rural_unblock"
+  }, {
+    "id" : "sfx_explore_click_sausage",
+    "path" : "Audio/SFX/explore_click_sausage"
+  }, {
+    "id" : "sfx_explore_click_fork",
+    "path" : "Audio/SFX/explore_click_fork"
+  }, {
+    "id" : "sfx_explore_click_bonfire",
+    "path" : "Audio/SFX/explore_click_bonfire"
+  }, {
+    "id" : "sfx_explore_boss_use_skill",
+    "path" : "Audio/SFX/explore_boss_use_skill"
+  }, {
+    "id" : "sfx_explore_boss_burn",
+    "path" : "Audio/SFX/explore_boss_burn"
+  }, {
+    "id" : "bgm_explore_midsummer",
+    "path" : "Audio/BGM/explore_midsummer"
+  }, {
+    "id" : "sfx_war_symphony_music_victory",
+    "path" : "Audio/SFX/sfx_war_symphony_music_victory",
+    "description_pm" : "胜利军号"
+  }, {
+    "id" : "sfx_war_symphony_music_loading",
+    "path" : "Audio/SFX/war_symphony_music_loading",
+    "description_pm" : "云层气流声"
+  }, {
+    "id" : "sfx_war_symphony_music_placetactics",
+    "path" : "Audio/SFX/war_symphony_music_placetactics",
+    "description_pm" : "放置战术"
+  }, {
+    "id" : "sfx_war_symphony_music_canceltactics",
+    "path" : "Audio/SFX/war_symphony_music_canceltactics",
+    "description_pm" : "撤销战术"
+  }, {
+    "id" : "sfx_war_symphony_music_openstorypopup",
+    "path" : "Audio/SFX/war_symphony_music_openstorypopup",
+    "description_pm" : "打开占领关卡故事弹窗"
+  }, {
+    "id" : "sfx_war_symphony_music_fighting",
+    "path" : "Audio/SFX/war_symphony_music_fighting",
+    "description_pm" : "战斗音效"
+  }, {
+    "id" : "sfx_war_symphony_music_openfolder",
+    "path" : "Audio/SFX/war_symphony_music_openfolder",
+    "description_pm" : "档案夹翻开"
+  }, {
+    "id" : "sfx_war_symphony_music_flipbook",
+    "path" : "Audio/SFX/war_symphony_music_flipbook",
+    "description_pm" : "翻书页"
+  }, {
+    "id" : "sfx_war_symphony_music_gettactics",
+    "path" : "Audio/SFX/war_symphony_music_gettactics",
+    "description_pm" : "获得新战术"
+  }, {
+    "id" : "sfx_war_symphony_music_occupytheater",
+    "path" : "Audio/SFX/war_symphony_music_occupytheater",
+    "description_pm" : "一级地块所属转移音效"
+  }, {
+    "id" : "bgm_war_symphony_music_theater_0",
+    "path" : "Audio/BGM/bgm_war_symphony_music_theater_0",
+    "description_pm" : "一级地图背景音乐"
+  }, {
+    "id" : "bgm_war_symphony_music_theater_1",
+    "path" : "Audio/BGM/bgm_war_symphony_music_theater_1",
+    "description_pm" : "第一战区背景音乐"
+  }, {
+    "id" : "bgm_war_symphony_music_theater_5",
+    "path" : "Audio/BGM/bgm_war_symphony_music_theater_5",
+    "description_pm" : "第五战区背景音乐"
+  }, {
+    "id" : "bgm_war_symphony_music_theater_2",
+    "path" : "Audio/BGM/bgm_war_symphony_music_theater_2",
+    "description_pm" : "第二、四战区背景音乐"
+  }, {
+    "id" : "bgm_war_symphony_music_theater_3",
+    "path" : "Audio/BGM/bgm_war_symphony_music_theater_3",
+    "description_pm" : "第三战区背景音乐"
+  }, {
+    "id" : "bgm_hurricane_action_music_theater",
+    "path" : "Audio/BGM/bgm_hurricane_action_music_theater",
+    "description_pm" : "射击抽奖界面bgm"
+  }, {
+    "id" : "sfx_hurricane_action_music_explode",
+    "path" : "Audio/SFX/sfx_hurricane_action_music_explode",
+    "description_pm" : "汽车行驶的声音"
+  }, {
+    "id" : "sfx_hurricane_action_music_car",
+    "path" : "Audio/SFX/sfx_hurricane_action_music_car",
+    "description_pm" : "炸弹爆炸的声音"
+  }, {
+    "id" : "sfx_hurricane_action_music_fly",
+    "path" : "Audio/SFX/sfx_hurricane_action_music_fly",
+    "description_pm" : "导弹飞行"
+  }, {
+    "id" : "sfx_war_symphony_music_attacking",
+    "path" : "Audio/SFX/war_symphony_music_attacking",
+    "description_pm" : "进攻部队攻击音效"
+  }, {
+    "id" : "sfx_war_symphony_music_unlocknewtheater",
+    "path" : "Audio/SFX/war_symphony_music_unlocknewtheater",
+    "description_pm" : "一块新的可攻打的敌人区域解锁的音效"
+  }, {
+    "id" : "sfx_war_symphony_music_tapmap",
+    "path" : "Audio/SFX/war_symphony_music_tapmap",
+    "description_pm" : "点击战区沙盘地区的音效"
+  }, {
+    "id" : "sfx_war_symphony_music_marching",
+    "path" : "Audio/SFX/war_symphony_music_marching",
+    "description_pm" : "进攻部队行军音效"
+  }, {
+    "id" : "sfx_war_symphony_music_fullyoccupy",
+    "path" : "Audio/SFX/war_symphony_music_fullyoccupy",
+    "description_pm" : "战区区域变化为完全占领区域时的音效"
+  }, {
+    "id" : "sfx_war_symphony_music_enemywarzone",
+    "path" : "Audio/SFX/war_symphony_music_enemywarzone",
+    "description_pm" : "点击敌军区域基地时的音效"
+  }, {
+    "id" : "sfx_war_symphony_music_enemyinvasion",
+    "path" : "Audio/SFX/war_symphony_music_enemyinvasion",
+    "description_pm" : "点击，查看敌军入侵的音效"
+  }, {
+    "id" : "sfx_war_symphony_music_edittactics",
+    "path" : "Audio/SFX/war_symphony_music_edittactics",
+    "description_pm" : "激活战术配置界面音效"
+  }, {
+    "id" : "sfx_war_symphony_music_collect",
+    "path" : "Audio/SFX/war_symphony_music_collect",
+    "description_pm" : "收取领地收益"
+  }, {
+    "id" : "sfx_war_symphony_music_closestory",
+    "path" : "Audio/SFX/war_symphony_music_closestory",
+    "description_pm" : "关闭战区档案音效"
+  } ]
+}

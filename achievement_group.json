@@ -1,0 +1,106 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "image" : "image@string^c",
+    "category" : "category@string",
+    "loc_name_id" : "loc_name_id@string^c",
+    "loc_description_id" : "loc_description_id@string^c"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "image" : "图片",
+    "category" : "类别",
+    "loc_name_id" : "名称多语言key",
+    "loc_description_id" : "描述多语言key"
+  }, {
+    "id" : "1",
+    "image" : "farm_l1",
+    "category" : "build",
+    "loc_name_id" : "achievement_farm_upgrade_name",
+    "loc_description_id" : "achievement_farm_upgrade_description"
+  }, {
+    "id" : "2",
+    "image" : "lumber_mill_l1",
+    "category" : "build",
+    "loc_name_id" : "achievement_sawmill_upgrade_name",
+    "loc_description_id" : "achievement_sawmill_upgrade_description"
+  }, {
+    "id" : "3",
+    "image" : "resource_l1",
+    "category" : "resource_collect",
+    "loc_name_id" : "achievement_gathering_name",
+    "loc_description_id" : "achievement_gathering_description"
+  }, {
+    "id" : "4",
+    "image" : "wish_well_l1",
+    "category" : "wish",
+    "loc_name_id" : "achievement_wish_well_name",
+    "loc_description_id" : "achievement_wish_well_description"
+  }, {
+    "id" : "5",
+    "image" : "heal_l1",
+    "category" : "cure_wounded",
+    "loc_name_id" : "achievement_heal_troops_name",
+    "loc_description_id" : "achievement_heal_troops_description"
+  }, {
+    "id" : "6",
+    "image" : "reinfroce_l1",
+    "category" : "pvp",
+    "loc_name_id" : "achievement_reinforcement_kill_name",
+    "loc_description_id" : "achievement_reinforcement_kill_description"
+  }, {
+    "id" : "7",
+    "image" : "rally_l1",
+    "category" : "pvp",
+    "loc_name_id" : "achievement_rally_leader_name",
+    "loc_description_id" : "achievement_rally_leader_description"
+  }, {
+    "id" : "8",
+    "image" : "stronghold_l1",
+    "category" : "build",
+    "loc_name_id" : "achievement_stronghold_name",
+    "loc_description_id" : "achievement_stronghold_description"
+  }, {
+    "id" : "9",
+    "image" : "teleport_l1",
+    "category" : "tele",
+    "loc_name_id" : "achievement_teleport_name",
+    "loc_description_id" : "achievement_teleport_description"
+  }, {
+    "id" : "11",
+    "image" : "research_l1",
+    "category" : "research",
+    "loc_name_id" : "achievement_research_name",
+    "loc_description_id" : "achievement_research_description"
+  }, {
+    "id" : "12",
+    "image" : "rob_resource_l1",
+    "category" : "resource",
+    "loc_name_id" : "achievement_loot_name",
+    "loc_description_id" : "achievement_loot_description"
+  }, {
+    "id" : "14",
+    "image" : "killed_l1",
+    "category" : "pvp",
+    "loc_name_id" : "achievement_troops_lost_name",
+    "loc_description_id" : "achievement_troops_lost_description"
+  }, {
+    "id" : "16",
+    "image" : "farm_l1",
+    "category" : "build",
+    "loc_name_id" : "achievement_farm_upgrade_name",
+    "loc_description_id" : "achievement_farm_upgrade_description"
+  }, {
+    "id" : "17",
+    "image" : "lumber_mill_l1",
+    "category" : "build",
+    "loc_name_id" : "achievement_sawmill_upgrade_name",
+    "loc_description_id" : "achievement_sawmill_upgrade_description"
+  }, {
+    "id" : "18",
+    "image" : "stronghold_l1",
+    "category" : "build",
+    "loc_name_id" : "achievement_stronghold_name",
+    "loc_description_id" : "achievement_stronghold_description"
+  } ]
+}

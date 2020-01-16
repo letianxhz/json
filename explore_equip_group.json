@@ -1,0 +1,70 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "equip_suit" : "equip_suit@explore_equip_suit.id"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "equip_suit" : "所属套装组"
+  }, {
+    "id" : "explore_item_equip_1_1",
+    "equip_suit" : "explore_item_equip_1"
+  }, {
+    "id" : "explore_item_equip_1_2",
+    "equip_suit" : "explore_item_equip_1"
+  }, {
+    "id" : "explore_item_equip_1_3",
+    "equip_suit" : "explore_item_equip_1"
+  }, {
+    "id" : "explore_item_equip_1_4",
+    "equip_suit" : "explore_item_equip_1"
+  }, {
+    "id" : "explore_item_equip_1_5",
+    "equip_suit" : "explore_item_equip_1"
+  }, {
+    "id" : "explore_item_equip_2_1",
+    "equip_suit" : "explore_item_equip_2"
+  }, {
+    "id" : "explore_item_equip_2_2",
+    "equip_suit" : "explore_item_equip_2"
+  }, {
+    "id" : "explore_item_equip_2_3",
+    "equip_suit" : "explore_item_equip_2"
+  }, {
+    "id" : "explore_item_equip_2_4",
+    "equip_suit" : "explore_item_equip_2"
+  }, {
+    "id" : "explore_item_equip_2_5",
+    "equip_suit" : "explore_item_equip_2"
+  }, {
+    "id" : "explore_item_equip_3_1",
+    "equip_suit" : "explore_item_equip_3"
+  }, {
+    "id" : "explore_item_equip_3_2",
+    "equip_suit" : "explore_item_equip_3"
+  }, {
+    "id" : "explore_item_equip_3_3",
+    "equip_suit" : "explore_item_equip_3"
+  }, {
+    "id" : "explore_item_equip_3_4",
+    "equip_suit" : "explore_item_equip_3"
+  }, {
+    "id" : "explore_item_equip_3_5",
+    "equip_suit" : "explore_item_equip_3"
+  }, {
+    "id" : "explore_item_equip_4_1",
+    "equip_suit" : "explore_item_equip_4"
+  }, {
+    "id" : "explore_item_equip_4_2",
+    "equip_suit" : "explore_item_equip_4"
+  }, {
+    "id" : "explore_item_equip_4_3",
+    "equip_suit" : "explore_item_equip_4"
+  }, {
+    "id" : "explore_item_equip_4_4",
+    "equip_suit" : "explore_item_equip_4"
+  }, {
+    "id" : "explore_item_equip_4_5",
+    "equip_suit" : "explore_item_equip_4"
+  } ]
+}

@@ -1,0 +1,40 @@
+{
+  "header" : {
+    "id" : "id@string",
+    "type" : "type@string",
+    "pay_id" : "pay_id@iap_special.id",
+    "open" : "open@int",
+    "open_condition" : "open_condition@string",
+    "condition_param" : "condition_param@string",
+    "total_gold" : "total_gold@int",
+    "count_down" : "count_down@int",
+    "virtual_price_ratio" : "virtual_price_ratio@string",
+    "analysis_group" : "analysis_group@string",
+    "analysis_category" : "analysis_category@string"
+  },
+  "rows" : [ {
+    "id" : "id",
+    "type" : "基金类型",
+    "pay_id" : "支付id",
+    "open" : "是否开放",
+    "open_condition" : "开放条件",
+    "condition_param" : "开放条件参数",
+    "total_gold" : "累计黄金数量",
+    "count_down" : "界面倒计时",
+    "virtual_price_ratio" : "虚拟价格系数",
+    "analysis_group" : "分析分组",
+    "analysis_category" : "分析类别"
+  }, {
+    "id" : "1",
+    "type" : "fund_city_level",
+    "pay_id" : "fund_city_level",
+    "open" : "1",
+    "open_condition" : "city_level",
+    "condition_param" : "15",
+    "total_gold" : "30000",
+    "count_down" : "604800",
+    "virtual_price_ratio" : "30",
+    "analysis_group" : "成长基金",
+    "analysis_category" : "成长基金"
+  } ]
+}
